@@ -1,6 +1,8 @@
 # 🏠 **Real Estate Price Prediction Analysis**
 
-## ![Team Logo](DALL·E 2024-12-17 20.06.37 - A single vibrant and colorful logo for 'Real Estate Price Prediction Analysis'. The logo features a house at the center with abstract skyscrapers, ris.webp)
+## ![Team Logo](# 🏠 **Real Estate Price Prediction Analysis**
+
+## ![Team Logo]()
 
 ## 🏡 **Project Overview**  
 This project focuses on analyzing historical real estate pricing data to forecast future trends. By leveraging factors like location, square footage, and market conditions, the goal is to provide valuable insights that can guide investment decisions and market understanding. Techniques include data scraping, cleaning, and visualization.
@@ -105,3 +107,5 @@ For questions or contributions, feel free to reach out to the team:
 - [ ]  
 - [ ]  
 - [ ]  
+)
+
