@@ -2,7 +2,7 @@
 
 ## ![Team Logo](# 🏠 **Real Estate Price Prediction Analysis**
 
-## ![Team Logo]()
+## ![Team Logo](project_logo.jpg)
 
 ## 🏡 **Project Overview**  
 This project focuses on analyzing historical real estate pricing data to forecast future trends. By leveraging factors like location, square footage, and market conditions, the goal is to provide valuable insights that can guide investment decisions and market understanding. Techniques include data scraping, cleaning, and visualization.
