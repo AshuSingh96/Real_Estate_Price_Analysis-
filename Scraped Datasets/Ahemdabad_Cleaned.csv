@@ -1,0 +1,1391 @@
+City,Locality,Property Type,Price,Furnishing Status,Number of Rooms,Number of Bathroom,Balcony,Clubhouse,Swimming Pool,"""Kids Play Areas""",Parking,Area (Sq.Ft.),Area Type,State
+Ahmedabad,Makarba,Residential,11500000,Furnished,3,3,Individual,0,0,0,2,1715.0,Built-up Area,Gujarat
+Ahmedabad,Makarba,Residential,6500000,Unfurnished,2,2,Connected,0,0,1,1,1050.0,Saleable Area,Gujarat
+Ahmedabad,Ambli Road,Residential,72100000,Semi-Furnished,5,5,Connected,0,0,0,4,4083.0,Carpet Area,Gujarat
+Ahmedabad,Shela,Residential,13000000,Unfurnished,5,5,Connected,0,0,1,4,3100.0,Built-up Area,Gujarat
+Ahmedabad,Bodakdev,Residential,15000000,Furnished,5,4,Room-attached,0,0,0,1,1800.0,Built-up Area,Gujarat
+Ahmedabad,Satellite,Residential,21600000,Semi-Furnished,3,3,Connected,0,0,0,2,2295.0,Built-up Area,Gujarat
+Ahmedabad,Gota,Residential,9943000,Unfurnished,3,3,Connected,0,0,1,2,2050.0,Saleable Area,Gujarat
+Ahmedabad,Bodakdev,Residential,24500000,Unfurnished,4,4,Connected,1,1,1,3,3492.0,Saleable Area,Gujarat
+Ahmedabad,Shela,Residential,20500000,Unfurnished,4,4,Connected,1,1,1,3,4130.0,Saleable Area,Gujarat
+Ahmedabad,Shyamal,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,1,927.0,Built-up Area,Gujarat
+Ahmedabad,Ellisbridge,Residential,23000000,Furnished,3,3,"Connected,Room-attached",0,0,0,3,2564.0,Saleable Area,Gujarat
+Ahmedabad,South Bopal,Residential,7500000,Unfurnished,3,3,Connected,0,0,0,1,1700.0,Built-up Area,Gujarat
+Ahmedabad,Shela,Residential,9000000,Furnished,3,3,Connected,0,0,0,2,786.0,Carpet Area,Gujarat
+Ahmedabad,Kolat,Residential,25500000,Unfurnished,3,3,Connected,1,1,1,0,12060.0,Plot Area,Gujarat
+Ahmedabad,Bopal,Residential,8000000,Semi-Furnished,3,3,Connected,0,0,0,2,790.0,Carpet Area,Gujarat
+Ahmedabad,South Bopal,Residential,13000000,Unfurnished,3,4,Connected,1,1,1,2,893.0,Carpet Area,Gujarat
+Ahmedabad,Wapa,Residential,9350000,Unfurnished,3,3,Connected,1,1,1,1,2200.0,Saleable Area,Gujarat
+Ahmedabad,Shela,Residential,7300000,Semi-Furnished,3,3,Connected,0,0,0,1,1436.0,Saleable Area,Gujarat
+Ahmedabad,Shela,Residential,13500000,Unfurnished,3,3,Connected,1,1,1,2,2740.0,Saleable Area,Gujarat
+Ahmedabad,Memnagar,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,970.0,Built-up Area,Gujarat
+Ahmedabad,Jagatpur,Residential,4500000,Unfurnished,2,2,Room-attached,0,0,0,2,5920.1449999999995,Carpet Area,Gujarat
+Ahmedabad,Ahmedabad Cantonment,Commercial,0,Furnished,0,0,"Connected,Individual",0,0,0,7,1901.0,Built-up Area,Gujarat
+Ahmedabad,Bopal,Residential,8800000,Furnished,3,3,Connected,0,0,0,2,1485.0,Built-up Area,Gujarat
+Ahmedabad,Bodakdev,Commercial,0,Unfurnished,0,0,Connected,0,0,0,1,871.0,Built-up Area,Gujarat
+Ahmedabad,Sindhubhavan,Commercial,0,Furnished,0,0,No Balcony,0,0,0,2,2524.0,Built-up Area,Gujarat
+Ahmedabad,Vastral,Residential,3400000,Furnished,2,2,Connected,0,0,0,2,850.0,Built-up Area,Gujarat
+Ahmedabad,Satellite,Residential,22500000,Furnished,3,3,"Connected,Room-attached",0,0,0,3,2100.0,Built-up Area,Gujarat
+Ahmedabad,Ellisbridge,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,1,1950.0,Built-up Area,Gujarat
+Ahmedabad,Naranpura,Residential,11500000,Unfurnished,3,3,Connected,1,0,1,1,2106.0,Carpet Area,Gujarat
+Ahmedabad,Naroda,Residential,5000000,Furnished,2,2,Room-attached,0,0,0,1,1323.0,Built-up Area,Gujarat
+Ahmedabad,Prahlad Nagar,Commercial,0,Furnished,0,0,No Balcony,0,0,0,8,1039.0,Built-up Area,Gujarat
+Ahmedabad,Naranpura,Residential,8894000,Unfurnished,3,3,Connected,0,0,0,1,1815.0,Built-up Area,Gujarat
+Ahmedabad,Shela,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,377.0,Built-up Area,Gujarat
+Ahmedabad,Ahmedabad Cantonment,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,7,364.0,Built-up Area,Gujarat
+Ahmedabad,Makarba,Commercial,0,Furnished,0,0,No Balcony,0,0,0,1,417.0,Built-up Area,Gujarat
+Ahmedabad,Hathijan,Residential,3500000,Furnished,3,2,"Connected,Individual,Room-attached",0,0,0,0,1700.0,Built-up Area,Gujarat
+Ahmedabad,Shilaj,Residential,27500000,Semi-Furnished,4,3,Individual,0,0,0,4,2098.0,Built-up Area,Gujarat
+Ahmedabad,Dholera,Residential,867000,Unfurnished,3,3,Connected,0,0,1,0,1578.0,Plot Area,Gujarat
+Ahmedabad,Shilaj,Residential,27500000,Semi-Furnished,4,2,Individual,0,0,0,4,2267.0,Built-up Area,Gujarat
+Ahmedabad,Dholera,Residential,957000,Unfurnished,3,3,Connected,0,0,1,0,1741.0,Plot Area,Gujarat
+Ahmedabad,Ahmedabad Cantonment,Residential,5200000,Unfurnished,2,2,Room-attached,0,0,1,2,1183.0,Built-up Area,Gujarat
+Ahmedabad,Chandkheda,Residential,11000000,Furnished,3,3,Individual,0,0,0,2,2097.0,Built-up Area,Gujarat
+Ahmedabad,South Bopal,Residential,7000000,Unfurnished,3,3,Individual,1,1,1,3,1750.0,Saleable Area,Gujarat
+Ahmedabad,Shela,Residential,7770000,Unfurnished,3,3,Connected,1,1,1,3,1850.0,Saleable Area,Gujarat
+Ahmedabad,Vasna,Residential,8500000,Furnished,3,2,Connected,0,0,0,1,935.0,Carpet Area,Gujarat
+Ahmedabad,Jagatpur,Residential,4000000,Unfurnished,1,2,Connected,0,0,0,1,900.0,Built-up Area,Gujarat
+Ahmedabad,Shela,Residential,7000000,Unfurnished,3,3,Connected,0,0,0,1,1506.0,Built-up Area,Gujarat
+Ahmedabad,Bopal,Residential,7350000,Unfurnished,3,3,Connected,1,1,1,2,1750.0,Saleable Area,Gujarat
+Ahmedabad,Ghuma,Residential,7175000,Unfurnished,3,3,Room-attached,1,1,1,3,1750.0,Saleable Area,Gujarat
+Ahmedabad,Nava Vadaj Road,Residential,18000000,Unfurnished,4,3,Individual,0,0,0,2,1503.0,Built-up Area,Gujarat
+Ahmedabad,Bapunagar,Residential,7000000,Semi-Furnished,3,3,Room-attached,0,0,1,4,100.0,Built-up Area,Gujarat
+Ahmedabad,South Bopal,Residential,7350000,Unfurnished,3,3,Room-attached,1,1,1,3,1750.0,Saleable Area,Gujarat
+Ahmedabad,Shela,Residential,5800000,Unfurnished,3,2,Room-attached,0,1,1,1,648.0,Carpet Area,Gujarat
+Ahmedabad,South Bopal,Residential,7350000,Unfurnished,3,1,Connected,1,1,1,3,1750.0,Saleable Area,Gujarat
+Ahmedabad,Dhandhuka,Residential,500000,Unfurnished,3,3,Connected,0,0,0,0,999.0,Plot Area,Gujarat
+Ahmedabad,Shela,Residential,8400000,Furnished,3,3,Connected,0,0,0,2,1481.0,Built-up Area,Gujarat
+Ahmedabad,Ranip,Residential,4300000,Furnished,2,2,Connected,0,0,0,2,1069.0,Saleable Area,Gujarat
+Ahmedabad,Thaltej,Residential,40000000,Unfurnished,3,3,Connected,0,0,0,5,3600.0,Built-up Area,Gujarat
+Ahmedabad,Vastrapur,Residential,4100000,Unfurnished,1,2,Connected,0,0,0,1,720.0,Built-up Area,Gujarat
+Ahmedabad,Dholera,Residential,888000,Unfurnished,3,3,Connected,0,0,0,0,1777.0,Plot Area,Gujarat
+Ahmedabad,Dholera,Residential,910000,Unfurnished,3,3,Connected,0,1,1,0,1260.0,Plot Area,Gujarat
+Ahmedabad,Dhandhuka,Residential,710000,Unfurnished,3,3,Connected,0,0,0,0,1421.0,Plot Area,Gujarat
+Ahmedabad,Thaltej,Residential,41000000,Semi-Furnished,3,4,Connected,0,0,0,2,5200.0,Built-up Area,Gujarat
+Ahmedabad,Dholera,Residential,2600000,Unfurnished,3,3,Connected,0,0,0,0,8550.0,Plot Area,Gujarat
+Ahmedabad,Ambawadi,Commercial,0,Semi-Furnished,0,0,Individual,0,0,0,5,3000.0,Built-up Area,Gujarat
+Ahmedabad,Shilaj,Residential,27500000,Semi-Furnished,4,3,Individual,0,0,0,5,2178.0,Built-up Area,Gujarat
+Ahmedabad,Dholera,Residential,678000,Unfurnished,3,3,Connected,0,0,1,0,1233.0,Plot Area,Gujarat
+Ahmedabad,Dhandhuka,Residential,509000,Unfurnished,3,3,Connected,0,0,0,0,1019.0,Plot Area,Gujarat
+Ahmedabad,Dholera,Residential,2500000,Unfurnished,3,3,Connected,0,0,0,0,8451.0,Plot Area,Gujarat
+Ahmedabad,Maninagar,Residential,20000000,Unfurnished,4,4,Connected,0,0,0,3,1800.0,Built-up Area,Gujarat
+Ahmedabad,Ambli,Residential,96000000,Unfurnished,5,5,Connected,0,0,0,3,8015.0,Built-up Area,Gujarat
+Ahmedabad,Anand Nagar,Residential,159640643,Unfurnished,3,3,Connected,0,0,0,0,879.0,Plot Area,Gujarat
+Ahmedabad,Gurukul,Residential,8000000,Furnished,3,2,Connected,0,0,0,0,1087.0,Carpet Area,Gujarat
+Ahmedabad,New Ranip,Residential,6200000,Semi-Furnished,2,2,Connected,0,0,0,2,1215.0,Built-up Area,Gujarat
+Ahmedabad,Anand Nagar,Residential,10500000,Furnished,3,3,Room-attached,0,0,0,2,1350.0,Built-up Area,Gujarat
+Ahmedabad,Dholera,Residential,555000,Unfurnished,3,3,Connected,0,0,0,0,1111.0,Plot Area,Gujarat
+Ahmedabad,South Bopal,Residential,8200000,Semi-Furnished,3,3,Connected,0,0,0,2,1000.0,Built-up Area,Gujarat
+Ahmedabad,Anand Nagar,Residential,159640643,Unfurnished,3,3,Connected,0,0,0,0,1231.0,Plot Area,Gujarat
+Ahmedabad,Prahlad Nagar,Commercial,0,Furnished,0,0,No Balcony,0,0,0,5,6300.0,Built-up Area,Gujarat
+Ahmedabad,New Ranip,Residential,4300000,Semi-Furnished,2,2,Room-attached,0,0,0,2,1062.0,Built-up Area,Gujarat
+Ahmedabad,New Vadaj,Residential,12300000,Furnished,3,3,Room-attached,0,0,0,2,2000.0,Built-up Area,Gujarat
+Ahmedabad,Dholera,Residential,2900000,Unfurnished,3,3,Connected,0,0,0,0,8955.0,Plot Area,Gujarat
+Ahmedabad,Zundal,Residential,6800000,Unfurnished,3,3,Individual,0,0,1,2,850.0,Carpet Area,Gujarat
+Ahmedabad,Shyamal,Residential,11000000,Furnished,3,3,Connected,0,0,0,2,1485.0,Built-up Area,Gujarat
+Ahmedabad,Science City,Commercial,0,Furnished,0,0,No Balcony,0,0,0,2,745.0,Built-up Area,Gujarat
+Ahmedabad,Dhandhuka,Residential,500000,Unfurnished,3,3,Connected,0,0,0,0,970.0,Plot Area,Gujarat
+Ahmedabad,Bodakdev,Residential,15000000,Furnished,3,3,Connected,0,0,0,2,2200.0,Built-up Area,Gujarat
+Ahmedabad,Shilaj,Residential,27600000,Furnished,4,3,Connected,0,0,0,0,2260.0,Built-up Area,Gujarat
+Ahmedabad,Gota,Residential,6500000,Furnished,2,2,Connected,0,0,0,1,1189.0,Built-up Area,Gujarat
+Ahmedabad,Dholera,Residential,1990000,Unfurnished,3,3,Connected,1,0,1,0,2700.0,Plot Area,Gujarat
+Ahmedabad,Nikol Kathwada,Residential,5999000,Unfurnished,3,3,Individual,0,0,0,2,1404.0,Built-up Area,Gujarat
+Ahmedabad,South Bopal,Residential,9500000,Semi-Furnished,3,3,Room-attached,0,0,0,3,1800.0,Built-up Area,Gujarat
+Ahmedabad,Bhadaj,Residential,77500000,Furnished,4,4,Connected,0,0,0,4,6876.0,Built-up Area,Gujarat
+Ahmedabad,New Ranip,Residential,4700000,Furnished,2,2,Connected,0,0,0,0,1035.0,Built-up Area,Gujarat
+Ahmedabad,Law Garden,Residential,25500000,Semi-Furnished,4,2,Connected,0,0,0,2,3525.0,Built-up Area,Gujarat
+Ahmedabad,Ahmedabad Cantonment,Residential,159640643,Unfurnished,3,3,Connected,0,0,0,0,957.0,Plot Area,Gujarat
+Ahmedabad,Navrangpura,Residential,22500000,Unfurnished,4,4,Connected,0,0,0,2,2929.0,Built-up Area,Gujarat
+Ahmedabad,Laxmanpura,Residential,374000000,Unfurnished,3,3,Connected,0,0,0,0,428400.0,Plot Area,Gujarat
+Ahmedabad,Dholera,Residential,159640643,Unfurnished,3,3,Connected,0,0,0,0,1419.0,Plot Area,Gujarat
+Ahmedabad,Zundal,Residential,7175000,Unfurnished,3,3,Individual,1,0,1,2,1845.0,Built-up Area,Gujarat
+Ahmedabad,Anand Nagar,Residential,159640643,Unfurnished,3,3,Connected,0,0,0,0,1299.0,Plot Area,Gujarat
+Ahmedabad,Dholera,Residential,2500000,Unfurnished,3,3,Connected,0,0,0,0,8640.0,Plot Area,Gujarat
+Ahmedabad,Thaltej,Residential,42000000,Furnished,4,4,Connected,0,0,0,2,4200.0,Built-up Area,Gujarat
+Ahmedabad,Dholera,Residential,159640643,Unfurnished,3,3,Connected,0,0,0,0,1000.0,Plot Area,Gujarat
+Ahmedabad,Shilaj,Residential,913700000,Unfurnished,3,3,Connected,0,0,0,0,96750.0,Plot Area,Gujarat
+Ahmedabad,C G Road,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,7254.0,Plot Area,Gujarat
+Ahmedabad,Manipur,Residential,912000000,Unfurnished,3,3,Connected,0,0,0,0,891000.0,Plot Area,Gujarat
+Ahmedabad,Satellite,Residential,652500000,Unfurnished,3,3,Connected,0,0,0,0,40500.0,Plot Area,Gujarat
+Ahmedabad,Gulbai Tekra,Residential,52500000,Unfurnished,3,3,Connected,0,0,0,0,3600.0,Plot Area,Gujarat
+Ahmedabad,Sanathal,Residential,105000000,Unfurnished,3,3,Connected,0,0,0,0,15300.0,Plot Area,Gujarat
+Ahmedabad,Bodakdev,Residential,65500000,Unfurnished,3,3,Connected,0,0,0,0,6210.0,Plot Area,Gujarat
+Ahmedabad,Dholera,Residential,159640643,Unfurnished,3,3,Connected,0,0,0,0,1242.0,Plot Area,Gujarat
+Ahmedabad,Ramdev Nagar,Residential,25000000,Furnished,4,3,Connected,0,0,0,3,5000.0,Built-up Area,Gujarat
+Ahmedabad,Dhandhuka,Residential,682000,Unfurnished,3,3,Connected,0,0,0,0,1365.0,Plot Area,Gujarat
+Ahmedabad,Gota,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,34200.0,Plot Area,Gujarat
+Ahmedabad,Ambli Road,Residential,445000000,Furnished,4,4,Connected,0,0,0,5,18000.0,Carpet Area,Gujarat
+Ahmedabad,Saraspur,Residential,3200000,Unfurnished,2,2,Individual,0,0,0,3,1150.0,Built-up Area,Gujarat
+Ahmedabad,Ambli,Residential,27500000,Semi-Furnished,3,3,Connected,0,0,0,1,4500.0,Built-up Area,Gujarat
+Ahmedabad,Shela,Residential,13600000,Unfurnished,4,4,Connected,0,0,0,5,3900.0,Built-up Area,Gujarat
+Ahmedabad,Science City,Residential,51000000,Unfurnished,4,4,Connected,0,0,1,4,6669.0,Built-up Area,Gujarat
+Ahmedabad,Ahmedabad Cantonment,Residential,159640643,Unfurnished,3,3,Connected,0,0,0,0,949.0,Plot Area,Gujarat
+Ahmedabad,Dholera,Residential,500000,Unfurnished,3,3,Connected,0,0,0,0,1290.0,Plot Area,Gujarat
+Ahmedabad,Jagatpur,Residential,600000000,Unfurnished,3,3,Connected,0,0,0,0,36000.0,Plot Area,Gujarat
+Ahmedabad,Jagatpur,Residential,3300000,Unfurnished,1,1,Connected,0,0,0,2,630.0,Built-up Area,Gujarat
+Ahmedabad,Bhavanpur,Residential,77000000,Unfurnished,3,3,Connected,0,0,0,0,31500.0,Plot Area,Gujarat
+Ahmedabad,Gota,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,27000.0,Plot Area,Gujarat
+Ahmedabad,Bagodara,Residential,450000000,Unfurnished,3,3,Connected,0,0,0,0,23256.0,Plot Area,Gujarat
+Ahmedabad,S G Highway,Commercial,0,Furnished,0,0,No Balcony,0,0,0,2,1609.0,Built-up Area,Gujarat
+Ahmedabad,Ambawadi,Residential,62500000,Furnished,6,6,Room-attached,0,0,0,6,3710.0,Built-up Area,Gujarat
+Ahmedabad,Corporate Road,Residential,-2147483648,Unfurnished,3,3,Connected,0,0,0,0,64800.0,Plot Area,Gujarat
+Ahmedabad,Dahegam,Residential,260000000,Unfurnished,3,3,Connected,0,0,0,0,428400.0,Plot Area,Gujarat
+Ahmedabad,Chandkheda,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,7470.0,Plot Area,Gujarat
+Ahmedabad,Ognaj,Residential,-2147483648,Unfurnished,3,3,Connected,0,0,0,0,225000.0,Plot Area,Gujarat
+Ahmedabad,Mithakhali,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,9450.0,Plot Area,Gujarat
+Ahmedabad,Shela,Residential,-2147483648,Unfurnished,3,3,Connected,0,0,0,0,243000.0,Plot Area,Gujarat
+Ahmedabad,Ambawadi,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,8604.0,Plot Area,Gujarat
+Ahmedabad,Kolat,Residential,123400000,Unfurnished,3,3,Connected,0,0,0,0,51660.0,Plot Area,Gujarat
+Ahmedabad,Prahlad Nagar,Residential,-2147483648,Unfurnished,3,3,Connected,0,0,0,0,64800.0,Plot Area,Gujarat
+Ahmedabad,Palodia,Residential,550000000,Unfurnished,3,3,Connected,0,0,0,0,90000.0,Plot Area,Gujarat
+Ahmedabad,Ambli,Residential,500000000,Unfurnished,3,3,Connected,0,0,0,0,22500.0,Plot Area,Gujarat
+Ahmedabad,Mumatpura,Residential,500000000,Unfurnished,3,3,Connected,0,0,0,0,22500.0,Plot Area,Gujarat
+Ahmedabad,Bavla,Residential,-2147483648,Unfurnished,3,3,Connected,0,0,0,0,2313.0,Plot Area,Gujarat
+Ahmedabad,Dholera,Residential,159640643,Unfurnished,3,3,Connected,0,0,0,0,981.0,Plot Area,Gujarat
+Ahmedabad,Sindhubhavan,Residential,480000000,Unfurnished,3,3,Connected,0,0,0,0,21600.0,Plot Area,Gujarat
+Ahmedabad,Ambli Road,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,8145.0,Plot Area,Gujarat
+Ahmedabad,New Ranip,Residential,17000000,Semi-Furnished,4,3,Connected,0,0,0,2,1800.0,Plot Area,Gujarat
+Ahmedabad,Maninagar,Residential,1426600000,Unfurnished,3,3,Connected,0,0,0,0,72000.0,Plot Area,Gujarat
+Ahmedabad,Science City,Residential,-2147483648,Unfurnished,3,3,Connected,0,0,0,0,141948.0,Plot Area,Gujarat
+Ahmedabad,Tragad,Residential,4500000,Unfurnished,2,2,Connected,0,0,0,1,1089.0,Built-up Area,Gujarat
+Ahmedabad,Meghani Nagar,Residential,7500000,Semi-Furnished,3,3,Individual,0,0,0,2,1000.0,Plot Area,Gujarat
+Ahmedabad,Navrangpura,Residential,135000000,Unfurnished,6,3,Connected,0,0,0,6,18000.0,Built-up Area,Gujarat
+Ahmedabad,Narolgam,Residential,3200000,Unfurnished,2,2,Individual,1,1,1,2,1080.0,Saleable Area,Gujarat
+Ahmedabad,Motera,Residential,33500000,Furnished,3,3,Connected,0,0,0,2,1800.0,Built-up Area,Gujarat
+Ahmedabad,Gota,Residential,3500000,Semi-Furnished,1,1,Connected,0,0,0,0,324.0,Built-up Area,Gujarat
+Ahmedabad,Vasna,Residential,5800000,Furnished,3,3,Connected,0,0,0,1,675.0,Carpet Area,Gujarat
+Ahmedabad,Odhav,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,180000.0,Plot Area,Gujarat
+Ahmedabad,Khodiyar,Residential,7400000,Unfurnished,3,3,Room-attached,0,0,0,1,1460.0,Built-up Area,Gujarat
+Ahmedabad,Chandkheda,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,2,170.0,Built-up Area,Gujarat
+Ahmedabad,Ranip,Residential,2500000,Semi-Furnished,1,2,Connected,0,0,0,2,430.556,Carpet Area,Gujarat
+Ahmedabad,Janta Nagar,Residential,4700000,Unfurnished,2,2,Individual,0,0,0,1,1008.0,Built-up Area,Gujarat
+Ahmedabad,Narol,Residential,3500000,Unfurnished,2,2,Connected,0,0,0,4,1260.0,Built-up Area,Gujarat
+Ahmedabad,Ghatlodia,Residential,4750000,Unfurnished,2,2,"Connected,Individual,Room-attached",0,0,0,2,1008.0,Built-up Area,Gujarat
+Ahmedabad,Shela,Residential,7300000,Semi-Furnished,3,3,Connected,0,0,0,1,789.0,Carpet Area,Gujarat
+Ahmedabad,Ambawadi,Residential,9000000,Furnished,3,2,Room-attached,0,0,0,1,1250.0,Built-up Area,Gujarat
+Ahmedabad,Nasmed,Residential,27000000,Unfurnished,1,2,Connected,1,1,1,1,9180.0,Built-up Area,Gujarat
+Ahmedabad,Chandkheda,Residential,6500000,Semi-Furnished,2,3,Individual,0,0,0,2,1350.0,Built-up Area,Gujarat
+Ahmedabad,Ashram Road,Commercial,0,Unfurnished,0,0,Connected,1,0,0,2,2500.0,Built-up Area,Gujarat
+Ahmedabad,Shela,Residential,159640643,Unfurnished,5,5,"Connected,Room-attached",0,0,0,5,8359.0,Built-up Area,Gujarat
+Ahmedabad,Bodakdev,Residential,60000000,Unfurnished,4,4,Connected,0,0,0,3,5472.0,Built-up Area,Gujarat
+Ahmedabad,Jagatpur,Residential,8500000,Unfurnished,3,3,Room-attached,0,0,0,1,1982.0,Built-up Area,Gujarat
+Ahmedabad,Zundal,Residential,7700000,Furnished,3,3,Connected,0,0,0,3,1080.0,Carpet Area,Gujarat
+Ahmedabad,Ramdevnagar,Residential,5500000,Unfurnished,2,2,Connected,0,0,1,1,1053.0,Built-up Area,Gujarat
+Ahmedabad,Near Nirma University On Sg Highway,Residential,15000000,Unfurnished,4,4,Connected,0,0,0,2,4000.0,Saleable Area,Gujarat
+Ahmedabad,Dholera,Residential,700000,Unfurnished,3,3,Connected,0,0,0,0,1432.0,Plot Area,Gujarat
+Ahmedabad,Adalaj,Residential,16000000,Unfurnished,4,4,Individual,1,0,1,2,5130.0,Built-up Area,Gujarat
+Ahmedabad,Ambli Road,Residential,54000000,Unfurnished,5,5,Connected,0,0,0,2,6000.0,Built-up Area,Gujarat
+Ahmedabad,Dholera,Residential,159640643,Unfurnished,3,3,Connected,0,0,0,0,1337.0,Plot Area,Gujarat
+Ahmedabad,New Ranip,Residential,4700000,Furnished,2,2,Individual,0,0,0,2,1080.0,Saleable Area,Gujarat
+Ahmedabad,Ramdevnagar,Residential,5500000,Unfurnished,2,2,Connected,0,0,0,1,1035.0,Built-up Area,Gujarat
+Ahmedabad,New Ranip,Residential,4300000,Furnished,2,2,Connected,0,0,0,2,1115.0,Saleable Area,Gujarat
+Ahmedabad,Shyamal,Commercial,0,Furnished,0,0,Connected,0,0,0,2,1871.0,Built-up Area,Gujarat
+Ahmedabad,Motera,Residential,9400000,Unfurnished,3,3,Connected,1,1,1,2,894.0,Carpet Area,Gujarat
+Ahmedabad,Gota,Commercial,0,Unfurnished,0,0,Connected,1,0,0,2,1178.0,Built-up Area,Gujarat
+Ahmedabad,Dholera,Residential,1500000,Unfurnished,3,3,Connected,0,0,0,0,1791.0,Plot Area,Gujarat
+Ahmedabad,Nadoliya,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,3000.0,Plot Area,Gujarat
+Ahmedabad,Navrangpura,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,11772.0,Plot Area,Gujarat
+Ahmedabad,Dholera,Residential,6600000,Unfurnished,3,3,Connected,0,0,0,0,10820.0,Plot Area,Gujarat
+Ahmedabad,Thaltej,Commercial,0,Furnished,0,0,"Connected,Individual",0,0,0,4,2700.0,Built-up Area,Gujarat
+Ahmedabad,Mandal,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,2000.0,Plot Area,Gujarat
+Ahmedabad,Ashram Road,Commercial,0,Unfurnished,0,0,Connected,0,0,0,2,1200.0,Built-up Area,Gujarat
+Ahmedabad,Naranpura,Residential,15500000,Unfurnished,3,3,Connected,0,0,0,1,2052.0,Saleable Area,Gujarat
+Ahmedabad,Dholera,Residential,600000,Unfurnished,3,3,Connected,0,0,0,0,1345.0,Plot Area,Gujarat
+Ahmedabad,Ramdevnagar,Residential,5500000,Unfurnished,2,2,Connected,1,0,1,2,1080.0,Built-up Area,Gujarat
+Ahmedabad,S G Highway,Residential,490000000,Unfurnished,3,3,Connected,0,0,0,0,25200.0,Plot Area,Gujarat
+Ahmedabad,Dholera,Residential,9000000,Unfurnished,3,3,Connected,0,0,0,0,10850.0,Plot Area,Gujarat
+Ahmedabad,Dholera,Residential,1600000,Unfurnished,3,3,Connected,0,0,0,0,1881.0,Plot Area,Gujarat
+Ahmedabad,Bopal,Residential,15500000,Semi-Furnished,3,3,Room-attached,0,0,0,2,2400.0,Saleable Area,Gujarat
+Ahmedabad,Satellite,Residential,18000000,Furnished,3,3,Connected,0,0,0,3,2070.0,Built-up Area,Gujarat
+Ahmedabad,Shahibaug,Residential,17100000,Furnished,3,3,Connected,0,0,0,1,1800.0,Carpet Area,Gujarat
+Ahmedabad,Makarba,Residential,1452000000,Unfurnished,3,3,Connected,0,0,0,0,59400.0,Plot Area,Gujarat
+Ahmedabad,Changodar,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,1,7000.0,Built-up Area,Gujarat
+Ahmedabad,Memnagar,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,6750.0,Plot Area,Gujarat
+Ahmedabad,Navrangpura,Commercial,0,Unfurnished,0,0,Connected,1,0,1,6,2500.0,Built-up Area,Gujarat
+Ahmedabad,New Ranip,Residential,6500000,Unfurnished,2,2,Connected,0,0,0,1,1278.0,Plot Area,Gujarat
+Ahmedabad,Chanakyapuri,Residential,5650000,Semi-Furnished,3,2,Connected,0,0,0,0,441.0,Built-up Area,Gujarat
+Ahmedabad,Bopal,Residential,4158000,Unfurnished,2,3,Room-attached,1,1,1,2,1080.0,Saleable Area,Gujarat
+Ahmedabad,Satellite,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,31500.0,Plot Area,Gujarat
+Ahmedabad,Makarba,Residential,13000000,Unfurnished,3,3,"Connected,Individual",0,0,0,3,1915.0,Built-up Area,Gujarat
+Ahmedabad,SarkheJ- Okaf,Residential,303300000,Unfurnished,3,3,Connected,0,0,0,0,46800.0,Plot Area,Gujarat
+Ahmedabad,Motera,Residential,16800000,Furnished,4,4,Individual,0,0,0,2,3915.0,Built-up Area,Gujarat
+Ahmedabad,Prahlad Nagar,Residential,100000000,Furnished,6,3,Connected,0,0,0,3,4860.0,Plot Area,Gujarat
+Ahmedabad,Sp Ring Road,Residential,52500000,Unfurnished,3,3,Connected,1,1,1,0,4725.0,Plot Area,Gujarat
+Ahmedabad,Chenpur,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,63000.0,Plot Area,Gujarat
+Ahmedabad,Sindhubhavan,Residential,275000000,Furnished,4,4,Connected,0,0,0,5,16659.0,Plot Area,Gujarat
+Ahmedabad,Ghuma,Residential,266800000,Unfurnished,3,3,Connected,0,0,0,0,41157.0,Plot Area,Gujarat
+Ahmedabad,Thaltej,Residential,178200000,Unfurnished,3,3,Connected,0,0,0,0,6975.0,Plot Area,Gujarat
+Ahmedabad,Piplaj,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,9000.0,Plot Area,Gujarat
+Ahmedabad,Ambli,Residential,7200000,Unfurnished,3,3,Connected,1,0,1,2,1800.0,Saleable Area,Gujarat
+Ahmedabad,Science City,Residential,27500000,Unfurnished,4,4,Connected,0,0,1,2,4500.0,Saleable Area,Gujarat
+Ahmedabad,Ambli Road,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,43200.0,Plot Area,Gujarat
+Ahmedabad,Chanakyapuri,Residential,23500000,Furnished,4,4,Connected,0,0,0,4,3065.0,Built-up Area,Gujarat
+Ahmedabad,Hebatpur,Residential,440000000,Unfurnished,3,3,Connected,0,0,0,0,36000.0,Plot Area,Gujarat
+Ahmedabad,Ambawadi,Residential,12000000,Unfurnished,4,3,Connected,0,0,0,2,2205.0,Built-up Area,Gujarat
+Ahmedabad,Ahmedabad Cantonment,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,1400.0,Plot Area,Gujarat
+Ahmedabad,Vastrapur,Residential,220000000,Unfurnished,3,3,Connected,0,0,0,0,8100.0,Plot Area,Gujarat
+Ahmedabad,Chandkheda,Residential,3750000,Semi-Furnished,2,2,Room-attached,0,0,0,2,945.0,Built-up Area,Gujarat
+Ahmedabad,Ambawadi,Residential,6500000,Furnished,2,2,Connected,0,0,0,1,810.0,Built-up Area,Gujarat
+Ahmedabad,Manipur,Residential,159640643,Unfurnished,3,3,Connected,0,0,0,0,1200.0,Plot Area,Gujarat
+Ahmedabad,S G Highway,Residential,1650000000,Unfurnished,3,3,Connected,0,0,0,0,49500.0,Plot Area,Gujarat
+Ahmedabad,Prahlad Nagar,Residential,55000000,Furnished,5,4,Connected,0,0,0,5,3060.0,Plot Area,Gujarat
+Ahmedabad,Bopal,Residential,5500000,Furnished,3,2,Connected,0,0,0,1,1285.0,Saleable Area,Gujarat
+Ahmedabad,Bodakdev,Residential,120000000,Furnished,6,4,Connected,0,0,0,3,10800.0,Carpet Area,Gujarat
+Ahmedabad,Kolat,Residential,159640643,Unfurnished,3,3,Connected,0,0,0,0,20358.0,Plot Area,Gujarat
+Ahmedabad,Bopal,Residential,18200000,Unfurnished,3,3,Connected,1,1,1,0,4689.0,Plot Area,Gujarat
+Ahmedabad,Gota,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,56169.0,Plot Area,Gujarat
+Ahmedabad,Bodakdev,Residential,26100000,Unfurnished,3,4,Individual,0,1,1,4,3492.0,Saleable Area,Gujarat
+Ahmedabad,Satellite,Residential,159640643,Unfurnished,3,3,Connected,0,0,0,0,4500.0,Plot Area,Gujarat
+Ahmedabad,Sanand,Residential,159640643,Unfurnished,3,3,Connected,0,0,0,0,8298.0,Plot Area,Gujarat
+Ahmedabad,Racharda,Residential,74200000,Unfurnished,3,3,Connected,0,0,0,0,24300.0,Plot Area,Gujarat
+Ahmedabad,Ranip,Residential,25000000,Furnished,4,3,Connected,0,0,0,3,2340.0,Plot Area,Gujarat
+Ahmedabad,Dholera,Residential,527000,Unfurnished,3,3,Connected,1,1,1,0,860.0,Plot Area,Gujarat
+Ahmedabad,Dholera,Residential,1600000,Unfurnished,3,3,Connected,0,0,1,0,2250.0,Plot Area,Gujarat
+Ahmedabad,Vasna,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,23256.0,Plot Area,Gujarat
+Ahmedabad,Shilaj,Residential,9900000,Furnished,3,3,Individual,0,0,0,1,1500.0,Saleable Area,Gujarat
+Ahmedabad,Ellis Bridge,Residential,14600000,Unfurnished,3,3,Connected,0,0,0,4,2250.0,Built-up Area,Gujarat
+Ahmedabad,Dhandhuka,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,10450.0,Plot Area,Gujarat
+Ahmedabad,Dholera,Residential,650000,Unfurnished,3,3,Connected,0,0,0,0,900.0,Plot Area,Gujarat
+Ahmedabad,Anand Nagar,Residential,8500000,Unfurnished,3,2,Room-attached,0,0,0,0,1350.0,Saleable Area,Gujarat
+Ahmedabad,Naranpura,Residential,14000000,Furnished,4,4,Connected,0,0,0,2,1800.0,Built-up Area,Gujarat
+Ahmedabad,Wapa,Residential,7600000,Unfurnished,4,4,Room-attached,1,1,1,3,1900.0,Saleable Area,Gujarat
+Ahmedabad,Nikol,Residential,4671000,Unfurnished,2,2,Connected,0,0,0,2,1206.0,Built-up Area,Gujarat
+Ahmedabad,Satellite,Residential,11000000,Furnished,3,3,"Connected,Room-attached",0,0,0,2,1600.0,Built-up Area,Gujarat
+Ahmedabad,Sanand,Residential,2200000,Unfurnished,3,3,Connected,0,0,0,0,4950.0,Plot Area,Gujarat
+Ahmedabad,Sindhubhavan,Residential,9700000,Unfurnished,3,3,Connected,0,0,0,3,1760.0,Built-up Area,Gujarat
+Ahmedabad,Dholera,Residential,3100000,Unfurnished,3,3,Connected,0,0,0,0,500.0,Plot Area,Gujarat
+Ahmedabad,Shantigram,Residential,110000000,Unfurnished,4,4,Connected,0,0,0,4,7074.0,Plot Area,Gujarat
+Ahmedabad,Gota,Residential,35000000,Unfurnished,3,2,Individual,0,0,1,0,2466.0,Built-up Area,Gujarat
+Ahmedabad,Nikol,Residential,8000000,Furnished,3,3,"Individual,Room-attached",0,0,0,1,1935.0,Built-up Area,Gujarat
+Ahmedabad,Sarkhej,Residential,700000,Semi-Furnished,3,2,Connected,0,0,0,1,1160.0,Carpet Area,Gujarat
+Ahmedabad,Palodia,Residential,52500000,Unfurnished,4,4,Connected,1,0,1,3,490.0,Built-up Area,Gujarat
+Ahmedabad,Vithalapur,Residential,159640643,Furnished,1,1,"Connected,Individual,Room-attached",0,0,0,4,650.0,Built-up Area,Gujarat
+Ahmedabad,Khoraj,Residential,50000000,Semi-Furnished,4,4,Connected,0,0,0,3,6165.0,Built-up Area,Gujarat
+Ahmedabad,New Ranip,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,1,295.0,Built-up Area,Gujarat
+Ahmedabad,Moraiya,Residential,6300000,Unfurnished,3,3,Connected,0,1,1,0,8370.0,Plot Area,Gujarat
+Ahmedabad,C G Road,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,2,2650.0,Built-up Area,Gujarat
+Ahmedabad,Naroda,Residential,4950000,Unfurnished,2,2,Connected,0,0,1,2,1287.0,Built-up Area,Gujarat
+Ahmedabad,Kheda,Residential,20000000,Unfurnished,3,3,Connected,0,0,0,0,23256.0,Plot Area,Gujarat
+Ahmedabad,Bopal,Residential,21500000,Unfurnished,3,3,Connected,0,0,0,0,2934.0,Plot Area,Gujarat
+Ahmedabad,Vastral,Residential,3450000,Unfurnished,2,2,"Connected,Individual",0,0,0,2,1100.0,Built-up Area,Gujarat
+Ahmedabad,Vejalpur,Residential,5000000,Semi-Furnished,2,2,Connected,0,0,0,3,604.0,Saleable Area,Gujarat
+Ahmedabad,Mani Nagar,Residential,3000000,Furnished,1,1,Individual,0,0,0,3,700.0,Built-up Area,Gujarat
+Ahmedabad,Science City,Residential,159640643,Furnished,4,5,"Connected,Individual",0,0,0,3,4275.0,Built-up Area,Gujarat
+Ahmedabad,Navrangpura,Residential,29500000,Unfurnished,4,4,Connected,0,0,0,3,2820.0,Built-up Area,Gujarat
+Ahmedabad,Vastral,Residential,3500000,Furnished,2,2,Connected,0,0,0,2,990.0,Carpet Area,Gujarat
+Ahmedabad,Ghuma,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,900.0,Built-up Area,Gujarat
+Ahmedabad,Ellis Bridge,Commercial,0,Furnished,0,0,Connected,0,0,0,2,245.0,Built-up Area,Gujarat
+Ahmedabad,Gota,Residential,3500000,Furnished,1,1,Connected,0,0,0,2,3500.0,Saleable Area,Gujarat
+Ahmedabad,Chandkheda,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,250.0,Built-up Area,Gujarat
+Ahmedabad,Khodiyar,Residential,2000000,Semi-Furnished,1,2,Room-attached,0,0,0,1,500.0,Built-up Area,Gujarat
+Ahmedabad,Megani Nagar,Residential,49000000,Unfurnished,4,3,Room-attached,0,0,0,0,2997.0,Built-up Area,Gujarat
+Ahmedabad,Gota,Residential,6700000,Furnished,3,3,Connected,0,0,0,2,1440.0,Saleable Area,Gujarat
+Ahmedabad,Vastrapur,Residential,22500000,Furnished,4,4,Connected,0,0,0,2,2700.0,Built-up Area,Gujarat
+Ahmedabad,South Bopal,Residential,7500000,Unfurnished,3,2,"Connected,Room-attached",1,0,1,2,1725.0,Built-up Area,Gujarat
+Ahmedabad,Naranpura,Residential,8700000,Furnished,3,3,Individual,0,0,0,0,1485.0,Built-up Area,Gujarat
+Ahmedabad,Chandkheda,Residential,4000000,Unfurnished,2,2,Connected,0,0,0,2,1080.0,Built-up Area,Gujarat
+Ahmedabad,Near Vaishno Devi Circle On Sg Highway,Residential,35000000,Furnished,3,3,Connected,0,0,0,2,3650.0,Built-up Area,Gujarat
+Ahmedabad,Santej,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,5,2295.0,Built-up Area,Gujarat
+Ahmedabad,Bodakdev,Residential,55000000,Unfurnished,4,4,Connected,0,0,0,3,5472.0,Built-up Area,Gujarat
+Ahmedabad,Dholera,Residential,159640643,Unfurnished,3,3,Connected,0,1,1,0,1303.0,Plot Area,Gujarat
+Ahmedabad,Shantigram,Residential,50000000,Furnished,3,3,Connected,0,0,0,2,6440.0,Saleable Area,Gujarat
+Ahmedabad,Dholera,Residential,159640643,Unfurnished,3,3,Connected,0,1,1,0,1304.0,Plot Area,Gujarat
+Ahmedabad,Near Vaishno Devi Circle On Sg Highway,Residential,13000000,Furnished,3,3,Connected,0,0,0,2,1850.0,Built-up Area,Gujarat
+Ahmedabad,Sola,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,8496.0,Plot Area,Gujarat
+Ahmedabad,Dholera,Residential,2500000,Unfurnished,3,3,Connected,0,1,1,0,5005.0,Plot Area,Gujarat
+Ahmedabad,Gota,Residential,23000000,Unfurnished,4,4,Individual,1,1,1,3,3800.0,Built-up Area,Gujarat
+Ahmedabad,Vejalpur Gam,Residential,31100000,Furnished,3,3,Connected,0,0,0,4,3000.0,Carpet Area,Gujarat
+Ahmedabad,Dholera,Residential,2500000,Unfurnished,3,3,Connected,0,1,1,0,5008.0,Plot Area,Gujarat
+Ahmedabad,Dholera,Residential,650000,Unfurnished,3,3,Connected,1,0,1,0,1026.0,Plot Area,Gujarat
+Ahmedabad,Khodiyar,Residential,7500000,Unfurnished,3,3,Connected,1,1,1,2,814.0,Carpet Area,Gujarat
+Ahmedabad,Dholera,Residential,3500000,Unfurnished,3,3,Connected,0,1,1,0,1203.0,Plot Area,Gujarat
+Ahmedabad,Dholera,Residential,3500000,Unfurnished,3,3,Connected,0,1,1,0,1246.0,Plot Area,Gujarat
+Ahmedabad,Prahlad Nagar,Residential,45000000,Furnished,4,4,Connected,0,0,0,3,4418.0,Built-up Area,Gujarat
+Ahmedabad,Ramdevnagar,Residential,35000000,Unfurnished,4,4,Connected,0,0,0,3,4020.0,Built-up Area,Gujarat
+Ahmedabad,Bodakdev,Residential,73000000,Unfurnished,5,5,Connected,0,0,0,3,7452.0,Built-up Area,Gujarat
+Ahmedabad,Zundal,Residential,7100000,Unfurnished,3,3,Individual,1,0,1,2,870.0,Carpet Area,Gujarat
+Ahmedabad,Naranpura,Commercial,0,Furnished,0,0,"Connected,Individual",0,0,0,6,4500.0,Built-up Area,Gujarat
+Ahmedabad,South Bopal,Residential,22500000,Semi-Furnished,4,5,Connected,0,0,0,2,3800.0,Saleable Area,Gujarat
+Ahmedabad,Shilaj,Residential,100000000,Unfurnished,3,3,Connected,0,0,0,0,63459.0,Plot Area,Gujarat
+Ahmedabad,Tragad,Residential,8500000,Unfurnished,3,3,Connected,0,0,1,2,1800.0,Built-up Area,Gujarat
+Ahmedabad,Thaltej,Residential,39900000,Unfurnished,4,4,Connected,0,0,0,2,4500.0,Built-up Area,Gujarat
+Ahmedabad,Jodhpur,Residential,10300000,Semi-Furnished,3,3,"Connected,Room-attached",0,0,0,2,1782.0,Built-up Area,Gujarat
+Ahmedabad,Dholera,Residential,650000,Unfurnished,3,3,Connected,1,0,1,0,1001.0,Plot Area,Gujarat
+Ahmedabad,Hathijan,Residential,159640643,Semi-Furnished,4,4,Connected,0,0,0,1,3150.0,Built-up Area,Gujarat
+Ahmedabad,Jodhpur,Residential,7308000,Semi-Furnished,3,3,"Connected,Room-attached",0,0,0,1,1260.0,Built-up Area,Gujarat
+Ahmedabad,Makarba,Commercial,0,Furnished,0,0,Connected,0,0,0,2,692.0,Built-up Area,Gujarat
+Ahmedabad,Bodakdev,Commercial,0,Furnished,0,0,No Balcony,0,0,0,6,15500.0,Built-up Area,Gujarat
+Ahmedabad,Ramdevnagar,Residential,5500000,Unfurnished,2,2,Connected,1,0,1,2,990.0,Built-up Area,Gujarat
+Ahmedabad,Bodakdev,Commercial,0,Furnished,0,0,No Balcony,0,0,0,1,2760.0,Built-up Area,Gujarat
+Ahmedabad,Shela,Residential,3999000,Semi-Furnished,2,2,"Connected,Room-attached",0,0,0,1,1215.0,Built-up Area,Gujarat
+Ahmedabad,Near Nirma University On Sg Highway,Residential,5700000,Semi-Furnished,3,2,Connected,0,0,0,2,910.0,Saleable Area,Gujarat
+Ahmedabad,Ognaj,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,14400.0,Plot Area,Gujarat
+Ahmedabad,S P Ring Road,Residential,171500000,Unfurnished,3,3,Connected,0,0,0,0,11439.0,Plot Area,Gujarat
+Ahmedabad,Racharda,Residential,325000000,Unfurnished,3,3,Connected,0,0,0,0,45000.0,Plot Area,Gujarat
+Ahmedabad,Dholera,Residential,159640643,Unfurnished,3,3,Connected,0,0,0,0,1300.0,Plot Area,Gujarat
+Ahmedabad,Tragad,Residential,4200000,Unfurnished,2,2,Room-attached,0,0,1,2,1089.0,Built-up Area,Gujarat
+Ahmedabad,South Bopal,Residential,23500000,Semi-Furnished,4,5,Connected,0,0,0,2,3800.0,Saleable Area,Gujarat
+Ahmedabad,Bhadaj,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,31500.0,Plot Area,Gujarat
+Ahmedabad,Bodakdev,Commercial,0,Furnished,0,0,Connected,0,0,0,4,2814.0,Built-up Area,Gujarat
+Ahmedabad,Gota,Residential,26000000,Unfurnished,4,4,Connected,0,0,0,2,3591.0,Saleable Area,Gujarat
+Ahmedabad,Ambli,Residential,27000000,Furnished,4,4,Connected,0,0,0,2,2425.0,Built-up Area,Gujarat
+Ahmedabad,Tragad,Residential,12500000,Furnished,3,3,Connected,0,0,0,2,1900.0,Built-up Area,Gujarat
+Ahmedabad,Jagatpur,Commercial,0,Unfurnished,0,0,Connected,0,0,0,8,5000.0,Built-up Area,Gujarat
+Ahmedabad,South Bopal,Residential,490000000,Unfurnished,3,3,Connected,0,0,1,0,61200.0,Plot Area,Gujarat
+Ahmedabad,Gota,Residential,9300000,Unfurnished,3,3,Connected,0,0,0,2,1800.0,Built-up Area,Gujarat
+Ahmedabad,Shilaj,Residential,9200000,Unfurnished,3,3,Connected,0,0,0,3,1760.0,Built-up Area,Gujarat
+Ahmedabad,Prahlad Nagar,Residential,18000000,Furnished,3,4,Connected,0,0,0,2,3356.0,Built-up Area,Gujarat
+Ahmedabad,Nadoliya,Residential,13000000,Furnished,3,3,Connected,0,0,0,2,1832.0,Built-up Area,Gujarat
+Ahmedabad,S G Highway,Residential,24000000,Furnished,4,3,"Connected,Room-attached",0,0,0,2,2360.0,Built-up Area,Gujarat
+Ahmedabad,Ambli,Residential,31100000,Furnished,4,4,Connected,0,0,0,3,3000.0,Built-up Area,Gujarat
+Ahmedabad,Makarba,Residential,283500000,Unfurnished,3,3,Connected,0,0,0,0,18900.0,Plot Area,Gujarat
+Ahmedabad,Bodakdev,Residential,37000000,Unfurnished,4,4,Connected,0,0,0,3,4200.0,Built-up Area,Gujarat
+Ahmedabad,Prahlad Nagar,Commercial,0,Furnished,0,0,Connected,0,0,0,2,934.0,Built-up Area,Gujarat
+Ahmedabad,Sanand,Residential,8000000,Unfurnished,3,2,Connected,0,0,0,1,883.0,Built-up Area,Gujarat
+Ahmedabad,Shyamal,Commercial,0,Furnished,0,0,Connected,0,0,0,4,1871.0,Built-up Area,Gujarat
+Ahmedabad,Near Nirma University On Sg Highway,Residential,6500000,Furnished,3,3,Connected,0,0,0,2,1300.0,Built-up Area,Gujarat
+Ahmedabad,Science City,Residential,15300000,Unfurnished,3,3,"Connected,Individual",0,0,0,4,2511.0,Built-up Area,Gujarat
+Ahmedabad,Shela,Residential,50000000,Unfurnished,5,5,Connected,0,0,0,0,8400.0,Built-up Area,Gujarat
+Ahmedabad,Zundal,Residential,8700000,Unfurnished,3,3,Connected,0,0,0,2,1500.0,Built-up Area,Gujarat
+Ahmedabad,Makarba,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,108000.0,Plot Area,Gujarat
+Ahmedabad,Gota,Residential,5400000,Furnished,2,2,Connected,0,0,0,1,1179.0,Built-up Area,Gujarat
+Ahmedabad,Shilaj,Residential,31500000,Furnished,5,4,Connected,0,0,0,2,4050.0,Built-up Area,Gujarat
+Ahmedabad,Shela,Residential,450000000,Unfurnished,3,3,Connected,0,0,0,0,40122.0,Plot Area,Gujarat
+Ahmedabad,Bhavanpur,Commercial,0,Unfurnished,0,0,No Balcony,1,0,0,12,19777.0,Built-up Area,Gujarat
+Ahmedabad,Near Nirma University On Sg Highway,Residential,6500000,Unfurnished,2,2,Connected,1,0,1,2,1305.0,Built-up Area,Gujarat
+Ahmedabad,Ellisbridge,Residential,24000000,Furnished,3,4,Connected,0,0,0,0,2400.0,Saleable Area,Gujarat
+Ahmedabad,Navrangpura,Residential,27000000,Unfurnished,4,4,Connected,0,0,0,2,3600.0,Built-up Area,Gujarat
+Ahmedabad,Mumatpura,Residential,126000000,Unfurnished,3,3,Connected,0,0,0,0,7560.0,Plot Area,Gujarat
+Ahmedabad,Dholera,Residential,159640643,Unfurnished,3,3,Connected,0,0,0,0,2250.0,Plot Area,Gujarat
+Ahmedabad,Racharda,Residential,250000000,Unfurnished,3,3,Connected,0,0,0,0,45000.0,Plot Area,Gujarat
+Ahmedabad,Naroda,Residential,18200000,Furnished,5,3,"Connected,Room-attached",0,0,0,2,3034.0,Built-up Area,Gujarat
+Ahmedabad,Mulsana,Residential,210000000,Unfurnished,3,3,Connected,0,0,0,0,151200.0,Plot Area,Gujarat
+Ahmedabad,Ambli Road,Commercial,0,Unfurnished,0,0,Connected,0,0,0,4,1228.0,Built-up Area,Gujarat
+Ahmedabad,Navapura,Commercial,0,Furnished,0,0,Connected,0,0,0,2,920.0,Built-up Area,Gujarat
+Ahmedabad,Odhav,Residential,7670000,Semi-Furnished,4,2,"Connected,Room-attached",0,0,0,2,2475.0,Built-up Area,Gujarat
+Ahmedabad,Gota,Residential,11000000,Furnished,3,3,Individual,0,0,0,2,1935.0,Saleable Area,Gujarat
+Ahmedabad,Science City,Residential,315000000,Unfurnished,3,3,Connected,0,0,0,0,13500.0,Plot Area,Gujarat
+Ahmedabad,Chandkheda,Residential,9500000,Furnished,3,3,Room-attached,0,0,0,3,2232.0,Built-up Area,Gujarat
+Ahmedabad,Bopal,Residential,107600000,Unfurnished,3,3,Connected,1,0,0,0,10764.0,Plot Area,Gujarat
+Ahmedabad,Jagatpur,Commercial,0,Unfurnished,0,0,Connected,1,0,1,4,1778.0,Built-up Area,Gujarat
+Ahmedabad,Prahlad Nagar,Residential,85000000,Furnished,5,4,Connected,0,0,0,3,4275.0,Plot Area,Gujarat
+Ahmedabad,Dahegam,Residential,800000000,Unfurnished,3,3,Connected,0,0,0,0,891000.0,Plot Area,Gujarat
+Ahmedabad,C G Road,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,10179.0,Plot Area,Gujarat
+Ahmedabad,Dholka,Residential,812500000,Unfurnished,3,3,Connected,0,0,0,0,315000.0,Plot Area,Gujarat
+Ahmedabad,Prahlad Nagar,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,1,700.0,Built-up Area,Gujarat
+Ahmedabad,Sindhubhavan,Residential,330000000,Unfurnished,3,3,Connected,0,0,0,0,18000.0,Plot Area,Gujarat
+Ahmedabad,Dholera,Residential,2500000,Unfurnished,3,3,Connected,0,1,1,0,5017.0,Plot Area,Gujarat
+Ahmedabad,Thaltej,Commercial,0,Furnished,0,0,"Connected,Individual",0,0,0,6,4000.0,Built-up Area,Gujarat
+Ahmedabad,Gota,Residential,9000000,Unfurnished,3,3,Connected,0,0,0,2,1900.0,Built-up Area,Gujarat
+Ahmedabad,Dholera,Residential,1241000,Unfurnished,3,3,Connected,1,0,0,0,1485.0,Plot Area,Gujarat
+Ahmedabad,Shela,Residential,6300000,Furnished,2,2,Connected,0,0,0,1,1295.0,Built-up Area,Gujarat
+Ahmedabad,Shela,Residential,112200000,Unfurnished,3,3,Connected,0,0,0,0,19800.0,Plot Area,Gujarat
+Ahmedabad,Science City,Residential,20500000,Unfurnished,3,3,"Connected,Individual",0,0,0,4,2502.0,Built-up Area,Gujarat
+Ahmedabad,Shilaj,Residential,66700000,Unfurnished,3,3,Connected,0,0,0,0,8010.0,Plot Area,Gujarat
+Ahmedabad,Gota,Residential,14500000,Semi-Furnished,3,3,Connected,0,0,0,1,2164.0,Saleable Area,Gujarat
+Ahmedabad,Shilaj,Residential,8500000,Unfurnished,3,3,Individual,1,0,1,1,1760.0,Saleable Area,Gujarat
+Ahmedabad,Mithakali,Residential,32500000,Unfurnished,4,4,Connected,0,0,0,2,3765.0,Built-up Area,Gujarat
+Ahmedabad,Enasan,Residential,1006200000,Unfurnished,3,3,Connected,0,0,0,0,129366.0,Plot Area,Gujarat
+Ahmedabad,Navrangpura,Commercial,0,Furnished,0,0,Connected,0,0,0,2,898.0,Built-up Area,Gujarat
+Ahmedabad,Racharda,Residential,46500000,Unfurnished,3,3,Connected,0,0,0,0,13950.0,Plot Area,Gujarat
+Ahmedabad,SarkheJ- Okaf,Residential,645500000,Unfurnished,3,3,Connected,0,0,0,0,63378.0,Plot Area,Gujarat
+Ahmedabad,Mumatpura,Residential,990000000,Unfurnished,3,3,Connected,0,0,0,0,54000.0,Plot Area,Gujarat
+Ahmedabad,Ashram Road,Commercial,0,Unfurnished,0,0,Connected,1,0,1,8,2320.0,Built-up Area,Gujarat
+Ahmedabad,Zundal,Residential,6500000,Semi-Furnished,3,3,Connected,0,0,0,1,1530.0,Built-up Area,Gujarat
+Ahmedabad,Bodakdev,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,3,655.0,Built-up Area,Gujarat
+Ahmedabad,Thaltej,Residential,96600000,Unfurnished,3,3,Connected,0,0,0,0,5850.0,Plot Area,Gujarat
+Ahmedabad,Thaltej,Residential,100000000,Unfurnished,3,3,Connected,0,0,0,0,7200.0,Plot Area,Gujarat
+Ahmedabad,Hebatpur,Residential,312500000,Unfurnished,3,3,Connected,0,0,0,0,22356.0,Plot Area,Gujarat
+Ahmedabad,Thaltej,Commercial,0,Furnished,0,0,Connected,0,0,0,6,3074.0,Built-up Area,Gujarat
+Ahmedabad,Sindhubhavan,Residential,159640643,Unfurnished,3,3,Connected,0,0,0,0,1500.0,Plot Area,Gujarat
+Ahmedabad,Makarba,Residential,212500000,Unfurnished,3,3,Connected,0,0,0,0,15300.0,Plot Area,Gujarat
+Ahmedabad,Gota,Commercial,0,Unfurnished,0,0,Connected,0,0,0,3,1684.0,Built-up Area,Gujarat
+Ahmedabad,Shela,Residential,5200000,Furnished,2,2,Room-attached,0,0,0,2,1069.0,Saleable Area,Gujarat
+Ahmedabad,Jodhpur Village,Residential,22000000,Furnished,3,3,Connected,0,0,0,1,2781.0,Built-up Area,Gujarat
+Ahmedabad,Ambli Road,Residential,57500000,Furnished,4,4,Connected,0,0,0,2,5000.0,Built-up Area,Gujarat
+Ahmedabad,Jagatpur,Commercial,0,Unfurnished,0,0,Connected,1,0,0,4,1892.0,Built-up Area,Gujarat
+Ahmedabad,Sg Highway,Commercial,0,Furnished,0,0,Connected,0,0,0,2,926.0,Built-up Area,Gujarat
+Ahmedabad,Sola Road,Commercial,0,Unfurnished,0,0,No Balcony,1,0,0,0,72000.0,Plot Area,Gujarat
+Ahmedabad,Shilaj,Residential,8400000,Unfurnished,3,3,Individual,0,0,0,1,1760.0,Saleable Area,Gujarat
+Ahmedabad,Ambli,Residential,47500000,Unfurnished,4,4,Connected,0,0,0,4,5225.0,Built-up Area,Gujarat
+Ahmedabad,Ambli,Commercial,0,Furnished,0,0,Connected,0,0,0,2,2606.0,Built-up Area,Gujarat
+Ahmedabad,S G Highway,Residential,204000000,Unfurnished,3,3,Connected,0,0,0,0,12240.0,Plot Area,Gujarat
+Ahmedabad,Science City,Residential,30000000,Unfurnished,4,4,Connected,0,0,0,1,3825.0,Built-up Area,Gujarat
+Ahmedabad,Corporate Road,Residential,55000000,Semi-Furnished,4,4,Connected,0,0,0,2,4700.0,Built-up Area,Gujarat
+Ahmedabad,Thaltej,Residential,32500000,Unfurnished,4,4,Connected,0,0,0,4,3860.0,Built-up Area,Gujarat
+Ahmedabad,Bopal,Residential,3800000,Semi-Furnished,2,2,Connected,0,0,0,2,1170.0,Built-up Area,Gujarat
+Ahmedabad,Corporate Road,Commercial,0,Furnished,0,0,No Balcony,0,0,0,1,595.0,Built-up Area,Gujarat
+Ahmedabad,Vaishnodevi Circle,Residential,11000000,Unfurnished,3,3,Connected,0,0,0,1,2610.0,Saleable Area,Gujarat
+Ahmedabad,Ghuma,Residential,304900000,Unfurnished,3,3,Connected,0,0,0,0,41157.0,Plot Area,Gujarat
+Ahmedabad,Racharda,Residential,52000000,Unfurnished,3,3,Connected,0,0,0,0,9000.0,Plot Area,Gujarat
+Ahmedabad,Thaltej,Residential,13500000,Furnished,3,3,Connected,0,0,0,3,1400.0,Built-up Area,Gujarat
+Ahmedabad,SarkheJ- Okaf,Residential,356500000,Unfurnished,3,3,Connected,0,0,0,0,45846.0,Plot Area,Gujarat
+Ahmedabad,Satellite,Residential,64000000,Unfurnished,3,3,Connected,0,0,0,0,3600.0,Plot Area,Gujarat
+Ahmedabad,Shilaj,Residential,105000000,Unfurnished,3,3,Connected,0,0,0,0,9000.0,Plot Area,Gujarat
+Ahmedabad,Shantipura,Residential,14300000,Unfurnished,3,3,Connected,0,0,0,1,2400.0,Built-up Area,Gujarat
+Ahmedabad,Kolat,Residential,102100000,Unfurnished,3,3,Connected,0,0,0,0,58122.0,Plot Area,Gujarat
+Ahmedabad,Sanand,Residential,-2147483648,Unfurnished,3,3,Connected,0,0,0,0,23256.0,Plot Area,Gujarat
+Ahmedabad,Near Nirma University On Sg Highway,Residential,15800000,Unfurnished,3,3,Connected,1,1,1,2,4000.0,Saleable Area,Gujarat
+Ahmedabad,Shela,Residential,23000000,Unfurnished,4,4,Connected,0,0,0,4,3538.0,Built-up Area,Gujarat
+Ahmedabad,Bodakdev,Commercial,0,Unfurnished,0,0,"Connected,Individual",1,0,0,4,2756.0,Built-up Area,Gujarat
+Ahmedabad,Bopal,Residential,849200000,Unfurnished,3,3,Connected,0,0,0,0,69480.0,Plot Area,Gujarat
+Ahmedabad,Shela,Residential,62200000,Unfurnished,3,3,Connected,0,0,0,0,7470.0,Plot Area,Gujarat
+Ahmedabad,Science City,Residential,8000000,Unfurnished,2,2,Connected,0,0,0,2,160.0,Built-up Area,Gujarat
+Ahmedabad,New Ranip,Residential,7900000,Unfurnished,3,3,Connected,0,1,0,1,1701.0,Saleable Area,Gujarat
+Ahmedabad,Shilaj,Residential,8600000,Unfurnished,3,3,Individual,1,1,1,1,1760.0,Built-up Area,Gujarat
+Ahmedabad,Racharda,Residential,412500000,Unfurnished,3,3,Connected,0,0,0,0,49500.0,Plot Area,Gujarat
+Ahmedabad,Ambli,Residential,340000000,Unfurnished,3,3,Connected,0,0,0,0,18000.0,Plot Area,Gujarat
+Ahmedabad,Gota,Residential,26000000,Furnished,4,5,Connected,0,0,0,0,3591.0,Saleable Area,Gujarat
+Ahmedabad,Sarkhej,Commercial,0,Furnished,0,0,No Balcony,0,0,0,1,1100.0,Built-up Area,Gujarat
+Ahmedabad,Navrangpura,Residential,92400000,Unfurnished,3,3,Connected,0,0,0,0,7497.0,Plot Area,Gujarat
+Ahmedabad,Sp Ring Road,Residential,41000000,Unfurnished,3,3,Connected,0,0,0,0,9000.0,Plot Area,Gujarat
+Ahmedabad,Thaltej,Residential,292500000,Unfurnished,3,3,Connected,0,0,0,0,17550.0,Plot Area,Gujarat
+Ahmedabad,Koba,Residential,70000000,Unfurnished,3,3,Connected,0,0,0,0,9000.0,Plot Area,Gujarat
+Ahmedabad,Sindhubhavan,Residential,253400000,Unfurnished,3,3,Connected,0,0,0,0,13032.0,Plot Area,Gujarat
+Ahmedabad,Sanathal,Residential,-2147483648,Unfurnished,3,3,Connected,0,0,0,0,891000.0,Plot Area,Gujarat
+Ahmedabad,Ambli Road,Commercial,0,Unfurnished,0,0,No Balcony,1,0,0,5,2628.0,Carpet Area,Gujarat
+Ahmedabad,Near Vaishno Devi Circle On Sg Highway,Commercial,0,Unfurnished,0,0,Room-attached,0,0,0,2,690.0,Built-up Area,Gujarat
+Ahmedabad,Ambli Road,Commercial,0,Furnished,0,0,No Balcony,0,0,0,1,1219.0,Built-up Area,Gujarat
+Ahmedabad,Gota,Residential,17000000,Furnished,4,3,Connected,0,0,0,2,2466.0,Built-up Area,Gujarat
+Ahmedabad,Sanand,Residential,1500000000,Unfurnished,3,3,Connected,0,0,0,0,891000.0,Plot Area,Gujarat
+Ahmedabad,Gota,Commercial,0,Unfurnished,0,0,Connected,1,0,0,2,1584.0,Built-up Area,Gujarat
+Ahmedabad,Gift City,Residential,1600000000,Unfurnished,3,3,Connected,0,0,0,0,801000.0,Plot Area,Gujarat
+Ahmedabad,Naranpura,Residential,68700000,Unfurnished,3,3,Connected,0,0,0,0,5625.0,Plot Area,Gujarat
+Ahmedabad,Bodakdev,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,22500.0,Plot Area,Gujarat
+Ahmedabad,Godhavi,Residential,1500000000,Unfurnished,3,3,Connected,0,0,0,0,23256.0,Plot Area,Gujarat
+Ahmedabad,Pankore Naka,Residential,15400000,Unfurnished,3,3,Individual,0,0,0,2,2369.0,Built-up Area,Gujarat
+Ahmedabad,Near Nirma University On Sg Highway,Residential,5500000,Unfurnished,2,2,Connected,1,1,1,1,1200.0,Built-up Area,Gujarat
+Ahmedabad,Science City,Residential,76800000,Unfurnished,3,3,Connected,0,0,0,0,6912.0,Plot Area,Gujarat
+Ahmedabad,Ambli Road,Residential,159640643,Unfurnished,3,3,Connected,0,0,0,0,13500.0,Plot Area,Gujarat
+Ahmedabad,Near Vaishno Devi Circle On Sg Highway,Residential,5800000,Unfurnished,3,2,Connected,1,1,1,2,1500.0,Built-up Area,Gujarat
+Ahmedabad,Dholera,Residential,159640643,Unfurnished,3,3,Connected,0,0,0,0,1900.0,Plot Area,Gujarat
+Ahmedabad,Makarba,Residential,238000000,Unfurnished,3,3,Connected,0,0,0,0,15300.0,Plot Area,Gujarat
+Ahmedabad,Dholera,Residential,650000,Unfurnished,3,3,Connected,0,0,1,0,1250.0,Plot Area,Gujarat
+Ahmedabad,Kadi,Residential,1280000000,Unfurnished,3,3,Connected,0,0,0,0,891000.0,Plot Area,Gujarat
+Ahmedabad,Sarkhej,Residential,363300000,Unfurnished,3,3,Connected,0,0,0,0,50310.0,Plot Area,Gujarat
+Ahmedabad,Ghatalodia,Commercial,0,Unfurnished,0,0,"Connected,Individual",1,0,0,2,1260.0,Built-up Area,Gujarat
+Ahmedabad,Vastrapur,Residential,125000000,Unfurnished,3,3,Connected,0,0,0,0,9000.0,Plot Area,Gujarat
+Ahmedabad,Satellite,Commercial,0,Furnished,0,0,No Balcony,0,0,0,0,373.0,Carpet Area,Gujarat
+Ahmedabad,Navrangpura,Residential,14000000,Semi-Furnished,3,3,Connected,0,0,0,1,1800.0,Built-up Area,Gujarat
+Ahmedabad,Prahlad Nagar,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,1,1635.0,Built-up Area,Gujarat
+Ahmedabad,Jagatpur,Commercial,0,Unfurnished,0,0,"Connected,Individual",0,0,0,12,550000.0,Built-up Area,Gujarat
+Ahmedabad,Jaspur,Residential,152500000,Unfurnished,3,3,Connected,0,0,0,0,19080.0,Plot Area,Gujarat
+Ahmedabad,Kadi,Residential,260000000,Unfurnished,3,3,Connected,0,0,0,0,201744.0,Plot Area,Gujarat
+Ahmedabad,Prahlad Nagar,Residential,159640643,Furnished,4,4,Connected,0,0,0,4,2475.0,Plot Area,Gujarat
+Ahmedabad,Ambli Road,Commercial,0,Furnished,0,0,No Balcony,0,0,0,1,1058.0,Built-up Area,Gujarat
+Ahmedabad,Science City,Residential,12000000,Unfurnished,3,3,Connected,0,0,0,0,1800.0,Built-up Area,Gujarat
+Ahmedabad,Navrangpura,Commercial,0,Semi-Furnished,0,0,Connected,0,0,0,3,800.0,Built-up Area,Gujarat
+Ahmedabad,Dholera,Residential,159640643,Unfurnished,3,3,Connected,0,0,0,0,4500.0,Plot Area,Gujarat
+Ahmedabad,Bodakdev,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,6,12372.0,Built-up Area,Gujarat
+Ahmedabad,Zundal,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,15300.0,Plot Area,Gujarat
+Ahmedabad,Vastrapur,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,31500.0,Plot Area,Gujarat
+Ahmedabad,Shilaj,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,6345.0,Plot Area,Gujarat
+Ahmedabad,Dholera,Residential,772000,Unfurnished,3,3,Connected,1,0,1,0,1188.0,Plot Area,Gujarat
+Ahmedabad,Ellis Bridge,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,3,1887.0,Built-up Area,Gujarat
+Ahmedabad,South Bopal,Residential,861300000,Unfurnished,3,3,Connected,1,0,0,0,73827.0,Plot Area,Gujarat
+Ahmedabad,Sindhubhavan,Residential,627000000,Unfurnished,3,3,Connected,0,0,0,0,29700.0,Plot Area,Gujarat
+Ahmedabad,Dholera,Residential,2100000,Unfurnished,3,3,Connected,0,1,1,0,5019.0,Plot Area,Gujarat
+Ahmedabad,Bopal,Residential,13500000,Semi-Furnished,3,3,Connected,0,0,0,0,2285.0,Saleable Area,Gujarat
+Ahmedabad,Bopal,Residential,8500000,Semi-Furnished,3,1,Connected,0,0,0,1,1600.0,Built-up Area,Gujarat
+Ahmedabad,Near Vaishno Devi Circle On Sg Highway,Residential,7300000,Unfurnished,3,3,Connected,0,0,0,1,1557.0,Built-up Area,Gujarat
+Ahmedabad,Thaltej,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,7650.0,Plot Area,Gujarat
+Ahmedabad,Sola,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,18000.0,Plot Area,Gujarat
+Ahmedabad,Bopal,Residential,10000000,Unfurnished,3,2,Connected,0,0,0,0,1300.0,Built-up Area,Gujarat
+Ahmedabad,Jaspur,Residential,65000000,Unfurnished,3,3,Connected,0,0,0,0,25200.0,Plot Area,Gujarat
+Ahmedabad,Jagatpur,Residential,9000000,Unfurnished,3,3,Connected,1,1,1,2,1550.0,Saleable Area,Gujarat
+Ahmedabad,Dholera,Residential,1500000,Unfurnished,3,3,Connected,0,0,0,0,2250.0,Plot Area,Gujarat
+Ahmedabad,SarkheJ- Okaf,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,154800.0,Plot Area,Gujarat
+Ahmedabad,Kalol,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,567000.0,Plot Area,Gujarat
+Ahmedabad,Bopal,Residential,6200000,Furnished,3,2,Connected,0,0,0,1,1285.0,Saleable Area,Gujarat
+Ahmedabad,Ambli,Residential,8400000,Unfurnished,3,3,"Connected,Individual",1,0,1,2,1750.0,Saleable Area,Gujarat
+Ahmedabad,Ghuma,Residential,159640643,Unfurnished,3,3,Connected,0,0,0,0,57501.0,Plot Area,Gujarat
+Ahmedabad,Zundal,Residential,7800000,Unfurnished,3,3,Individual,0,0,1,2,870.0,Carpet Area,Gujarat
+Ahmedabad,Ramdevnagar,Residential,45000000,Furnished,5,5,Connected,0,0,0,3,4418.0,Built-up Area,Gujarat
+Ahmedabad,Naranpura,Residential,18500000,Unfurnished,4,3,Connected,0,0,0,2,3600.0,Built-up Area,Gujarat
+Ahmedabad,Science City,Residential,137500000,Unfurnished,3,3,Connected,0,0,0,0,9900.0,Plot Area,Gujarat
+Ahmedabad,C G Road,Residential,17500000,Furnished,3,3,Connected,0,0,0,1,2075.0,Saleable Area,Gujarat
+Ahmedabad,Makarba,Commercial,0,Furnished,0,0,Connected,0,0,0,1,900.0,Built-up Area,Gujarat
+Ahmedabad,Shela,Residential,159640643,Furnished,2,2,Connected,0,0,0,1,1210.0,Built-up Area,Gujarat
+Ahmedabad,Sg Highway,Commercial,0,Furnished,0,0,No Balcony,0,0,0,1,915.0,Built-up Area,Gujarat
+Ahmedabad,South Bopal,Residential,125000000,Furnished,5,4,Connected,0,0,0,5,16200.0,Built-up Area,Gujarat
+Ahmedabad,Shahibagh,Residential,23000000,Unfurnished,4,4,Connected,0,1,0,0,3000.0,Built-up Area,Gujarat
+Ahmedabad,Near Nirma University On Sg Highway,Residential,6800000,Furnished,3,3,Connected,0,0,0,2,1325.0,Carpet Area,Gujarat
+Ahmedabad,Vaishnodevi Circle,Residential,16000000,Semi-Furnished,4,4,Connected,0,0,0,2,2233.0,Built-up Area,Gujarat
+Ahmedabad,Ambawadi,Residential,60000000,Unfurnished,3,3,Connected,0,0,0,0,4680.0,Plot Area,Gujarat
+Ahmedabad,Ghatalodia,Residential,4551000,Semi-Furnished,2,3,Connected,0,0,0,0,900.0,Built-up Area,Gujarat
+Ahmedabad,Ellis Bridge,Commercial,0,Furnished,0,0,Connected,0,0,0,2,1050.0,Built-up Area,Gujarat
+Ahmedabad,Thaltej,Residential,81000000,Unfurnished,3,3,Connected,0,0,0,0,4500.0,Plot Area,Gujarat
+Ahmedabad,Vaishnodevi Circle,Commercial,0,Unfurnished,0,0,Connected,1,0,0,3,650.0,Built-up Area,Gujarat
+Ahmedabad,Chandkheda,Residential,8000000,Furnished,3,3,Room-attached,0,0,0,2,2205.0,Built-up Area,Gujarat
+Ahmedabad,Memnagar,Residential,68700000,Unfurnished,3,3,Connected,0,0,0,0,5400.0,Plot Area,Gujarat
+Ahmedabad,Hebatpur,Residential,64000000,Unfurnished,5,5,Connected,0,0,0,2,6000.0,Built-up Area,Gujarat
+Ahmedabad,Thaltej,Residential,35000000,Furnished,3,4,Connected,0,0,0,2,3393.0,Saleable Area,Gujarat
+Ahmedabad,Manekbaug,Residential,73600000,Unfurnished,3,3,Connected,0,0,0,0,5760.0,Plot Area,Gujarat
+Ahmedabad,SarkheJ- Okaf,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,39042.0,Plot Area,Gujarat
+Ahmedabad,Navrangpura,Residential,159640643,Unfurnished,3,3,Connected,0,0,0,0,21600.0,Plot Area,Gujarat
+Ahmedabad,Bodakdev,Residential,77000000,Unfurnished,5,4,Connected,0,0,0,4,7745.0,Built-up Area,Gujarat
+Ahmedabad,Gota,Commercial,0,Unfurnished,0,0,"Connected,Individual",1,0,0,2,1584.0,Built-up Area,Gujarat
+Ahmedabad,Naranpura,Residential,80500000,Unfurnished,3,3,Connected,0,0,0,0,6300.0,Plot Area,Gujarat
+Ahmedabad,Khodiyar,Residential,6399000,Unfurnished,2,2,Connected,0,0,0,1,629.0,Carpet Area,Gujarat
+Ahmedabad,Makarba,Residential,253000000,Unfurnished,3,3,Connected,0,0,0,0,20700.0,Plot Area,Gujarat
+Ahmedabad,S G Highway,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,27000.0,Plot Area,Gujarat
+Ahmedabad,Shela,Residential,5898000,Semi-Furnished,2,2,"Connected,Room-attached",0,0,0,1,1210.0,Built-up Area,Gujarat
+Ahmedabad,Racharda,Residential,250000000,Unfurnished,3,3,Connected,0,0,0,0,51120.0,Plot Area,Gujarat
+Ahmedabad,Chandkheda,Residential,6000000,Semi-Furnished,2,1,Room-attached,0,0,0,2,1260.0,Built-up Area,Gujarat
+Ahmedabad,Lilapur,Residential,424000000,Unfurnished,3,3,Connected,0,0,0,0,135000.0,Plot Area,Gujarat
+Ahmedabad,S P Ring Road,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,15300.0,Plot Area,Gujarat
+Ahmedabad,Sindhubhavan,Residential,231700000,Unfurnished,3,3,Connected,0,0,0,0,13905.0,Plot Area,Gujarat
+Ahmedabad,Dholera,Residential,2300000,Unfurnished,3,3,Connected,0,1,1,0,5047.0,Plot Area,Gujarat
+Ahmedabad,Kadi,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,41013.0,Plot Area,Gujarat
+Ahmedabad,South Bopal,Commercial,0,Unfurnished,0,0,Individual,0,0,0,10,10000.0,Built-up Area,Gujarat
+Ahmedabad,Satellite,Residential,59800000,Furnished,4,3,"Connected,Room-attached",0,0,0,2,7000.0,Built-up Area,Gujarat
+Ahmedabad,Gota,Residential,8500000,Unfurnished,3,3,Connected,0,1,1,2,1800.0,Built-up Area,Gujarat
+Ahmedabad,Adalaj,Residential,-2147483648,Unfurnished,3,3,Connected,0,0,0,0,891000.0,Plot Area,Gujarat
+Ahmedabad,Bhadaj,Residential,8700000,Furnished,3,3,"Connected,Individual",0,0,0,2,1485.0,Built-up Area,Gujarat
+Ahmedabad,Jodhpur,Residential,11500000,Semi-Furnished,5,5,Individual,0,0,0,0,2200.0,Built-up Area,Gujarat
+Ahmedabad,Bodakdev,Residential,37500000,Furnished,4,4,Connected,0,0,0,2,4634.0,Built-up Area,Gujarat
+Ahmedabad,Hebatpur,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,43200.0,Plot Area,Gujarat
+Ahmedabad,Sindhubhavan,Residential,277500000,Furnished,4,4,Connected,0,0,0,4,11700.0,Built-up Area,Gujarat
+Ahmedabad,Jaspur,Residential,50000000,Furnished,5,1,"Connected,Individual,Room-attached",0,0,0,4,6160.0,Built-up Area,Gujarat
+Ahmedabad,Thaltej,Residential,48000000,Semi-Furnished,5,4,Connected,0,0,0,2,2925.0,Built-up Area,Gujarat
+Ahmedabad,Satellite,Residential,65800000,Furnished,5,3,"Connected,Room-attached",0,0,0,2,7700.0,Built-up Area,Gujarat
+Ahmedabad,Bopal,Residential,8000000,Furnished,3,3,Connected,0,0,0,1,1683.0,Saleable Area,Gujarat
+Ahmedabad,Bopal,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,22500.0,Plot Area,Gujarat
+Ahmedabad,Ambawadi,Residential,75000000,Unfurnished,3,3,Connected,0,0,0,0,4500.0,Plot Area,Gujarat
+Ahmedabad,Shilaj,Residential,7000000,Unfurnished,3,3,Individual,1,0,1,1,1560.0,Saleable Area,Gujarat
+Ahmedabad,Science City,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,23958.0,Plot Area,Gujarat
+Ahmedabad,Science City,Residential,22000000,Unfurnished,4,4,Individual,0,0,0,2,3200.0,Saleable Area,Gujarat
+Ahmedabad,Motera,Residential,11000000,Unfurnished,3,3,Connected,0,0,0,2,2295.0,Built-up Area,Gujarat
+Ahmedabad,Near Vaishno Devi Circle On Sg Highway,Residential,16500000,Unfurnished,4,4,Individual,1,1,1,3,3015.0,Built-up Area,Gujarat
+Ahmedabad,Ghuma,Residential,5200000,Unfurnished,3,2,Connected,0,1,1,1,860.0,Carpet Area,Gujarat
+Ahmedabad,Thaltej,Residential,29400000,Semi-Furnished,4,3,"Connected,Room-attached",0,0,0,2,4401.0,Built-up Area,Gujarat
+Ahmedabad,Satellite,Residential,17000000,Furnished,3,3,Connected,0,0,0,1,1917.0,Built-up Area,Gujarat
+Ahmedabad,Ellis Bridge,Residential,45000000,Unfurnished,4,4,Connected,0,0,0,2,3602.0,Built-up Area,Gujarat
+Ahmedabad,Satellite,Residential,18000000,Semi-Furnished,3,2,Connected,0,0,0,1,2070.0,Built-up Area,Gujarat
+Ahmedabad,S G Highway,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,58500.0,Plot Area,Gujarat
+Ahmedabad,Jagatpur,Residential,5175000,Unfurnished,2,2,Connected,0,0,0,1,1350.0,Built-up Area,Gujarat
+Ahmedabad,Shilaj,Residential,40600000,Unfurnished,3,3,Connected,1,1,1,0,10440.0,Plot Area,Gujarat
+Ahmedabad,Navrangpura,Residential,150000000,Unfurnished,3,3,Connected,0,0,0,0,9450.0,Plot Area,Gujarat
+Ahmedabad,Dholera,Residential,500000,Unfurnished,3,3,Connected,0,1,1,0,5051.0,Plot Area,Gujarat
+Ahmedabad,Bodakdev,Residential,77700000,Furnished,5,4,"Connected,Room-attached",0,0,0,3,7452.0,Built-up Area,Gujarat
+Ahmedabad,Chandkheda,Residential,2751000,Furnished,1,1,Individual,0,0,0,2,912.0,Built-up Area,Gujarat
+Ahmedabad,Ambli,Residential,8500000,Unfurnished,3,3,Individual,1,0,1,1,1760.0,Saleable Area,Gujarat
+Ahmedabad,Ambli,Residential,1000000000,Unfurnished,3,3,Connected,0,0,0,0,90000.0,Plot Area,Gujarat
+Ahmedabad,Ahmedabad Cantonment,Residential,159640643,Unfurnished,3,3,Connected,0,0,0,0,1545.0,Plot Area,Gujarat
+Ahmedabad,Thaltej,Commercial,0,Furnished,0,0,Connected,0,0,0,2,1038.0,Built-up Area,Gujarat
+Ahmedabad,Chharodi Village,Residential,9500000,Furnished,3,3,Connected,0,0,0,1,1302.0,Saleable Area,Gujarat
+Ahmedabad,Law Garden,Residential,720000000,Unfurnished,3,3,Connected,0,0,0,0,28800.0,Plot Area,Gujarat
+Ahmedabad,Bodakdev,Residential,37700000,Semi-Furnished,5,3,"Connected,Room-attached",0,0,0,2,3440.0,Built-up Area,Gujarat
+Ahmedabad,Dholera,Residential,1625000,Unfurnished,3,3,Connected,1,1,1,0,2250.0,Plot Area,Gujarat
+Ahmedabad,Dholera,Residential,159640643,Unfurnished,3,3,Connected,0,0,0,0,4540.0,Plot Area,Gujarat
+Ahmedabad,Thaltej,Residential,160000000,Unfurnished,4,4,Connected,0,0,0,4,8100.0,Plot Area,Gujarat
+Ahmedabad,Dholera,Residential,550000,Unfurnished,3,3,Connected,0,0,1,0,801.0,Plot Area,Gujarat
+Ahmedabad,Ambli,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,37800.0,Plot Area,Gujarat
+Ahmedabad,Manipur,Residential,432000000,Unfurnished,3,3,Connected,0,0,0,0,108000.0,Plot Area,Gujarat
+Ahmedabad,Ashram Road,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,10890.0,Plot Area,Gujarat
+Ahmedabad,Dholera,Residential,159640643,Unfurnished,3,3,Connected,0,1,0,0,9000.0,Plot Area,Gujarat
+Ahmedabad,Near Vaishno Devi Circle On Sg Highway,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,49500.0,Plot Area,Gujarat
+Ahmedabad,Science City,Residential,193700000,Unfurnished,3,3,Connected,0,0,0,0,12915.0,Plot Area,Gujarat
+Ahmedabad,Navrangpura,Commercial,0,Furnished,0,0,No Balcony,0,0,0,6,20000.0,Built-up Area,Gujarat
+Ahmedabad,Navrangpura,Commercial,0,Furnished,0,0,Connected,0,0,0,2,1409.0,Built-up Area,Gujarat
+Ahmedabad,Ambli,Residential,19000000,Unfurnished,4,4,Connected,0,0,0,3,2916.0,Built-up Area,Gujarat
+Ahmedabad,Navarangpura,Residential,159640643,Furnished,4,4,Connected,0,0,0,3,1880.0,Built-up Area,Gujarat
+Ahmedabad,Naranpura,Residential,115000000,Unfurnished,3,3,Connected,0,0,0,0,6300.0,Plot Area,Gujarat
+Ahmedabad,S P Ring Road,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,37800.0,Plot Area,Gujarat
+Ahmedabad,Shela,Residential,6000000,Unfurnished,2,2,Connected,1,0,1,1,1260.0,Built-up Area,Gujarat
+Ahmedabad,Maninagar,Residential,564000000,Unfurnished,3,3,Connected,0,0,0,0,42300.0,Plot Area,Gujarat
+Ahmedabad,SananD-Viramgam Road,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,198000.0,Built-up Area,Gujarat
+Ahmedabad,S G Highway,Commercial,0,Furnished,0,0,No Balcony,0,0,0,1,1100.0,Built-up Area,Gujarat
+Ahmedabad,Bopal,Residential,12500000,Unfurnished,3,3,Connected,1,1,1,1,1985.0,Built-up Area,Gujarat
+Ahmedabad,New Ranip,Residential,11500000,Semi-Furnished,3,3,Connected,0,0,0,1,2320.0,Built-up Area,Gujarat
+Ahmedabad,Vasna,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,4352.0,Built-up Area,Gujarat
+Ahmedabad,Sola,Residential,1300000000,Unfurnished,3,3,Connected,1,0,1,0,180000.0,Plot Area,Gujarat
+Ahmedabad,Chenpur,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,23400.0,Plot Area,Gujarat
+Ahmedabad,Jaspur,Residential,111000000,Unfurnished,3,3,Connected,0,0,0,0,2500.0,Plot Area,Gujarat
+Ahmedabad,Ranna Park,Residential,12900000,Unfurnished,3,3,Connected,0,0,0,0,4329.0,Plot Area,Gujarat
+Ahmedabad,Vastrapur,Commercial,0,Furnished,0,0,No Balcony,0,0,0,1,1143.0,Built-up Area,Gujarat
+Ahmedabad,Sindhubhavan,Commercial,0,Furnished,0,0,No Balcony,0,0,0,6,15500.0,Built-up Area,Gujarat
+Ahmedabad,Shilaj,Residential,21500000,Unfurnished,4,4,Connected,0,0,0,2,2800.0,Saleable Area,Gujarat
+Ahmedabad,Usmanpura,Residential,67300000,Unfurnished,3,3,Connected,0,0,0,0,4491.0,Plot Area,Gujarat
+Ahmedabad,Prahlad Nagar,Commercial,0,Furnished,0,0,No Balcony,0,0,0,2,1226.0,Built-up Area,Gujarat
+Ahmedabad,Near Vaishno Devi Circle On Sg Highway,Residential,9000000,Furnished,3,3,"Connected,Individual",0,0,0,2,2470.0,Built-up Area,Gujarat
+Ahmedabad,Shela,Residential,64000000,Unfurnished,5,5,Connected,0,0,0,3,8358.0,Built-up Area,Gujarat
+Ahmedabad,Jaspur,Residential,708700000,Unfurnished,3,3,Connected,0,0,0,0,66150.0,Plot Area,Gujarat
+Ahmedabad,Adalaj,Residential,468000000,Unfurnished,3,3,Connected,0,0,0,0,46800.0,Plot Area,Gujarat
+Ahmedabad,Mulsana,Residential,79200000,Unfurnished,3,3,Connected,0,0,0,0,47574.0,Plot Area,Gujarat
+Ahmedabad,Mumatpura,Residential,410000000,Unfurnished,3,3,Connected,0,0,0,0,23850.0,Plot Area,Gujarat
+Ahmedabad,Thaltej,Residential,27900000,Semi-Furnished,5,3,"Connected,Room-attached",0,0,0,2,3400.0,Built-up Area,Gujarat
+Ahmedabad,Shela,Residential,12500000,Unfurnished,4,4,Connected,0,0,0,1,3500.0,Built-up Area,Gujarat
+Ahmedabad,Zundal,Residential,5500000,Furnished,2,2,Individual,0,0,0,2,1503.0,Built-up Area,Gujarat
+Ahmedabad,Vastrapur,Residential,15500000,Unfurnished,3,3,Connected,1,1,1,1,1634.0,Built-up Area,Gujarat
+Ahmedabad,Jagatpur,Residential,5500000,Furnished,2,2,Connected,0,0,0,0,1180.0,Built-up Area,Gujarat
+Ahmedabad,Ognaj,Residential,420000000,Unfurnished,3,3,Connected,0,0,0,0,108000.0,Plot Area,Gujarat
+Ahmedabad,Ashram Road,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,20250.0,Plot Area,Gujarat
+Ahmedabad,Vaishnodevi Circle,Commercial,0,Unfurnished,0,0,Room-attached,1,0,0,2,800.0,Built-up Area,Gujarat
+Ahmedabad,Nadoliya,Residential,3450000,Unfurnished,3,3,Connected,0,0,0,0,1125.0,Plot Area,Gujarat
+Ahmedabad,Zundal,Residential,6500000,Unfurnished,3,3,"Individual,Room-attached",0,0,0,1,1575.0,Saleable Area,Gujarat
+Ahmedabad,Near Vaishno Devi Circle On Sg Highway,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,32400.0,Plot Area,Gujarat
+Ahmedabad,Tragad,Residential,4500000,Furnished,2,2,Room-attached,0,0,0,2,1035.0,Built-up Area,Gujarat
+Ahmedabad,Shilaj,Residential,8500000,Semi-Furnished,3,3,Individual,0,0,0,3,1575.0,Built-up Area,Gujarat
+Ahmedabad,Viramgam,Residential,785000000,Unfurnished,3,3,Connected,0,0,0,0,23256.0,Plot Area,Gujarat
+Ahmedabad,Ambli,Residential,16000000,Furnished,3,3,Room-attached,0,0,0,2,1850.0,Saleable Area,Gujarat
+Ahmedabad,Dholera,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,7260.0,Plot Area,Gujarat
+Ahmedabad,Sp Ring Road,Residential,11000000,Unfurnished,3,3,Connected,1,1,1,1,1960.0,Saleable Area,Gujarat
+Ahmedabad,Bodakdev,Residential,525000000,Unfurnished,3,3,Connected,0,0,0,0,27000.0,Plot Area,Gujarat
+Ahmedabad,Makarba,Residential,651000000,Unfurnished,3,3,Connected,0,0,0,0,63000.0,Plot Area,Gujarat
+Ahmedabad,Zundal,Residential,302500000,Unfurnished,3,3,Connected,0,0,0,0,29700.0,Plot Area,Gujarat
+Ahmedabad,Dholka,Residential,159640643,Unfurnished,3,3,Connected,0,0,0,0,801.0,Plot Area,Gujarat
+Ahmedabad,Gota,Residential,18700000,Unfurnished,4,4,Connected,0,0,0,2,5045.0,Built-up Area,Gujarat
+Ahmedabad,Zundal,Residential,350000000,Unfurnished,3,3,Connected,0,0,0,0,63000.0,Plot Area,Gujarat
+Ahmedabad,Bopal,Residential,6000000,Semi-Furnished,2,2,Connected,0,0,0,2,1285.0,Saleable Area,Gujarat
+Ahmedabad,Ghuma,Residential,105000000,Unfurnished,3,3,Connected,0,0,0,0,27000.0,Plot Area,Gujarat
+Ahmedabad,Shilaj,Residential,28000000,Semi-Furnished,4,3,Individual,0,0,0,2,2250.0,Built-up Area,Gujarat
+Ahmedabad,Kasindra,Residential,7989000,Semi-Furnished,3,2,"Connected,Room-attached",0,0,0,2,265.0,Built-up Area,Gujarat
+Ahmedabad,Ambli,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,18000.0,Plot Area,Gujarat
+Ahmedabad,Navrangpura,Residential,7000000,Unfurnished,2,2,Connected,0,0,1,1,1215.0,Saleable Area,Gujarat
+Ahmedabad,Bopal,Residential,4500000,Semi-Furnished,2,2,Connected,0,0,0,0,1116.0,Built-up Area,Gujarat
+Ahmedabad,Sp Ring Road,Residential,158700000,Unfurnished,3,3,Connected,0,0,1,0,1221.0,Plot Area,Gujarat
+Ahmedabad,Shela,Residential,7800000,Unfurnished,3,3,Connected,1,0,1,1,1760.0,Built-up Area,Gujarat
+Ahmedabad,Bopal,Commercial,0,Furnished,0,0,No Balcony,0,0,0,0,775.0,Saleable Area,Gujarat
+Ahmedabad,Naranpura,Residential,18500000,Unfurnished,4,3,Connected,0,0,0,2,2900.0,Built-up Area,Gujarat
+Ahmedabad,Sanathal,Residential,47500000,Semi-Furnished,4,4,Connected,0,0,0,2,5985.0,Plot Area,Gujarat
+Ahmedabad,Science City,Commercial,0,Furnished,0,0,"Individual,Room-attached",0,0,0,3,1393.0,Built-up Area,Gujarat
+Ahmedabad,Zundal,Residential,7200000,Unfurnished,3,3,Connected,1,0,0,2,1692.0,Built-up Area,Gujarat
+Ahmedabad,Vaishnodevi Circle,Residential,40000000,Unfurnished,3,3,Connected,0,0,0,0,9000.0,Plot Area,Gujarat
+Ahmedabad,Motera,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,32400.0,Plot Area,Gujarat
+Ahmedabad,Tragad,Residential,4200000,Unfurnished,2,2,Connected,0,0,0,1,1081.0,Built-up Area,Gujarat
+Ahmedabad,Thaltej,Residential,30800000,Unfurnished,4,5,Connected,1,0,1,2,3500.0,Built-up Area,Gujarat
+Ahmedabad,New Ranip,Residential,6300000,Unfurnished,3,2,Connected,0,0,0,1,1440.0,Built-up Area,Gujarat
+Ahmedabad,SarkheJ- Okaf,Residential,150000000,Unfurnished,3,3,Connected,0,0,0,0,22500.0,Plot Area,Gujarat
+Ahmedabad,Science City,Residential,95100000,Unfurnished,3,3,Connected,1,1,1,0,12969.0,Plot Area,Gujarat
+Ahmedabad,Near Vaishno Devi Circle On Sg Highway,Residential,12000000,Semi-Furnished,3,3,Individual,0,0,0,3,2000.0,Built-up Area,Gujarat
+Ahmedabad,Naranpura,Commercial,0,Furnished,0,0,Connected,0,0,0,4,1495.0,Built-up Area,Gujarat
+Ahmedabad,S P Ring Road,Residential,416600000,Unfurnished,3,3,Connected,0,0,0,0,28845.0,Plot Area,Gujarat
+Ahmedabad,Devdholera,Residential,667000,Unfurnished,3,3,Connected,0,0,0,0,801.0,Plot Area,Gujarat
+Ahmedabad,Gulbai Tekra,Residential,15400000,Unfurnished,3,3,Connected,1,0,0,3,2369.0,Built-up Area,Gujarat
+Ahmedabad,Bopal,Residential,15500000,Furnished,3,3,Connected,0,0,0,1,1985.0,Saleable Area,Gujarat
+Ahmedabad,Shahibaug,Residential,37500000,Furnished,4,4,Connected,0,0,0,2,4122.0,Built-up Area,Gujarat
+Ahmedabad,Shilaj,Residential,22500000,Unfurnished,4,4,"Connected,Room-attached",1,1,1,2,2900.0,Saleable Area,Gujarat
+Ahmedabad,Mani Nagar,Residential,18900000,Semi-Furnished,3,2,"Connected,Room-attached",0,0,0,2,2160.0,Built-up Area,Gujarat
+Ahmedabad,Shilaj,Residential,27500000,Semi-Furnished,4,4,Connected,0,0,0,0,2281.0,Built-up Area,Gujarat
+Ahmedabad,Bodakdev,Residential,28000000,Unfurnished,4,4,Connected,1,1,1,3,3534.0,Saleable Area,Gujarat
+Ahmedabad,Sindhubhavan,Residential,190000000,Furnished,4,4,Connected,0,0,0,4,13158.0,Plot Area,Gujarat
+Ahmedabad,Bhadaj,Residential,159640643,Unfurnished,3,3,Connected,0,0,0,0,34200.0,Plot Area,Gujarat
+Ahmedabad,Shela,Residential,19500000,Unfurnished,4,4,Connected,0,0,0,2,3151.0,Built-up Area,Gujarat
+Ahmedabad,Satellite,Commercial,0,Furnished,0,0,Connected,0,0,0,1,373.0,Built-up Area,Gujarat
+Ahmedabad,Santej,Commercial,0,Unfurnished,0,0,No Balcony,1,0,0,0,950.0,Plot Area,Gujarat
+Ahmedabad,Gurukul,Residential,26000000,Semi-Furnished,4,2,Individual,0,0,0,1,240.0,Saleable Area,Gujarat
+Ahmedabad,Thaltej,Residential,122500000,Furnished,4,4,Connected,0,0,0,4,5589.0,Plot Area,Gujarat
+Ahmedabad,Chanakyapuri,Residential,10100000,Furnished,3,3,Connected,0,0,0,4,1773.0,Built-up Area,Gujarat
+Ahmedabad,Chandkheda,Residential,434200000,Unfurnished,3,3,Connected,0,0,0,0,33984.0,Plot Area,Gujarat
+Ahmedabad,Gota,Residential,7597000,Semi-Furnished,3,2,"Connected,Room-attached",0,0,0,2,1620.0,Built-up Area,Gujarat
+Ahmedabad,South Bopal,Residential,40000000,Unfurnished,3,3,Connected,0,0,0,0,4500.0,Plot Area,Gujarat
+Ahmedabad,Ranna Park,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,27000.0,Plot Area,Gujarat
+Ahmedabad,Shilaj,Residential,250000000,Unfurnished,3,3,Connected,0,0,0,0,17334.0,Plot Area,Gujarat
+Ahmedabad,Makarba,Residential,1920000000,Unfurnished,3,3,Connected,0,0,0,0,108000.0,Plot Area,Gujarat
+Ahmedabad,Ambawadi,Residential,73600000,Semi-Furnished,4,3,Connected,0,0,0,4,5760.0,Carpet Area,Gujarat
+Ahmedabad,Navarangpura,Residential,32500000,Unfurnished,4,4,Connected,0,0,0,2,4400.0,Built-up Area,Gujarat
+Ahmedabad,Sola,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,67500.0,Plot Area,Gujarat
+Ahmedabad,Sanand,Residential,111000000,Unfurnished,3,3,Connected,0,0,0,0,252000.0,Plot Area,Gujarat
+Ahmedabad,Near Nirma University On Sg Highway,Residential,9000000,Unfurnished,3,3,Connected,1,1,1,2,950.0,Built-up Area,Gujarat
+Ahmedabad,S G Highway,Residential,6800000,Semi-Furnished,3,2,"Connected,Room-attached",0,0,0,1,1722.0,Built-up Area,Gujarat
+Ahmedabad,Jaspur,Residential,43700000,Unfurnished,3,3,Connected,0,0,0,0,11250.0,Plot Area,Gujarat
+Ahmedabad,Acher,Residential,2300000,Unfurnished,1,3,Connected,0,1,0,0,150.0,Built-up Area,Gujarat
+Ahmedabad,New Ranip,Residential,6300000,Furnished,3,3,Connected,0,0,0,0,1395.0,Built-up Area,Gujarat
+Ahmedabad,Prahlad Nagar,Residential,83100000,Semi-Furnished,5,4,Connected,0,0,0,4,4365.0,Carpet Area,Gujarat
+Ahmedabad,Ellis Bridge,Commercial,0,Furnished,0,0,"Connected,Individual",0,0,0,12,7951.0,Built-up Area,Gujarat
+Ahmedabad,Shela,Residential,6500000,Semi-Furnished,3,2,"Connected,Room-attached",0,0,0,1,1550.0,Built-up Area,Gujarat
+Ahmedabad,Shilaj,Residential,17500000,Unfurnished,3,3,Individual,0,1,0,2,3108.0,Built-up Area,Gujarat
+Ahmedabad,Bopal,Residential,7725000,Unfurnished,3,3,Individual,0,0,1,2,1755.0,Saleable Area,Gujarat
+Ahmedabad,Chamanpura,Residential,8800000,Furnished,3,3,Room-attached,0,0,0,2,2205.0,Built-up Area,Gujarat
+Ahmedabad,Science City,Residential,182000000,Unfurnished,3,3,Connected,0,0,0,0,12600.0,Plot Area,Gujarat
+Ahmedabad,Paldi,Residential,176000000,Unfurnished,3,3,Connected,0,0,0,0,14400.0,Plot Area,Gujarat
+Ahmedabad,Kasindra,Residential,7310000,Semi-Furnished,3,2,"Connected,Room-attached",0,0,0,2,222.0,Built-up Area,Gujarat
+Ahmedabad,Mahemdabad,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,144000.0,Plot Area,Gujarat
+Ahmedabad,South Bopal,Residential,42500000,Furnished,5,4,Connected,0,0,0,3,4500.0,Plot Area,Gujarat
+Ahmedabad,Jagatpur,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,20520.0,Plot Area,Gujarat
+Ahmedabad,Gota,Residential,159640643,Semi-Furnished,2,2,Connected,0,0,0,1,1179.0,Built-up Area,Gujarat
+Ahmedabad,Ambawadi,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,54000.0,Plot Area,Gujarat
+Ahmedabad,Ahmedabad Cantonment,Residential,9184000,Furnished,3,2,Connected,0,0,0,1,1674.0,Built-up Area,Gujarat
+Ahmedabad,Santej,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,19800.0,Plot Area,Gujarat
+Ahmedabad,Sola,Residential,100800000,Unfurnished,3,3,Connected,0,0,0,0,12969.0,Plot Area,Gujarat
+Ahmedabad,Makarba,Residential,1650000000,Unfurnished,3,3,Connected,0,0,0,0,99000.0,Plot Area,Gujarat
+Ahmedabad,Vastrapur,Residential,23500000,Furnished,4,4,Connected,0,0,0,2,2415.0,Built-up Area,Gujarat
+Ahmedabad,Nehru Nagar,Residential,13500000,Unfurnished,3,2,Connected,0,0,0,3,1530.0,Built-up Area,Gujarat
+Ahmedabad,Bodakdev,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,8172.0,Plot Area,Gujarat
+Ahmedabad,Nadoliya,Residential,159640643,Unfurnished,3,3,Connected,0,0,1,0,1357.0,Plot Area,Gujarat
+Ahmedabad,Shantigram,Residential,160000000,Semi-Furnished,5,5,Connected,0,0,0,5,12150.0,Plot Area,Gujarat
+Ahmedabad,Shahibaug,Residential,34000000,Unfurnished,4,4,Connected,0,0,0,2,4100.0,Built-up Area,Gujarat
+Ahmedabad,Vaishnodevi Circle,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,101493.0,Plot Area,Gujarat
+Ahmedabad,Mithakhali,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,12303.0,Plot Area,Gujarat
+Ahmedabad,Tragad,Residential,4600000,Unfurnished,2,2,Room-attached,0,0,0,2,1031.0,Built-up Area,Gujarat
+Ahmedabad,Naranpura,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,6,25000.0,Built-up Area,Gujarat
+Ahmedabad,Gulbai Tekra,Residential,17400000,Unfurnished,3,3,Connected,0,0,1,3,1278.0,Carpet Area,Gujarat
+Ahmedabad,Gota,Residential,13600000,Semi-Furnished,3,2,"Connected,Room-attached",0,0,0,1,1434.0,Built-up Area,Gujarat
+Ahmedabad,Naroda,Residential,135000000,Unfurnished,3,3,Connected,0,0,0,0,16200.0,Plot Area,Gujarat
+Ahmedabad,Chandkheda,Residential,6755000,Semi-Furnished,3,2,"Connected,Room-attached",0,0,0,2,1600.0,Built-up Area,Gujarat
+Ahmedabad,Near Nirma University On Sg Highway,Residential,8600000,Furnished,3,3,Connected,0,0,0,2,950.0,Built-up Area,Gujarat
+Ahmedabad,Wapa,Residential,16500000,Unfurnished,4,4,Individual,1,1,1,3,3300.0,Saleable Area,Gujarat
+Ahmedabad,Sindhubhavan,Residential,507500000,Unfurnished,3,3,Connected,0,0,0,0,27000.0,Plot Area,Gujarat
+Ahmedabad,Bhadaj,Residential,33000000,Unfurnished,3,3,Connected,0,0,0,0,9018.0,Plot Area,Gujarat
+Ahmedabad,Shela,Residential,6099000,Semi-Furnished,3,2,"Connected,Room-attached",0,0,0,1,1440.0,Built-up Area,Gujarat
+Ahmedabad,Racharda,Residential,60000000,Unfurnished,3,3,Connected,0,0,0,0,12861.0,Plot Area,Gujarat
+Ahmedabad,Bodakdev,Residential,16500000,Semi-Furnished,3,3,Connected,0,0,0,2,2080.0,Built-up Area,Gujarat
+Ahmedabad,South Bopal,Residential,7500000,Unfurnished,3,3,Connected,1,0,1,1,1725.0,Saleable Area,Gujarat
+Ahmedabad,Bodakdev,Residential,53200000,Unfurnished,5,5,Connected,1,1,1,4,6712.0,Saleable Area,Gujarat
+Ahmedabad,Navrangpura,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,9810.0,Plot Area,Gujarat
+Ahmedabad,Navrangpura,Commercial,0,Furnished,0,0,No Balcony,0,0,0,1,540.0,Built-up Area,Gujarat
+Ahmedabad,Jaspur,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,66150.0,Plot Area,Gujarat
+Ahmedabad,Chandkheda,Residential,4350000,Furnished,2,2,Room-attached,0,0,0,2,1170.0,Built-up Area,Gujarat
+Ahmedabad,Changodar,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,11610.0,Built-up Area,Gujarat
+Ahmedabad,Ambli,Residential,1248000000,Unfurnished,3,3,Connected,0,0,0,0,70200.0,Plot Area,Gujarat
+Ahmedabad,Lilapur,Residential,40000000,Unfurnished,6,6,Connected,0,0,0,0,2000.0,Built-up Area,Gujarat
+Ahmedabad,Bopal,Residential,5100000,Furnished,2,2,Connected,0,0,0,1,1140.0,Built-up Area,Gujarat
+Ahmedabad,Thaltej,Residential,15000000,Furnished,3,3,Connected,0,0,0,2,2100.0,Built-up Area,Gujarat
+Ahmedabad,Sg Highway,Commercial,0,Furnished,0,0,Connected,0,0,0,2,1200.0,Built-up Area,Gujarat
+Ahmedabad,Lal Darwaja,Residential,1400000000,Unfurnished,3,3,Connected,0,0,0,0,63000.0,Plot Area,Gujarat
+Ahmedabad,Thaltej,Residential,1000000000,Unfurnished,3,3,Connected,0,0,0,0,72000.0,Plot Area,Gujarat
+Ahmedabad,Jagatpur,Residential,2849000,Semi-Furnished,1,1,"Connected,Room-attached",0,0,0,0,775.0,Built-up Area,Gujarat
+Ahmedabad,Gota,Residential,9200000,Semi-Furnished,3,3,Individual,0,0,0,3,1728.0,Built-up Area,Gujarat
+Ahmedabad,Ramdev Nagar,Residential,15500000,Furnished,3,3,Connected,0,0,0,2,2160.0,Built-up Area,Gujarat
+Ahmedabad,S G Highway,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,18000.0,Plot Area,Gujarat
+Ahmedabad,Ghuma,Residential,28200000,Unfurnished,3,3,Connected,0,0,0,0,5400.0,Plot Area,Gujarat
+Ahmedabad,Santej,Commercial,0,Unfurnished,0,0,No Balcony,0,0,1,0,2333.0,Plot Area,Gujarat
+Ahmedabad,Sola,Residential,120000000,Unfurnished,3,3,Connected,0,0,0,0,8487.0,Plot Area,Gujarat
+Ahmedabad,Bhavanpur,Residential,105000000,Unfurnished,3,3,Connected,0,0,0,0,50400.0,Plot Area,Gujarat
+Ahmedabad,South Bopal,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,6,6800.0,Saleable Area,Gujarat
+Ahmedabad,Satellite,Residential,16000000,Furnished,3,3,Connected,0,0,0,2,2268.0,Built-up Area,Gujarat
+Ahmedabad,Gota,Residential,5541000,Semi-Furnished,2,2,"Connected,Room-attached",0,0,0,2,1179.0,Built-up Area,Gujarat
+Ahmedabad,Ambli,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,1,1315.0,Saleable Area,Gujarat
+Ahmedabad,Chandkheda,Residential,5550000,Semi-Furnished,2,2,"Connected,Room-attached",0,0,0,1,925.0,Built-up Area,Gujarat
+Ahmedabad,Tapovan Circle,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,30240.0,Plot Area,Gujarat
+Ahmedabad,South Bopal,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,757.0,Built-up Area,Gujarat
+Ahmedabad,Shela,Residential,5805000,Semi-Furnished,2,2,"Connected,Room-attached",0,0,0,2,1185.0,Built-up Area,Gujarat
+Ahmedabad,Shyamal,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,2,1140.0,Saleable Area,Gujarat
+Ahmedabad,Vastral,Residential,5700000,Unfurnished,3,3,Room-attached,0,0,0,3,1503.0,Built-up Area,Gujarat
+Ahmedabad,Ashram Road,Commercial,0,Furnished,0,0,No Balcony,0,0,0,2,1110.0,Built-up Area,Gujarat
+Ahmedabad,Shilaj,Residential,6500000,Furnished,2,2,Connected,0,0,0,1,1048.0,Saleable Area,Gujarat
+Ahmedabad,Shela,Residential,200000000,Furnished,5,3,Connected,0,0,0,0,18000.0,Plot Area,Gujarat
+Ahmedabad,Dholera,Residential,1160000,Unfurnished,3,3,Connected,1,0,0,0,1485.0,Plot Area,Gujarat
+Ahmedabad,Kadi,Commercial,0,Unfurnished,0,0,No Balcony,0,0,1,0,23256.0,Plot Area,Gujarat
+Ahmedabad,Near Vaishno Devi Circle On Sg Highway,Residential,10500000,Unfurnished,4,4,Connected,0,0,0,2,2160.0,Built-up Area,Gujarat
+Ahmedabad,Navrangpura,Residential,35100000,Furnished,4,4,Connected,0,0,0,2,3400.0,Built-up Area,Gujarat
+Ahmedabad,Prahlad Nagar,Residential,85000000,Furnished,4,4,Connected,0,0,0,3,4500.0,Carpet Area,Gujarat
+Ahmedabad,Vastrapur,Residential,88500000,Furnished,4,4,Connected,0,0,0,4,6129.0,Carpet Area,Gujarat
+Ahmedabad,Gota,Residential,14100000,Furnished,3,3,Room-attached,0,0,0,1,1918.0,Saleable Area,Gujarat
+Ahmedabad,Isanpur,Residential,7100000,Semi-Furnished,3,2,"Connected,Room-attached",0,0,0,1,1845.0,Built-up Area,Gujarat
+Ahmedabad,Ghuma,Residential,167100000,Unfurnished,3,3,Connected,0,0,0,0,30087.0,Plot Area,Gujarat
+Ahmedabad,Vastrapur,Commercial,0,Semi-Furnished,0,0,No Balcony,0,0,0,2,1256.0,Saleable Area,Gujarat
+Ahmedabad,Near Vaishno Devi Circle On Sg Highway,Commercial,0,Furnished,0,0,No Balcony,0,0,0,7,3100.0,Built-up Area,Gujarat
+Ahmedabad,Bopal,Residential,52500000,Furnished,4,4,Connected,0,0,0,3,5700.0,Built-up Area,Gujarat
+Ahmedabad,Chandkheda,Residential,4200000,Unfurnished,2,2,Connected,0,0,0,2,1081.0,Built-up Area,Gujarat
+Ahmedabad,Shela,Residential,6700000,Furnished,2,2,Connected,0,0,0,1,1295.0,Built-up Area,Gujarat
+Ahmedabad,Pipali Highway,Residential,599000,Unfurnished,3,3,Connected,0,0,1,0,900.0,Plot Area,Gujarat
+Ahmedabad,Chandkheda Gam,Residential,4800000,Semi-Furnished,2,2,Room-attached,0,0,0,2,1115.0,Built-up Area,Gujarat
+Ahmedabad,Jashoda Nagar,Residential,2700000,Semi-Furnished,1,1,Individual,0,0,0,2,690.0,Built-up Area,Gujarat
+Ahmedabad,Sanand,Residential,3000000,Unfurnished,2,3,Connected,0,1,1,0,800.0,Built-up Area,Gujarat
+Ahmedabad,Bodakdev,Residential,30000000,Furnished,4,4,"Individual,Room-attached",0,0,0,3,3272.0,Built-up Area,Gujarat
+Ahmedabad,Vastrapur,Residential,20000000,Unfurnished,4,4,Connected,0,0,0,3,3163.0,Built-up Area,Gujarat
+Ahmedabad,Nasmed,Residential,170000000,Unfurnished,3,3,Connected,0,0,0,0,61200.0,Plot Area,Gujarat
+Ahmedabad,Santej,Residential,64200000,Unfurnished,3,3,Connected,0,0,0,0,8262.0,Plot Area,Gujarat
+Ahmedabad,Ambli,Residential,792400000,Unfurnished,3,3,Connected,0,0,0,0,47547.0,Plot Area,Gujarat
+Ahmedabad,Barejadi,Residential,6498000,Semi-Furnished,4,2,"Connected,Room-attached",0,0,0,1,2610.0,Built-up Area,Gujarat
+Ahmedabad,Dholera,Residential,1400000,Unfurnished,3,3,Connected,0,0,0,0,18000.0,Plot Area,Gujarat
+Ahmedabad,Naranpura,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,6,30000.0,Built-up Area,Gujarat
+Ahmedabad,Thaltej,Residential,70000000,Furnished,4,5,Connected,0,0,0,2,4950.0,Plot Area,Gujarat
+Ahmedabad,Vastral,Residential,3700000,Semi-Furnished,2,2,Room-attached,0,0,0,2,1188.0,Built-up Area,Gujarat
+Ahmedabad,Thaltej,Residential,27200000,Unfurnished,4,4,Connected,1,1,1,3,4000.0,Saleable Area,Gujarat
+Ahmedabad,Dholera,Residential,550000,Unfurnished,3,3,Connected,0,0,1,0,1200.0,Plot Area,Gujarat
+Ahmedabad,Nadoliya,Residential,23500000,Semi-Furnished,4,4,"Connected,Individual,Room-attached",0,0,0,3,1881.0,Built-up Area,Gujarat
+Ahmedabad,Gota,Residential,24500000,Furnished,4,4,Connected,0,0,0,4,3591.0,Saleable Area,Gujarat
+Ahmedabad,Hebatpur,Residential,310500000,Unfurnished,3,3,Connected,0,0,0,0,22500.0,Plot Area,Gujarat
+Ahmedabad,Ambli Road,Commercial,0,Furnished,0,0,No Balcony,0,0,0,1,699.0,Built-up Area,Gujarat
+Ahmedabad,Sola,Residential,15000000,Furnished,3,3,Connected,0,0,0,4,1962.0,Built-up Area,Gujarat
+Ahmedabad,Sola Road,Commercial,0,Unfurnished,0,0,Connected,1,1,1,2,1849.0,Built-up Area,Gujarat
+Ahmedabad,New Ranip,Residential,5600000,Semi-Furnished,2,2,Connected,0,0,0,1,1287.0,Plot Area,Gujarat
+Ahmedabad,Vaishnodevi Circle,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,54000.0,Plot Area,Gujarat
+Ahmedabad,Navrangpura,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,8100.0,Plot Area,Gujarat
+Ahmedabad,Chharodi,Residential,588000000,Unfurnished,3,3,Connected,0,0,0,0,37800.0,Plot Area,Gujarat
+Ahmedabad,Thaltej,Residential,25000000,Furnished,3,3,Connected,0,0,0,4,2100.0,Saleable Area,Gujarat
+Ahmedabad,Gota,Residential,9796000,Semi-Furnished,3,2,"Connected,Room-attached",0,0,0,1,968.0,Built-up Area,Gujarat
+Ahmedabad,Shela,Residential,17000000,Unfurnished,4,4,Connected,1,1,1,3,2585.0,Built-up Area,Gujarat
+Ahmedabad,S G Highway,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,9000.0,Plot Area,Gujarat
+Ahmedabad,Chandkheda,Residential,7578000,Semi-Furnished,3,2,"Connected,Room-attached",0,0,0,2,1263.0,Built-up Area,Gujarat
+Ahmedabad,Anand Nagar,Residential,9000000,Furnished,3,3,Connected,0,0,0,2,1100.0,Built-up Area,Gujarat
+Ahmedabad,Ambli Road,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,2,2000.0,Saleable Area,Gujarat
+Ahmedabad,Sanand,Residential,200000000,Unfurnished,3,3,Connected,0,0,0,0,123300.0,Plot Area,Gujarat
+Ahmedabad,Shela,Residential,7005000,Semi-Furnished,3,2,"Connected,Room-attached",0,0,0,2,1430.0,Built-up Area,Gujarat
+Ahmedabad,Vastrapur,Residential,88500000,Furnished,4,3,Connected,0,0,0,4,6129.0,Carpet Area,Gujarat
+Ahmedabad,Shilaj,Residential,60000000,Unfurnished,5,4,Connected,0,0,0,2,10205.0,Built-up Area,Gujarat
+Ahmedabad,Chandkheda,Residential,231400000,Unfurnished,3,3,Connected,0,0,0,0,16020.0,Plot Area,Gujarat
+Ahmedabad,Satellite,Residential,45100000,Unfurnished,3,3,Connected,0,0,0,0,3150.0,Plot Area,Gujarat
+Ahmedabad,Maninagar,Residential,15800000,Semi-Furnished,3,2,"Connected,Room-attached",0,0,0,2,1800.0,Built-up Area,Gujarat
+Ahmedabad,Lilapur,Residential,5298000,Semi-Furnished,2,2,"Connected,Room-attached",0,0,0,1,1377.0,Built-up Area,Gujarat
+Ahmedabad,Kadi,Commercial,0,Unfurnished,0,0,No Balcony,0,0,1,0,108000.0,Plot Area,Gujarat
+Ahmedabad,Chandkheda,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,26100.0,Plot Area,Gujarat
+Ahmedabad,Bodakdev,Residential,54800000,Furnished,4,3,"Connected,Room-attached",0,0,0,3,5265.0,Built-up Area,Gujarat
+Ahmedabad,Bodakdev,Residential,52500000,Furnished,4,3,Connected,0,0,0,2,3420.0,Plot Area,Gujarat
+Ahmedabad,Pipali Highway,Residential,1007000,Unfurnished,3,3,Connected,0,0,1,0,1512.0,Plot Area,Gujarat
+Ahmedabad,New Ranip,Residential,6900000,Semi-Furnished,3,2,Connected,0,0,0,1,1548.0,Saleable Area,Gujarat
+Ahmedabad,Chandkheda,Residential,5699000,Semi-Furnished,3,2,"Connected,Room-attached",0,0,0,2,1350.0,Built-up Area,Gujarat
+Ahmedabad,Kolat,Residential,81000000,Unfurnished,3,3,Connected,0,0,0,0,21600.0,Plot Area,Gujarat
+Ahmedabad,Dholera,Residential,1200000,Unfurnished,3,3,Connected,0,0,1,0,500.0,Plot Area,Gujarat
+Ahmedabad,Sanand,Residential,1000000000,Unfurnished,3,3,Connected,0,0,0,0,23256.0,Plot Area,Gujarat
+Ahmedabad,Thaltej,Residential,35000000,Unfurnished,4,4,Connected,0,0,0,2,1620.0,Saleable Area,Gujarat
+Ahmedabad,Chanakyapuri,Residential,10000000,Furnished,3,3,Connected,0,0,0,2,1548.0,Saleable Area,Gujarat
+Ahmedabad,Satellite,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,16920.0,Plot Area,Gujarat
+Ahmedabad,Pipali Highway,Residential,10000000,Furnished,3,2,Connected,0,0,0,1,1200.0,Built-up Area,Gujarat
+Ahmedabad,Kadi,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,270000.0,Plot Area,Gujarat
+Ahmedabad,Ambli,Residential,742500000,Unfurnished,3,3,Connected,0,0,0,0,40500.0,Plot Area,Gujarat
+Ahmedabad,Near Vaishno Devi Circle On Sg Highway,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,1,1400.0,Saleable Area,Gujarat
+Ahmedabad,Shela,Residential,72500000,Unfurnished,5,4,Connected,0,0,0,3,9500.0,Built-up Area,Gujarat
+Ahmedabad,Thaltej,Residential,14500000,Furnished,3,3,Connected,0,0,0,4,1750.0,Built-up Area,Gujarat
+Ahmedabad,Thaltej,Residential,17000000,Furnished,3,3,Connected,0,0,0,2,2136.0,Built-up Area,Gujarat
+Ahmedabad,Ognaj,Residential,270600000,Unfurnished,3,3,Connected,0,0,0,0,60903.0,Plot Area,Gujarat
+Ahmedabad,Khokra,Residential,159640643,Unfurnished,3,3,Connected,0,0,0,0,837.0,Plot Area,Gujarat
+Ahmedabad,Ambawadi,Residential,53000000,Unfurnished,6,5,Connected,0,0,0,1,4950.0,Built-up Area,Gujarat
+Ahmedabad,Vastral,Residential,4100000,Semi-Furnished,2,2,Room-attached,0,0,0,2,1197.0,Built-up Area,Gujarat
+Ahmedabad,Gota,Residential,5598000,Semi-Furnished,2,2,"Connected,Room-attached",0,0,0,1,1242.0,Built-up Area,Gujarat
+Ahmedabad,S G Highway,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,31500.0,Plot Area,Gujarat
+Ahmedabad,Dholera,Residential,700000,Unfurnished,3,3,Connected,1,0,0,0,9000.0,Plot Area,Gujarat
+Ahmedabad,Kasindra,Residential,4960000,Unfurnished,3,3,Individual,0,0,1,0,1204.0,Saleable Area,Gujarat
+Ahmedabad,Jodhpur,Residential,51500000,Unfurnished,4,4,Connected,0,0,0,3,3915.0,Built-up Area,Gujarat
+Ahmedabad,Maninagar,Residential,7137000,Semi-Furnished,2,2,"Connected,Room-attached",0,0,0,1,1260.0,Built-up Area,Gujarat
+Ahmedabad,Thaltej,Residential,16000000,Semi-Furnished,4,3,"Connected,Room-attached",0,0,0,2,1959.0,Built-up Area,Gujarat
+Ahmedabad,Chandkheda,Residential,4500000,Semi-Furnished,2,2,Connected,0,0,0,0,1250.0,Built-up Area,Gujarat
+Ahmedabad,Science City,Residential,52000000,Unfurnished,3,3,Connected,0,0,0,0,4122.0,Plot Area,Gujarat
+Ahmedabad,Zundal,Residential,5800000,Furnished,2,2,Room-attached,0,0,0,2,1115.0,Built-up Area,Gujarat
+Ahmedabad,Sanand,Residential,5748000,Semi-Furnished,3,2,"Connected,Room-attached",0,0,0,2,1500.0,Built-up Area,Gujarat
+Ahmedabad,Shilaj,Residential,60000000,Unfurnished,4,3,Connected,0,0,0,3,3726.0,Plot Area,Gujarat
+Ahmedabad,Science City,Residential,18000000,Unfurnished,3,3,Individual,0,0,0,2,2788.0,Saleable Area,Gujarat
+Ahmedabad,Prahlad Nagar,Residential,7500000,Furnished,3,3,Connected,0,0,0,1,1395.0,Saleable Area,Gujarat
+Ahmedabad,Shela,Residential,4336000,Semi-Furnished,2,2,"Connected,Room-attached",0,0,0,1,1084.0,Built-up Area,Gujarat
+Ahmedabad,Bodakdev,Residential,35600000,Unfurnished,4,4,Connected,1,1,1,3,4538.0,Saleable Area,Gujarat
+Ahmedabad,Prahlad Nagar,Residential,90000000,Furnished,4,4,Connected,0,0,0,2,3825.0,Plot Area,Gujarat
+Ahmedabad,Zundal,Residential,6300000,Unfurnished,3,3,Individual,1,0,0,4,1800.0,Built-up Area,Gujarat
+Ahmedabad,Lal Darwaja,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,9900.0,Plot Area,Gujarat
+Ahmedabad,Shilaj,Residential,8500000,Semi-Furnished,3,3,Connected,0,0,0,0,1550.0,Built-up Area,Gujarat
+Ahmedabad,Changodar,Residential,2600000,Furnished,2,2,Connected,0,0,0,6,102.0,Built-up Area,Gujarat
+Ahmedabad,Sg Highway,Commercial,0,Furnished,0,0,No Balcony,0,0,0,1,1350.0,Built-up Area,Gujarat
+Ahmedabad,Science City,Residential,159640643,Unfurnished,4,5,"Individual,Room-attached",0,1,1,2,3200.0,Built-up Area,Gujarat
+Ahmedabad,Ashram Road,Commercial,0,Semi-Furnished,0,0,Connected,0,0,0,2,226.0,Built-up Area,Gujarat
+Ahmedabad,Gulbai Tekra,Residential,27100000,Semi-Furnished,4,4,Individual,0,0,0,3,3010.0,Built-up Area,Gujarat
+Ahmedabad,Shela,Residential,20000000,Furnished,3,3,Connected,0,0,0,2,2041.0,Built-up Area,Gujarat
+Ahmedabad,Naranpura,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,8910.0,Plot Area,Gujarat
+Ahmedabad,Science City,Residential,19000000,Furnished,3,3,Connected,0,0,0,1,2250.0,Built-up Area,Gujarat
+Ahmedabad,Maninagar,Residential,20200000,Semi-Furnished,4,3,"Connected,Room-attached",0,0,0,2,2300.0,Built-up Area,Gujarat
+Ahmedabad,Ambawadi,Commercial,0,Unfurnished,0,0,Connected,0,0,0,2,686.0,Built-up Area,Gujarat
+Ahmedabad,Thaltej,Residential,8500000,Unfurnished,2,2,Connected,0,0,0,2,1560.0,Built-up Area,Gujarat
+Ahmedabad,Sanand,Residential,3798000,Semi-Furnished,2,2,"Connected,Room-attached",0,0,0,1,1150.0,Built-up Area,Gujarat
+Ahmedabad,Tragad,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,186300.0,Plot Area,Gujarat
+Ahmedabad,Zundal,Residential,5800000,Furnished,2,2,Connected,0,0,0,2,1200.0,Built-up Area,Gujarat
+Ahmedabad,Navrangpura,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,9549.0,Plot Area,Gujarat
+Ahmedabad,Dholera,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,74340.0,Plot Area,Gujarat
+Ahmedabad,Paldi,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,6345.0,Plot Area,Gujarat
+Ahmedabad,Hebatpur,Residential,60000000,Furnished,4,3,Connected,0,0,0,4,3726.0,Plot Area,Gujarat
+Ahmedabad,Bodakdev,Residential,34900000,Furnished,4,4,Connected,0,0,0,2,2070.0,Plot Area,Gujarat
+Ahmedabad,Sp Ring Road,Residential,6900000,Unfurnished,3,3,Individual,0,0,0,1,1935.0,Built-up Area,Gujarat
+Ahmedabad,Kamod,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,292950.0,Plot Area,Gujarat
+Ahmedabad,Shilaj,Residential,5751000,Semi-Furnished,2,2,"Connected,Room-attached",0,0,0,2,1278.0,Built-up Area,Gujarat
+Ahmedabad,Vastral,Residential,5500000,Semi-Furnished,3,3,Room-attached,0,0,0,2,1503.0,Built-up Area,Gujarat
+Ahmedabad,Thaltej,Residential,9700000,Unfurnished,2,1,Individual,0,0,1,1,1120.0,Built-up Area,Gujarat
+Ahmedabad,Thaltej,Residential,740000000,Unfurnished,3,3,Connected,0,0,0,0,33300.0,Plot Area,Gujarat
+Ahmedabad,Lilapur,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,48600.0,Plot Area,Gujarat
+Ahmedabad,Lambha,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,153000.0,Plot Area,Gujarat
+Ahmedabad,Shela,Residential,5325000,Unfurnished,2,1,Individual,1,1,1,2,625.0,Carpet Area,Gujarat
+Ahmedabad,Science City,Residential,50000000,Unfurnished,3,3,Connected,0,0,0,0,3870.0,Plot Area,Gujarat
+Ahmedabad,Prahlad Nagar,Commercial,0,Semi-Furnished,0,0,No Balcony,0,0,0,2,2000.0,Built-up Area,Gujarat
+Ahmedabad,Bodakdev,Residential,18000000,Semi-Furnished,3,3,Connected,0,0,0,2,2160.0,Built-up Area,Gujarat
+Ahmedabad,Nava Vadaj,Residential,6700000,Unfurnished,2,2,Connected,0,0,0,2,1359.0,Built-up Area,Gujarat
+Ahmedabad,Naroda,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,9000.0,Plot Area,Gujarat
+Ahmedabad,Sindhubhavan,Residential,1110000000,Unfurnished,3,3,Connected,0,0,0,0,83700.0,Plot Area,Gujarat
+Ahmedabad,Vaishnodevi Circle,Residential,9000000,Furnished,3,3,Connected,0,0,0,1,2470.0,Built-up Area,Gujarat
+Ahmedabad,Near Vaishno Devi Circle On Sg Highway,Commercial,0,Furnished,0,0,No Balcony,0,0,0,10,3065.0,Built-up Area,Gujarat
+Ahmedabad,Mumatpura,Residential,157500000,Unfurnished,5,4,Connected,0,0,0,3,9225.0,Plot Area,Gujarat
+Ahmedabad,Science City,Residential,6000000,Furnished,2,2,Connected,0,0,0,2,1170.0,Built-up Area,Gujarat
+Ahmedabad,Ghatlodia,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,36000.0,Plot Area,Gujarat
+Ahmedabad,Sargaasan,Commercial,0,Unfurnished,0,0,No Balcony,1,0,1,12,25000.0,Built-up Area,Gujarat
+Ahmedabad,Koteshwar,Residential,5500000,Semi-Furnished,2,2,Individual,0,0,0,2,1215.0,Built-up Area,Gujarat
+Ahmedabad,Navrangpura,Commercial,0,Furnished,0,0,Individual,0,0,0,1,966.0,Built-up Area,Gujarat
+Ahmedabad,Hebatpur,Residential,159640643,Furnished,5,5,Connected,0,0,0,3,4500.0,Built-up Area,Gujarat
+Ahmedabad,Shilaj,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,45000.0,Plot Area,Gujarat
+Ahmedabad,Sanathal,Residential,75000000,Unfurnished,5,4,Connected,0,0,0,4,9045.0,Plot Area,Gujarat
+Ahmedabad,Ognaj,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,10800.0,Plot Area,Gujarat
+Ahmedabad,Nava Wadaj,Residential,6500000,Unfurnished,2,2,Connected,0,0,0,1,1359.0,Plot Area,Gujarat
+Ahmedabad,Bopal,Residential,5598000,Semi-Furnished,3,2,"Connected,Room-attached",0,0,0,2,1485.0,Built-up Area,Gujarat
+Ahmedabad,Bhadaj,Residential,9000000,Unfurnished,3,3,Connected,0,0,1,2,1755.0,Built-up Area,Gujarat
+Ahmedabad,Chandkheda,Residential,5000000,Furnished,2,2,Connected,0,0,0,2,1080.0,Built-up Area,Gujarat
+Ahmedabad,Satellite,Residential,96500000,Semi-Furnished,4,4,Connected,0,0,0,4,5265.0,Built-up Area,Gujarat
+Ahmedabad,Mumatpura,Residential,179000000,Unfurnished,5,4,Connected,0,0,0,4,11250.0,Plot Area,Gujarat
+Ahmedabad,Shilaj,Residential,5950000,Unfurnished,2,2,Connected,1,0,1,1,1185.0,Saleable Area,Gujarat
+Ahmedabad,Near Vaishno Devi Circle On Sg Highway,Residential,5600000,Unfurnished,3,3,Connected,1,0,1,2,1700.0,Built-up Area,Gujarat
+Ahmedabad,Dholera,Residential,500000,Unfurnished,3,3,Connected,0,0,1,0,900.0,Plot Area,Gujarat
+Ahmedabad,Sg Highway,Residential,30000000,Semi-Furnished,4,3,"Connected,Room-attached",0,0,0,2,5900.0,Built-up Area,Gujarat
+Ahmedabad,Nava Naroda,Residential,14000000,Furnished,3,3,"Connected,Room-attached",0,0,0,3,273.0,Built-up Area,Gujarat
+Ahmedabad,Shilaj,Residential,78800000,Unfurnished,3,3,Connected,0,0,0,0,8550.0,Plot Area,Gujarat
+Ahmedabad,Sanand,Residential,100000000,Unfurnished,4,4,Connected,0,0,0,4,13950.0,Built-up Area,Gujarat
+Ahmedabad,Thaltej,Residential,73500000,Unfurnished,3,3,Connected,0,0,0,0,5940.0,Plot Area,Gujarat
+Ahmedabad,Makarba,Commercial,0,Furnished,0,0,No Balcony,0,0,0,2,1250.0,Built-up Area,Gujarat
+Ahmedabad,Ambli Road,Residential,13000000,Semi-Furnished,3,3,Connected,0,0,0,2,1850.0,Built-up Area,Gujarat
+Ahmedabad,Tragad,Residential,165000000,Unfurnished,3,3,Connected,0,0,0,0,13500.0,Plot Area,Gujarat
+Ahmedabad,Naranpura,Residential,73000000,Unfurnished,3,3,Connected,0,0,0,0,5940.0,Plot Area,Gujarat
+Ahmedabad,Sughad,Residential,305000000,Unfurnished,3,3,Connected,0,0,0,0,29790.0,Plot Area,Gujarat
+Ahmedabad,Vastrapur,Residential,70800000,Semi-Furnished,4,4,Connected,0,0,0,2,4905.0,Carpet Area,Gujarat
+Ahmedabad,Vastrapur,Residential,17500000,Furnished,3,3,Connected,0,0,0,1,2020.0,Built-up Area,Gujarat
+Ahmedabad,Vaishnodevi Circle,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,540.0,Built-up Area,Gujarat
+Ahmedabad,Jodhpur,Residential,13000000,Unfurnished,3,3,Connected,0,0,0,2,1648.0,Built-up Area,Gujarat
+Ahmedabad,Gota,Residential,7000000,Furnished,3,3,Individual,0,0,0,3,1540.0,Built-up Area,Gujarat
+Ahmedabad,Ambli Road,Residential,102500000,Unfurnished,4,4,Connected,0,0,0,6,8700.0,Built-up Area,Gujarat
+Ahmedabad,Makarba,Residential,15000000,Unfurnished,4,4,Connected,0,0,0,4,1269.0,Built-up Area,Gujarat
+Ahmedabad,Bopal,Residential,10500000,Semi-Furnished,3,3,"Individual,Room-attached",0,0,0,1,1242.0,Built-up Area,Gujarat
+Ahmedabad,Shilaj,Residential,9700000,Furnished,3,4,Individual,0,0,0,2,1577.0,Built-up Area,Gujarat
+Ahmedabad,New Ranip,Residential,9800000,Unfurnished,3,3,Connected,0,0,0,1,1728.0,Built-up Area,Gujarat
+Ahmedabad,Prahlad Nagar,Residential,100000000,Semi-Furnished,5,4,Connected,0,0,0,4,6615.0,Plot Area,Gujarat
+Ahmedabad,Near Vaishno Devi Circle On Sg Highway,Commercial,0,Unfurnished,0,0,Room-attached,1,0,0,2,800.0,Built-up Area,Gujarat
+Ahmedabad,Ambawadi,Residential,70000000,Unfurnished,3,3,Connected,0,0,0,0,5040.0,Plot Area,Gujarat
+Ahmedabad,Ahmedabad Cantonment,Residential,159640643,Unfurnished,3,3,Connected,0,0,0,0,12699.0,Plot Area,Gujarat
+Ahmedabad,Sindhubhavan,Residential,30000000,Furnished,4,4,Connected,0,0,0,3,3280.0,Built-up Area,Gujarat
+Ahmedabad,Shilaj,Residential,21000000,Unfurnished,4,4,"Connected,Room-attached",0,0,0,2,2800.0,Saleable Area,Gujarat
+Ahmedabad,Prahlad Nagar,Residential,8200000,Furnished,2,2,Connected,0,0,0,1,1300.0,Built-up Area,Gujarat
+Ahmedabad,Sindhubhavan,Residential,35000000,Furnished,4,5,Individual,0,0,0,3,3450.0,Saleable Area,Gujarat
+Ahmedabad,Satellite,Residential,45000000,Furnished,4,4,Connected,0,0,0,2,2700.0,Plot Area,Gujarat
+Ahmedabad,Ashram Road,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,1001.0,Carpet Area,Gujarat
+Ahmedabad,Ashram Road,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,6642.0,Plot Area,Gujarat
+Ahmedabad,Jagatpur,Residential,9500000,Semi-Furnished,3,3,Connected,0,0,0,1,1620.0,Built-up Area,Gujarat
+Ahmedabad,Shantigram,Residential,8700000,Furnished,3,3,Room-attached,0,0,0,1,1485.0,Built-up Area,Gujarat
+Ahmedabad,Sola Road,Commercial,0,Unfurnished,0,0,Connected,0,0,0,3,3847.0,Built-up Area,Gujarat
+Ahmedabad,Near Vaishno Devi Circle On Sg Highway,Residential,15000000,Furnished,3,3,Connected,0,0,0,2,2000.0,Built-up Area,Gujarat
+Ahmedabad,Thaltej,Residential,15100000,Furnished,3,3,Connected,0,0,0,2,1745.0,Saleable Area,Gujarat
+Ahmedabad,Near Nirma University On Sg Highway,Residential,11500000,Furnished,3,3,Connected,0,0,0,2,955.0,Built-up Area,Gujarat
+Ahmedabad,Vastral,Residential,2900000,Unfurnished,2,2,Room-attached,0,0,1,1,1125.0,Built-up Area,Gujarat
+Ahmedabad,Mumatpura,Residential,235000000,Unfurnished,5,4,Connected,0,0,0,3,14940.0,Plot Area,Gujarat
+Ahmedabad,Sg Highway,Commercial,0,Furnished,0,0,Connected,0,0,0,8,3170.0,Built-up Area,Gujarat
+Ahmedabad,Sola,Residential,11000000,Semi-Furnished,3,3,Connected,0,0,0,1,2268.0,Built-up Area,Gujarat
+Ahmedabad,Gift City,Commercial,0,Unfurnished,0,0,No Balcony,0,0,1,0,1937.0,Built-up Area,Gujarat
+Ahmedabad,C G Road,Residential,212500000,Unfurnished,3,3,Connected,0,0,0,0,7650.0,Plot Area,Gujarat
+Ahmedabad,Shilaj,Residential,7047000,Semi-Furnished,3,2,"Connected,Room-attached",0,0,0,2,1566.0,Built-up Area,Gujarat
+Ahmedabad,Zundal,Residential,6111000,Unfurnished,3,3,Individual,0,0,0,2,1746.0,Built-up Area,Gujarat
+Ahmedabad,Ghuma,Residential,159640643,Semi-Furnished,2,2,Room-attached,0,0,0,0,1053.0,Saleable Area,Gujarat
+Ahmedabad,Shela,Residential,4800000,Semi-Furnished,2,2,"Connected,Room-attached",0,0,0,1,1200.0,Built-up Area,Gujarat
+Ahmedabad,Ambawadi,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,8838.0,Plot Area,Gujarat
+Ahmedabad,SarkheJ- Okaf,Residential,530000000,Unfurnished,3,3,Connected,0,0,0,0,46800.0,Plot Area,Gujarat
+Ahmedabad,Paldi,Residential,11900000,Semi-Furnished,3,2,"Connected,Room-attached",0,0,0,2,1728.0,Built-up Area,Gujarat
+Ahmedabad,Usmanpura,Residential,15000000,Unfurnished,3,3,Connected,1,0,0,2,1980.0,Built-up Area,Gujarat
+Ahmedabad,C G Road,Residential,60000000,Semi-Furnished,6,3,Connected,0,0,0,7,3483.0,Built-up Area,Gujarat
+Ahmedabad,Chandkheda,Residential,4500000,Unfurnished,2,2,Individual,1,1,1,1,1600.0,Built-up Area,Gujarat
+Ahmedabad,Ghuma,Residential,4238000,Semi-Furnished,2,2,"Connected,Room-attached",0,0,0,1,597.0,Built-up Area,Gujarat
+Ahmedabad,Ambli Road,Residential,92500000,Furnished,4,4,Connected,0,0,0,2,3960.0,Plot Area,Gujarat
+Ahmedabad,Hebatpur,Residential,159640643,Furnished,4,5,Individual,0,0,0,2,2790.0,Built-up Area,Gujarat
+Ahmedabad,Navrangpura,Residential,20800000,Unfurnished,4,4,Connected,0,0,1,0,2600.0,Built-up Area,Gujarat
+Ahmedabad,Bodakdev,Residential,55200000,Unfurnished,5,2,Connected,0,0,0,0,6500.0,Built-up Area,Gujarat
+Ahmedabad,Bopal,Residential,7200000,Furnished,2,3,Connected,0,0,0,0,850.0,Built-up Area,Gujarat
+Ahmedabad,Science City,Residential,250000000,Furnished,5,4,Connected,0,0,0,4,14301.0,Plot Area,Gujarat
+Ahmedabad,Satellite,Residential,15000000,Furnished,3,3,Connected,0,0,0,2,1665.0,Built-up Area,Gujarat
+Ahmedabad,Gift City,Commercial,0,Unfurnished,0,0,Individual,0,0,0,3,2500.0,Built-up Area,Gujarat
+Ahmedabad,Sanand,Residential,5250000,Semi-Furnished,3,2,Room-attached,0,0,0,4,1600.0,Built-up Area,Gujarat
+Ahmedabad,Dholera,Residential,1008000,Unfurnished,3,3,Connected,0,0,0,0,1512.0,Plot Area,Gujarat
+Ahmedabad,Kolat,Residential,25000000,Unfurnished,3,3,Connected,0,1,1,0,9000.0,Plot Area,Gujarat
+Ahmedabad,Science City,Residential,9200000,Furnished,2,2,Connected,0,0,0,2,1215.0,Built-up Area,Gujarat
+Ahmedabad,Ellisbridge,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,7290.0,Plot Area,Gujarat
+Ahmedabad,S G Highway,Residential,5707000,Semi-Furnished,2,2,"Connected,Room-attached",0,0,0,1,1399.0,Built-up Area,Gujarat
+Ahmedabad,Racharda,Residential,250000000,Furnished,6,5,Connected,0,0,0,5,45000.0,Built-up Area,Gujarat
+Ahmedabad,South Bopal,Residential,159640643,Furnished,3,3,"Connected,Room-attached",0,0,0,2,900.0,Carpet Area,Gujarat
+Ahmedabad,Thaltej,Residential,17500000,Furnished,3,3,Connected,0,0,0,1,2135.0,Saleable Area,Gujarat
+Ahmedabad,Satellite,Residential,26500000,Unfurnished,4,3,Connected,0,0,1,1,2943.0,Built-up Area,Gujarat
+Ahmedabad,Mumatpura,Residential,312500000,Unfurnished,3,3,Connected,0,0,0,0,36000.0,Plot Area,Gujarat
+Ahmedabad,Vastrapur,Residential,14000000,Furnished,3,3,"Connected,Room-attached",0,0,0,2,1665.0,Built-up Area,Gujarat
+Ahmedabad,Paldi,Residential,159640643,Unfurnished,3,3,Connected,0,0,0,0,7695.0,Plot Area,Gujarat
+Ahmedabad,Memnagar,Residential,76800000,Unfurnished,3,3,Connected,0,0,0,0,5760.0,Plot Area,Gujarat
+Ahmedabad,Naranpura,Residential,12000000,Semi-Furnished,3,3,Connected,0,0,0,3,2032.0,Built-up Area,Gujarat
+Ahmedabad,Chandkheda,Residential,2900000,Unfurnished,1,2,Room-attached,0,0,0,2,785.0,Built-up Area,Gujarat
+Ahmedabad,Zundal,Residential,6662000,Unfurnished,3,3,Individual,0,0,1,2,978.0,Carpet Area,Gujarat
+Ahmedabad,New Ranip,Residential,5500000,Furnished,2,2,"Connected,Room-attached",0,0,0,3,1365.0,Built-up Area,Gujarat
+Ahmedabad,Makarba,Residential,580500000,Unfurnished,3,3,Connected,0,0,0,0,38700.0,Plot Area,Gujarat
+Ahmedabad,Vastrapur,Residential,72500000,Furnished,4,3,Connected,0,0,0,3,4149.0,Plot Area,Gujarat
+Ahmedabad,Paldi,Residential,62300000,Unfurnished,3,3,Connected,0,0,0,0,8010.0,Plot Area,Gujarat
+Ahmedabad,Law Garden,Residential,22900000,Furnished,3,4,"Connected,Room-attached",0,0,0,5,2700.0,Built-up Area,Gujarat
+Ahmedabad,Usman Pura,Residential,13500000,Semi-Furnished,3,3,Individual,0,0,0,1,2250.0,Built-up Area,Gujarat
+Ahmedabad,Zundal,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,45000.0,Plot Area,Gujarat
+Ahmedabad,Ognaj,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,450000.0,Plot Area,Gujarat
+Ahmedabad,Sindhubhavan,Residential,420100000,Unfurnished,3,3,Connected,0,0,0,0,23400.0,Plot Area,Gujarat
+Ahmedabad,Bodakdev,Residential,159640643,Furnished,5,4,Connected,0,0,0,0,12000.0,Built-up Area,Gujarat
+Ahmedabad,Shela,Residential,85000000,Furnished,2,2,Connected,0,0,0,5,21600.0,Plot Area,Gujarat
+Ahmedabad,Ahmedabad - Rajkot Highway,Residential,159640643,Furnished,3,3,Connected,0,0,0,1,1800.0,Built-up Area,Gujarat
+Ahmedabad,Kolat,Residential,81000000,Semi-Furnished,2,1,Connected,0,0,0,4,21600.0,Plot Area,Gujarat
+Ahmedabad,Hebatpur,Residential,295100000,Unfurnished,3,3,Connected,0,0,0,0,21249.0,Plot Area,Gujarat
+Ahmedabad,Shela,Residential,19500000,Unfurnished,4,4,Individual,0,0,0,3,3291.0,Saleable Area,Gujarat
+Ahmedabad,Bopal,Residential,8500000,Furnished,3,3,Connected,0,0,0,1,1440.0,Built-up Area,Gujarat
+Ahmedabad,Nikol,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,32400.0,Plot Area,Gujarat
+Ahmedabad,Satellite,Residential,5600000,Furnished,2,2,Connected,0,0,0,2,1035.0,Built-up Area,Gujarat
+Ahmedabad,Bodakdev,Residential,15000000,Unfurnished,3,3,Connected,0,0,0,2,2385.0,Built-up Area,Gujarat
+Ahmedabad,Science City,Residential,78100000,Unfurnished,3,3,Connected,1,1,1,0,6669.0,Plot Area,Gujarat
+Ahmedabad,Science City,Commercial,0,Unfurnished,0,0,No Balcony,0,0,1,0,16650.0,Plot Area,Gujarat
+Ahmedabad,Naranpura,Residential,8100000,Furnished,3,3,Connected,0,0,0,2,1485.0,Built-up Area,Gujarat
+Ahmedabad,Law Garden,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,6642.0,Plot Area,Gujarat
+Ahmedabad,Nadoliya,Residential,3550000,Unfurnished,3,3,Connected,0,0,0,0,1125.0,Plot Area,Gujarat
+Ahmedabad,Thaltej,Residential,44100000,Furnished,4,4,Connected,0,0,0,5,3429.0,Built-up Area,Gujarat
+Ahmedabad,Ghuma,Residential,4018000,Semi-Furnished,2,2,"Connected,Room-attached",0,0,0,1,566.0,Built-up Area,Gujarat
+Ahmedabad,Shela,Residential,3782000,Semi-Furnished,2,2,"Connected,Room-attached",0,0,0,1,1220.0,Built-up Area,Gujarat
+Ahmedabad,Vaishnodevi Circle,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,102600.0,Plot Area,Gujarat
+Ahmedabad,Vithalapur,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,891000.0,Plot Area,Gujarat
+Ahmedabad,Naranpura,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,4860.0,Plot Area,Gujarat
+Ahmedabad,Jagatpur,Residential,14500000,Semi-Furnished,3,3,Connected,0,0,0,2,2211.0,Saleable Area,Gujarat
+Ahmedabad,Gota,Residential,15900000,Unfurnished,3,3,Individual,0,0,0,5,2360.0,Saleable Area,Gujarat
+Ahmedabad,Makarba,Residential,18500000,Furnished,4,4,Individual,0,0,0,2,2475.0,Built-up Area,Gujarat
+Ahmedabad,Shilaj,Residential,42000000,Furnished,4,4,Connected,0,0,0,3,3010.0,Built-up Area,Gujarat
+Ahmedabad,Satellite,Residential,80000000,Semi-Furnished,4,4,Connected,0,0,0,0,3825.0,Plot Area,Gujarat
+Ahmedabad,Thaltej,Residential,7600000,Semi-Furnished,2,2,Connected,0,0,0,1,1250.0,Built-up Area,Gujarat
+Ahmedabad,Thaltej,Residential,7200000,Unfurnished,2,2,"Individual,Room-attached",0,0,1,1,1560.0,Built-up Area,Gujarat
+Ahmedabad,Ognaj,Residential,46200000,Furnished,4,4,Connected,0,0,0,3,3510.0,Built-up Area,Gujarat
+Ahmedabad,Vaishnodevi Circle,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,225000.0,Plot Area,Gujarat
+Ahmedabad,Vasna,Residential,4500000,Semi-Furnished,2,2,Connected,0,0,0,1,700.0,Carpet Area,Gujarat
+Ahmedabad,Mumatpura,Residential,350000000,Furnished,5,4,Connected,0,0,0,4,11700.0,Plot Area,Gujarat
+Ahmedabad,Sanand,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,23256.0,Plot Area,Gujarat
+Ahmedabad,Hebatpur,Residential,105000000,Furnished,5,3,Connected,0,0,0,0,1500.0,Built-up Area,Gujarat
+Ahmedabad,Vatva,Residential,317400000,Unfurnished,3,3,Connected,0,0,0,0,62334.0,Plot Area,Gujarat
+Ahmedabad,Vastral,Residential,2500000,Unfurnished,2,2,Room-attached,1,0,1,1,1062.0,Built-up Area,Gujarat
+Ahmedabad,Rakanpur,Residential,62500000,Unfurnished,3,3,Connected,0,0,0,0,5508.0,Plot Area,Gujarat
+Ahmedabad,Nehrunagar,Residential,40000000,Unfurnished,4,4,Connected,0,0,0,3,4142.0,Built-up Area,Gujarat
+Ahmedabad,Makarba,Residential,9500000,Furnished,3,3,Connected,0,0,0,1,1557.0,Saleable Area,Gujarat
+Ahmedabad,Shela,Residential,3703000,Semi-Furnished,2,2,"Connected,Room-attached",0,0,0,1,1125.0,Built-up Area,Gujarat
+Ahmedabad,Sindhubhavan,Residential,247200000,Unfurnished,3,3,Connected,0,0,0,0,13905.0,Plot Area,Gujarat
+Ahmedabad,Naranpura,Residential,7500000,Unfurnished,2,2,Connected,0,0,0,1,1305.0,Built-up Area,Gujarat
+Ahmedabad,Nikol,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,64035.0,Plot Area,Gujarat
+Ahmedabad,Gift City,Residential,300000000,Semi-Furnished,3,2,Connected,0,0,0,4,100800.0,Plot Area,Gujarat
+Ahmedabad,Vastrapur,Residential,70000000,Semi-Furnished,5,4,Connected,0,0,0,4,4104.0,Plot Area,Gujarat
+Ahmedabad,Near Nirma University On Sg Highway,Residential,8600000,Furnished,3,3,Connected,0,0,0,3,1980.0,Saleable Area,Gujarat
+Ahmedabad,Isanpur,Residential,7100000,Semi-Furnished,3,2,"Connected,Room-attached",0,0,0,1,1844.0,Built-up Area,Gujarat
+Ahmedabad,South Bopal,Commercial,0,Furnished,0,0,Connected,0,0,0,8,1300.0,Built-up Area,Gujarat
+Ahmedabad,C G Road,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,9450.0,Plot Area,Gujarat
+Ahmedabad,Nikol,Residential,20300000,Semi-Furnished,5,3,"Connected,Room-attached",0,0,0,2,4815.0,Built-up Area,Gujarat
+Ahmedabad,Chandkheda,Residential,15000000,Semi-Furnished,4,4,Individual,0,0,0,3,2142.0,Built-up Area,Gujarat
+Ahmedabad,Chandkheda,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,23400.0,Plot Area,Gujarat
+Ahmedabad,Bopal,Residential,4315000,Semi-Furnished,2,2,"Connected,Room-attached",0,0,0,1,1125.0,Built-up Area,Gujarat
+Ahmedabad,Chanakyapuri,Residential,5351000,Furnished,2,2,Connected,0,0,0,2,900.0,Built-up Area,Gujarat
+Ahmedabad,Makarba,Residential,18500000,Furnished,4,4,Connected,0,0,0,2,2475.0,Built-up Area,Gujarat
+Ahmedabad,Jagatpur,Residential,5400000,Unfurnished,2,2,Individual,1,0,1,2,1188.0,Built-up Area,Gujarat
+Ahmedabad,Ghatalodia,Commercial,0,Furnished,0,0,No Balcony,0,0,0,2,550.0,Built-up Area,Gujarat
+Ahmedabad,South Bopal,Residential,7000000,Unfurnished,3,3,Individual,1,1,1,1,1700.0,Built-up Area,Gujarat
+Ahmedabad,Sp Ring Road,Residential,13500000,Semi-Furnished,3,3,Connected,0,0,0,2,952.0,Carpet Area,Gujarat
+Ahmedabad,Sp Ring Road,Residential,5775000,Unfurnished,3,3,Room-attached,0,0,1,3,1820.0,Built-up Area,Gujarat
+Ahmedabad,Tragad,Residential,8500000,Semi-Furnished,3,2,"Connected,Individual",0,0,0,1,1503.0,Built-up Area,Gujarat
+Ahmedabad,Law Garden,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,55800.0,Plot Area,Gujarat
+Ahmedabad,Godhavi,Residential,455000000,Unfurnished,3,3,Connected,0,0,0,0,63000.0,Plot Area,Gujarat
+Ahmedabad,Shela,Residential,9805000,Unfurnished,3,3,Individual,0,1,1,2,2070.0,Built-up Area,Gujarat
+Ahmedabad,Sanathal,Residential,24000000,Furnished,3,3,Connected,0,0,0,2,2200.0,Built-up Area,Gujarat
+Ahmedabad,Near Vaishno Devi Circle On Sg Highway,Residential,12500000,Furnished,3,3,Connected,0,0,0,2,1850.0,Built-up Area,Gujarat
+Ahmedabad,Gota,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,40500.0,Plot Area,Gujarat
+Ahmedabad,Ranip,Residential,4100000,Furnished,2,2,Connected,0,0,0,2,903.0,Saleable Area,Gujarat
+Ahmedabad,Shahibaug,Residential,5100000,Semi-Furnished,2,2,Individual,0,0,0,2,650.0,Carpet Area,Gujarat
+Ahmedabad,Khokhra,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,6,572.0,Saleable Area,Gujarat
+Ahmedabad,Nava Wadaj,Residential,52100000,Furnished,5,5,Connected,0,0,0,3,3690.0,Carpet Area,Gujarat
+Ahmedabad,South Bopal,Residential,80100000,Unfurnished,3,3,Connected,0,0,0,0,8487.0,Plot Area,Gujarat
+Ahmedabad,Jagatpur,Residential,14500000,Furnished,4,3,Connected,0,0,0,1,2200.0,Built-up Area,Gujarat
+Ahmedabad,Vastrapur,Residential,6000000,Unfurnished,2,2,Connected,0,0,0,1,1100.0,Built-up Area,Gujarat
+Ahmedabad,C G Road,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,5805.0,Plot Area,Gujarat
+Ahmedabad,Shela,Residential,16000000,Unfurnished,3,3,Room-attached,0,0,0,2,2600.0,Built-up Area,Gujarat
+Ahmedabad,Zundal,Residential,6900000,Unfurnished,3,3,Individual,1,0,1,2,1845.0,Built-up Area,Gujarat
+Ahmedabad,Bodakdev,Residential,57500000,Furnished,5,4,Connected,0,0,0,0,7700.0,Built-up Area,Gujarat
+Ahmedabad,Gota,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,55800.0,Plot Area,Gujarat
+Ahmedabad,Prahlad Nagar,Residential,12500000,Unfurnished,3,3,Connected,0,0,0,2,1900.0,Built-up Area,Gujarat
+Ahmedabad,Shastri Nagar,Residential,6000000,Unfurnished,2,3,Room-attached,0,0,1,1,900.0,Built-up Area,Gujarat
+Ahmedabad,New Ranip,Residential,5550000,Furnished,2,2,"Connected,Individual,Room-attached",0,0,0,2,1450.0,Carpet Area,Gujarat
+Ahmedabad,Sp Ring Road,Residential,9000000,Unfurnished,3,3,Connected,0,0,0,2,1755.0,Saleable Area,Gujarat
+Ahmedabad,Satellite,Residential,18100000,Furnished,3,4,Connected,0,0,0,2,2340.0,Built-up Area,Gujarat
+Ahmedabad,Bopal,Residential,7600000,Furnished,3,3,Connected,0,0,0,1,1560.0,Built-up Area,Gujarat
+Ahmedabad,Vastral,Residential,3000000,Semi-Furnished,2,2,Room-attached,0,0,0,1,1080.0,Built-up Area,Gujarat
+Ahmedabad,Satellite,Residential,15100000,Furnished,3,3,Individual,0,0,0,1,1575.0,Built-up Area,Gujarat
+Ahmedabad,Near Vaishno Devi Circle On Sg Highway,Residential,12000000,Furnished,3,3,Connected,0,0,0,2,1051.0,Carpet Area,Gujarat
+Ahmedabad,Naranpura,Residential,10500000,Unfurnished,3,2,Connected,0,0,1,0,1889.0,Built-up Area,Gujarat
+Ahmedabad,Paldi,Residential,14900000,Unfurnished,3,3,Individual,1,0,1,4,2369.0,Built-up Area,Gujarat
+Ahmedabad,Bopal,Residential,7500000,Unfurnished,3,3,Connected,1,1,1,1,1856.0,Saleable Area,Gujarat
+Ahmedabad,South Bopal,Residential,8000000,Unfurnished,3,3,Connected,1,1,0,1,1750.0,Built-up Area,Gujarat
+Ahmedabad,Ashok Vatika,Residential,800000000,Unfurnished,3,3,Connected,0,0,0,0,45000.0,Plot Area,Gujarat
+Ahmedabad,Khoraj,Residential,80000000,Furnished,5,5,Connected,0,0,0,3,9000.0,Plot Area,Gujarat
+Ahmedabad,Lilapur,Residential,180000000,Unfurnished,3,3,Connected,0,0,0,0,53820.0,Plot Area,Gujarat
+Ahmedabad,Thaltej,Residential,42500000,Unfurnished,4,5,Connected,0,0,0,4,5100.0,Built-up Area,Gujarat
+Ahmedabad,Thaltej,Residential,22500000,Semi-Furnished,4,3,Connected,0,0,0,0,1485.0,Plot Area,Gujarat
+Ahmedabad,Kadi,Residential,210000000,Furnished,2,2,Connected,0,0,0,6,180000.0,Built-up Area,Gujarat
+Ahmedabad,Ambli,Residential,440000000,Semi-Furnished,5,4,Connected,0,0,0,4,25200.0,Plot Area,Gujarat
+Ahmedabad,Chandlodia,Residential,159640643,Unfurnished,2,2,Connected,1,0,1,0,1000.0,Saleable Area,Gujarat
+Ahmedabad,Vaishnodevi Circle,Residential,6200000,Semi-Furnished,3,2,Connected,0,0,0,2,1500.0,Built-up Area,Gujarat
+Ahmedabad,Ashram Road,Commercial,0,Furnished,0,0,No Balcony,0,0,0,2,3033.0,Built-up Area,Gujarat
+Ahmedabad,South Bopal,Residential,7525000,Semi-Furnished,3,2,"Connected,Room-attached",0,0,0,2,1750.0,Built-up Area,Gujarat
+Ahmedabad,Vastrapur,Residential,89800000,Unfurnished,3,3,Connected,0,0,0,0,5737.1587,Plot Area,Gujarat
+Ahmedabad,Hathijan,Residential,22800000,Unfurnished,3,3,Connected,1,1,1,0,7200.0,Plot Area,Gujarat
+Ahmedabad,Dholka,Residential,2000000,Unfurnished,3,3,Connected,0,0,0,0,1692.0,Plot Area,Gujarat
+Ahmedabad,Ambli Road,Commercial,0,Furnished,0,0,No Balcony,0,0,0,3,2800.0,Built-up Area,Gujarat
+Ahmedabad,Jagatpur,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,92700.0,Plot Area,Gujarat
+Ahmedabad,Sachana,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,891000.0,Plot Area,Gujarat
+Ahmedabad,Corporate Road,Commercial,0,Furnished,0,0,No Balcony,0,0,0,1,1180.0,Built-up Area,Gujarat
+Ahmedabad,Thaltej,Residential,100000000,Furnished,5,6,"Connected,Individual,Room-attached",0,0,0,3,4410.0,Built-up Area,Gujarat
+Ahmedabad,Chandkheda,Residential,3750000,Semi-Furnished,2,2,"Individual,Room-attached",0,0,0,1,1080.0,Built-up Area,Gujarat
+Ahmedabad,Shilaj,Residential,645000,Unfurnished,3,3,Connected,0,1,1,0,801.0,Plot Area,Gujarat
+Ahmedabad,Vastrapur,Residential,20000000,Furnished,3,3,Connected,0,0,0,3,2020.0,Built-up Area,Gujarat
+Ahmedabad,Naranpura,Residential,11400000,Unfurnished,3,3,Connected,0,0,1,0,1728.0,Built-up Area,Gujarat
+Ahmedabad,Ambawadi,Residential,14000000,Furnished,3,2,"Connected,Individual,Room-attached",0,0,0,2,1683.0,Built-up Area,Gujarat
+Ahmedabad,Vastral,Residential,6000000,Furnished,2,2,Individual,0,0,0,0,810.0,Carpet Area,Gujarat
+Ahmedabad,Gulbai Tekra,Residential,35000000,Semi-Furnished,4,4,Individual,0,0,0,4,4884.0,Built-up Area,Gujarat
+Ahmedabad,Gurukul,Residential,9000000,Semi-Furnished,3,3,Connected,0,0,0,1,1620.0,Built-up Area,Gujarat
+Ahmedabad,Bodakdev,Residential,14000000,Unfurnished,3,3,Connected,0,0,0,2,1935.0,Built-up Area,Gujarat
+Ahmedabad,Memnagar,Residential,12600000,Unfurnished,3,2,Connected,0,0,1,0,1998.0,Built-up Area,Gujarat
+Ahmedabad,Jagatpur,Residential,4600000,Semi-Furnished,3,3,"Connected,Individual",0,0,0,2,1150.0,Saleable Area,Gujarat
+Ahmedabad,Ranip,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,3771.0,Plot Area,Gujarat
+Ahmedabad,Viramgam,Residential,4700000,Unfurnished,3,3,"Connected,Room-attached",1,1,1,3,828.0,Built-up Area,Gujarat
+Ahmedabad,Vejalpur,Residential,3000000,Semi-Furnished,1,1,Connected,0,0,0,0,525.0,Built-up Area,Gujarat
+Ahmedabad,Vastral,Residential,9400000,Semi-Furnished,3,3,Room-attached,0,0,0,2,1710.0,Built-up Area,Gujarat
+Ahmedabad,Shela,Residential,810000000,Unfurnished,3,3,Connected,0,0,0,0,54000.0,Plot Area,Gujarat
+Ahmedabad,S G Highway,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,44262.0,Plot Area,Gujarat
+Ahmedabad,Nikol,Residential,16000000,Semi-Furnished,4,2,"Connected,Room-attached",0,0,0,2,3825.0,Built-up Area,Gujarat
+Ahmedabad,Science City,Residential,11100000,Furnished,2,2,"Connected,Room-attached",0,0,0,4,1476.0,Built-up Area,Gujarat
+Ahmedabad,New Ranip,Residential,4800000,Semi-Furnished,2,2,Room-attached,0,0,0,0,1115.0,Saleable Area,Gujarat
+Ahmedabad,Adalaj,Residential,120000000,Furnished,4,3,Connected,0,0,0,0,29700.0,Plot Area,Gujarat
+Ahmedabad,Nehrunagar,Residential,55000000,Unfurnished,6,3,Connected,0,0,0,3,3825.0,Plot Area,Gujarat
+Ahmedabad,Naranpura,Residential,4800000,Semi-Furnished,2,2,Connected,0,0,0,1,900.0,Built-up Area,Gujarat
+Ahmedabad,Danilimda,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,42300.0,Plot Area,Gujarat
+Ahmedabad,Sindhubhavan,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,12600.0,Plot Area,Gujarat
+Ahmedabad,Satellite,Residential,70000000,Furnished,4,3,Connected,0,0,0,0,4500.0,Plot Area,Gujarat
+Ahmedabad,Prahlad Nagar,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,1,471.0,Built-up Area,Gujarat
+Ahmedabad,Memnagar,Residential,10200000,Unfurnished,3,2,Connected,0,0,1,0,1710.0,Built-up Area,Gujarat
+Ahmedabad,Maninagar,Residential,7143000,Semi-Furnished,2,2,"Connected,Room-attached",0,0,0,1,1261.0,Built-up Area,Gujarat
+Ahmedabad,Bodakdev,Residential,14500000,Furnished,3,3,Connected,0,0,0,2,1755.0,Built-up Area,Gujarat
+Ahmedabad,Ambli,Residential,105000000,Unfurnished,5,5,Connected,0,0,1,3,8700.0,Built-up Area,Gujarat
+Ahmedabad,Ellis Bridge,Residential,22900000,Furnished,3,3,"Connected,Individual,Room-attached",0,0,0,2,2700.0,Built-up Area,Gujarat
+Ahmedabad,Hansol,Residential,4990000,Furnished,2,2,Individual,0,0,0,1,1350.0,Built-up Area,Gujarat
+Ahmedabad,Gurukul,Residential,40000000,Unfurnished,4,4,Connected,0,0,0,2,4305.0,Built-up Area,Gujarat
+Ahmedabad,Manipur,Residential,32900000,Unfurnished,4,4,Connected,0,0,0,0,375.0,Built-up Area,Gujarat
+Ahmedabad,Science City,Residential,2100000,Unfurnished,3,3,Connected,1,0,1,0,3150.0,Plot Area,Gujarat
+Ahmedabad,Manipur,Residential,2200000,Semi-Furnished,1,2,Individual,0,0,0,1,405.0,Built-up Area,Gujarat
+Ahmedabad,Satellite,Residential,21600000,Unfurnished,3,2,Connected,0,0,1,1,2295.0,Built-up Area,Gujarat
+Ahmedabad,Shela,Residential,81600000,Unfurnished,3,3,Connected,0,0,0,0,10800.0,Plot Area,Gujarat
+Ahmedabad,Memnagar,Residential,10800000,Unfurnished,3,2,Connected,0,0,1,2,1890.0,Built-up Area,Gujarat
+Ahmedabad,Tragad,Residential,5200000,Furnished,2,2,Connected,0,0,0,2,1125.0,Built-up Area,Gujarat
+Ahmedabad,Jagatpur,Residential,4950000,Semi-Furnished,2,1,Room-attached,0,0,0,1,577.0,Built-up Area,Gujarat
+Ahmedabad,Chandkheda,Residential,159640643,Semi-Furnished,2,2,"Individual,Room-attached",0,0,0,1,1080.0,Built-up Area,Gujarat
+Ahmedabad,Motera,Residential,7700000,Semi-Furnished,3,2,Connected,0,0,0,2,2000.0,Built-up Area,Gujarat
+Ahmedabad,Bopal,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,1,720.0,Built-up Area,Gujarat
+Ahmedabad,Sanand,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,1,5300.0,Carpet Area,Gujarat
+Ahmedabad,Navarangpura,Residential,150000000,Unfurnished,3,3,Connected,0,0,0,0,9000.0,Plot Area,Gujarat
+Ahmedabad,Prahlad Nagar,Residential,7000000,Furnished,2,2,Connected,0,0,0,1,1143.0,Built-up Area,Gujarat
+Ahmedabad,Sindhubhavan,Residential,159640643,Semi-Furnished,5,5,Connected,0,0,0,5,25200.0,Plot Area,Gujarat
+Ahmedabad,Nikol,Residential,8000000,Semi-Furnished,3,2,"Connected,Room-attached",0,0,0,2,2025.0,Built-up Area,Gujarat
+Ahmedabad,Gota,Residential,28500000,Furnished,4,4,Connected,0,0,0,1,5040.0,Saleable Area,Gujarat
+Ahmedabad,Vastral,Residential,9500000,Semi-Furnished,3,3,Room-attached,0,0,0,2,1710.0,Built-up Area,Gujarat
+Ahmedabad,Ramdevnagar,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,180540.0,Plot Area,Gujarat
+Ahmedabad,Ashram Road,Commercial,0,Unfurnished,0,0,No Balcony,1,0,0,1,882.0,Built-up Area,Gujarat
+Ahmedabad,Khadia,Residential,3400000,Furnished,1,2,Room-attached,0,0,0,2,621.0,Carpet Area,Gujarat
+Ahmedabad,Tapovan Circle,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,148257.0,Plot Area,Gujarat
+Ahmedabad,Jagatpur,Residential,6000000,Unfurnished,3,3,Connected,0,0,0,1,1550.0,Saleable Area,Gujarat
+Ahmedabad,Science City,Residential,899900000,Unfurnished,3,3,Connected,0,0,1,0,72000.0,Plot Area,Gujarat
+Ahmedabad,Saijpur Bogha,Residential,2750000,Semi-Furnished,2,2,"Connected,Room-attached",0,0,0,2,1000.0,Built-up Area,Gujarat
+Ahmedabad,Visalpur,Commercial,0,Unfurnished,0,0,No Balcony,0,1,0,0,65659.79,Plot Area,Gujarat
+Ahmedabad,Shilaj,Commercial,0,Unfurnished,0,0,No Balcony,0,0,1,0,32400.0,Plot Area,Gujarat
+Ahmedabad,Gurukul,Residential,40500000,Semi-Furnished,4,4,Connected,0,0,0,3,5100.0,Built-up Area,Gujarat
+Ahmedabad,Ambawadi,Residential,43500000,Furnished,4,4,Connected,0,0,0,3,2970.0,Plot Area,Gujarat
+Ahmedabad,Sargaasan,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,1,2650.0,Built-up Area,Gujarat
+Ahmedabad,Science City,Residential,10000000,Furnished,3,3,Connected,0,0,0,2,1715.0,Built-up Area,Gujarat
+Ahmedabad,Gota,Residential,10000000,Furnished,3,3,Connected,0,0,0,2,1800.0,Built-up Area,Gujarat
+Ahmedabad,Thaltej,Residential,98000000,Furnished,4,4,Connected,0,0,0,2,4914.0,Built-up Area,Gujarat
+Ahmedabad,Detroj,Residential,370000000,Unfurnished,3,3,Connected,0,0,0,0,891000.0,Plot Area,Gujarat
+Ahmedabad,Ramdev Nagar,Residential,37500000,Unfurnished,4,3,Room-attached,0,0,0,3,2529.0,Plot Area,Gujarat
+Ahmedabad,Vastral,Residential,3600000,Unfurnished,2,2,Room-attached,0,0,0,2,120.0,Built-up Area,Gujarat
+Ahmedabad,Motera,Residential,5200000,Semi-Furnished,2,2,Connected,0,0,0,1,1062.0,Built-up Area,Gujarat
+Ahmedabad,Thaltej,Residential,12500000,Unfurnished,3,3,Room-attached,0,0,0,2,1700.0,Built-up Area,Gujarat
+Ahmedabad,Memnagar,Residential,7000000,Furnished,3,2,Connected,0,0,0,0,1125.0,Built-up Area,Gujarat
+Ahmedabad,Chandkheda Gam,Residential,3400000,Semi-Furnished,1,1,Connected,0,0,0,2,522.0,Built-up Area,Gujarat
+Ahmedabad,Nikol,Residential,40000000,Furnished,6,5,"Connected,Room-attached",0,0,0,10,3600.0,Built-up Area,Gujarat
+Ahmedabad,Bodakdev,Residential,71500000,Unfurnished,3,3,Connected,0,0,0,0,4986.0,Plot Area,Gujarat
+Ahmedabad,Satellite,Residential,9600000,Unfurnished,2,1,Connected,1,1,1,1,990.0,Built-up Area,Gujarat
+Ahmedabad,Sindhubhavan,Residential,155000000,Furnished,5,4,Connected,0,0,0,0,5535.0,Plot Area,Gujarat
+Ahmedabad,Vastral,Residential,2200000,Semi-Furnished,1,2,Room-attached,0,0,0,1,765.0,Built-up Area,Gujarat
+Ahmedabad,Satellite,Residential,40000000,Unfurnished,5,5,Connected,0,0,0,4,3000.0,Built-up Area,Gujarat
+Ahmedabad,Naranpura,Residential,15100000,Furnished,3,3,Connected,0,0,0,2,1904.0,Built-up Area,Gujarat
+Ahmedabad,Kasindra,Residential,21900000,Unfurnished,5,5,Connected,1,1,0,2,2799.0,Saleable Area,Gujarat
+Ahmedabad,Memnagar,Residential,13000000,Furnished,3,3,Connected,0,0,0,2,1509.0,Built-up Area,Gujarat
+Ahmedabad,Thaltej,Commercial,0,Furnished,0,0,No Balcony,0,1,0,0,1450.0,Built-up Area,Gujarat
+Ahmedabad,Science City,Residential,150000000,Unfurnished,3,3,Connected,0,0,0,0,11817.0,Plot Area,Gujarat
+Ahmedabad,Science City,Residential,159640643,Unfurnished,3,3,Connected,0,0,0,0,7290.0,Plot Area,Gujarat
+Ahmedabad,Changodar,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,1,5130.0,Built-up Area,Gujarat
+Ahmedabad,Vaishnodevi Circle,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,32400.0,Plot Area,Gujarat
+Ahmedabad,Moraiya,Residential,12800000,Unfurnished,3,3,Individual,1,1,1,2,2718.0,Built-up Area,Gujarat
+Ahmedabad,Chandlodia,Residential,4150000,Semi-Furnished,2,2,Room-attached,0,0,0,1,1035.0,Built-up Area,Gujarat
+Ahmedabad,Nava Naroda,Residential,7000000,Semi-Furnished,3,2,"Connected,Room-attached",0,0,0,2,1126.0,Built-up Area,Gujarat
+Ahmedabad,Sindhubhavan,Commercial,0,Furnished,0,0,No Balcony,0,0,0,0,12000.0,Built-up Area,Gujarat
+Ahmedabad,Naranpura,Residential,20000000,Unfurnished,4,4,Connected,0,0,0,0,2700.0,Built-up Area,Gujarat
+Ahmedabad,Bodakdev,Commercial,0,Furnished,0,0,No Balcony,0,0,0,2,600.0,Built-up Area,Gujarat
+Ahmedabad,Maninagar,Residential,4500000,Semi-Furnished,2,2,Connected,0,0,0,1,900.0,Built-up Area,Gujarat
+Ahmedabad,Lambha,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,882000.0,Plot Area,Gujarat
+Ahmedabad,South Bopal,Residential,15000000,Furnished,3,3,Connected,0,0,0,1,2000.0,Built-up Area,Gujarat
+Ahmedabad,Gota,Residential,7000000,Unfurnished,2,2,Connected,1,1,1,1,1413.0,Built-up Area,Gujarat
+Ahmedabad,Makarba,Commercial,0,Furnished,0,0,Connected,0,0,0,6,470.0,Built-up Area,Gujarat
+Ahmedabad,Shilaj,Residential,11000000,Furnished,3,4,Connected,0,0,0,3,1566.0,Built-up Area,Gujarat
+Ahmedabad,Lilapur,Residential,750000000,Unfurnished,3,3,Connected,0,0,0,0,255600.0,Plot Area,Gujarat
+Ahmedabad,Rakhial,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,1800.0,Plot Area,Gujarat
+Ahmedabad,Shahibaug,Residential,27500000,Semi-Furnished,3,3,Connected,0,0,0,2,3400.0,Built-up Area,Gujarat
+Ahmedabad,Navrangpura,Residential,130000000,Furnished,5,5,Connected,0,0,0,0,6885.0,Plot Area,Gujarat
+Ahmedabad,New Ranip,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,2,950.0,Carpet Area,Gujarat
+Ahmedabad,Paldi,Residential,90000000,Unfurnished,3,3,Connected,0,0,0,0,7740.0,Plot Area,Gujarat
+Ahmedabad,Chandkheda Gam,Residential,5225000,Semi-Furnished,2,2,Room-attached,0,0,0,2,1228.0,Built-up Area,Gujarat
+Ahmedabad,Naranpura,Residential,12000000,Semi-Furnished,3,3,Connected,0,0,0,1,2025.0,Built-up Area,Gujarat
+Ahmedabad,Naroda,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,5400.0,Plot Area,Gujarat
+Ahmedabad,Thaltej,Residential,70000000,Furnished,6,6,Connected,0,0,0,3,4870.0,Built-up Area,Gujarat
+Ahmedabad,Bopal,Commercial,0,Furnished,0,0,No Balcony,0,0,0,1,655.0,Built-up Area,Gujarat
+Ahmedabad,Bopal,Residential,20500000,Unfurnished,4,5,Room-attached,0,0,1,2,3270.0,Built-up Area,Gujarat
+Ahmedabad,Mani Nagar,Residential,3876000,Semi-Furnished,2,2,"Connected,Room-attached",0,0,0,1,1188.0,Built-up Area,Gujarat
+Ahmedabad,Sabarmati,Residential,18400000,Unfurnished,4,4,Individual,0,0,0,3,3600.0,Built-up Area,Gujarat
+Ahmedabad,Dholera,Residential,650000,Unfurnished,3,3,Connected,1,1,1,0,900.0,Plot Area,Gujarat
+Ahmedabad,Motera,Residential,4500000,Furnished,2,2,Connected,0,0,0,1,1179.0,Built-up Area,Gujarat
+Ahmedabad,Paldi,Residential,75000000,Furnished,3,3,Connected,0,0,0,5,6300.0,Plot Area,Gujarat
+Ahmedabad,Shela,Residential,65000000,Unfurnished,3,3,Connected,0,0,0,0,5625.0,Plot Area,Gujarat
+Ahmedabad,Satellite,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,23256.0,Plot Area,Gujarat
+Ahmedabad,Kasindra,Residential,12000000,Unfurnished,4,4,Individual,0,1,1,2,1908.0,Saleable Area,Gujarat
+Ahmedabad,Chandkheda,Residential,8000000,Furnished,3,3,"Connected,Room-attached",0,0,0,2,3789.0,Built-up Area,Gujarat
+Ahmedabad,Mani Nagar,Residential,32100000,Unfurnished,4,4,Connected,0,0,0,4,2439.0,Built-up Area,Gujarat
+Ahmedabad,Jagatpur,Residential,8800000,Unfurnished,3,3,Connected,0,0,0,2,1550.0,Saleable Area,Gujarat
+Ahmedabad,SarkheJ- Okaf,Residential,860000000,Unfurnished,3,3,Connected,0,0,0,0,154800.0,Plot Area,Gujarat
+Ahmedabad,Bodakdev,Residential,10000000,Furnished,3,3,Connected,0,0,0,3,1252.0,Built-up Area,Gujarat
+Ahmedabad,Bopal,Residential,16500000,Furnished,3,3,"Individual,Room-attached",0,0,0,2,2370.0,Built-up Area,Gujarat
+Ahmedabad,Science City,Residential,2300000,Unfurnished,3,3,Connected,0,0,0,0,900.0,Plot Area,Gujarat
+Ahmedabad,Nava Naroda,Residential,5298000,Semi-Furnished,3,2,"Connected,Room-attached",0,0,0,2,1476.0,Built-up Area,Gujarat
+Ahmedabad,Dholera,Residential,500000,Unfurnished,3,3,Connected,0,0,0,0,1800.0,Plot Area,Gujarat
+Ahmedabad,Anand Nagar,Residential,4000000,Furnished,2,2,Room-attached,0,0,0,2,1035.0,Built-up Area,Gujarat
+Ahmedabad,Nikol,Residential,5599000,Semi-Furnished,2,2,"Connected,Room-attached",0,0,0,2,1422.0,Built-up Area,Gujarat
+Ahmedabad,Ognaj,Residential,-2147483648,Unfurnished,3,3,Connected,0,0,0,0,23256.0,Plot Area,Gujarat
+Ahmedabad,Sola,Residential,23500000,Furnished,3,3,Individual,0,0,0,2,1170.0,Built-up Area,Gujarat
+Ahmedabad,Thaltej,Residential,51100000,Furnished,3,4,Room-attached,0,0,0,2,2790.0,Built-up Area,Gujarat
+Ahmedabad,Memnagar,Residential,159640643,Unfurnished,2,4,Connected,0,1,0,3,255.0,Built-up Area,Gujarat
+Ahmedabad,Naranpura,Residential,12500000,Furnished,3,3,Connected,0,0,0,1,1737.0,Built-up Area,Gujarat
+Ahmedabad,Satellite,Residential,8500000,Furnished,2,2,Connected,0,0,0,2,1260.0,Built-up Area,Gujarat
+Ahmedabad,Chanakyapuri,Commercial,0,Semi-Furnished,0,0,Individual,0,0,0,1,420.0,Built-up Area,Gujarat
+Ahmedabad,Bodakdev,Residential,13500000,Furnished,3,3,"Connected,Individual,Room-attached",0,0,0,2,1845.0,Built-up Area,Gujarat
+Ahmedabad,C G Road,Residential,72900000,Unfurnished,3,3,Connected,0,0,0,0,7290.0,Plot Area,Gujarat
+Ahmedabad,Bodakdev,Residential,18500000,Furnished,4,4,"Individual,Room-attached",0,0,0,2,2340.0,Built-up Area,Gujarat
+Ahmedabad,Vaishnodevi Circle,Residential,4200000,Unfurnished,2,2,Room-attached,0,0,0,2,1053.0,Built-up Area,Gujarat
+Ahmedabad,Shilaj,Residential,95000000,Unfurnished,4,5,Connected,0,0,0,5,9000.0,Carpet Area,Gujarat
+Ahmedabad,Shela,Residential,6168000,Unfurnished,3,2,Connected,0,1,0,4,1505.0,Built-up Area,Gujarat
+Ahmedabad,Vaishnodevi Circle,Residential,7400000,Unfurnished,3,3,Individual,0,0,0,2,1845.0,Built-up Area,Gujarat
+Ahmedabad,Bopal,Residential,3499000,Semi-Furnished,2,1,"Connected,Room-attached",0,0,0,1,917.0,Built-up Area,Gujarat
+Ahmedabad,Shyamal,Residential,49000000,Furnished,5,5,Connected,0,0,0,2,3465.0,Plot Area,Gujarat
+Ahmedabad,Kasindra,Residential,125000000,Unfurnished,3,3,Connected,0,0,0,0,306000.0,Plot Area,Gujarat
+Ahmedabad,Gota,Commercial,0,Furnished,0,0,No Balcony,0,0,0,7,665.0,Built-up Area,Gujarat
+Ahmedabad,Paldi,Residential,32500000,Furnished,5,5,Connected,0,0,0,3,3000.0,Built-up Area,Gujarat
+Ahmedabad,Chandkheda,Residential,22500000,Semi-Furnished,3,3,Room-attached,0,0,0,3,2276.0,Built-up Area,Gujarat
+Ahmedabad,Navarangpura,Residential,30000000,Unfurnished,3,3,Connected,0,0,0,0,2700.0,Plot Area,Gujarat
+Ahmedabad,Chandlodia,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,500.0,Carpet Area,Gujarat
+Ahmedabad,Paldi,Residential,22500000,Furnished,3,4,"Connected,Individual,Room-attached",0,0,0,1,1665.0,Built-up Area,Gujarat
+Ahmedabad,Naranpura,Residential,10400000,Unfurnished,3,2,Connected,0,0,0,0,1818.0,Built-up Area,Gujarat
+Ahmedabad,Girdhar Nagar,Residential,159640643,Unfurnished,4,2,Connected,0,0,0,1,5859.0,Built-up Area,Gujarat
+Ahmedabad,Sanand,Residential,4800000,Unfurnished,3,3,Connected,0,0,0,0,4815.0,Plot Area,Gujarat
+Ahmedabad,Nava Naroda,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,5,518.0,Built-up Area,Gujarat
+Ahmedabad,Sabarmati,Residential,10300000,Unfurnished,3,3,Individual,0,0,1,2,2025.0,Built-up Area,Gujarat
+Ahmedabad,Chharodi,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,1,714.0,Built-up Area,Gujarat
+Ahmedabad,Satellite,Residential,4353000,Unfurnished,3,3,Connected,0,0,0,0,500.0,Plot Area,Gujarat
+Ahmedabad,Nikol,Residential,9000000,Furnished,3,3,"Connected,Individual",0,0,0,2,1764.0,Built-up Area,Gujarat
+Ahmedabad,Chandkheda,Residential,5000000,Unfurnished,2,2,Connected,0,0,0,2,1305.0,Built-up Area,Gujarat
+Ahmedabad,S P Ring Road,Residential,-2147483648,Unfurnished,3,3,Connected,0,0,0,0,891000.0,Plot Area,Gujarat
+Ahmedabad,Chandkheda,Residential,3700000,Semi-Furnished,2,2,Connected,0,0,0,1,990.0,Built-up Area,Gujarat
+Ahmedabad,Ongc,Residential,13000000,Semi-Furnished,2,2,Room-attached,0,0,0,3,1395.0,Built-up Area,Gujarat
+Ahmedabad,Ghatalodia,Residential,78500000,Furnished,3,3,Connected,0,0,0,3,5625.0,Plot Area,Gujarat
+Ahmedabad,Shela,Residential,47500000,Unfurnished,3,3,Connected,0,0,0,0,4725.0,Plot Area,Gujarat
+Ahmedabad,Zundal,Commercial,0,Unfurnished,0,0,No Balcony,1,0,0,1,553.0,Built-up Area,Gujarat
+Ahmedabad,Sindhubhavan,Residential,159640643,Semi-Furnished,6,6,Connected,0,0,0,2,27900.0,Built-up Area,Gujarat
+Ahmedabad,Vasna,Residential,13000000,Furnished,3,2,Room-attached,0,0,0,1,2040.0,Built-up Area,Gujarat
+Ahmedabad,Vastrapur,Residential,120000000,Furnished,4,4,Connected,0,0,0,4,7200.0,Built-up Area,Gujarat
+Ahmedabad,Ghodasar,Residential,2904000,Semi-Furnished,2,2,"Connected,Room-attached",0,0,0,1,527.0,Built-up Area,Gujarat
+Ahmedabad,Kasindra,Residential,6400000,Unfurnished,3,3,Individual,1,0,1,0,963.0,Saleable Area,Gujarat
+Ahmedabad,Ranip,Residential,22500000,Furnished,3,3,Connected,0,0,0,3,2250.0,Plot Area,Gujarat
+Ahmedabad,Vastrapur,Residential,25000000,Furnished,5,5,Connected,0,0,0,3,2700.0,Built-up Area,Gujarat
+Ahmedabad,Naranpura,Residential,7000000,Furnished,2,2,Individual,0,0,0,1,990.0,Built-up Area,Gujarat
+Ahmedabad,Science City,Residential,21000000,Semi-Furnished,3,3,Individual,0,0,0,2,2160.0,Built-up Area,Gujarat
+Ahmedabad,Bopal,Residential,3650000,Semi-Furnished,2,2,Individual,0,0,0,0,1107.0,Saleable Area,Gujarat
+Ahmedabad,Jagatpur,Residential,2549000,Semi-Furnished,1,1,"Connected,Room-attached",0,0,0,0,545.0,Built-up Area,Gujarat
+Ahmedabad,Chandkheda,Residential,20000000,Unfurnished,3,4,Connected,0,0,1,2,1728.0,Built-up Area,Gujarat
+Ahmedabad,Tapovan Circle,Residential,90000000,Unfurnished,3,3,Connected,0,0,0,0,11250.0,Plot Area,Gujarat
+Ahmedabad,Gota,Residential,80000000,Unfurnished,3,3,Connected,0,0,0,0,7200.0,Plot Area,Gujarat
+Ahmedabad,Nava Naroda,Residential,3899000,Semi-Furnished,2,2,"Connected,Room-attached",0,0,0,1,1125.0,Built-up Area,Gujarat
+Ahmedabad,Bavla,Commercial,0,Unfurnished,0,0,No Balcony,0,1,0,0,891000.0,Plot Area,Gujarat
+Ahmedabad,Satellite,Residential,65000000,Unfurnished,5,5,Connected,0,0,0,3,3600.0,Built-up Area,Gujarat
+Ahmedabad,Nava Vadaj,Residential,14500000,Semi-Furnished,2,2,Connected,0,0,0,2,1215.0,Plot Area,Gujarat
+Ahmedabad,Jodhpur,Residential,6107000,Semi-Furnished,3,3,"Connected,Room-attached",0,0,0,1,1053.0,Built-up Area,Gujarat
+Ahmedabad,Sanand,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,891000.0,Plot Area,Gujarat
+Ahmedabad,Ghatlodia,Residential,11500000,Furnished,3,3,Individual,0,0,0,5,2000.0,Built-up Area,Gujarat
+Ahmedabad,Navrangpura,Residential,36000000,Furnished,4,3,Connected,0,0,0,0,3807.0,Built-up Area,Gujarat
+Ahmedabad,Changodar,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,891000.0,Plot Area,Gujarat
+Ahmedabad,Janta Nagar,Residential,12000000,Furnished,4,4,Individual,0,0,0,3,1752.0,Built-up Area,Gujarat
+Ahmedabad,Science City,Residential,82500000,Semi-Furnished,4,4,Connected,0,0,0,0,3960.0,Plot Area,Gujarat
+Ahmedabad,Chamanpura,Residential,6000000,Semi-Furnished,1,1,Room-attached,0,0,0,2,945.0,Built-up Area,Gujarat
+Ahmedabad,Shela,Residential,5000000,Unfurnished,2,2,Connected,1,1,1,1,1220.0,Built-up Area,Gujarat
+Ahmedabad,Mithakali,Commercial,0,Semi-Furnished,0,0,No Balcony,0,0,0,0,360.0,Built-up Area,Gujarat
+Ahmedabad,Gota,Residential,5000000,Semi-Furnished,2,2,Connected,0,0,0,1,1080.0,Built-up Area,Gujarat
+Ahmedabad,Meghani Nagar,Residential,9500000,Furnished,6,3,Individual,0,0,0,2,1330.0,Built-up Area,Gujarat
+Ahmedabad,Bhadaj,Residential,45000000,Unfurnished,3,3,"Connected,Individual,Room-attached",1,1,1,2,3789.0,Built-up Area,Gujarat
+Ahmedabad,Near Nirma University On Sg Highway,Residential,25000000,Furnished,4,4,Connected,0,0,0,2,3600.0,Built-up Area,Gujarat
+Ahmedabad,South Bopal,Residential,28000000,Furnished,4,4,Connected,0,0,0,2,3200.0,Built-up Area,Gujarat
+Ahmedabad,Dholera,Residential,525000,Unfurnished,3,3,Connected,0,0,0,0,855.0,Plot Area,Gujarat
+Ahmedabad,Shantipura,Residential,35000000,Furnished,4,4,Connected,0,0,0,1,400.0,Plot Area,Gujarat
+Ahmedabad,Science City,Residential,30000000,Furnished,4,4,Connected,0,0,0,2,218.0,Built-up Area,Gujarat
+Ahmedabad,Dholera,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,1,250.0,Built-up Area,Gujarat
+Ahmedabad,Ambawadi,Residential,37000000,Semi-Furnished,5,4,Individual,0,0,0,1,1665.0,Built-up Area,Gujarat
+Ahmedabad,Bopal,Residential,20000000,Semi-Furnished,3,3,"Connected,Individual",0,0,0,2,2495.0,Built-up Area,Gujarat
+Ahmedabad,Satellite,Residential,9200000,Furnished,3,3,Individual,0,0,0,1,1485.0,Built-up Area,Gujarat
+Ahmedabad,Vejalpur,Residential,3800000,Semi-Furnished,2,2,Connected,0,0,0,1,765.0,Built-up Area,Gujarat
+Ahmedabad,Mandal,Residential,4800000,Unfurnished,3,3,Connected,0,0,1,0,6633.0,Plot Area,Gujarat
+Ahmedabad,Zundal,Residential,50000000,Unfurnished,4,4,Connected,0,0,0,3,13500.0,Plot Area,Gujarat
+Ahmedabad,Ambawadi,Residential,7000000,Furnished,2,2,Room-attached,0,0,0,1,560.0,Built-up Area,Gujarat
+Ahmedabad,Satellite,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,2,250.0,Built-up Area,Gujarat
+Ahmedabad,Chandkheda,Residential,5000000,Furnished,2,2,"Connected,Individual",0,0,0,2,1170.0,Built-up Area,Gujarat
+Ahmedabad,Gota,Residential,7950000,Furnished,2,2,Connected,0,0,0,2,2000.0,Built-up Area,Gujarat
+Ahmedabad,Kasindra,Residential,8600000,Unfurnished,3,3,Individual,0,0,1,2,1458.0,Saleable Area,Gujarat
+Ahmedabad,Santej,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,15300.0,Plot Area,Gujarat
+Ahmedabad,Prahlad Nagar,Residential,55000000,Furnished,4,4,Connected,0,0,0,6,3000.0,Built-up Area,Gujarat
+Ahmedabad,Paldi,Residential,159640643,Unfurnished,3,3,Connected,0,0,0,1,1845.0,Built-up Area,Gujarat
+Ahmedabad,Narol,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,2700.0,Plot Area,Gujarat
+Ahmedabad,Sanathal,Residential,59000000,Furnished,4,4,Connected,0,0,0,4,6102.0,Plot Area,Gujarat
+Ahmedabad,Ranip,Residential,3000000,Semi-Furnished,1,1,Connected,0,0,0,1,800.0,Built-up Area,Gujarat
+Ahmedabad,Bodakdev,Residential,9000000,Furnished,2,2,Connected,0,0,0,1,1600.0,Built-up Area,Gujarat
+Ahmedabad,Mani Nagar,Residential,31000000,Furnished,6,4,Room-attached,0,0,0,3,1980.0,Built-up Area,Gujarat
+Ahmedabad,Dholera,Residential,1400000,Unfurnished,3,3,Connected,1,1,1,0,1800.0,Plot Area,Gujarat
+Ahmedabad,Ghuma,Residential,12000000,Semi-Furnished,3,3,Connected,0,0,0,0,150.0,Built-up Area,Gujarat
+Ahmedabad,Thaltej,Residential,45000000,Unfurnished,3,3,Connected,0,0,0,0,4050.0,Plot Area,Gujarat
+Ahmedabad,Makarba,Residential,81000000,Unfurnished,3,3,Connected,0,0,0,0,5400.0,Plot Area,Gujarat
+Ahmedabad,Sp Ring Road,Residential,65000000,Unfurnished,5,5,Individual,1,1,0,4,5670.0,Built-up Area,Gujarat
+Ahmedabad,Chandkheda,Residential,13000000,Semi-Furnished,3,3,Individual,0,0,0,3,200.0,Carpet Area,Gujarat
+Ahmedabad,Ahmedabad Cantonment,Residential,13900000,Unfurnished,3,3,Connected,0,0,0,0,7830.0,Plot Area,Gujarat
+Ahmedabad,Naranpura,Residential,6500000,Unfurnished,3,3,Connected,0,0,1,0,970.0,Carpet Area,Gujarat
+Ahmedabad,Paldi,Residential,3000000,Unfurnished,2,3,Connected,0,0,0,0,544.0,Built-up Area,Gujarat
+Ahmedabad,Bavla,Residential,2400000,Unfurnished,3,3,Connected,0,0,0,0,2196.0,Plot Area,Gujarat
+Ahmedabad,Ghuma,Residential,14000000,Unfurnished,3,3,Connected,0,0,0,0,1887.0,Built-up Area,Gujarat
+Ahmedabad,Motera,Residential,159640643,Unfurnished,3,3,Connected,0,0,0,0,1004.0,Carpet Area,Gujarat
+Ahmedabad,Motera,Residential,3600000,Semi-Furnished,4,2,"Connected,Room-attached",0,0,0,1,3600.0,Built-up Area,Gujarat
+Ahmedabad,Bopal,Residential,2000000,Unfurnished,1,3,Connected,0,0,0,0,364.0,Built-up Area,Gujarat
+Ahmedabad,Shahibagh,Residential,40000000,Semi-Furnished,4,4,Connected,0,0,0,3,2250.0,Carpet Area,Gujarat
+Ahmedabad,Vasna,Residential,3000000,Semi-Furnished,1,1,Individual,0,0,0,1,612.0,Built-up Area,Gujarat
+Ahmedabad,Shela,Residential,21500000,Unfurnished,3,3,Connected,0,0,0,2,1800.0,Built-up Area,Gujarat
+Ahmedabad,Ahmedabad Cantonment,Residential,25100000,Furnished,4,4,Room-attached,0,0,0,3,204.0,Plot Area,Gujarat
+Ahmedabad,Ranip,Residential,4600000,Furnished,2,2,Connected,0,0,0,0,1000.0,Built-up Area,Gujarat
+Ahmedabad,Juhapura,Residential,3400000,Unfurnished,2,2,Individual,0,0,0,0,540.0,Plot Area,Gujarat
+Ahmedabad,Satellite,Residential,15000000,Semi-Furnished,4,3,Connected,0,0,0,2,2250.0,Built-up Area,Gujarat
+Ahmedabad,Dholera,Residential,1867000,Unfurnished,3,3,Connected,0,0,1,0,1681.0,Plot Area,Gujarat
+Ahmedabad,Bopal,Residential,2800000,Semi-Furnished,1,1,"Connected,Room-attached",0,0,0,0,700.0,Built-up Area,Gujarat
+Ahmedabad,Sabarmati,Residential,2700000,Unfurnished,2,2,Room-attached,0,0,1,2,1080.0,Built-up Area,Gujarat
+Ahmedabad,Changodar,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,12843.0,Plot Area,Gujarat
+Ahmedabad,Naranpura,Residential,675000000,Unfurnished,3,3,Connected,0,0,0,0,4500.0,Plot Area,Gujarat
+Ahmedabad,Satellite,Residential,6300000,Unfurnished,2,2,Connected,0,0,0,1,1050.0,Built-up Area,Gujarat
+Ahmedabad,Gota,Residential,26000000,Furnished,3,3,Room-attached,0,0,0,2,2025.0,Built-up Area,Gujarat
+Ahmedabad,Chandkheda,Residential,6200000,Furnished,1,2,Individual,0,0,0,2,782.0,Built-up Area,Gujarat
+Ahmedabad,Sanathal,Residential,35000000,Semi-Furnished,4,4,Room-attached,0,0,0,4,3600.0,Built-up Area,Gujarat
+Ahmedabad,Vatva,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,37296.0,Plot Area,Gujarat
+Ahmedabad,Kolat,Residential,50000000,Furnished,5,5,Connected,0,0,0,4,9405.0,Built-up Area,Gujarat
+Ahmedabad,Kasindra,Residential,8700000,Furnished,3,3,Connected,0,0,0,0,1791.0,Built-up Area,Gujarat
+Ahmedabad,Naranpura,Residential,11100000,Furnished,3,3,"Individual,Room-attached",0,0,0,1,1575.0,Built-up Area,Gujarat
+Ahmedabad,Ranip,Residential,9000000,Unfurnished,3,2,Connected,0,0,0,1,1600.0,Built-up Area,Gujarat
+Ahmedabad,Satellite,Residential,45000000,Semi-Furnished,6,5,"Connected,Individual,Room-attached",0,0,1,2,2700.0,Built-up Area,Gujarat
+Ahmedabad,Dholka,Residential,1900000,Unfurnished,3,3,Connected,0,0,0,0,1692.0,Plot Area,Gujarat
+Ahmedabad,New Cg Road,Residential,2800000,Semi-Furnished,1,2,Individual,0,0,0,1,675.0,Built-up Area,Gujarat
+Ahmedabad,Nikol Kathwada,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,1215.0,Plot Area,Gujarat
+Ahmedabad,Ghatalodia,Residential,15000000,Semi-Furnished,3,3,Individual,0,0,0,2,1350.0,Built-up Area,Gujarat
+Ahmedabad,Dholera,Residential,500000,Unfurnished,3,3,Connected,0,0,0,0,1000.0,Plot Area,Gujarat
+Ahmedabad,Ahmedabad Cantonment,Residential,13700000,Unfurnished,3,3,Connected,0,0,0,0,9486.0,Plot Area,Gujarat
+Ahmedabad,Chandkheda,Residential,5200000,Furnished,2,1,Individual,0,0,0,2,862.0,Built-up Area,Gujarat
+Ahmedabad,Chandkheda,Residential,5700000,Semi-Furnished,2,1,Room-attached,0,0,0,2,1800.0,Built-up Area,Gujarat
+Ahmedabad,Gota,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,1,290.0,Built-up Area,Gujarat

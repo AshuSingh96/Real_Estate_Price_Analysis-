@@ -1,0 +1,554 @@
+City,Locality,Property Type,Price,Furnishing Status,Number of Rooms,Number of Bathroom,Balcony,Clubhouse,Swimming Pool,"""Kids Play Areas""",Parking,Area (Sq.Ft.),State,Area Type
+Nagpur,Beltarodi,Residential,5350000,Unfurnished,2,2,"Connected,Room-attached",0,0,0,2,1200.0,Maharashtra,Saleable Area
+Nagpur,Besa Pipla rd,Residential,4500000,Unfurnished,2,2,Connected,0,0,0,0,1100.0,Maharashtra,Plot Area
+Nagpur,Nagalwadi,Residential,2000000,Unfurnished,2,2,Connected,0,0,0,0,1200.0,Maharashtra,Plot Area
+Nagpur,Borkhedi,Residential,2130000,Unfurnished,2,2,Connected,0,0,0,0,1775.0,Maharashtra,Plot Area
+Nagpur,Dabha,Residential,8900000,Unfurnished,2,2,Connected,0,0,0,0,2780.0,Maharashtra,Plot Area
+Nagpur,Dabha,Residential,7200000,Unfurnished,4,3,Connected,0,0,1,1,1100.0,Maharashtra,Built-up Area
+Nagpur,Shankarpur,Residential,16500000,Furnished,3,4,Connected,0,0,0,3,1500.0,Maharashtra,Built-up Area
+Nagpur,Narendra Nagar,Residential,8000000,Unfurnished,3,2,Connected,1,0,1,3,1700.0,Maharashtra,Saleable Area
+Nagpur,Kotewada,Residential,2873000,Unfurnished,2,2,Connected,0,0,0,0,1210.0,Maharashtra,Plot Area
+Nagpur,Gumgaon,Residential,1977000,Unfurnished,2,2,Connected,0,0,0,0,1049.0,Maharashtra,Plot Area
+Nagpur,Nagpur Airport,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,5000.0,Maharashtra,Plot Area
+Nagpur,New Khapri,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,2000.0,Maharashtra,Plot Area
+Nagpur,Mahadula,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,2790.0,Maharashtra,Plot Area
+Nagpur,Gotal Pajri,Residential,4000000,Unfurnished,3,2,Room-attached,0,0,0,2,1200.0,Maharashtra,Built-up Area
+Nagpur,Narendra Nagar,Residential,7000000,Unfurnished,3,2,Room-attached,1,0,1,2,1700.0,Maharashtra,Saleable Area
+Nagpur,Gotal Pajri,Residential,3500000,Furnished,2,2,Connected,0,0,0,0,1100.0,Maharashtra,Built-up Area
+Nagpur,Bhagwan Nagar,Residential,5000000,Semi-Furnished,2,2,"Connected,Room-attached",0,0,0,2,1135.0,Maharashtra,Built-up Area
+Nagpur,Pipla,Residential,3780000,Unfurnished,2,2,Connected,0,0,0,0,1200.0,Maharashtra,Plot Area
+Nagpur,Zari,Residential,14100000,Unfurnished,2,2,Connected,0,0,0,0,1000.0,Maharashtra,Plot Area
+Nagpur,Kamptee rd,Residential,2200000,Unfurnished,2,2,Connected,0,0,0,0,1500.0,Maharashtra,Plot Area
+Nagpur,Bhilgaon,Residential,6000000,Unfurnished,2,2,Connected,0,0,0,0,3000.0,Maharashtra,Plot Area
+Nagpur,Zari,Residential,1385000,Unfurnished,2,2,Connected,0,0,0,0,1066.0,Maharashtra,Plot Area
+Nagpur,Wanadongri,Residential,6300000,Unfurnished,3,3,Room-attached,0,0,1,1,951.0,Maharashtra,Built-up Area
+Nagpur,Nagpur Airport,Residential,7700000,Semi-Furnished,3,3,"Individual,Room-attached",0,0,0,2,1442.0,Maharashtra,Built-up Area
+Nagpur,Jamtha,Residential,2437000,Unfurnished,2,2,Connected,0,0,0,0,1500.0,Maharashtra,Plot Area
+Nagpur,Jamtha,Residential,12200000,Unfurnished,2,2,Connected,0,0,0,0,5000.0,Maharashtra,Plot Area
+Nagpur,Umred rd,Residential,1867000,Unfurnished,2,2,Connected,0,0,0,0,1167.0,Maharashtra,Plot Area
+Nagpur,Kamptee rd,Residential,1438000,Unfurnished,2,2,Connected,0,0,0,0,975.0,Maharashtra,Plot Area
+Nagpur,Besa Pipla rd,Residential,3200000,Unfurnished,2,2,Connected,0,0,0,0,1200.0,Maharashtra,Plot Area
+Nagpur,Katol rd,Residential,2050000,Unfurnished,2,2,Connected,0,0,1,0,1250.0,Maharashtra,Plot Area
+Nagpur,Kotewada,Residential,2300000,Unfurnished,2,2,Connected,1,1,1,0,1200.0,Maharashtra,Plot Area
+Nagpur,Abhyankar Nagar,Residential,19000000,Unfurnished,2,2,Connected,0,0,0,0,1350.0,Maharashtra,Plot Area
+Nagpur,Manewada,Residential,1250000,Unfurnished,2,2,Connected,0,0,0,0,5000.0,Maharashtra,Plot Area
+Nagpur,Besa,Residential,6000000,Unfurnished,2,2,Individual,0,0,0,2,1100.0,Maharashtra,Built-up Area
+Nagpur,Jai Prakash Nagar,Residential,9700000,Semi-Furnished,2,2,Individual,0,0,0,2,1050.0,Maharashtra,Built-up Area
+Nagpur,Manewada,Residential,7300000,Unfurnished,3,3,Individual,0,0,0,1,1250.0,Maharashtra,Carpet Area
+Nagpur,Shankarpur,Residential,3355000,Unfurnished,2,2,Connected,0,0,1,0,1100.0,Maharashtra,Plot Area
+Nagpur,Mondha,Residential,2100000,Unfurnished,2,2,Connected,0,0,1,0,1500.0,Maharashtra,Plot Area
+Nagpur,Kotewada,Residential,4000000,Unfurnished,2,2,Connected,0,0,0,0,1500.0,Maharashtra,Plot Area
+Nagpur,Kotewada,Residential,2800000,Unfurnished,2,2,Connected,0,0,1,0,1200.0,Maharashtra,Plot Area
+Nagpur,Pipla,Residential,3000000,Unfurnished,2,2,Connected,0,0,0,0,1000.0,Maharashtra,Plot Area
+Nagpur,Hanuman Nagar,Residential,11000000,Unfurnished,3,3,Connected,0,0,0,1,1550.0,Maharashtra,Built-up Area
+Nagpur,Jamtha,Residential,2000000,Unfurnished,2,2,Connected,0,0,0,0,1000.0,Maharashtra,Plot Area
+Nagpur,New Mankapur,Residential,9000000,Unfurnished,2,2,Connected,0,0,0,0,1500.0,Maharashtra,Plot Area
+Nagpur,Hudkeshwar rd,Residential,6300000,Unfurnished,2,2,Connected,0,0,0,0,2098.0,Maharashtra,Plot Area
+Nagpur,Shankarpur,Residential,3300000,Unfurnished,2,2,Connected,0,0,0,0,1000.0,Maharashtra,Plot Area
+Nagpur,Beltarodi,Residential,5400000,Unfurnished,2,2,Room-attached,0,1,1,3,1200.0,Maharashtra,Built-up Area
+Nagpur,Mihan,Residential,5940000,Furnished,2,2,Connected,0,0,0,0,1398.0,Maharashtra,Built-up Area
+Nagpur,Samarth Nagar East,Residential,3200000,Unfurnished,2,2,Connected,0,0,0,0,1200.0,Maharashtra,Plot Area
+Nagpur,Pipla rd,Residential,3700000,Unfurnished,2,2,Connected,0,0,0,1,1170.0,Maharashtra,Built-up Area
+Nagpur,Isasani,Residential,1850000,Unfurnished,2,2,Connected,0,0,0,0,1500.0,Maharashtra,Plot Area
+Nagpur,Katol rd,Residential,14100000,Semi-Furnished,4,3,Individual,0,0,0,3,3300.0,Maharashtra,Built-up Area
+Nagpur,Koradi rd,Residential,3000000,Semi-Furnished,2,1,Room-attached,0,0,0,2,1000.0,Maharashtra,Built-up Area
+Nagpur,Besa Pipla rd,Residential,3560000,Unfurnished,2,2,Connected,0,0,1,0,1130.0,Maharashtra,Plot Area
+Nagpur,Kotewada,Residential,7960000,Unfurnished,2,2,Connected,0,0,1,0,3300.0,Maharashtra,Plot Area
+Nagpur,Umred rd,Residential,1600000,Unfurnished,2,2,Connected,0,0,0,0,1000.0,Maharashtra,Plot Area
+Nagpur,Katol rd,Residential,15000000,Furnished,6,4,Room-attached,0,0,0,3,1800.0,Maharashtra,Built-up Area
+Nagpur,Sondapar,Residential,3000000,Unfurnished,2,2,Connected,0,0,0,0,1100.0,Maharashtra,Plot Area
+Nagpur,Godhani Road,Residential,3000000,Unfurnished,2,2,Connected,0,0,0,0,1500.0,Maharashtra,Plot Area
+Nagpur,Shankarpur,Residential,3800000,Semi-Furnished,2,2,Connected,0,0,0,1,825.0,Maharashtra,Built-up Area
+Nagpur,Borkhedi,Residential,1850000,Unfurnished,2,2,Connected,0,0,0,0,1000.0,Maharashtra,Plot Area
+Nagpur,Chikna,Residential,1650000,Unfurnished,2,2,Connected,0,0,0,0,1000.0,Maharashtra,Plot Area
+Nagpur,Wardha rd,Residential,1100000,Unfurnished,2,2,Connected,1,1,1,0,1000.0,Maharashtra,Plot Area
+Nagpur,Umred rd,Residential,1800000,Unfurnished,2,2,Connected,0,0,1,0,1130.0,Maharashtra,Plot Area
+Nagpur,Umred rd,Residential,1350000,Unfurnished,2,2,Connected,0,0,0,0,1000.0,Maharashtra,Plot Area
+Nagpur,Wardha rd,Residential,2050000,Unfurnished,2,2,Connected,0,0,0,0,1000.0,Maharashtra,Plot Area
+Nagpur,Godhni,Residential,4200000,Unfurnished,2,2,Connected,0,0,0,0,1200.0,Maharashtra,Plot Area
+Nagpur,Shivmadka,Residential,2827000,Unfurnished,2,2,Connected,1,1,1,0,1500.0,Maharashtra,Plot Area
+Nagpur,Shankarpur,Residential,5000000,Unfurnished,2,2,Connected,1,1,1,0,1500.0,Maharashtra,Plot Area
+Nagpur,Kotewada,Residential,2600000,Unfurnished,2,2,Connected,1,1,1,0,1130.0,Maharashtra,Plot Area
+Nagpur,Pipla,Residential,5250000,Unfurnished,2,2,Connected,1,0,0,0,1500.0,Maharashtra,Plot Area
+Nagpur,Pipla rd,Residential,4950000,Unfurnished,2,2,Connected,0,0,1,0,1500.0,Maharashtra,Plot Area
+Nagpur,Buti Bori,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,1000.0,Maharashtra,Plot Area
+Nagpur,Chatrapati Nagar,Residential,17500000,Semi-Furnished,4,4,Connected,0,0,0,2,2340.0,Maharashtra,Built-up Area
+Nagpur,Jaripatka,Residential,5200000,Semi-Furnished,3,3,Individual,0,0,0,3,1500.0,Maharashtra,Built-up Area
+Nagpur,Gumgaon,Residential,3600000,Unfurnished,2,2,Connected,0,0,0,0,2000.0,Maharashtra,Plot Area
+Nagpur,Somalwada,Residential,18000000,Unfurnished,2,2,Connected,0,0,0,0,1800.0,Maharashtra,Plot Area
+Nagpur,Sumthana,Residential,4100000,Unfurnished,2,2,Connected,1,0,0,0,9900.0,Maharashtra,Plot Area
+Nagpur,Chicholi,Residential,2801000,Unfurnished,2,2,Connected,0,0,1,0,1751.0,Maharashtra,Plot Area
+Nagpur,Wardha rd,Residential,4000000,Semi-Furnished,2,2,Connected,0,0,0,3,1025.0,Maharashtra,Built-up Area
+Nagpur,Zari,Residential,14100000,Unfurnished,2,2,Connected,0,0,0,0,1300.0,Maharashtra,Plot Area
+Nagpur,Trimurtee Nagar,Residential,6000000,Semi-Furnished,2,2,"Connected,Individual,Room-attached",0,0,0,3,965.0,Maharashtra,Built-up Area
+Nagpur,Swavalambi Nagar,Residential,6200000,Semi-Furnished,2,2,"Connected,Individual,Room-attached",0,0,0,2,925.0,Maharashtra,Built-up Area
+Nagpur,Pratap Nagar,Residential,6000000,Semi-Furnished,2,2,"Connected,Individual,Room-attached",0,0,0,2,1000.0,Maharashtra,Built-up Area
+Nagpur,Besa Pipla rd,Residential,5000000,Unfurnished,2,2,Connected,0,0,0,0,1500.0,Maharashtra,Plot Area
+Nagpur,Borkhedi,Residential,1800000,Unfurnished,2,2,Connected,0,0,1,0,2209.0,Maharashtra,Plot Area
+Nagpur,Dongargaon,Residential,2775000,Unfurnished,2,2,Connected,0,0,0,0,1500.0,Maharashtra,Plot Area
+Nagpur,Wardha rd,Residential,2850000,Unfurnished,2,2,Connected,0,0,0,0,1250.0,Maharashtra,Plot Area
+Nagpur,Jaitala,Residential,1800000,Semi-Furnished,1,1,Connected,0,0,0,2,450.0,Maharashtra,Built-up Area
+Nagpur,Besa Pipla rd,Residential,2700000,Semi-Furnished,2,2,Connected,0,0,0,2,900.0,Maharashtra,Built-up Area
+Nagpur,Nagpur Station,Residential,2750000,Unfurnished,2,2,Connected,0,0,0,0,1350.0,Maharashtra,Plot Area
+Nagpur,Besa,Residential,4550000,Unfurnished,2,2,Connected,0,0,0,0,1425.0,Maharashtra,Plot Area
+Nagpur,Nagpur Airport,Residential,6800000,Unfurnished,3,3,Room-attached,0,0,0,2,1421.0,Maharashtra,Built-up Area
+Nagpur,Jamtha,Residential,3900000,Unfurnished,2,2,Connected,0,0,0,0,1500.0,Maharashtra,Plot Area
+Nagpur,Narsala,Residential,3000000,Unfurnished,2,2,Connected,0,0,1,0,15750.0,Maharashtra,Plot Area
+Nagpur,Besa rd,Residential,6000000,Semi-Furnished,2,2,"Connected,Individual,Room-attached",0,0,0,3,950.0,Maharashtra,Built-up Area
+Nagpur,Shree Nagar,Residential,6500000,Semi-Furnished,3,3,"Connected,Individual,Room-attached",0,0,0,3,1525.0,Maharashtra,Built-up Area
+Nagpur,Narendra Nagar,Residential,6500000,Semi-Furnished,3,3,"Connected,Individual,Room-attached",0,0,0,2,1425.0,Maharashtra,Built-up Area
+Nagpur,Manish Nagar,Residential,8250000,Semi-Furnished,3,3,"Connected,Individual,Room-attached",0,0,0,3,1465.0,Maharashtra,Built-up Area
+Nagpur,Mahal,Residential,15500000,Unfurnished,2,2,Connected,0,0,0,0,1425.0,Maharashtra,Plot Area
+Nagpur,Abhyankar Nagar,Residential,19100000,Unfurnished,2,2,Connected,0,0,0,0,1350.0,Maharashtra,Plot Area
+Nagpur,Gandhibagh,Residential,15500000,Unfurnished,2,2,Connected,0,0,0,0,1415.0,Maharashtra,Plot Area
+Nagpur,Shankar Nagar,Residential,31000000,Unfurnished,2,2,Connected,0,0,0,0,3000.0,Maharashtra,Plot Area
+Nagpur,Chicholi,Residential,5121000,Unfurnished,2,2,Connected,0,0,1,0,3201.0,Maharashtra,Plot Area
+Nagpur,Chicholi,Residential,5288000,Unfurnished,2,2,Connected,0,0,0,0,3305.0,Maharashtra,Plot Area
+Nagpur,Omkar Naga,Residential,6500000,Semi-Furnished,2,2,"Connected,Individual,Room-attached",0,0,0,2,925.0,Maharashtra,Built-up Area
+Nagpur,Manish Nagar,Residential,5200000,Semi-Furnished,2,2,"Connected,Individual,Room-attached",0,0,0,2,865.0,Maharashtra,Built-up Area
+Nagpur,Mihan,Residential,6130000,Furnished,2,2,Connected,0,0,0,0,1443.0,Maharashtra,Built-up Area
+Nagpur,Gorewada,Residential,6143282,Unfurnished,2,2,Connected,0,0,0,0,1500.0,Maharashtra,Plot Area
+Nagpur,Jamtha,Residential,4250000,Unfurnished,2,2,Connected,0,0,0,0,1625.0,Maharashtra,Plot Area
+Nagpur,Koradi rd,Residential,3700000,Semi-Furnished,2,2,"Individual,Room-attached",0,0,0,0,1190.0,Maharashtra,Built-up Area
+Nagpur,Manish Nagar,Residential,4550000,Semi-Furnished,2,2,"Connected,Individual,Room-attached",0,0,0,2,1000.0,Maharashtra,Built-up Area
+Nagpur,Chicholi,Residential,5000000,Unfurnished,2,2,Connected,0,0,1,0,3125.0,Maharashtra,Plot Area
+Nagpur,Dhamna,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,50000.0,Maharashtra,Plot Area
+Nagpur,Wardha rd,Residential,22500000,Unfurnished,2,2,Connected,0,0,0,0,17550.0,Maharashtra,Plot Area
+Nagpur,Buti Bori,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,10000.0,Maharashtra,Plot Area
+Nagpur,Sonegaon,Residential,6500000,Unfurnished,2,2,Connected,0,0,0,0,1500.0,Maharashtra,Plot Area
+Nagpur,Manish Nagar,Residential,4750000,Furnished,2,2,Room-attached,0,0,0,1,1104.0,Maharashtra,Built-up Area
+Nagpur,Jai Prakash Nagar,Residential,7000000,Semi-Furnished,2,2,"Connected,Individual,Room-attached",0,0,0,3,950.0,Maharashtra,Built-up Area
+Nagpur,Takli,Residential,10500000,Unfurnished,2,2,Connected,0,0,0,0,3000.0,Maharashtra,Plot Area
+Nagpur,Besa,Residential,5500000,Semi-Furnished,2,2,"Connected,Individual,Room-attached",0,0,0,2,1000.0,Maharashtra,Built-up Area
+Nagpur,Swavalambi Nagar,Residential,6500000,Semi-Furnished,2,2,"Connected,Individual,Room-attached",0,0,0,3,950.0,Maharashtra,Built-up Area
+Nagpur,Pratap Nagar,Residential,6500000,Semi-Furnished,2,2,"Connected,Individual,Room-attached",0,0,0,2,985.0,Maharashtra,Built-up Area
+Nagpur,Ram Nagar,Residential,7200000,Semi-Furnished,2,2,"Connected,Individual,Room-attached",0,0,0,2,950.0,Maharashtra,Built-up Area
+Nagpur,Subhash Nagar,Residential,6500000,Semi-Furnished,2,2,"Connected,Individual,Room-attached",0,0,0,3,950.0,Maharashtra,Built-up Area
+Nagpur,Mahal,Residential,15500000,Unfurnished,2,2,Connected,0,0,0,0,1415.0,Maharashtra,Plot Area
+Nagpur,Vivekanand Nagar,Residential,17500000,Unfurnished,2,2,Connected,0,0,0,0,1500.0,Maharashtra,Plot Area
+Nagpur,Gayatri Nagar,Residential,6500000,Semi-Furnished,2,2,"Connected,Individual,Room-attached",0,0,0,2,925.0,Maharashtra,Built-up Area
+Nagpur,Dharampeth,Residential,25000000,Unfurnished,2,2,Connected,0,0,0,0,2500.0,Maharashtra,Plot Area
+Nagpur,Gandhibagh,Residential,15500000,Unfurnished,2,2,Connected,0,0,0,0,1435.0,Maharashtra,Plot Area
+Nagpur,New Sneh Nagar,Residential,7500000,Semi-Furnished,2,2,"Connected,Individual,Room-attached",0,0,0,3,950.0,Maharashtra,Built-up Area
+Nagpur,Nagpur Airport,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,1,168.0,Maharashtra,Saleable Area
+Nagpur,Gokulpeth,Residential,7200000,Semi-Furnished,2,2,"Connected,Individual,Room-attached",0,0,0,2,925.0,Maharashtra,Built-up Area
+Nagpur,Ajni Square,Residential,17500000,Unfurnished,2,2,Connected,0,0,0,0,13500.0,Maharashtra,Plot Area
+Nagpur,Narendra Nagar,Residential,7550000,Unfurnished,2,2,Connected,0,0,0,0,1500.0,Maharashtra,Plot Area
+Nagpur,Shankar Nagar,Residential,13500000,Semi-Furnished,3,2,"Connected,Individual,Room-attached",0,0,0,3,1325.0,Maharashtra,Built-up Area
+Nagpur,Manewada,Residential,6500000,Semi-Furnished,2,2,"Connected,Individual,Room-attached",0,0,0,3,925.0,Maharashtra,Built-up Area
+Nagpur,Trimurtee Nagar,Residential,6500000,Semi-Furnished,2,2,"Connected,Individual,Room-attached",0,0,0,3,950.0,Maharashtra,Built-up Area
+Nagpur,Khamla,Residential,6500000,Semi-Furnished,2,2,"Connected,Individual,Room-attached",0,0,0,3,965.0,Maharashtra,Built-up Area
+Nagpur,Dharampeth,Residential,22500000,Unfurnished,2,2,Connected,0,0,0,0,2250.0,Maharashtra,Plot Area
+Nagpur,Surendra Naga,Residential,17500000,Unfurnished,2,2,Connected,0,0,0,0,1500.0,Maharashtra,Plot Area
+Nagpur,Wardha rd,Residential,2130000,Unfurnished,2,2,Connected,0,0,0,0,1775.0,Maharashtra,Plot Area
+Nagpur,Narendra Nagar,Residential,7500000,Unfurnished,2,2,Connected,0,0,0,0,1500.0,Maharashtra,Plot Area
+Nagpur,Abhyankar Nagar,Residential,7500000,Semi-Furnished,2,2,"Connected,Individual,Room-attached",0,0,0,2,935.0,Maharashtra,Built-up Area
+Nagpur,Chicholi,Residential,3809000,Unfurnished,2,2,Connected,0,0,0,0,2381.0,Maharashtra,Plot Area
+Nagpur,Wardha rd,Residential,17500000,Unfurnished,2,2,Connected,0,0,0,0,1500.0,Maharashtra,Plot Area
+Nagpur,Pratap Nagar,Residential,13500000,Unfurnished,2,2,Connected,0,0,0,0,1765.0,Maharashtra,Plot Area
+Nagpur,Shankar Nagar,Residential,7500000,Semi-Furnished,2,2,"Connected,Individual,Room-attached",0,0,0,2,965.0,Maharashtra,Built-up Area
+Nagpur,Sonegaon,Residential,5500000,Unfurnished,2,2,Connected,0,0,0,0,1325.0,Maharashtra,Plot Area
+Nagpur,Besa,Residential,4725000,Unfurnished,2,2,Connected,0,0,0,0,1500.0,Maharashtra,Plot Area
+Nagpur,Manish Nagar,Residential,7500000,Semi-Furnished,3,2,"Connected,Individual,Room-attached",0,0,0,2,1425.0,Maharashtra,Built-up Area
+Nagpur,Chatrapati Nagar,Residential,17500000,Unfurnished,2,2,Connected,0,0,0,0,1500.0,Maharashtra,Plot Area
+Nagpur,Bhilgaon,Residential,2120000,Unfurnished,2,2,Connected,0,0,0,0,1060.0,Maharashtra,Plot Area
+Nagpur,Jaripatka,Residential,5500000,Semi-Furnished,3,1,Connected,0,0,0,3,1500.0,Maharashtra,Built-up Area
+Nagpur,Besa rd,Commercial,0,Unfurnished,0,0,No Balcony,1,1,1,0,15500.0,Maharashtra,Plot Area
+Nagpur,Buti Bori,Residential,3300000,Furnished,2,2,Connected,0,0,0,0,11010.0,Maharashtra,Built-up Area
+Nagpur,Shivaji Nagar,Residential,7800000,Semi-Furnished,2,2,"Connected,Individual,Room-attached",0,0,0,2,1000.0,Maharashtra,Built-up Area
+Nagpur,Besa Pipla rd,Commercial,0,Unfurnished,0,0,No Balcony,1,0,1,0,3500.0,Maharashtra,Plot Area
+Nagpur,New Mankapur,Residential,7500000,Semi-Furnished,3,2,"Connected,Individual,Room-attached",0,0,0,3,1450.0,Maharashtra,Built-up Area
+Nagpur,Bajaj Nagar,Residential,15500000,Semi-Furnished,3,2,"Connected,Individual,Room-attached",0,0,0,2,1425.0,Maharashtra,Built-up Area
+Nagpur,Dhantoli,Residential,14500000,Semi-Furnished,3,2,"Connected,Individual,Room-attached",0,0,0,3,1425.0,Maharashtra,Built-up Area
+Nagpur,Suyog Nagar,Residential,7000000,Semi-Furnished,3,3,"Connected,Individual,Room-attached",0,0,0,3,1425.0,Maharashtra,Built-up Area
+Nagpur,Katol rd,Residential,2900000,Unfurnished,2,2,Connected,0,0,0,0,1200.0,Maharashtra,Plot Area
+Nagpur,Sawangi,Residential,3500000,Unfurnished,2,2,Connected,0,0,0,0,1200.0,Maharashtra,Plot Area
+Nagpur,Amravati rd,Residential,6143282,Unfurnished,2,2,Connected,0,0,0,0,5000.0,Maharashtra,Plot Area
+Nagpur,Hingna,Residential,15000000,Furnished,5,5,Connected,0,0,0,0,1800.0,Maharashtra,Built-up Area
+Nagpur,Wardha rd,Residential,2100000,Unfurnished,2,2,Connected,0,0,0,0,2000.0,Maharashtra,Plot Area
+Nagpur,Sakkardara,Residential,2700000,Semi-Furnished,2,1,Connected,0,0,0,0,600.0,Maharashtra,Built-up Area
+Nagpur,Mhalgi Nagar,Residential,5600000,Semi-Furnished,3,3,Connected,0,0,0,3,1500.0,Maharashtra,Built-up Area
+Nagpur,Manish Nagar,Residential,8500000,Furnished,3,3,Room-attached,0,0,0,1,1750.0,Maharashtra,Built-up Area
+Nagpur,Sonegaon,Residential,12000000,Unfurnished,3,4,Room-attached,0,0,0,3,1500.0,Maharashtra,Built-up Area
+Nagpur,Mahal,Residential,15500000,Unfurnished,2,2,"Connected,Individual,Room-attached",0,0,0,3,1450.0,Maharashtra,Built-up Area
+Nagpur,Hansapuri,Residential,12500000,Semi-Furnished,4,1,Connected,0,0,0,2,2500.0,Maharashtra,Built-up Area
+Nagpur,Dabha,Residential,6700000,Semi-Furnished,3,2,Connected,0,0,0,1,1200.0,Maharashtra,Built-up Area
+Nagpur,Central Ave,Residential,15500000,Semi-Furnished,3,2,"Connected,Individual,Room-attached",0,0,0,3,1495.0,Maharashtra,Built-up Area
+Nagpur,Nagpur Airport,Residential,6851000,Semi-Furnished,1,1,Connected,0,0,0,1,1250.0,Maharashtra,Plot Area
+Nagpur,Narendra Nagar,Residential,7500000,Furnished,3,2,Connected,0,0,0,0,1460.0,Maharashtra,Built-up Area
+Nagpur,Beltarodi,Residential,6800000,Semi-Furnished,3,3,Connected,0,0,0,3,1700.0,Maharashtra,Built-up Area
+Nagpur,Hudkeshwar rd,Residential,4100000,Semi-Furnished,2,2,Connected,0,0,0,2,1085.0,Maharashtra,Built-up Area
+Nagpur,Samarth Nagar East,Residential,4500000,Unfurnished,2,2,Connected,0,0,0,0,1320.0,Maharashtra,Plot Area
+Nagpur,Samarth Nagar East,Residential,2000000,Unfurnished,2,2,Connected,0,0,0,0,1050.0,Maharashtra,Plot Area
+Nagpur,Ajni,Residential,13500000,Furnished,3,2,"Connected,Individual,Room-attached",0,0,0,4,1550.0,Maharashtra,Built-up Area
+Nagpur,Shankarpur,Residential,5425000,Unfurnished,2,2,Connected,1,0,0,0,13950.0,Maharashtra,Plot Area
+Nagpur,Narendra Nagar,Residential,7100000,Semi-Furnished,2,3,Connected,0,0,0,4,1300.0,Maharashtra,Saleable Area
+Nagpur,Kotewada,Residential,2675000,Unfurnished,2,2,Connected,0,0,0,0,1000.0,Maharashtra,Plot Area
+Nagpur,Manish Nagar,Residential,11000000,Semi-Furnished,3,3,Connected,0,0,0,2,1700.0,Maharashtra,Built-up Area
+Nagpur,Trimurtee Nagar,Residential,6500000,Furnished,2,2,"Connected,Individual,Room-attached",0,0,0,4,1160.0,Maharashtra,Built-up Area
+Nagpur,Narendra Nagar,Residential,7100000,Semi-Furnished,2,2,Connected,0,0,0,4,1300.0,Maharashtra,Built-up Area
+Nagpur,Chicholi,Residential,2800000,Unfurnished,2,2,Connected,0,0,0,0,2000.0,Maharashtra,Plot Area
+Nagpur,Kotewada,Residential,6650000,Unfurnished,2,2,Connected,0,0,0,0,2809.0,Maharashtra,Plot Area
+Nagpur,Buti Bori,Residential,2800000,Unfurnished,2,2,Connected,0,0,1,1,900.0,Maharashtra,Built-up Area
+Nagpur,Gajanan Nagar,Residential,7000000,Semi-Furnished,3,3,Connected,0,0,0,2,1500.0,Maharashtra,Built-up Area
+Nagpur,Beltarodi,Residential,7702000,Unfurnished,2,2,Connected,0,1,1,0,1504.0,Maharashtra,Plot Area
+Nagpur,Besa,Residential,6000000,Semi-Furnished,2,2,Connected,0,0,0,2,1250.0,Maharashtra,Built-up Area
+Nagpur,Katol rd,Residential,2600000,Unfurnished,2,2,Connected,0,0,1,0,1618.0,Maharashtra,Plot Area
+Nagpur,Katol rd,Residential,2160000,Unfurnished,2,2,Connected,0,0,0,0,3600.0,Maharashtra,Plot Area
+Nagpur,Pipla,Residential,3250000,Unfurnished,2,2,Connected,0,0,1,0,10800.0,Maharashtra,Plot Area
+Nagpur,Beltarodi,Residential,6100000,Semi-Furnished,2,2,Individual,0,0,0,3,1170.0,Maharashtra,Built-up Area
+Nagpur,Mihan,Residential,5880000,Furnished,2,2,Connected,0,0,0,1,1400.0,Maharashtra,Built-up Area
+Nagpur,Borkhedi,Residential,2250000,Unfurnished,2,2,Connected,0,0,0,0,1000.0,Maharashtra,Plot Area
+Nagpur,Narendra Nagar,Residential,5700000,Semi-Furnished,2,2,Connected,0,0,0,2,970.0,Maharashtra,Built-up Area
+Nagpur,Beltarodi,Residential,6100000,Semi-Furnished,2,2,Connected,0,0,0,2,1187.0,Maharashtra,Built-up Area
+Nagpur,Kotewada,Residential,3325000,Unfurnished,2,2,Connected,0,0,0,0,1409.0,Maharashtra,Plot Area
+Nagpur,Katol rd,Residential,6143282,Unfurnished,2,2,Connected,0,0,0,0,1500.0,Maharashtra,Plot Area
+Nagpur,Mihan,Residential,5880000,Furnished,2,2,Connected,0,0,0,0,1200.0,Maharashtra,Built-up Area
+Nagpur,Kamptee rd,Residential,1475000,Unfurnished,2,2,Connected,0,0,0,0,1000.0,Maharashtra,Plot Area
+Nagpur,Ghogali,Residential,3500000,Unfurnished,2,2,Individual,0,0,0,2,850.0,Maharashtra,Built-up Area
+Nagpur,Trimurtee Nagar,Residential,6700000,Furnished,2,2,"Connected,Individual,Room-attached",0,0,0,4,1125.0,Maharashtra,Built-up Area
+Nagpur,Shankarpur,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,6500.0,Maharashtra,Plot Area
+Nagpur,Narendra Nagar,Residential,4500000,Unfurnished,2,2,Connected,0,0,0,0,800.0,Maharashtra,Built-up Area
+Nagpur,Kotewada,Residential,2375000,Unfurnished,2,2,Connected,0,0,0,0,1000.0,Maharashtra,Plot Area
+Nagpur,Kotewada,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,4902.0,Maharashtra,Plot Area
+Nagpur,Shankarpur,Residential,5115000,Unfurnished,2,2,Connected,1,0,0,0,1550.0,Maharashtra,Plot Area
+Nagpur,Surendra Naga,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,900.0,Maharashtra,Plot Area
+Nagpur,Jamtha,Residential,3200000,Unfurnished,2,2,Connected,0,0,1,0,1200.0,Maharashtra,Plot Area
+Nagpur,Shankarpur,Residential,2800000,Unfurnished,2,2,Individual,0,0,0,2,850.0,Maharashtra,Built-up Area
+Nagpur,Trimurtee Nagar,Residential,6500000,Semi-Furnished,2,2,Connected,0,0,0,1,1000.0,Maharashtra,Built-up Area
+Nagpur,Umred rd,Residential,2500000,Unfurnished,2,2,Connected,0,0,0,0,1000.0,Maharashtra,Plot Area
+Nagpur,Kotewada,Residential,2968000,Unfurnished,2,2,Connected,0,0,0,0,1250.0,Maharashtra,Plot Area
+Nagpur,Beltarodi,Residential,6100000,Semi-Furnished,2,2,Connected,0,0,0,2,1163.0,Maharashtra,Built-up Area
+Nagpur,Dharampeth,Residential,26500000,Unfurnished,2,2,Connected,0,0,0,0,2000.0,Maharashtra,Plot Area
+Nagpur,Pardi,Residential,5100000,Unfurnished,2,2,Connected,0,0,0,1,1080.0,Maharashtra,Saleable Area
+Nagpur,Surendra Naga,Commercial,0,Unfurnished,0,0,No Balcony,0,0,1,0,850.0,Maharashtra,Plot Area
+Nagpur,Bhandewadi,Residential,720000,Unfurnished,2,2,Connected,0,0,0,0,1200.0,Maharashtra,Plot Area
+Nagpur,Umred rd,Residential,1300000,Unfurnished,2,2,Connected,0,0,0,0,7650.0,Maharashtra,Plot Area
+Nagpur,Sakkardara,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,1215.0,Maharashtra,Plot Area
+Nagpur,Dhamna,Residential,6143282,Unfurnished,2,2,Connected,0,0,0,0,5000.0,Maharashtra,Plot Area
+Nagpur,Katol rd,Residential,2600000,Unfurnished,2,2,Connected,0,0,1,0,1620.0,Maharashtra,Plot Area
+Nagpur,Katol rd,Residential,1650000,Unfurnished,2,2,Connected,0,0,0,0,1000.0,Maharashtra,Plot Area
+Nagpur,Bhilgaon,Residential,2833000,Unfurnished,2,2,Connected,0,0,1,0,1453.0,Maharashtra,Plot Area
+Nagpur,Pewatha,Residential,1300000,Unfurnished,2,2,Connected,0,0,0,0,1000.0,Maharashtra,Plot Area
+Nagpur,Gokulpeth,Residential,27000000,Unfurnished,2,2,Connected,0,0,0,0,2150.0,Maharashtra,Plot Area
+Nagpur,Kotewada,Residential,6175000,Unfurnished,2,2,Connected,0,0,0,0,2600.0,Maharashtra,Plot Area
+Nagpur,Beltarodi,Residential,6100000,Semi-Furnished,2,2,Connected,0,0,0,0,1160.0,Maharashtra,Built-up Area
+Nagpur,Borkhedi,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,3200.0,Maharashtra,Plot Area
+Nagpur,New Sneh Nagar,Residential,9700000,Furnished,2,2,Individual,0,0,0,2,1050.0,Maharashtra,Built-up Area
+Nagpur,Katol rd,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,3200.0,Maharashtra,Plot Area
+Nagpur,Manish Nagar,Residential,10800000,Unfurnished,2,2,Connected,0,0,0,0,1800.0,Maharashtra,Plot Area
+Nagpur,Katol rd,Residential,2600000,Unfurnished,2,2,Connected,0,0,1,0,1622.0,Maharashtra,Plot Area
+Nagpur,Surendra Naga,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,950.0,Maharashtra,Plot Area
+Nagpur,Wardhaman Nagar Colony,Residential,15500000,Unfurnished,2,2,Connected,0,0,1,0,1427.0,Maharashtra,Plot Area
+Nagpur,Nagpur Station,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,3000.0,Maharashtra,Plot Area
+Nagpur,Pratap Nagar,Residential,6143282,Unfurnished,2,2,Connected,0,0,0,0,1940.0,Maharashtra,Plot Area
+Nagpur,Nandanvan,Residential,15700000,Semi-Furnished,2,2,"Connected,Individual,Room-attached",0,0,0,3,1425.0,Maharashtra,Built-up Area
+Nagpur,Bhilgaon,Residential,2688000,Unfurnished,2,2,Connected,0,0,1,0,1453.0,Maharashtra,Plot Area
+Nagpur,Beltarodi,Residential,7335000,Unfurnished,3,3,Room-attached,0,1,1,2,1630.0,Maharashtra,Built-up Area
+Nagpur,Central Ave,Residential,15500000,Unfurnished,2,2,Connected,0,0,1,0,1425.0,Maharashtra,Plot Area
+Nagpur,Bagadganj,Residential,15500000,Unfurnished,2,2,Connected,0,0,1,0,1425.0,Maharashtra,Plot Area
+Nagpur,Besa Pipla rd,Residential,4920000,Unfurnished,2,2,Connected,0,0,0,0,1200.0,Maharashtra,Plot Area
+Nagpur,Pratap Nagar,Residential,13500000,Unfurnished,2,2,Connected,0,0,0,0,1800.0,Maharashtra,Plot Area
+Nagpur,Katol rd,Commercial,0,Unfurnished,0,0,No Balcony,1,0,1,0,1500.0,Maharashtra,Plot Area
+Nagpur,Surendra Naga,Commercial,0,Unfurnished,0,0,No Balcony,0,0,1,0,800.0,Maharashtra,Plot Area
+Nagpur,Hingna,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,5000.0,Maharashtra,Plot Area
+Nagpur,Pande Layout,Residential,9700000,Furnished,3,3,Connected,0,0,0,3,1350.0,Maharashtra,Built-up Area
+Nagpur,Wardha rd,Residential,1500000,Unfurnished,2,2,Connected,0,0,0,0,1500.0,Maharashtra,Plot Area
+Nagpur,Koradi rd,Residential,4600000,Furnished,2,2,"Connected,Individual,Room-attached",0,0,0,0,1039.0,Maharashtra,Built-up Area
+Nagpur,Mihan,Residential,5680000,Furnished,2,2,Connected,0,0,0,1,1200.0,Maharashtra,Built-up Area
+Nagpur,Manewada,Residential,7000000,Semi-Furnished,3,2,"Connected,Room-attached",0,0,0,11,1550.0,Maharashtra,Built-up Area
+Nagpur,Manish Nagar,Residential,7200000,Semi-Furnished,3,3,Room-attached,0,0,0,1,1510.0,Maharashtra,Built-up Area
+Nagpur,Koradi rd,Residential,2100000,Unfurnished,1,1,Connected,0,0,0,1,610.0,Maharashtra,Built-up Area
+Nagpur,Nandanvan,Residential,15500000,Unfurnished,2,2,Connected,0,0,1,0,1425.0,Maharashtra,Plot Area
+Nagpur,Dabha,Residential,3500000,Semi-Furnished,2,2,"Individual,Room-attached",0,0,0,9,1050.0,Maharashtra,Built-up Area
+Nagpur,Bagadganj,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,1427.0,Maharashtra,Plot Area
+Nagpur,Dabha,Residential,4000000,Semi-Furnished,2,2,Room-attached,0,0,0,1,1100.0,Maharashtra,Built-up Area
+Nagpur,Central Ave,Residential,15500000,Semi-Furnished,2,2,Individual,0,0,0,2,1427.0,Maharashtra,Built-up Area
+Nagpur,Hingna,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,12100.0,Maharashtra,Plot Area
+Nagpur,Mihan,Residential,5070000,Unfurnished,2,2,Connected,0,0,0,0,1779.0,Maharashtra,Plot Area
+Nagpur,Omkar Naga,Commercial,0,Unfurnished,0,0,Individual,0,0,0,2,3000.0,Maharashtra,Saleable Area
+Nagpur,Besa,Residential,6143282,Unfurnished,2,2,Connected,0,0,0,0,1200.0,Maharashtra,Plot Area
+Nagpur,Laxminagar,Residential,12500000,Unfurnished,3,2,Connected,0,0,0,1,1450.0,Maharashtra,Built-up Area
+Nagpur,Shivaji Nagar,Residential,27000000,Unfurnished,2,2,Connected,0,0,0,0,2000.0,Maharashtra,Plot Area
+Nagpur,Sadar,Residential,9100000,Furnished,4,1,Room-attached,0,0,0,2,1400.0,Maharashtra,Built-up Area
+Nagpur,Dharampeth,Residential,16500000,Semi-Furnished,3,2,"Connected,Individual,Room-attached",0,0,0,3,1550.0,Maharashtra,Built-up Area
+Nagpur,Wardhaman Nagar Colony,Residential,15500000,Semi-Furnished,2,1,"Connected,Individual,Room-attached",0,0,0,2,1427.0,Maharashtra,Built-up Area
+Nagpur,Besa rd,Residential,6143282,Furnished,2,2,Connected,0,0,0,1,700.0,Maharashtra,Built-up Area
+Nagpur,Manewada,Residential,5400000,Unfurnished,2,2,Connected,0,0,0,0,1500.0,Maharashtra,Plot Area
+Nagpur,Wardha rd,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,2209.0,Maharashtra,Plot Area
+Nagpur,Jamtha,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,2672.0,Maharashtra,Plot Area
+Nagpur,Dhantoli,Residential,7000000,Unfurnished,2,1,Connected,0,0,0,1,800.0,Maharashtra,Built-up Area
+Nagpur,Bhagwan Nagar,Residential,5100000,Semi-Furnished,2,2,Individual,0,0,0,2,1135.0,Maharashtra,Built-up Area
+Nagpur,Beltarodi,Residential,6500000,Semi-Furnished,3,2,Room-attached,0,0,0,1,1400.0,Maharashtra,Built-up Area
+Nagpur,Mhalgi Nagar,Residential,6000000,Semi-Furnished,4,2,Connected,0,0,0,2,805.0,Maharashtra,Plot Area
+Nagpur,Laxminagar,Residential,14500000,Semi-Furnished,3,3,"Connected,Individual,Room-attached",0,0,0,3,1650.0,Maharashtra,Built-up Area
+Nagpur,Kharbi,Residential,2200000,Unfurnished,1,1,Connected,0,0,0,2,550.0,Maharashtra,Built-up Area
+Nagpur,Manewada,Residential,12500000,Unfurnished,4,2,Connected,0,0,0,2,1300.0,Maharashtra,Built-up Area
+Nagpur,Anant Nagar,Residential,8000000,Semi-Furnished,2,3,Connected,0,0,0,2,1000.0,Maharashtra,Built-up Area
+Nagpur,Manish Nagar,Residential,10500000,Semi-Furnished,3,3,Connected,0,0,1,2,1700.0,Maharashtra,Built-up Area
+Nagpur,Mahal,Residential,7500000,Unfurnished,3,2,Connected,0,0,0,9,1200.0,Maharashtra,Saleable Area
+Nagpur,Gokulpeth,Residential,27000000,Unfurnished,3,3,"Connected,Individual,Room-attached",0,0,0,3,2000.0,Maharashtra,Built-up Area
+Nagpur,Mahal,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,1400.0,Maharashtra,Saleable Area
+Nagpur,Uday Nagar,Residential,14500000,Semi-Furnished,3,2,Individual,0,0,0,0,650.0,Maharashtra,Built-up Area
+Nagpur,Hansapuri,Residential,12500000,Unfurnished,4,3,Room-attached,0,0,0,3,2500.0,Maharashtra,Built-up Area
+Nagpur,Besa,Residential,15000000,Semi-Furnished,4,2,Connected,0,0,0,2,1500.0,Maharashtra,Built-up Area
+Nagpur,Manewada,Residential,6000000,Semi-Furnished,3,3,Individual,0,0,0,2,750.0,Maharashtra,Plot Area
+Nagpur,Godhani Road,Residential,9500000,Semi-Furnished,4,4,"Connected,Room-attached",0,0,0,0,1300.0,Maharashtra,Built-up Area
+Nagpur,Manewada,Residential,12500000,Unfurnished,4,2,Connected,0,0,0,1,1300.0,Maharashtra,Built-up Area
+Nagpur,Katol rd,Residential,7500000,Unfurnished,3,2,Individual,0,0,0,1,2000.0,Maharashtra,Built-up Area
+Nagpur,Shantinagar Colony,Residential,22500000,Furnished,6,2,Connected,0,0,0,3,2500.0,Maharashtra,Built-up Area
+Nagpur,Manish Nagar,Residential,5100000,Semi-Furnished,2,2,Connected,0,0,0,2,1200.0,Maharashtra,Built-up Area
+Nagpur,Ganeshpeth Colony,Residential,5325000,Unfurnished,2,2,Connected,0,0,0,0,1500.0,Maharashtra,Plot Area
+Nagpur,Beltarodi,Residential,2500000,Unfurnished,2,2,Connected,0,0,0,2,800.0,Maharashtra,Built-up Area
+Nagpur,Kamptee,Residential,1800000,Semi-Furnished,2,2,Connected,0,0,0,1,890.0,Maharashtra,Plot Area
+Nagpur,Shree Nagar,Residential,7500000,Semi-Furnished,2,2,Connected,0,0,0,2,1177.0,Maharashtra,Built-up Area
+Nagpur,Beltarodi,Residential,5500000,Unfurnished,2,2,Individual,1,0,1,1,1200.0,Maharashtra,Built-up Area
+Nagpur,Beltarodi,Residential,6941000,Unfurnished,3,3,Individual,0,0,0,2,1633.0,Maharashtra,Built-up Area
+Nagpur,Katol rd,Residential,3120000,Unfurnished,2,2,Connected,1,0,0,0,1950.0,Maharashtra,Plot Area
+Nagpur,Rajnagar,Residential,6600000,Semi-Furnished,3,3,"Individual,Room-attached",0,0,0,2,1052.0,Maharashtra,Built-up Area
+Nagpur,Shankarpur,Residential,4080000,Unfurnished,2,2,Connected,0,0,0,0,1200.0,Maharashtra,Plot Area
+Nagpur,Nagpur Airport,Residential,6143282,Unfurnished,2,2,Connected,0,0,0,0,1000.0,Maharashtra,Plot Area
+Nagpur,Beltarodi,Residential,6772000,Unfurnished,2,2,Room-attached,0,0,0,1,1504.0,Maharashtra,Built-up Area
+Nagpur,Besa Pipla rd,Residential,4437000,Unfurnished,2,2,Connected,0,0,0,0,1250.0,Maharashtra,Plot Area
+Nagpur,Gotal Pajri,Residential,3795000,Unfurnished,2,2,Connected,0,0,1,0,1150.0,Maharashtra,Plot Area
+Nagpur,Jamtha,Residential,4000000,Unfurnished,2,2,Connected,0,0,0,0,1200.0,Maharashtra,Plot Area
+Nagpur,Godhani,Residential,4700000,Unfurnished,2,2,Connected,0,0,0,0,2900.0,Maharashtra,Plot Area
+Nagpur,Mihan,Residential,6143282,Unfurnished,2,2,Connected,0,0,0,0,14400.0,Maharashtra,Plot Area
+Nagpur,Hudkeshwar rd,Residential,4599000,Unfurnished,2,2,Connected,0,0,0,0,13500.0,Maharashtra,Plot Area
+Nagpur,Wardha rd,Residential,1800000,Unfurnished,2,2,Connected,0,0,0,0,1400.0,Maharashtra,Plot Area
+Nagpur,Gotal Pajri,Residential,3628000,Unfurnished,2,2,Connected,0,0,0,0,1100.0,Maharashtra,Plot Area
+Nagpur,Shankarpur,Residential,4002000,Unfurnished,2,2,Connected,0,0,0,0,1160.0,Maharashtra,Plot Area
+Nagpur,Katol rd,Residential,1968000,Unfurnished,2,2,Connected,1,1,1,0,1270.0,Maharashtra,Plot Area
+Nagpur,Samarth Nagar East,Residential,3850000,Unfurnished,2,2,Connected,0,0,0,0,1100.0,Maharashtra,Plot Area
+Nagpur,Chicholi,Residential,3795000,Unfurnished,2,2,Connected,0,0,1,0,2372.0,Maharashtra,Plot Area
+Nagpur,Shankarpur,Residential,4500000,Semi-Furnished,2,2,Individual,0,0,0,3,1067.0,Maharashtra,Built-up Area
+Nagpur,Jamtha,Residential,6143282,Unfurnished,2,2,Connected,0,0,1,0,1453.0,Maharashtra,Plot Area
+Nagpur,Panjari Lodhi,Residential,1875000,Unfurnished,2,2,Connected,0,0,0,0,1500.0,Maharashtra,Plot Area
+Nagpur,Jamtha,Residential,2500000,Unfurnished,2,2,Connected,1,1,1,0,1200.0,Maharashtra,Plot Area
+Nagpur,Beltarodi,Residential,6768000,Unfurnished,2,2,Individual,1,1,1,2,1504.0,Maharashtra,Built-up Area
+Nagpur,Hingna rd,Residential,1800000,Unfurnished,2,2,Connected,0,0,1,0,9000.0,Maharashtra,Plot Area
+Nagpur,Beltarodi,Residential,5400000,Unfurnished,2,2,Room-attached,0,0,0,1,1200.0,Maharashtra,Built-up Area
+Nagpur,Amravati rd,Residential,6143282,Unfurnished,2,2,Connected,1,1,1,0,9000.0,Maharashtra,Plot Area
+Nagpur,Mihan,Residential,6143282,Unfurnished,2,2,Connected,1,0,0,0,10179.0,Maharashtra,Plot Area
+Nagpur,Wardha rd,Residential,6143282,Unfurnished,2,2,Connected,0,0,0,0,10000.0,Maharashtra,Plot Area
+Nagpur,Ghogali,Residential,7070000,Unfurnished,2,2,Connected,0,0,0,0,1937.0,Maharashtra,Plot Area
+Nagpur,Borkhedi,Residential,2248000,Unfurnished,2,2,Connected,0,0,0,0,1250.0,Maharashtra,Plot Area
+Nagpur,Pevtha,Residential,4000000,Unfurnished,2,2,Connected,1,1,1,0,2000.0,Maharashtra,Plot Area
+Nagpur,Gotal Pajri,Residential,3465000,Unfurnished,2,2,Connected,0,0,1,0,1050.0,Maharashtra,Plot Area
+Nagpur,Dongargaon,Residential,1581000,Unfurnished,2,2,Connected,0,0,0,0,1265.0,Maharashtra,Plot Area
+Nagpur,Kotewada,Residential,2800000,Unfurnished,2,2,Connected,1,0,1,0,1130.0,Maharashtra,Plot Area
+Nagpur,Jaripatka,Residential,7100000,Semi-Furnished,3,3,Room-attached,0,0,0,2,1500.0,Maharashtra,Built-up Area
+Nagpur,Pevtha,Residential,3200000,Unfurnished,2,2,Connected,1,0,0,0,1600.0,Maharashtra,Plot Area
+Nagpur,Manewada,Residential,4500000,Semi-Furnished,2,2,Connected,0,0,1,2,1150.0,Maharashtra,Built-up Area
+Nagpur,Mihan,Residential,6143282,Unfurnished,2,2,Connected,1,0,1,0,10170.0,Maharashtra,Plot Area
+Nagpur,Waranga,Residential,1173000,Unfurnished,2,2,Connected,0,0,1,0,1000.0,Maharashtra,Plot Area
+Nagpur,Borkhedi,Residential,2250000,Unfurnished,2,2,Connected,0,0,1,0,1500.0,Maharashtra,Plot Area
+Nagpur,Ghogali,Residential,6362000,Unfurnished,2,2,Connected,0,0,1,0,1743.0,Maharashtra,Plot Area
+Nagpur,Shankarpur,Residential,3740000,Unfurnished,2,2,Connected,0,0,0,0,1100.0,Maharashtra,Plot Area
+Nagpur,Wadoda,Residential,4188000,Unfurnished,2,2,Connected,0,0,0,0,1351.0,Maharashtra,Plot Area
+Nagpur,Katol rd,Residential,2015000,Unfurnished,2,2,Connected,1,0,1,0,1300.0,Maharashtra,Plot Area
+Nagpur,Shankarpur,Residential,3685000,Unfurnished,2,2,Connected,0,0,0,0,1100.0,Maharashtra,Plot Area
+Nagpur,Chikna,Residential,6143282,Unfurnished,2,2,Connected,0,0,0,0,1100.0,Maharashtra,Plot Area
+Nagpur,Chikna,Residential,6143282,Unfurnished,2,2,Connected,0,0,0,0,1000.0,Maharashtra,Plot Area
+Nagpur,Shankarpur,Residential,5050000,Unfurnished,2,2,Connected,0,0,0,0,1500.0,Maharashtra,Plot Area
+Nagpur,Borkhedi,Residential,2560000,Unfurnished,2,2,Connected,0,0,0,0,3200.0,Maharashtra,Plot Area
+Nagpur,Kotewada,Residential,2025000,Unfurnished,2,2,Connected,0,0,1,0,1000.0,Maharashtra,Plot Area
+Nagpur,Jamtha,Residential,3500000,Unfurnished,2,2,Connected,0,0,0,0,1200.0,Maharashtra,Plot Area
+Nagpur,Kotewada,Residential,3000000,Unfurnished,2,2,Connected,1,1,1,0,1200.0,Maharashtra,Plot Area
+Nagpur,Gotal Pajri,Residential,4740000,Unfurnished,2,2,Connected,0,0,1,0,1505.0,Maharashtra,Plot Area
+Nagpur,Waranga,Residential,1320000,Unfurnished,2,2,Connected,0,0,1,0,1100.0,Maharashtra,Plot Area
+Nagpur,Wadoda,Residential,4185000,Unfurnished,2,2,Connected,0,0,0,0,1350.0,Maharashtra,Plot Area
+Nagpur,Kotewada,Residential,2700000,Unfurnished,2,2,Connected,1,0,0,0,10170.0,Maharashtra,Plot Area
+Nagpur,Umred rd,Residential,599000,Unfurnished,2,2,Connected,0,1,1,0,1000.0,Maharashtra,Plot Area
+Nagpur,Gumgaon,Residential,1550000,Unfurnished,2,2,Connected,0,0,0,0,1000.0,Maharashtra,Plot Area
+Nagpur,Jamtha,Residential,2351000,Unfurnished,2,2,Connected,0,0,1,0,1000.0,Maharashtra,Plot Area
+Nagpur,Jamtha,Residential,4000000,Unfurnished,2,2,Connected,0,0,0,0,1500.0,Maharashtra,Plot Area
+Nagpur,Waranga,Residential,6143282,Unfurnished,2,2,Connected,0,0,0,0,1000.0,Maharashtra,Plot Area
+Nagpur,Kotewada,Residential,2800000,Unfurnished,2,2,Connected,0,0,0,0,1200.0,Maharashtra,Plot Area
+Nagpur,Pipla,Residential,3000000,Unfurnished,2,2,Connected,0,0,1,0,980.0,Maharashtra,Plot Area
+Nagpur,Kotewada,Residential,2600000,Unfurnished,2,2,Connected,0,0,0,0,1130.0,Maharashtra,Plot Area
+Nagpur,Katol,Residential,6143282,Unfurnished,2,2,Connected,0,0,0,0,3000.0,Maharashtra,Plot Area
+Nagpur,Mihan,Residential,2600000,Unfurnished,2,2,Connected,0,0,0,0,1200.0,Maharashtra,Plot Area
+Nagpur,Nagpur Airport,Residential,2102000,Unfurnished,2,2,Connected,0,0,0,0,1450.0,Maharashtra,Plot Area
+Nagpur,Hudkeshwar rd,Residential,4100000,Semi-Furnished,2,2,Connected,0,0,0,2,1050.0,Maharashtra,Built-up Area
+Nagpur,Chicholi,Residential,2582000,Unfurnished,2,2,Connected,0,0,0,0,1614.0,Maharashtra,Plot Area
+Nagpur,Umred rd,Residential,2100000,Unfurnished,2,2,Connected,0,0,0,0,1000.0,Maharashtra,Plot Area
+Nagpur,Pevtha,Residential,9000000,Unfurnished,2,2,Connected,1,0,0,0,3000.0,Maharashtra,Plot Area
+Nagpur,Pipla,Residential,3150000,Unfurnished,2,2,Connected,0,0,1,0,1000.0,Maharashtra,Plot Area
+Nagpur,Ghogali,Residential,7172000,Unfurnished,2,2,Connected,0,0,0,0,1965.0,Maharashtra,Plot Area
+Nagpur,Wardha rd,Residential,2760000,Unfurnished,2,2,Connected,0,1,1,0,1200.0,Maharashtra,Plot Area
+Nagpur,Beltarodi,Residential,5362000,Unfurnished,2,2,Individual,1,1,1,3,1191.0,Maharashtra,Built-up Area
+Nagpur,Wardha rd,Residential,1920000,Unfurnished,2,2,Connected,0,0,0,0,1200.0,Maharashtra,Plot Area
+Nagpur,Khapri,Residential,3520000,Unfurnished,2,2,Connected,0,0,0,0,1051.0,Maharashtra,Plot Area
+Nagpur,Pipla,Residential,4000000,Unfurnished,2,2,Connected,0,1,0,0,1350.0,Maharashtra,Plot Area
+Nagpur,Sondapar,Residential,2970000,Unfurnished,2,2,Connected,1,0,1,0,11000.0,Maharashtra,Plot Area
+Nagpur,Pipla,Residential,3150000,Unfurnished,2,2,Connected,0,0,1,0,1200.0,Maharashtra,Plot Area
+Nagpur,Gotal Pajri,Residential,3812000,Unfurnished,2,2,Connected,0,0,0,0,1210.0,Maharashtra,Plot Area
+Nagpur,Jamtha,Residential,2500000,Unfurnished,2,2,Connected,0,0,0,0,1500.0,Maharashtra,Plot Area
+Nagpur,Kotewada,Residential,3487000,Unfurnished,2,2,Connected,1,0,1,0,1500.0,Maharashtra,Plot Area
+Nagpur,Dongargaon,Residential,1300000,Unfurnished,2,2,Connected,0,0,0,0,1200.0,Maharashtra,Plot Area
+Nagpur,Shankarpur,Residential,3333000,Unfurnished,2,2,Connected,0,0,0,0,995.0,Maharashtra,Plot Area
+Nagpur,Chicholi,Residential,1620000,Unfurnished,2,2,Connected,0,0,0,0,1013.0,Maharashtra,Plot Area
+Nagpur,Borkhedi,Residential,699000,Unfurnished,2,2,Connected,0,0,1,0,600.0,Maharashtra,Plot Area
+Nagpur,Wadoda,Residential,2921000,Unfurnished,2,2,Connected,0,0,0,0,1460.0,Maharashtra,Plot Area
+Nagpur,Mihan,Residential,2497000,Unfurnished,2,2,Connected,1,0,0,0,1350.0,Maharashtra,Plot Area
+Nagpur,Pevtha,Residential,3000000,Unfurnished,2,2,Connected,0,1,1,0,1500.0,Maharashtra,Plot Area
+Nagpur,Dongargaon,Residential,6450000,Unfurnished,2,2,Connected,0,0,0,0,3000.0,Maharashtra,Plot Area
+Nagpur,Borkhedi,Residential,1200000,Unfurnished,2,2,Connected,0,0,0,0,1000.0,Maharashtra,Plot Area
+Nagpur,Kotewada,Residential,2700000,Unfurnished,2,2,Connected,0,0,0,0,1101.0,Maharashtra,Plot Area
+Nagpur,Dongargaon,Residential,2295000,Unfurnished,2,2,Connected,1,0,0,0,1350.0,Maharashtra,Plot Area
+Nagpur,Beltarodi,Residential,5115000,Unfurnished,2,2,Connected,0,0,1,0,1421.0,Maharashtra,Plot Area
+Nagpur,Pipla,Residential,3780000,Unfurnished,2,2,Connected,0,0,1,0,1200.0,Maharashtra,Plot Area
+Nagpur,Shankarpur,Residential,3795000,Unfurnished,2,2,Connected,1,0,1,0,1150.0,Maharashtra,Plot Area
+Nagpur,Shankarpur,Residential,3960000,Unfurnished,2,2,Connected,0,1,1,0,1200.0,Maharashtra,Plot Area
+Nagpur,Katol,Residential,2397000,Unfurnished,2,2,Connected,0,0,1,0,1453.0,Maharashtra,Plot Area
+Nagpur,Ghogali,Residential,4775000,Unfurnished,2,2,Connected,0,0,1,0,1308.0,Maharashtra,Plot Area
+Nagpur,Manewada,Residential,4400000,Unfurnished,2,2,Room-attached,0,0,1,1,1200.0,Maharashtra,Built-up Area
+Nagpur,Panjari,Residential,5495000,Unfurnished,2,2,Connected,0,0,0,0,1570.0,Maharashtra,Plot Area
+Nagpur,Umred rd,Residential,2975000,Unfurnished,2,2,Connected,0,0,0,0,1750.0,Maharashtra,Plot Area
+Nagpur,Umred rd,Residential,2400000,Unfurnished,2,2,Connected,0,0,0,0,1500.0,Maharashtra,Plot Area
+Nagpur,Wardha rd,Residential,6143282,Unfurnished,2,2,Connected,0,0,0,0,1000.0,Maharashtra,Plot Area
+Nagpur,New Khapri,Residential,3500000,Unfurnished,2,2,Connected,0,0,0,0,1000.0,Maharashtra,Plot Area
+Nagpur,Kotewada,Residential,2790000,Unfurnished,2,2,Connected,0,0,1,0,1200.0,Maharashtra,Plot Area
+Nagpur,Shankarpur,Residential,3700000,Unfurnished,2,2,Connected,0,0,0,0,1000.0,Maharashtra,Plot Area
+Nagpur,Beltarodi,Residential,6000000,Unfurnished,2,1,Individual,1,1,1,2,1200.0,Maharashtra,Built-up Area
+Nagpur,Mohgaon,Residential,2050000,Unfurnished,2,2,Connected,1,1,1,0,1025.0,Maharashtra,Plot Area
+Nagpur,Mihan,Residential,2500000,Unfurnished,2,2,Connected,0,0,0,0,1200.0,Maharashtra,Plot Area
+Nagpur,Khapri,Residential,3685000,Unfurnished,2,2,Connected,0,0,0,0,1100.0,Maharashtra,Plot Area
+Nagpur,Umred rd,Residential,2100000,Unfurnished,2,2,Connected,0,0,1,0,1000.0,Maharashtra,Plot Area
+Nagpur,Khapri,Residential,3286000,Unfurnished,2,2,Connected,0,0,0,0,981.0,Maharashtra,Plot Area
+Nagpur,Borkhedi,Residential,2250000,Unfurnished,2,2,Connected,0,0,0,0,1500.0,Maharashtra,Plot Area
+Nagpur,Beltarodi,Residential,5250000,Unfurnished,2,2,Connected,0,0,1,0,1500.0,Maharashtra,Plot Area
+Nagpur,Sondapar,Residential,2700000,Unfurnished,2,2,Connected,1,0,1,0,1100.0,Maharashtra,Plot Area
+Nagpur,Umred rd,Residential,1200000,Unfurnished,2,2,Connected,1,1,1,0,1000.0,Maharashtra,Plot Area
+Nagpur,Manewada,Residential,4400000,Semi-Furnished,2,2,"Connected,Individual,Room-attached",0,0,0,2,1200.0,Maharashtra,Built-up Area
+Nagpur,Besa Pipla rd,Residential,3500000,Unfurnished,2,2,Connected,0,0,1,0,1130.0,Maharashtra,Plot Area
+Nagpur,Wardha rd,Residential,1410000,Unfurnished,2,2,Connected,0,0,0,0,1200.0,Maharashtra,Plot Area
+Nagpur,Shankarpur,Residential,3500000,Unfurnished,2,2,Connected,0,0,0,0,9000.0,Maharashtra,Plot Area
+Nagpur,Wadoda,Residential,2300000,Unfurnished,2,2,Connected,0,0,0,0,1150.0,Maharashtra,Plot Area
+Nagpur,Hingna,Residential,5460000,Unfurnished,2,2,Connected,1,1,0,0,13500.0,Maharashtra,Plot Area
+Nagpur,Katol rd,Residential,6143282,Unfurnished,2,2,Connected,0,0,0,0,1070.0,Maharashtra,Plot Area
+Nagpur,New Khapri,Residential,3420000,Unfurnished,2,2,Connected,0,0,0,0,1021.0,Maharashtra,Plot Area
+Nagpur,Waranga,Residential,1150000,Unfurnished,2,2,Connected,0,1,0,0,1000.0,Maharashtra,Plot Area
+Nagpur,Dongargaon,Residential,1562000,Unfurnished,2,2,Connected,0,0,0,0,1250.0,Maharashtra,Plot Area
+Nagpur,Vrindavan Colony,Residential,3300000,Unfurnished,2,2,Connected,0,0,0,0,1500.0,Maharashtra,Plot Area
+Nagpur,Ring Road,Residential,2059000,Unfurnished,2,2,Connected,0,0,0,0,1144.0,Maharashtra,Plot Area
+Nagpur,Chicholi,Residential,3817000,Unfurnished,2,2,Connected,0,0,1,0,2386.0,Maharashtra,Plot Area
+Nagpur,Besa Pipla rd,Residential,6000000,Unfurnished,2,2,Individual,1,0,0,2,1180.0,Maharashtra,Built-up Area
+Nagpur,Shankarpur,Residential,9000000,Semi-Furnished,3,3,"Connected,Individual",0,0,0,1,1520.0,Maharashtra,Built-up Area
+Nagpur,Nagpur Airport,Residential,1450000,Unfurnished,2,2,Connected,0,0,0,0,1000.0,Maharashtra,Plot Area
+Nagpur,Kotewada,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,4500.0,Maharashtra,Plot Area
+Nagpur,Dongargaon,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,5500.0,Maharashtra,Plot Area
+Nagpur,Swavalambi Nagar,Residential,33000000,Unfurnished,2,2,Connected,0,0,0,0,27000.0,Maharashtra,Plot Area
+Nagpur,Wardha rd,Residential,1850000,Unfurnished,2,2,Connected,0,0,0,0,1000.0,Maharashtra,Plot Area
+Nagpur,Kotewada,Residential,2300000,Unfurnished,2,2,Connected,0,0,0,0,1000.0,Maharashtra,Plot Area
+Nagpur,Umred rd,Residential,2251000,Unfurnished,2,2,Connected,0,0,1,0,1150.0,Maharashtra,Plot Area
+Nagpur,Shankarpur,Residential,3500000,Unfurnished,2,2,Connected,0,0,0,0,1200.0,Maharashtra,Plot Area
+Nagpur,Nagpur Airport,Residential,4172000,Unfurnished,2,2,Connected,0,0,0,0,1346.0,Maharashtra,Plot Area
+Nagpur,Beltarodi,Residential,6941000,Unfurnished,3,3,Individual,0,0,0,4,1633.0,Maharashtra,Built-up Area
+Nagpur,Kotewada,Residential,2400000,Unfurnished,2,2,Connected,0,0,0,0,1200.0,Maharashtra,Plot Area
+Nagpur,Manewada,Residential,4400000,Semi-Furnished,2,2,"Connected,Room-attached",0,0,0,1,1201.0,Maharashtra,Built-up Area
+Nagpur,Beltarodi,Residential,6120000,Unfurnished,2,2,Connected,0,0,1,0,1700.0,Maharashtra,Plot Area
+Nagpur,New Khapri,Residential,3500000,Unfurnished,2,2,Connected,0,0,0,0,9000.0,Maharashtra,Plot Area
+Nagpur,Gotal Pajri,Residential,4654000,Unfurnished,2,2,Connected,0,0,0,0,1369.0,Maharashtra,Plot Area
+Nagpur,Ghogali,Commercial,0,Unfurnished,0,0,No Balcony,1,0,0,0,8600.0,Maharashtra,Plot Area
+Nagpur,Jamtha,Residential,2515000,Unfurnished,2,2,Connected,1,1,1,0,1290.0,Maharashtra,Plot Area
+Nagpur,Shankarpur,Residential,4025000,Unfurnished,2,2,Connected,0,0,0,0,1150.0,Maharashtra,Plot Area
+Nagpur,Khapri,Residential,3343000,Unfurnished,2,2,Connected,0,0,0,0,998.0,Maharashtra,Plot Area
+Nagpur,Subhash Nagar,Residential,8000000,Semi-Furnished,2,2,Connected,0,0,0,2,1200.0,Maharashtra,Built-up Area
+Nagpur,Katol rd,Commercial,0,Unfurnished,0,0,No Balcony,1,0,0,0,8000.0,Maharashtra,Plot Area
+Nagpur,Kotewada,Residential,2600000,Unfurnished,2,2,Connected,0,0,1,0,1130.0,Maharashtra,Plot Area
+Nagpur,Kotewada,Residential,2650000,Unfurnished,2,2,Connected,0,0,1,0,1000.0,Maharashtra,Plot Area
+Nagpur,Jamtha,Commercial,0,Unfurnished,0,0,No Balcony,1,1,1,0,5000.0,Maharashtra,Plot Area
+Nagpur,Nagpur Airport,Residential,3500000,Unfurnished,2,2,Connected,0,0,0,0,1000.0,Maharashtra,Plot Area
+Nagpur,Beltarodi,Residential,3500000,Unfurnished,2,2,Connected,1,0,1,0,1200.0,Maharashtra,Plot Area
+Nagpur,Shankarpur,Residential,2000000,Unfurnished,2,2,Connected,0,1,1,0,1250.0,Maharashtra,Plot Area
+Nagpur,Jamtha,Residential,3250000,Unfurnished,2,2,Connected,0,0,1,0,1130.0,Maharashtra,Plot Area
+Nagpur,Borkhedi,Residential,2000000,Unfurnished,2,2,Connected,0,0,1,0,1800.0,Maharashtra,Plot Area
+Nagpur,Kotewada,Residential,3487000,Unfurnished,2,2,Connected,0,0,0,0,1500.0,Maharashtra,Plot Area
+Nagpur,Kotewada,Residential,2675000,Unfurnished,2,2,Connected,0,0,1,0,1000.0,Maharashtra,Plot Area
+Nagpur,Umred rd,Residential,2350000,Unfurnished,2,2,Connected,0,0,0,0,1000.0,Maharashtra,Plot Area
+Nagpur,Jamtha,Residential,2000000,Unfurnished,2,2,Connected,0,0,1,0,1000.0,Maharashtra,Plot Area
+Nagpur,New Khapri,Residential,3300000,Unfurnished,2,2,Connected,1,0,0,0,1000.0,Maharashtra,Plot Area
+Nagpur,Wardha rd,Residential,1350000,Unfurnished,2,2,Connected,0,0,0,0,1000.0,Maharashtra,Plot Area
+Nagpur,Wadoda,Residential,2750000,Unfurnished,2,2,Connected,0,0,0,0,1000.0,Maharashtra,Plot Area
+Nagpur,Umred rd,Residential,2889000,Unfurnished,2,2,Connected,0,0,0,0,1750.0,Maharashtra,Plot Area
+Nagpur,Katol rd,Residential,1800000,Unfurnished,2,2,Connected,0,0,0,0,1130.0,Maharashtra,Plot Area
+Nagpur,Dongargaon,Residential,1500000,Unfurnished,2,2,Connected,0,0,0,0,1045.0,Maharashtra,Plot Area
+Nagpur,Nagpur Airport,Residential,2910000,Unfurnished,2,2,Connected,0,0,0,0,1455.0,Maharashtra,Plot Area
+Nagpur,Panjari,Residential,3000000,Unfurnished,2,2,Connected,0,0,1,0,1000.0,Maharashtra,Plot Area
+Nagpur,Wardha rd,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,5000.0,Maharashtra,Plot Area
+Nagpur,Ganeshpeth Colony,Residential,14800000,Furnished,4,3,"Connected,Room-attached",0,0,0,2,2536.0,Maharashtra,Built-up Area
+Nagpur,Beltarodi,Residential,5040000,Unfurnished,2,2,Connected,0,0,1,0,1400.0,Maharashtra,Plot Area
+Nagpur,Kotewada,Residential,2375000,Unfurnished,2,2,Connected,0,0,1,0,1000.0,Maharashtra,Plot Area
+Nagpur,Dongargaon,Residential,1035000,Unfurnished,2,2,Connected,0,0,0,0,1000.0,Maharashtra,Plot Area
+Nagpur,Jamtha,Residential,2554000,Unfurnished,2,2,Connected,1,1,1,0,11790.0,Maharashtra,Plot Area
+Nagpur,Nagpur Airport,Residential,3300000,Unfurnished,2,2,Connected,0,0,0,0,1000.0,Maharashtra,Plot Area
+Nagpur,Borkhedi,Residential,1200000,Unfurnished,2,2,Connected,0,0,0,0,7875.0,Maharashtra,Plot Area
+Nagpur,Wardha rd,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,6000.0,Maharashtra,Plot Area
+Nagpur,Nagpur Airport,Residential,2000000,Unfurnished,2,2,Connected,0,0,0,0,1000.0,Maharashtra,Plot Area
+Nagpur,Beltarodi,Residential,3286000,Unfurnished,2,2,Connected,0,0,0,0,981.0,Maharashtra,Plot Area
+Nagpur,Pevtha,Residential,1875000,Unfurnished,2,2,Connected,0,0,0,0,1250.0,Maharashtra,Plot Area
+Nagpur,Wardha rd,Residential,2369000,Unfurnished,2,2,Connected,0,0,0,0,11619.0,Maharashtra,Plot Area
+Nagpur,Manewada,Residential,5500000,Semi-Furnished,3,3,"Connected,Individual",0,0,0,2,1400.0,Maharashtra,Built-up Area
+Nagpur,Beltarodi,Residential,6768000,Unfurnished,2,2,Connected,0,1,1,2,1504.0,Maharashtra,Built-up Area
+Nagpur,Kotewada,Residential,2450000,Unfurnished,2,2,Connected,0,0,1,0,10890.0,Maharashtra,Plot Area
+Nagpur,Gotal Pajri,Residential,5018000,Unfurnished,2,2,Connected,0,0,0,0,1476.0,Maharashtra,Plot Area
+Nagpur,Chicholi,Residential,2500000,Unfurnished,2,2,Connected,0,0,0,0,2209.0,Maharashtra,Plot Area
+Nagpur,Hingna,Residential,7300000,Unfurnished,2,2,Connected,0,0,0,0,2000.0,Maharashtra,Plot Area
+Nagpur,Jamtha,Residential,2500000,Unfurnished,2,2,Connected,0,0,0,0,1200.0,Maharashtra,Plot Area
+Nagpur,Umred rd,Residential,650000,Unfurnished,2,2,Connected,0,0,0,0,1000.0,Maharashtra,Plot Area
+Nagpur,Khapri,Residential,3350000,Unfurnished,2,2,Connected,0,0,0,0,1000.0,Maharashtra,Plot Area
+Nagpur,Samarth Nagar East,Residential,1650000,Unfurnished,2,2,Connected,0,0,0,0,1000.0,Maharashtra,Plot Area
+Nagpur,Jamtha,Residential,1550000,Unfurnished,2,2,Connected,0,0,0,0,9900.0,Maharashtra,Plot Area
+Nagpur,Katol rd,Residential,2400000,Unfurnished,2,2,Connected,0,0,0,0,3600.0,Maharashtra,Plot Area
+Nagpur,Ring Road,Residential,2400000,Unfurnished,2,2,Connected,0,0,0,0,1200.0,Maharashtra,Plot Area
+Nagpur,Kotewada,Residential,2325000,Unfurnished,2,2,Connected,0,0,0,0,1000.0,Maharashtra,Plot Area
+Nagpur,Gotal Pajri,Residential,16000000,Unfurnished,2,2,Connected,0,0,1,0,5000.0,Maharashtra,Plot Area
+Nagpur,Wagdara,Residential,2900000,Unfurnished,2,2,Connected,0,0,1,0,1450.0,Maharashtra,Plot Area
+Nagpur,Nagpur Airport,Residential,14000000,Semi-Furnished,3,3,Connected,0,0,0,2,1650.0,Maharashtra,Built-up Area
+Nagpur,Pipla,Residential,3250000,Unfurnished,2,2,Connected,0,0,0,0,1000.0,Maharashtra,Plot Area
+Nagpur,Hudkeshwar rd,Residential,4500000,Unfurnished,2,2,Connected,0,0,0,0,1500.0,Maharashtra,Plot Area
+Nagpur,Panjari Lodhi,Residential,1875000,Unfurnished,2,2,Connected,0,1,1,0,1500.0,Maharashtra,Plot Area
+Nagpur,Wardha rd,Residential,1350000,Unfurnished,2,2,Connected,1,1,1,0,10800.0,Maharashtra,Plot Area
+Nagpur,Katol rd,Residential,637000,Unfurnished,2,2,Connected,0,0,1,0,1250.0,Maharashtra,Plot Area
+Nagpur,Nagpur Airport,Residential,5164000,Unfurnished,2,2,Connected,0,0,0,0,1666.0,Maharashtra,Plot Area
+Nagpur,Besa Pipla rd,Residential,4600000,Unfurnished,2,2,Connected,0,0,1,0,1130.0,Maharashtra,Plot Area
+Nagpur,Umred rd,Residential,599000,Unfurnished,2,2,Connected,1,1,1,0,1000.0,Maharashtra,Plot Area
+Nagpur,Jamtha,Residential,1000000,Unfurnished,2,2,Connected,0,0,0,0,1100.0,Maharashtra,Plot Area
+Nagpur,Katol rd,Commercial,0,Unfurnished,0,0,No Balcony,0,1,1,0,4500.0,Maharashtra,Plot Area
+Nagpur,Jamtha,Residential,3487000,Unfurnished,2,2,Connected,0,0,0,0,1500.0,Maharashtra,Plot Area
+Nagpur,Shankarpur,Residential,2640000,Unfurnished,2,2,Connected,0,0,0,0,1200.0,Maharashtra,Plot Area
+Nagpur,Jamtha,Residential,1200000,Unfurnished,2,2,Connected,0,0,1,0,1000.0,Maharashtra,Plot Area
+Nagpur,Manewada,Residential,5500000,Semi-Furnished,3,3,"Connected,Room-attached",0,0,0,1,1301.0,Maharashtra,Built-up Area
+Nagpur,Gumgaon,Residential,3240000,Unfurnished,2,2,Connected,1,1,1,0,1800.0,Maharashtra,Plot Area
+Nagpur,Umred rd,Residential,920000,Unfurnished,2,2,Connected,0,0,0,0,800.0,Maharashtra,Plot Area
+Nagpur,Jamtha,Residential,1375000,Unfurnished,2,2,Connected,0,0,0,0,1200.0,Maharashtra,Plot Area
+Nagpur,Pratap Nagar,Residential,6143282,Unfurnished,2,2,Connected,0,0,0,0,1800.0,Maharashtra,Plot Area
+Nagpur,Wardha rd,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,7500.0,Maharashtra,Plot Area
+Nagpur,Somalwada,Residential,5700000,Unfurnished,2,2,Connected,0,0,0,0,1425.0,Maharashtra,Plot Area
+Nagpur,Gotal Pajri,Residential,4000000,Unfurnished,2,2,Connected,0,0,1,0,1200.0,Maharashtra,Plot Area
+Nagpur,Katol rd,Residential,1298000,Unfurnished,2,2,Connected,0,0,1,0,2360.0,Maharashtra,Plot Area
+Nagpur,Wardha rd,Residential,3455000,Unfurnished,2,2,Connected,0,0,0,0,1500.0,Maharashtra,Plot Area
+Nagpur,Wardha rd,Residential,2250000,Unfurnished,2,2,Connected,1,1,1,0,1130.0,Maharashtra,Plot Area
+Nagpur,Katol rd,Commercial,0,Unfurnished,0,0,No Balcony,1,0,0,0,9000.0,Maharashtra,Plot Area
+Nagpur,Umred rd,Residential,2400000,Unfurnished,2,2,Connected,0,0,1,0,1200.0,Maharashtra,Plot Area
+Nagpur,Hingna,Residential,3999000,Unfurnished,2,2,Connected,0,0,1,0,1100.0,Maharashtra,Plot Area
+Nagpur,Shankarpur,Residential,4000000,Unfurnished,2,2,Connected,0,0,1,0,1200.0,Maharashtra,Plot Area
+Nagpur,Gotal Pajri,Residential,4725000,Unfurnished,2,2,Connected,0,0,1,0,1500.0,Maharashtra,Plot Area
+Nagpur,Borkhedi,Residential,1900000,Unfurnished,2,2,Connected,0,0,0,0,1500.0,Maharashtra,Plot Area
+Nagpur,Umred rd,Residential,600000,Unfurnished,2,2,Connected,0,1,1,0,9000.0,Maharashtra,Plot Area
+Nagpur,Wagdara,Residential,4185000,Unfurnished,2,2,Connected,0,0,0,0,1350.0,Maharashtra,Plot Area
+Nagpur,Buti Bori,Residential,1900000,Unfurnished,2,2,Connected,0,0,0,0,1200.0,Maharashtra,Plot Area
+Nagpur,Wardha rd,Residential,1250000,Unfurnished,2,2,Connected,0,0,1,0,1000.0,Maharashtra,Plot Area
+Nagpur,Beltarodi,Residential,3350000,Unfurnished,2,2,Connected,1,0,0,0,1000.0,Maharashtra,Plot Area
+Nagpur,New Khapri,Residential,3185000,Unfurnished,2,2,Connected,0,0,0,0,951.0,Maharashtra,Plot Area
+Nagpur,Nagpur Airport,Residential,6660000,Unfurnished,2,2,Connected,0,1,1,1,1285.0,Maharashtra,Built-up Area
+Nagpur,Umred rd,Residential,2829000,Unfurnished,2,2,Connected,0,0,0,0,1700.0,Maharashtra,Plot Area
+Nagpur,Wardha rd,Residential,3180000,Unfurnished,2,2,Connected,0,0,0,0,1200.0,Maharashtra,Plot Area
+Nagpur,Pevtha,Residential,5000000,Unfurnished,2,2,Connected,1,0,0,0,2500.0,Maharashtra,Plot Area
+Nagpur,Dongargaon,Residential,1200000,Unfurnished,2,2,Connected,0,0,0,0,1045.0,Maharashtra,Plot Area
+Nagpur,Hingna,Residential,2000000,Unfurnished,2,2,Connected,0,0,0,0,999.0,Maharashtra,Plot Area
+Nagpur,Ring Road,Residential,2280000,Unfurnished,2,2,Connected,0,0,0,0,1140.0,Maharashtra,Plot Area
+Nagpur,Wardha rd,Residential,3150000,Unfurnished,2,2,Connected,0,0,0,0,1500.0,Maharashtra,Plot Area
+Nagpur,Shankarpur,Residential,3675000,Unfurnished,2,2,Connected,0,0,0,0,1050.0,Maharashtra,Plot Area

@@ -1,0 +1,1889 @@
+City,Locality,Property Type,Price,Furnishing Status,Number of Rooms,Number of Bathroom,Balcony,Clubhouse,Swimming Pool,"""Kids Play Areas""",Parking,Area (Sq.Ft.),State,Area Type
+Pune,Hinjewadi,Residential,7520000,Unfurnished,2,2,Individual,1,1,1,2,764.0,Maharashtra,Carpet Area
+Pune,Hinjewadi,Residential,4500000,Unfurnished,1,2,Individual,1,0,1,2,550.0,Maharashtra,Carpet Area
+Pune,Hinjewadi,Residential,8240000,Unfurnished,2,2,Individual,1,1,1,2,836.0,Maharashtra,Carpet Area
+Pune,Kharadi,Residential,9500000,Semi-Furnished,2,2,Room-attached,0,0,0,2,850.0,Maharashtra,Carpet Area
+Pune,Koregaon Park,Residential,39000000,Unfurnished,3,3,Individual,1,1,1,1,1565.0,Maharashtra,Carpet Area
+Pune,Kharadi,Residential,8375000,Semi-Furnished,3,3,Connected,0,0,0,1,1452.0,Maharashtra,Carpet Area
+Pune,Kharadi,Residential,13000000,Semi-Furnished,3,3,Room-attached,0,0,0,1,1230.0,Maharashtra,Carpet Area
+Pune,Pimple Saudagar,Residential,10000000,Furnished,2,2,Room-attached,1,1,1,1,765.0,Maharashtra,Carpet Area
+Pune,Hadapsar,Residential,12100000,Unfurnished,2,2,Individual,1,1,1,1,834.0,Maharashtra,Carpet Area
+Pune,Hinjewadi,Residential,9500000,Semi-Furnished,2,2,Individual,0,0,0,1,1112.0,Maharashtra,Saleable Area
+Pune,Kondhwa,Residential,12400000,Furnished,3,3,Connected,0,0,0,1,1497.0,Maharashtra,Saleable Area
+Pune,Handewadi,Residential,5500000,Semi-Furnished,2,2,"Individual,Room-attached",0,0,0,1,832.0,Maharashtra,Built-up Area
+Pune,Wagholi,Residential,7200000,Unfurnished,2,2,Room-attached,0,0,1,1,950.0,Maharashtra,Built-up Area
+Pune,Punawale,Residential,6500000,Semi-Furnished,2,2,Connected,0,0,0,1,675.0,Maharashtra,Carpet Area
+Pune,Koregaon Park,Residential,20600000,Unfurnished,2,3,Individual,1,1,1,1,1372.0,Maharashtra,Carpet Area
+Pune,Mohammadwadi,Residential,31300000,Semi-Furnished,4,5,Individual,0,0,0,3,2820.0,Maharashtra,Carpet Area
+Pune,Ravet,Residential,12000000,Semi-Furnished,3,3,"Individual,Room-attached",0,0,0,1,1359.0,Maharashtra,Saleable Area
+Pune,Magarpatta,Residential,25200000,Unfurnished,3,3,Individual,1,1,1,1,1464.0,Maharashtra,Carpet Area
+Pune,Charholi Budruk,Residential,4500000,Unfurnished,2,2,Connected,0,0,0,1,712.0,Maharashtra,Carpet Area
+Pune,Baner,Residential,20000000,Unfurnished,4,4,Individual,1,1,1,2,1584.0,Maharashtra,Carpet Area
+Pune,Balewadi,Residential,10200000,Furnished,2,2,Individual,0,0,0,1,928.0,Maharashtra,Built-up Area
+Pune,Kiwale,Residential,7200000,Unfurnished,2,2,Individual,1,1,1,2,744.0,Maharashtra,Carpet Area
+Pune,Magarpatta Road,Residential,25000000,Unfurnished,3,3,Individual,1,1,1,1,1883.0,Maharashtra,Saleable Area
+Pune,Hadapsar,Residential,13600000,Unfurnished,2,2,Individual,0,0,1,1,1048.0,Maharashtra,Carpet Area
+Pune,Ambegaon Budruk,Residential,11300000,Semi-Furnished,3,3,Room-attached,0,0,0,1,1475.0,Maharashtra,Built-up Area
+Pune,Dhanori,Residential,10000000,Semi-Furnished,2,3,Connected,0,0,0,1,1021.0,Maharashtra,Carpet Area
+Pune,Kalyani Nagar,Residential,22000000,Furnished,3,3,Connected,0,0,0,3,1490.0,Maharashtra,Built-up Area
+Pune,Ranjangaon,Residential,1490000,Semi-Furnished,1,2,Connected,0,0,0,3,470.0,Maharashtra,Built-up Area
+Pune,Hadapsar,Residential,6300000,Unfurnished,2,2,Individual,0,0,1,1,782.0,Maharashtra,Carpet Area
+Pune,Wagholi,Residential,8349000,Unfurnished,2,3,Individual,1,0,1,1,1028.0,Maharashtra,Carpet Area
+Pune,Hadapsar,Residential,8500000,Unfurnished,2,2,Individual,0,0,0,1,707.0,Maharashtra,Carpet Area
+Pune,Magarpatta Road,Residential,25300000,Unfurnished,3,3,Individual,1,1,1,1,1883.0,Maharashtra,Saleable Area
+Pune,Hadapsar,Residential,18200000,Unfurnished,3,3,Individual,1,1,1,1,1160.0,Maharashtra,Carpet Area
+Pune,Baner,Residential,12000000,Unfurnished,2,2,Connected,0,1,1,1,666.0,Maharashtra,Carpet Area
+Pune,Hadapsar,Residential,6350000,Unfurnished,2,2,Individual,0,0,0,1,782.0,Maharashtra,Carpet Area
+Pune,Kharadi,Residential,10500000,Unfurnished,2,2,Individual,1,1,1,1,867.0,Maharashtra,Carpet Area
+Pune,Manjri Budruk,Residential,7500000,Unfurnished,2,2,Individual,1,1,1,1,757.0,Maharashtra,Carpet Area
+Pune,Magarpatta,Residential,15200000,Unfurnished,3,3,Individual,1,1,1,1,1222.0,Maharashtra,Carpet Area
+Pune,Warje,Residential,10000000,Unfurnished,2,2,"Connected,Room-attached",1,0,1,1,825.0,Maharashtra,Carpet Area
+Pune,Lohegaon,Residential,6500000,Unfurnished,2,2,Connected,1,1,1,1,651.0,Maharashtra,Carpet Area
+Pune,Magarpatta,Residential,30300000,Unfurnished,4,4,Individual,0,0,0,1,1874.0,Maharashtra,Carpet Area
+Pune,Hadapsar,Residential,5700000,Unfurnished,2,2,Individual,1,1,1,1,732.0,Maharashtra,Carpet Area
+Pune,Hadapsar,Residential,18400000,Unfurnished,2,3,Individual,1,1,1,1,1503.0,Maharashtra,Carpet Area
+Pune,Punawale,Residential,9200000,Unfurnished,3,3,Connected,1,1,1,1,1100.0,Maharashtra,Carpet Area
+Pune,Baner,Residential,18500000,Unfurnished,3,3,Connected,1,1,0,1,1350.0,Maharashtra,Carpet Area
+Pune,Ravet,Residential,7200000,Furnished,2,2,Room-attached,0,0,0,2,675.0,Maharashtra,Carpet Area
+Pune,Hadapsar,Residential,6500000,Furnished,2,2,Connected,0,0,0,1,1055.0,Maharashtra,Built-up Area
+Pune,Ravet,Residential,4500000,Unfurnished,1,1,Room-attached,0,0,1,2,600.0,Maharashtra,Carpet Area
+Pune,Kondhwa,Residential,7200000,Furnished,2,2,Individual,0,0,0,2,1486.0,Maharashtra,Saleable Area
+Pune,Nibm,Residential,5800000,Unfurnished,2,2,Connected,1,1,1,2,1100.0,Maharashtra,Built-up Area
+Pune,Wanwadi,Residential,9500000,Unfurnished,2,2,"Connected,Individual,Room-attached",0,0,0,1,1250.0,Maharashtra,Built-up Area
+Pune,Kondhwa,Residential,10000000,Unfurnished,3,3,"Connected,Room-attached",0,0,0,1,1600.0,Maharashtra,Built-up Area
+Pune,Ravet,Residential,4500000,Semi-Furnished,1,2,Individual,0,0,0,1,650.0,Maharashtra,Built-up Area
+Pune,Bavdhan,Residential,14600000,Semi-Furnished,3,3,"Connected,Room-attached",0,0,0,1,1500.0,Maharashtra,Built-up Area
+Pune,Mohammadwadi,Residential,4400000,Semi-Furnished,1,2,"Connected,Room-attached",0,0,0,1,750.0,Maharashtra,Built-up Area
+Pune,Undri,Residential,4800000,Semi-Furnished,2,2,Connected,0,0,0,1,969.0,Maharashtra,Built-up Area
+Pune,Kalyani Nagar,Residential,13500000,Unfurnished,2,2,Connected,1,1,1,1,1236.0,Maharashtra,Saleable Area
+Pune,Pimple Saudagar,Residential,7099000,Unfurnished,2,2,Individual,0,0,0,1,893.0,Maharashtra,Built-up Area
+Pune,Kondhwa,Residential,10000000,Semi-Furnished,3,3,"Connected,Room-attached",0,0,0,1,1600.0,Maharashtra,Built-up Area
+Pune,Mohammadwadi,Residential,4500000,Semi-Furnished,2,2,Individual,0,0,0,1,785.0,Maharashtra,Carpet Area
+Pune,Kondhwa,Residential,7000000,Semi-Furnished,2,2,Connected,0,0,0,0,1200.0,Maharashtra,Built-up Area
+Pune,Awhalwadi,Residential,7850000,Unfurnished,2,2,Individual,1,1,1,1,749.0,Maharashtra,Carpet Area
+Pune,Pimple Saudagar,Residential,13800000,Unfurnished,3,3,"Connected,Room-attached",1,1,1,1,1134.0,Maharashtra,Carpet Area
+Pune,Thergaon,Residential,8300000,Semi-Furnished,2,2,Connected,0,0,0,2,767.0,Maharashtra,Carpet Area
+Pune,Ravet,Residential,8300000,Unfurnished,2,2,Connected,0,0,0,3,755.0,Maharashtra,Carpet Area
+Pune,Wagholi,Residential,5900000,Furnished,2,2,Connected,0,0,0,1,1005.0,Maharashtra,Built-up Area
+Pune,Gultekdi,Residential,15400000,Unfurnished,2,2,Connected,1,1,0,1,1700.0,Maharashtra,Built-up Area
+Pune,Wakad,Residential,4800000,Unfurnished,1,2,Room-attached,0,0,1,2,520.0,Maharashtra,Carpet Area
+Pune,Ravet,Residential,6500000,Semi-Furnished,2,2,Connected,0,0,0,3,735.0,Maharashtra,Carpet Area
+Pune,Kharadi,Residential,14000000,Semi-Furnished,3,3,Individual,0,0,0,1,1086.0,Maharashtra,Carpet Area
+Pune,Tathawade,Residential,8700000,Unfurnished,2,2,"Connected,Room-attached",1,1,1,1,734.0,Maharashtra,Carpet Area
+Pune,Handewadi,Residential,4350000,Unfurnished,2,2,Connected,0,1,1,3,759.0,Maharashtra,Carpet Area
+Pune,Dhayari,Residential,12000000,Semi-Furnished,3,3,Connected,0,0,0,1,975.0,Maharashtra,Carpet Area
+Pune,Kothrud,Residential,10000000,Unfurnished,1,1,Connected,0,0,1,1,700.0,Maharashtra,Built-up Area
+Pune,Wadgaon Sheri,Residential,8500000,Semi-Furnished,2,2,"Connected,Individual",0,0,0,2,1034.0,Maharashtra,Carpet Area
+Pune,Wadgaon Sheri,Residential,7000000,Unfurnished,2,3,"Connected,Individual,Room-attached",0,0,1,2,834.0,Maharashtra,Built-up Area
+Pune,Mundhwa,Residential,18700000,Semi-Furnished,4,4,"Connected,Individual,Room-attached",1,1,1,1,1687.0,Maharashtra,Carpet Area
+Pune,Ghorpadi,Residential,65000000,Unfurnished,4,4,Connected,1,0,0,1,3900.0,Maharashtra,Built-up Area
+Pune,Dhanori,Residential,8600000,Unfurnished,2,2,Connected,1,1,1,1,877.0,Maharashtra,Carpet Area
+Pune,Kharadi,Residential,5600000,Unfurnished,1,1,Connected,0,0,1,1,467.0,Maharashtra,Carpet Area
+Pune,Manjari,Residential,7500000,Unfurnished,2,2,Connected,1,1,1,1,600.0,Maharashtra,Carpet Area
+Pune,Punawale,Residential,10500000,Unfurnished,3,3,"Individual,Room-attached",0,0,0,1,1066.0,Maharashtra,Carpet Area
+Pune,Hadapsar,Residential,6200000,Semi-Furnished,1,1,Individual,0,0,0,1,470.0,Maharashtra,Carpet Area
+Pune,Hingne Khurd,Residential,5500000,Semi-Furnished,1,2,Individual,0,0,0,1,717.0,Maharashtra,Saleable Area
+Pune,Ambegaon Budruk,Residential,24000000,Furnished,6,4,Individual,0,0,0,2,2700.0,Maharashtra,Built-up Area
+Pune,Dhayari,Residential,12000000,Furnished,4,4,Connected,0,0,0,2,1500.0,Maharashtra,Built-up Area
+Pune,Dhayari,Residential,6500000,Unfurnished,2,2,Connected,1,0,1,1,885.0,Maharashtra,Saleable Area
+Pune,Dhayari,Residential,8500000,Unfurnished,3,3,"Connected,Room-attached",1,0,1,1,1390.0,Maharashtra,Built-up Area
+Pune,Ravet,Residential,9700000,Semi-Furnished,2,2,Individual,0,0,0,4,1000.0,Maharashtra,Saleable Area
+Pune,Warje,Residential,6600000,Furnished,2,1,Connected,0,0,0,1,750.0,Maharashtra,Built-up Area
+Pune,Pashan,Residential,11000000,Furnished,2,2,Connected,0,0,0,1,750.0,Maharashtra,Built-up Area
+Pune,Ambegaon Budruk,Residential,11500000,Unfurnished,3,3,Connected,0,1,1,1,1056.0,Maharashtra,Carpet Area
+Pune,Pimple Gurav,Residential,8600000,Unfurnished,2,2,Connected,1,0,0,1,796.0,Maharashtra,Carpet Area
+Pune,Kharadi,Residential,6000000,Unfurnished,1,1,Connected,0,0,0,1,650.0,Maharashtra,Built-up Area
+Pune,Nibm Road,Residential,28000000,Semi-Furnished,3,3,Connected,0,0,0,2,1722.0,Maharashtra,Carpet Area
+Pune,Ambegaon Budruk,Residential,7800000,Semi-Furnished,2,2,Connected,0,0,0,1,850.0,Maharashtra,Carpet Area
+Pune,Ambegaon Budruk,Residential,7400000,Semi-Furnished,2,2,Connected,0,0,0,1,985.0,Maharashtra,Saleable Area
+Pune,Dhayari,Residential,7000000,Unfurnished,2,2,Connected,1,0,1,2,1021.0,Maharashtra,Saleable Area
+Pune,Dhayari,Residential,6600000,Unfurnished,2,2,Connected,0,0,1,1,1150.0,Maharashtra,Saleable Area
+Pune,Dhayari,Residential,7800000,Semi-Furnished,2,2,Connected,0,0,0,1,1049.0,Maharashtra,Saleable Area
+Pune,Kharadi,Residential,31500000,Semi-Furnished,3,4,"Connected,Individual",0,0,0,1,1866.0,Maharashtra,Carpet Area
+Pune,Punawale,Residential,7000000,Semi-Furnished,2,2,Connected,0,0,0,2,675.0,Maharashtra,Built-up Area
+Pune,Kharadi,Residential,4800000,Unfurnished,2,1,Connected,0,0,0,1,608.0,Maharashtra,Saleable Area
+Pune,Ambegaon Budruk,Residential,7100000,Furnished,2,2,Connected,0,0,0,1,960.0,Maharashtra,Built-up Area
+Pune,Dhayari,Residential,6200000,Semi-Furnished,2,2,Room-attached,0,0,0,2,1100.0,Maharashtra,Built-up Area
+Pune,Charholi Budruk,Residential,9400000,Furnished,3,2,Room-attached,0,0,0,1,1200.0,Maharashtra,Carpet Area
+Pune,Vadgaon Budruk,Residential,7200000,Semi-Furnished,2,2,Connected,0,0,0,1,998.0,Maharashtra,Built-up Area
+Pune,Dhayari,Residential,6200000,Unfurnished,2,2,Connected,0,0,1,1,668.0,Maharashtra,Saleable Area
+Pune,Hinjewadi,Residential,12500000,Unfurnished,2,2,Individual,1,1,1,1,908.0,Maharashtra,Carpet Area
+Pune,Kondhwa,Residential,13000000,Semi-Furnished,2,2,Individual,0,0,0,2,1580.0,Maharashtra,Saleable Area
+Pune,Bopodi,Residential,32500000,Furnished,3,3,"Connected,Individual,Room-attached",0,0,0,3,2000.0,Maharashtra,Carpet Area
+Pune,Wanwadi,Residential,16000000,Unfurnished,2,3,"Connected,Individual",0,0,0,1,1635.0,Maharashtra,Saleable Area
+Pune,Mohammadwadi,Residential,31500000,Semi-Furnished,4,4,"Connected,Room-attached",0,0,0,2,3202.0,Maharashtra,Built-up Area
+Pune,Wanowrie,Residential,29000000,Semi-Furnished,3,4,"Connected,Individual",0,0,0,1,1650.0,Maharashtra,Built-up Area
+Pune,Wanowrie,Residential,11000000,Unfurnished,2,2,Individual,0,0,0,1,1200.0,Maharashtra,Saleable Area
+Pune,Undri,Residential,20000000,Semi-Furnished,3,3,"Connected,Individual,Room-attached",0,0,0,2,1325.0,Maharashtra,Carpet Area
+Pune,Dhayari,Residential,4200000,Semi-Furnished,1,2,Connected,0,0,0,2,570.0,Maharashtra,Carpet Area
+Pune,Gahunje,Residential,15000000,Unfurnished,2,2,"Connected,Individual",1,1,1,1,990.0,Maharashtra,Carpet Area
+Pune,Ambegaon Budruk,Residential,8200000,Semi-Furnished,2,2,Connected,0,0,0,1,1100.0,Maharashtra,Saleable Area
+Pune,Wagholi,Residential,11000000,Unfurnished,3,3,"Connected,Individual,Room-attached",1,1,1,1,1300.0,Maharashtra,Carpet Area
+Pune,Wanwadi,Residential,9000000,Unfurnished,2,2,Individual,0,0,1,1,1088.0,Maharashtra,Saleable Area
+Pune,Bavdhan,Residential,11800000,Semi-Furnished,2,2,"Connected,Room-attached",0,0,0,1,780.0,Maharashtra,Carpet Area
+Pune,Wanwadi,Residential,7000000,Unfurnished,2,2,Individual,0,0,0,1,850.0,Maharashtra,Built-up Area
+Pune,Wanowrie,Residential,10000000,Unfurnished,2,2,Connected,0,1,1,1,1200.0,Maharashtra,Built-up Area
+Pune,Pimple Nilakh,Residential,9500000,Unfurnished,2,2,"Connected,Room-attached",1,1,1,1,705.0,Maharashtra,Carpet Area
+Pune,Wanwadi,Residential,21000000,Furnished,3,3,"Connected,Room-attached",0,0,0,1,1500.0,Maharashtra,Built-up Area
+Pune,Undri,Residential,7000000,Semi-Furnished,2,2,"Connected,Room-attached",0,0,0,1,1000.0,Maharashtra,Built-up Area
+Pune,Wanowrie,Residential,6000000,Unfurnished,2,2,Connected,0,0,0,1,865.0,Maharashtra,Saleable Area
+Pune,Kondhwa,Residential,8800000,Unfurnished,2,2,Connected,1,1,1,0,1050.0,Maharashtra,Built-up Area
+Pune,Kondhwa,Residential,12000000,Semi-Furnished,3,3,"Connected,Room-attached",0,0,0,1,1490.0,Maharashtra,Built-up Area
+Pune,Nibm Road,Residential,21000000,Unfurnished,3,3,Connected,1,1,1,1,2577.0,Maharashtra,Built-up Area
+Pune,Mohammadwadi,Residential,6500000,Unfurnished,2,2,"Connected,Room-attached",1,1,1,1,790.0,Maharashtra,Carpet Area
+Pune,Dhayari,Residential,3600000,Unfurnished,1,1,Connected,1,1,1,1,369.0,Maharashtra,Carpet Area
+Pune,Wagholi,Residential,13000000,Unfurnished,3,3,"Connected,Individual,Room-attached",1,1,1,1,948.0,Maharashtra,Carpet Area
+Pune,Kharadi,Residential,10200000,Unfurnished,2,2,"Connected,Individual,Room-attached",1,1,1,1,1100.0,Maharashtra,Built-up Area
+Pune,Kondhwa,Residential,6800000,Unfurnished,2,2,"Connected,Room-attached",1,0,1,1,722.0,Maharashtra,Carpet Area
+Pune,Charholi Budruk,Residential,5000000,Furnished,2,2,Connected,0,0,0,1,1140.0,Maharashtra,Built-up Area
+Pune,Wagholi,Residential,12000000,Semi-Furnished,3,3,Connected,1,1,1,1,1152.0,Maharashtra,Carpet Area
+Pune,Nibm,Residential,11000000,Unfurnished,2,2,Connected,1,1,1,1,871.0,Maharashtra,Carpet Area
+Pune,Mohammadwadi,Residential,17500000,Semi-Furnished,3,3,"Connected,Room-attached",0,0,0,1,1565.0,Maharashtra,Built-up Area
+Pune,Magarpatta,Residential,25000000,Unfurnished,3,3,Connected,0,0,0,3,1464.0,Maharashtra,Carpet Area
+Pune,Bavdhan,Residential,12000000,Unfurnished,3,3,Individual,0,0,0,3,1067.0,Maharashtra,Built-up Area
+Pune,Bavdhan,Residential,12800000,Unfurnished,2,2,Individual,1,1,1,3,920.0,Maharashtra,Carpet Area
+Pune,Dudulgaon,Residential,6700000,Unfurnished,3,3,Connected,0,0,0,1,989.0,Maharashtra,Carpet Area
+Pune,Kharadi,Residential,38000000,Semi-Furnished,2,4,"Connected,Individual",0,0,0,3,2148.0,Maharashtra,Carpet Area
+Pune,Gahunje,Residential,22000000,Unfurnished,3,3,Connected,1,1,0,2,1521.0,Maharashtra,Carpet Area
+Pune,Wanwadi,Residential,6800000,Unfurnished,2,2,"Connected,Room-attached",0,0,0,2,1050.0,Maharashtra,Saleable Area
+Pune,Charholi Budruk,Residential,10300000,Furnished,3,3,Room-attached,0,0,0,1,1900.0,Maharashtra,Carpet Area
+Pune,Hinjewadi,Residential,12500000,Unfurnished,2,2,Connected,1,1,0,1,862.0,Maharashtra,Carpet Area
+Pune,Undri,Residential,6500000,Furnished,2,2,"Connected,Individual,Room-attached",0,0,0,1,1295.0,Maharashtra,Saleable Area
+Pune,Salunke Vihar,Residential,9000000,Furnished,2,2,"Connected,Room-attached",0,0,0,1,1200.0,Maharashtra,Saleable Area
+Pune,Kondhwa,Residential,8000000,Semi-Furnished,2,2,"Connected,Room-attached",0,0,0,2,1400.0,Maharashtra,Built-up Area
+Pune,Nibm Annexe,Residential,11000000,Unfurnished,3,3,Connected,1,1,1,1,1015.0,Maharashtra,Carpet Area
+Pune,Wakad,Residential,9000000,Semi-Furnished,2,2,Room-attached,0,0,0,2,837.0,Maharashtra,Carpet Area
+Pune,Mundhwa,Residential,22400000,Unfurnished,3,3,Individual,1,1,1,3,1464.0,Maharashtra,Carpet Area
+Pune,Dhayari,Residential,5600000,Unfurnished,2,2,Connected,0,0,1,1,1036.0,Maharashtra,Saleable Area
+Pune,Pashan Sus Road,Residential,9500000,Unfurnished,2,2,Room-attached,0,0,0,1,950.0,Maharashtra,Saleable Area
+Pune,Punawale,Residential,7500000,Semi-Furnished,2,2,Connected,0,0,0,2,880.0,Maharashtra,Carpet Area
+Pune,Pimple Gurav,Residential,11800000,Unfurnished,3,3,Connected,1,0,1,1,1040.0,Maharashtra,Carpet Area
+Pune,Wagholi,Residential,11500000,Semi-Furnished,3,3,Connected,0,1,1,1,1450.0,Maharashtra,Built-up Area
+Pune,Punawale,Residential,7000000,Unfurnished,2,2,Room-attached,0,1,1,2,783.0,Maharashtra,Carpet Area
+Pune,Katraj Kondhwa Road,Residential,6500000,Semi-Furnished,2,2,"Connected,Room-attached",0,0,0,1,950.0,Maharashtra,Built-up Area
+Pune,Dhanori,Residential,9800000,Unfurnished,3,3,Connected,1,1,1,1,987.0,Maharashtra,Carpet Area
+Pune,Mohammadwadi,Residential,6000000,Semi-Furnished,2,2,Connected,0,0,0,1,1100.0,Maharashtra,Carpet Area
+Pune,Ambegaon Budruk,Residential,4200000,Unfurnished,2,1,Individual,0,1,1,1,563.0,Maharashtra,Saleable Area
+Pune,Ambegaon Budruk,Residential,7700000,Unfurnished,2,2,Connected,1,0,1,1,980.0,Maharashtra,Built-up Area
+Pune,Balewadi,Residential,13000000,Unfurnished,2,2,"Connected,Room-attached",0,1,1,2,1000.0,Maharashtra,Built-up Area
+Pune,Hinjewadi,Residential,6800000,Semi-Furnished,2,2,Room-attached,0,0,0,2,610.0,Maharashtra,Carpet Area
+Pune,Mamurdi,Residential,8100000,Unfurnished,3,2,Room-attached,1,1,1,2,678.0,Maharashtra,Carpet Area
+Pune,Kondhwa,Residential,7500000,Unfurnished,2,4,Room-attached,0,0,1,8,12000.0,Maharashtra,Built-up Area
+Pune,Wakad,Residential,8700000,Semi-Furnished,2,2,Room-attached,0,0,0,2,734.0,Maharashtra,Carpet Area
+Pune,Wakad,Residential,8500000,Unfurnished,2,2,Connected,1,1,1,1,677.0,Maharashtra,Carpet Area
+Pune,Hadapsar,Residential,4500000,Semi-Furnished,1,1,Individual,0,0,0,1,550.0,Maharashtra,Carpet Area
+Pune,Balewadi,Residential,16500000,Unfurnished,2,3,"Connected,Room-attached",1,1,1,2,1233.0,Maharashtra,Carpet Area
+Pune,Punawale,Residential,7100000,Unfurnished,2,2,Room-attached,1,1,1,2,763.0,Maharashtra,Carpet Area
+Pune,Wadgaon Sheri,Residential,25000000,Semi-Furnished,3,3,Individual,0,0,0,1,1300.0,Maharashtra,Carpet Area
+Pune,Wanowrie,Residential,11500000,Semi-Furnished,2,2,Room-attached,0,0,0,2,1250.0,Maharashtra,Saleable Area
+Pune,Pimple Nilakh,Residential,12500000,Unfurnished,2,3,"Connected,Room-attached",1,1,1,1,1005.0,Maharashtra,Carpet Area
+Pune,Ravet,Residential,7500000,Furnished,2,2,Connected,0,0,0,2,700.0,Maharashtra,Carpet Area
+Pune,Netaji Nagar,Residential,11000000,Semi-Furnished,2,2,Connected,0,0,0,1,1070.0,Maharashtra,Saleable Area
+Pune,Erandwane,Residential,13500000,Furnished,2,2,Connected,0,0,0,2,1050.0,Maharashtra,Built-up Area
+Pune,Pisoli,Residential,6000000,Furnished,2,2,Individual,0,0,0,2,980.0,Maharashtra,Carpet Area
+Pune,Baner,Residential,8000000,Unfurnished,2,2,Room-attached,1,1,1,1,889.0,Maharashtra,Carpet Area
+Pune,Kondhwa Budruk,Residential,4000000,Unfurnished,1,1,Connected,1,0,1,1,727.0,Maharashtra,Built-up Area
+Pune,Wakad,Residential,7600000,Semi-Furnished,2,2,Room-attached,0,0,0,2,957.0,Maharashtra,Saleable Area
+Pune,Kondhwa,Residential,6000000,Semi-Furnished,2,2,"Individual,Room-attached",0,0,0,2,910.0,Maharashtra,Built-up Area
+Pune,Fatima Nagar,Residential,5500000,Unfurnished,2,2,"Connected,Individual",0,0,0,1,1000.0,Maharashtra,Built-up Area
+Pune,Kondhwa,Residential,6200000,Furnished,2,2,Connected,0,0,0,1,851.0,Maharashtra,Carpet Area
+Pune,Pimpri,Residential,60000000,Unfurnished,4,5,Connected,0,0,0,3,2600.0,Maharashtra,Plot Area
+Pune,Kondhwa,Residential,4500000,Unfurnished,2,2,Room-attached,1,1,1,1,900.0,Maharashtra,Saleable Area
+Pune,Wakad,Residential,9400000,Semi-Furnished,2,2,Room-attached,0,0,0,2,811.0,Maharashtra,Carpet Area
+Pune,Hadapsar,Residential,13700000,Unfurnished,2,2,Connected,0,1,1,1,1200.0,Maharashtra,Built-up Area
+Pune,Dhayari,Residential,4500000,Furnished,1,1,Connected,0,0,0,2,650.0,Maharashtra,Built-up Area
+Pune,Charholi Budruk,Residential,6400000,Furnished,2,2,Connected,0,0,0,1,1020.0,Maharashtra,Built-up Area
+Pune,Wanwadi,Residential,4500000,Furnished,1,1,Connected,0,0,0,1,600.0,Maharashtra,Built-up Area
+Pune,Wakad,Residential,8100000,Semi-Furnished,2,2,Room-attached,0,0,0,2,720.0,Maharashtra,Carpet Area
+Pune,Wagholi,Residential,9500000,Furnished,3,3,Connected,0,0,0,2,1200.0,Maharashtra,Built-up Area
+Pune,Kondhwa,Residential,6800000,Furnished,2,2,Connected,0,0,0,0,900.0,Maharashtra,Built-up Area
+Pune,Undri,Residential,5600000,Semi-Furnished,2,2,"Connected,Individual,Room-attached",0,0,0,1,680.0,Maharashtra,Carpet Area
+Pune,Baner,Residential,34000000,Unfurnished,4,4,Room-attached,1,1,0,2,2670.0,Maharashtra,Carpet Area
+Pune,Mundhwa,Residential,8500000,Unfurnished,2,2,Connected,0,0,0,1,597.0,Maharashtra,Carpet Area
+Pune,Mohammadwadi,Residential,4400000,Unfurnished,2,2,Connected,1,1,1,1,785.0,Maharashtra,Carpet Area
+Pune,Dudulgaon,Residential,5300000,Unfurnished,2,2,"Individual,Room-attached",0,0,1,1,788.0,Maharashtra,Carpet Area
+Pune,Vadgaon Budruk,Residential,7600000,Furnished,2,2,Connected,0,0,0,1,800.0,Maharashtra,Built-up Area
+Pune,Sinhagad Road,Residential,7200000,Semi-Furnished,2,2,Connected,0,0,0,1,650.0,Maharashtra,Saleable Area
+Pune,Mundhwa,Residential,10800000,Semi-Furnished,2,2,Connected,1,1,1,1,790.0,Maharashtra,Carpet Area
+Pune,Undri,Residential,7650000,Unfurnished,2,3,Individual,0,1,1,2,1093.0,Maharashtra,Carpet Area
+Pune,Nibm Road,Residential,14400000,Unfurnished,3,3,Connected,1,0,1,1,1068.0,Maharashtra,Carpet Area
+Pune,Vishrantwadi,Residential,8500000,Unfurnished,2,2,Connected,1,1,1,1,1100.0,Maharashtra,Saleable Area
+Pune,Baner,Residential,12000000,Semi-Furnished,2,2,Connected,0,0,0,3,1193.0,Maharashtra,Saleable Area
+Pune,Kharadi,Residential,9700000,Unfurnished,2,2,Connected,1,1,1,1,768.0,Maharashtra,Carpet Area
+Pune,Akurdi,Residential,8500000,Unfurnished,2,2,"Connected,Room-attached",1,0,1,1,759.0,Maharashtra,Carpet Area
+Pune,Charholi Budruk,Residential,9600000,Furnished,3,2,Individual,0,0,0,1,1560.0,Maharashtra,Carpet Area
+Pune,Nibm Road,Residential,25200000,Unfurnished,3,3,Connected,0,0,0,1,1849.0,Maharashtra,Carpet Area
+Pune,Mundhwa,Residential,9200000,Furnished,3,3,Connected,0,0,0,1,1270.0,Maharashtra,Built-up Area
+Pune,Wanowrie,Residential,3800000,Unfurnished,1,2,Connected,0,0,0,1,560.0,Maharashtra,Built-up Area
+Pune,Hadapsar,Residential,19800000,Semi-Furnished,3,3,Individual,0,0,0,1,1250.0,Maharashtra,Carpet Area
+Pune,Baner,Residential,5400000,Unfurnished,1,1,Room-attached,1,1,1,1,650.0,Maharashtra,Built-up Area
+Pune,Tingre Nagar,Residential,11500000,Unfurnished,2,2,Connected,1,1,1,1,1193.0,Maharashtra,Saleable Area
+Pune,Mohammadwadi,Residential,5600000,Unfurnished,2,2,Individual,1,1,1,1,1015.0,Maharashtra,Saleable Area
+Pune,Fatima Nagar,Residential,4000000,Unfurnished,1,1,"Connected,Individual",0,0,1,1,670.0,Maharashtra,Saleable Area
+Pune,Pisoli,Residential,3500000,Semi-Furnished,1,1,"Connected,Individual,Room-attached",0,0,0,1,691.0,Maharashtra,Saleable Area
+Pune,Wanwadi,Residential,4500000,Unfurnished,1,2,Connected,0,0,0,1,630.0,Maharashtra,Built-up Area
+Pune,Undri,Residential,15500000,Furnished,3,2,Connected,0,0,0,0,1325.0,Maharashtra,Carpet Area
+Pune,Mohammadwadi,Residential,24500000,Unfurnished,3,4,Connected,0,0,0,1,4600.0,Maharashtra,Built-up Area
+Pune,Hadapsar,Residential,5100000,Unfurnished,2,2,"Connected,Individual,Room-attached",1,1,1,1,700.0,Maharashtra,Carpet Area
+Pune,Wakad,Residential,5600000,Unfurnished,1,1,Room-attached,0,0,1,2,495.0,Maharashtra,Carpet Area
+Pune,Wanowrie,Residential,13500000,Semi-Furnished,3,3,"Connected,Room-attached",0,0,0,1,1630.0,Maharashtra,Built-up Area
+Pune,Wadgaon Sheri,Residential,12500000,Unfurnished,2,2,Connected,1,1,1,1,1053.0,Maharashtra,Saleable Area
+Pune,Magarpatta,Residential,29500000,Semi-Furnished,4,4,Connected,0,0,0,1,1874.0,Maharashtra,Carpet Area
+Pune,Pune Airport,Residential,6300000,Unfurnished,2,2,Room-attached,1,1,1,1,700.0,Maharashtra,Carpet Area
+Pune,Wadgaon Sheri,Residential,6100000,Unfurnished,2,2,Room-attached,0,0,1,2,720.0,Maharashtra,Carpet Area
+Pune,Kharadi,Residential,37500000,Semi-Furnished,4,5,Individual,0,0,0,2,3000.0,Maharashtra,Carpet Area
+Pune,Baner,Residential,14500000,Unfurnished,3,3,Connected,1,1,1,2,1210.0,Maharashtra,Built-up Area
+Pune,Bhim Nagar,Residential,4000000,Unfurnished,1,1,Individual,0,0,0,0,730.0,Maharashtra,Built-up Area
+Pune,Hadapsar,Residential,6500000,Semi-Furnished,2,2,Connected,0,0,0,1,945.0,Maharashtra,Built-up Area
+Pune,Baner,Residential,14000000,Semi-Furnished,2,2,"Connected,Room-attached",0,0,0,2,925.0,Maharashtra,Carpet Area
+Pune,Wakad,Residential,8200000,Unfurnished,2,2,"Connected,Room-attached",0,0,0,1,880.0,Maharashtra,Carpet Area
+Pune,Wanowrie,Residential,16000000,Furnished,2,2,Connected,0,0,0,1,1200.0,Maharashtra,Saleable Area
+Pune,Moshi,Residential,4950000,Unfurnished,2,2,Individual,0,1,1,1,696.0,Maharashtra,Carpet Area
+Pune,Punawale,Residential,4400000,Semi-Furnished,1,1,Connected,0,0,0,2,617.0,Maharashtra,Saleable Area
+Pune,Nere,Residential,2200000,Unfurnished,1,1,Connected,0,0,0,1,477.0,Maharashtra,Built-up Area
+Pune,Dhanori,Residential,8500000,Unfurnished,3,3,Connected,1,1,1,1,866.0,Maharashtra,Carpet Area
+Pune,Punawale,Residential,7800000,Unfurnished,2,2,Connected,1,1,1,1,751.0,Maharashtra,Carpet Area
+Pune,Baner,Residential,16900000,Furnished,3,3,"Connected,Room-attached",0,0,0,2,1050.0,Maharashtra,Carpet Area
+Pune,Rahatani,Residential,9800000,Semi-Furnished,2,2,Individual,0,0,0,2,1100.0,Maharashtra,Built-up Area
+Pune,Nibm Annexe,Residential,8500000,Unfurnished,2,2,Connected,0,0,1,1,1150.0,Maharashtra,Built-up Area
+Pune,Fursungi,Residential,3300000,Unfurnished,2,1,"Connected,Individual,Room-attached",1,1,1,1,344.0,Maharashtra,Carpet Area
+Pune,Undri,Residential,7500000,Unfurnished,3,3,Connected,0,0,0,1,1002.0,Maharashtra,Carpet Area
+Pune,Punawale,Residential,4400000,Semi-Furnished,1,2,Individual,0,0,0,5,856.0,Maharashtra,Saleable Area
+Pune,Thergaon,Residential,6500000,Unfurnished,2,2,Connected,1,0,1,1,925.0,Maharashtra,Built-up Area
+Pune,Thergaon,Residential,4800000,Unfurnished,1,2,Connected,1,0,1,1,924.0,Maharashtra,Built-up Area
+Pune,Mundhwa,Residential,9600000,Unfurnished,2,2,Connected,1,1,1,1,1010.0,Maharashtra,Saleable Area
+Pune,Thergaon,Residential,4400000,Unfurnished,1,2,Connected,1,0,1,1,633.0,Maharashtra,Built-up Area
+Pune,Viman Nagar,Residential,25500000,Unfurnished,3,3,"Connected,Individual,Room-attached",1,1,1,1,1155.0,Maharashtra,Carpet Area
+Pune,Mundhwa,Residential,11000000,Semi-Furnished,2,2,Connected,1,1,1,1,604.0,Maharashtra,Carpet Area
+Pune,Wanwadi,Residential,13000000,Semi-Furnished,2,2,Connected,0,0,0,1,1225.0,Maharashtra,Built-up Area
+Pune,Pimpri,Residential,11000000,Semi-Furnished,3,3,"Connected,Room-attached",0,0,0,2,1481.0,Maharashtra,Built-up Area
+Pune,Hinjewadi,Residential,12500000,Unfurnished,2,1,Connected,1,1,1,2,883.0,Maharashtra,Carpet Area
+Pune,Punawale,Residential,8700000,Unfurnished,3,3,Connected,1,1,1,1,963.0,Maharashtra,Carpet Area
+Pune,Hadapsar,Residential,10300000,Unfurnished,2,2,"Connected,Individual",1,1,1,1,759.0,Maharashtra,Carpet Area
+Pune,Wanowrie,Residential,15500000,Furnished,3,3,"Connected,Individual,Room-attached",0,0,0,1,1600.0,Maharashtra,Saleable Area
+Pune,Sinhagad,Residential,10500000,Unfurnished,2,2,Connected,1,1,1,1,1190.0,Maharashtra,Built-up Area
+Pune,Nere,Residential,2200000,Unfurnished,1,1,Individual,0,0,0,1,477.0,Maharashtra,Built-up Area
+Pune,Camp,Residential,9900000,Unfurnished,2,2,Connected,0,0,0,1,11008.0,Maharashtra,Built-up Area
+Pune,Nibm,Residential,45000000,Furnished,4,4,"Connected,Room-attached",0,0,0,3,3000.0,Maharashtra,Built-up Area
+Pune,Mundhwa,Residential,13000000,Semi-Furnished,3,3,Connected,1,1,1,1,1410.0,Maharashtra,Carpet Area
+Pune,Ravet,Residential,9700000,Semi-Furnished,2,2,Individual,0,0,0,4,879.0,Maharashtra,Saleable Area
+Pune,Nibm Road,Residential,40700000,Semi-Furnished,4,4,"Connected,Individual",0,0,0,3,2503.0,Maharashtra,Carpet Area
+Pune,Wanowrie,Residential,7500000,Unfurnished,2,2,"Connected,Individual",1,1,1,1,900.0,Maharashtra,Built-up Area
+Pune,Kothrud,Residential,18500000,Semi-Furnished,2,2,Connected,0,0,0,2,1050.0,Maharashtra,Built-up Area
+Pune,Koregaon,Residential,175000000,Furnished,4,4,Connected,0,0,0,2,7000.0,Maharashtra,Built-up Area
+Pune,Punawale,Residential,7344000,Semi-Furnished,2,2,Room-attached,0,0,0,2,753.0,Maharashtra,Carpet Area
+Pune,Mundhwa,Residential,25400000,Unfurnished,4,4,Individual,1,1,1,3,1680.0,Maharashtra,Carpet Area
+Pune,Magarpatta,Residential,32000000,Unfurnished,4,4,Individual,1,1,1,3,18792.0,Maharashtra,Carpet Area
+Pune,Hadapsar,Residential,12000000,Unfurnished,2,2,"Connected,Individual,Room-attached",1,1,1,1,931.0,Maharashtra,Saleable Area
+Pune,Gahunje,Residential,42000000,Unfurnished,2,2,"Connected,Individual",1,1,1,3,2368.0,Maharashtra,Carpet Area
+Pune,Hinjewadi,Residential,32000000,Unfurnished,5,5,Individual,1,1,1,2,2249.0,Maharashtra,Carpet Area
+Pune,Charholi Budruk,Residential,9800000,Furnished,3,3,Connected,0,0,0,2,1100.0,Maharashtra,Carpet Area
+Pune,Kalyani Nagar,Residential,22500000,Furnished,3,3,Individual,0,0,0,2,1585.0,Maharashtra,Saleable Area
+Pune,Bhusari Colony,Residential,14500000,Unfurnished,2,2,Connected,0,0,0,1,844.0,Maharashtra,Carpet Area
+Pune,Ravet,Residential,10000000,Semi-Furnished,2,2,Room-attached,0,0,0,2,1177.0,Maharashtra,Built-up Area
+Pune,Kharadi,Residential,12000000,Furnished,2,1,Individual,0,0,0,1,1078.0,Maharashtra,Built-up Area
+Pune,Hadapsar,Residential,6000000,Semi-Furnished,2,2,"Connected,Individual,Room-attached",0,0,0,1,931.0,Maharashtra,Saleable Area
+Pune,Baner,Commercial,0,Unfurnished,0,0,"Connected,Individual",0,0,0,2,500.0,Maharashtra,Built-up Area
+Pune,Kharadi,Residential,17000000,Semi-Furnished,3,3,Individual,0,0,0,2,1660.0,Maharashtra,Saleable Area
+Pune,Mundhwa,Residential,11000000,Semi-Furnished,3,3,Connected,1,1,1,1,1365.0,Maharashtra,Saleable Area
+Pune,Kharadi,Residential,11000000,Unfurnished,3,3,Individual,1,1,1,1,731.0,Maharashtra,Carpet Area
+Pune,Dhanori,Residential,10500000,Unfurnished,2,2,Individual,1,1,1,2,1413.0,Maharashtra,Saleable Area
+Pune,Nibm Road,Residential,8600000,Unfurnished,2,2,Connected,1,0,0,1,875.0,Maharashtra,Carpet Area
+Pune,Hadapsar,Residential,3650000,Unfurnished,2,2,Connected,1,1,1,1,540.0,Maharashtra,Carpet Area
+Pune,Kharadi,Residential,20000000,Unfurnished,2,2,Connected,1,1,1,1,2500.0,Maharashtra,Saleable Area
+Pune,Punawale,Residential,8000000,Unfurnished,2,2,Connected,1,1,0,1,780.0,Maharashtra,Carpet Area
+Pune,Viman Nagar,Residential,26000000,Semi-Furnished,3,3,Individual,0,0,0,2,1217.0,Maharashtra,Carpet Area
+Pune,Baner,Residential,17000000,Unfurnished,2,3,Connected,1,1,1,3,939.0,Maharashtra,Carpet Area
+Pune,Mohammadwadi,Residential,6700000,Furnished,2,2,Connected,0,0,0,0,801.0,Maharashtra,Carpet Area
+Pune,Undri,Residential,5900000,Semi-Furnished,2,2,"Connected,Individual,Room-attached",0,0,0,2,960.0,Maharashtra,Saleable Area
+Pune,Mohammadwadi,Residential,11000000,Unfurnished,2,2,"Connected,Individual,Room-attached",0,0,0,3,1500.0,Maharashtra,Saleable Area
+Pune,Hinjewadi,Residential,4300000,Unfurnished,2,2,Room-attached,1,1,1,1,422.0,Maharashtra,Carpet Area
+Pune,Undri,Residential,33000000,Unfurnished,4,4,Connected,1,1,1,1,3300.0,Maharashtra,Built-up Area
+Pune,Kondhwa,Residential,12500000,Semi-Furnished,3,3,"Connected,Room-attached",0,0,0,1,1600.0,Maharashtra,Built-up Area
+Pune,Baner,Residential,16000000,Unfurnished,3,3,Connected,1,1,1,1,1260.0,Maharashtra,Carpet Area
+Pune,Aundh,Residential,26000000,Semi-Furnished,2,3,Connected,0,0,0,3,1365.0,Maharashtra,Carpet Area
+Pune,Kondhwa,Residential,10500000,Unfurnished,3,3,"Connected,Individual,Room-attached",1,1,1,2,1600.0,Maharashtra,Built-up Area
+Pune,Yerawada,Residential,11800000,Unfurnished,2,2,Connected,1,1,0,1,1100.0,Maharashtra,Built-up Area
+Pune,Hadapsar,Residential,8400000,Unfurnished,2,2,Individual,1,1,1,1,708.0,Maharashtra,Carpet Area
+Pune,Walvekar Nagar,Residential,13200000,Unfurnished,3,2,Connected,1,1,1,2,1050.0,Maharashtra,Built-up Area
+Pune,Kothrud,Residential,43000000,Unfurnished,5,5,Connected,0,0,1,3,2600.0,Maharashtra,Built-up Area
+Pune,Wagholi,Residential,7500000,Unfurnished,2,2,"Connected,Individual,Room-attached",1,1,1,1,1140.0,Maharashtra,Saleable Area
+Pune,Kharadi,Residential,18000000,Unfurnished,3,3,Connected,1,1,1,1,1059.0,Maharashtra,Carpet Area
+Pune,Viman Nagar,Residential,8900000,Semi-Furnished,2,2,Connected,0,0,0,2,1010.0,Maharashtra,Built-up Area
+Pune,Mumbai Bangalore Highway,Residential,7400000,Unfurnished,2,2,Connected,0,0,0,1,851.0,Maharashtra,Carpet Area
+Pune,Punawale,Residential,6550000,Semi-Furnished,2,2,Individual,0,0,0,1,733.0,Maharashtra,Carpet Area
+Pune,Pune Airport,Residential,3490000,Unfurnished,1,1,Connected,0,0,0,1,500.0,Maharashtra,Carpet Area
+Pune,Baner,Residential,11700000,Unfurnished,2,2,Connected,0,1,1,2,754.0,Maharashtra,Carpet Area
+Pune,Baner,Residential,21000000,Semi-Furnished,2,3,"Connected,Room-attached",0,0,0,3,1462.0,Maharashtra,Carpet Area
+Pune,Mohammadwadi,Residential,3500000,Unfurnished,1,1,Connected,1,1,1,1,485.0,Maharashtra,Built-up Area
+Pune,Baner,Residential,137500000,Unfurnished,6,6,"Connected,Individual",1,1,1,3,5400.0,Maharashtra,Carpet Area
+Pune,Dhanori,Residential,9800000,Unfurnished,2,3,Individual,1,1,1,1,987.0,Maharashtra,Carpet Area
+Pune,Undri,Residential,5500000,Unfurnished,2,2,Connected,1,0,1,1,1080.0,Maharashtra,Saleable Area
+Pune,Kharadi,Residential,56000000,Unfurnished,4,4,Connected,1,0,1,1,3175.0,Maharashtra,Carpet Area
+Pune,Handewadi,Residential,3200000,Unfurnished,1,1,Connected,1,1,1,1,443.0,Maharashtra,Carpet Area
+Pune,Pimpri,Residential,7500000,Semi-Furnished,2,2,"Individual,Room-attached",0,0,0,2,985.0,Maharashtra,Built-up Area
+Pune,Wanowrie,Residential,9000000,Semi-Furnished,2,2,Connected,0,0,0,3,1150.0,Maharashtra,Built-up Area
+Pune,Nibm Annexe,Residential,6600000,Furnished,2,2,Individual,0,0,0,2,711.0,Maharashtra,Carpet Area
+Pune,Charholi Budruk,Residential,9300000,Furnished,3,2,Connected,0,0,0,1,1420.0,Maharashtra,Carpet Area
+Pune,Kothrud,Residential,7500000,Unfurnished,1,2,Room-attached,0,0,1,1,665.0,Maharashtra,Saleable Area
+Pune,Manjari,Residential,8000000,Unfurnished,2,2,Connected,1,1,1,1,691.0,Maharashtra,Carpet Area
+Pune,Undri,Residential,20000000,Furnished,3,2,Connected,0,0,0,0,2000.0,Maharashtra,Built-up Area
+Pune,Dhanori,Residential,11000000,Furnished,3,3,Individual,0,0,0,1,1404.0,Maharashtra,Built-up Area
+Pune,Sinhagad,Residential,1280000,Furnished,2,2,Connected,0,0,0,0,452.0,Maharashtra,Carpet Area
+Pune,Baner,Residential,17000000,Unfurnished,2,2,Connected,1,0,1,0,1120.0,Maharashtra,Carpet Area
+Pune,Wakad,Residential,9000000,Unfurnished,2,2,Individual,0,1,1,2,754.0,Maharashtra,Carpet Area
+Pune,Hinjewadi,Residential,10200000,Unfurnished,2,2,Individual,0,1,1,3,916.0,Maharashtra,Carpet Area
+Pune,Wanowrie,Residential,3500000,Unfurnished,1,2,Individual,0,0,0,1,600.0,Maharashtra,Built-up Area
+Pune,Talegaon Dabhade,Residential,13266464,Unfurnished,1,1,Individual,0,0,0,2,482.0,Maharashtra,Built-up Area
+Pune,Sinhagad Road,Residential,10500000,Unfurnished,2,2,"Connected,Room-attached",1,1,1,1,1190.0,Maharashtra,Built-up Area
+Pune,Mundhwa,Residential,9850000,Unfurnished,2,2,Individual,1,1,1,1,820.0,Maharashtra,Carpet Area
+Pune,Madhav Nagar,Residential,5300000,Unfurnished,2,2,Connected,0,1,0,1,930.0,Maharashtra,Carpet Area
+Pune,Hinjewadi,Residential,30000000,Unfurnished,2,4,Connected,1,1,1,2,1800.0,Maharashtra,Carpet Area
+Pune,Lohegaon,Residential,10500000,Unfurnished,3,3,Individual,1,1,1,2,1096.0,Maharashtra,Carpet Area
+Pune,Mundhwa,Residential,14000000,Unfurnished,3,3,Connected,0,0,0,2,1044.0,Maharashtra,Built-up Area
+Pune,Rahatani,Residential,12100000,Unfurnished,3,3,"Individual,Room-attached",1,0,1,1,1138.0,Maharashtra,Carpet Area
+Pune,Mundhwa,Residential,13800000,Unfurnished,3,3,Individual,1,1,1,3,1058.0,Maharashtra,Carpet Area
+Pune,Mundhwa,Residential,17900000,Unfurnished,3,3,Individual,1,1,1,3,1219.0,Maharashtra,Carpet Area
+Pune,Handewadi Road,Residential,4950000,Semi-Furnished,2,2,"Connected,Individual,Room-attached",0,0,0,1,891.0,Maharashtra,Saleable Area
+Pune,Magarpatta,Residential,28600000,Unfurnished,4,4,Individual,1,1,1,3,1874.0,Maharashtra,Carpet Area
+Pune,Mundhwa,Residential,22700000,Unfurnished,4,4,Individual,1,1,1,3,1505.0,Maharashtra,Carpet Area
+Pune,Tathawade,Residential,11200000,Unfurnished,2,3,"Connected,Room-attached",1,1,1,1,920.0,Maharashtra,Carpet Area
+Pune,Charholi Budruk,Residential,6500000,Furnished,2,2,Connected,0,0,0,1,1140.0,Maharashtra,Built-up Area
+Pune,Mohammadwadi,Residential,37500000,Unfurnished,3,3,"Connected,Room-attached",1,1,1,2,2300.0,Maharashtra,Built-up Area
+Pune,Undri,Residential,7500000,Semi-Furnished,2,2,Connected,0,0,0,1,900.0,Maharashtra,Carpet Area
+Pune,Pimpri,Residential,13500000,Unfurnished,2,2,Connected,1,1,1,0,1158.0,Maharashtra,Carpet Area
+Pune,Mundhwa,Residential,14000000,Unfurnished,2,3,Individual,1,1,1,1,1055.0,Maharashtra,Carpet Area
+Pune,Undri,Residential,4500000,Semi-Furnished,2,2,Individual,0,0,0,2,532.0,Maharashtra,Carpet Area
+Pune,Wanowrie,Residential,8000000,Unfurnished,2,2,Connected,0,0,1,1,1050.0,Maharashtra,Built-up Area
+Pune,Pimpri Chinchwad Pcmc,Residential,4700000,Semi-Furnished,1,1,Connected,0,0,0,2,690.0,Maharashtra,Built-up Area
+Pune,Awhalwadi,Residential,10000000,Unfurnished,3,3,Individual,1,1,1,1,950.0,Maharashtra,Carpet Area
+Pune,Kondhwa,Residential,6500000,Unfurnished,2,2,"Connected,Individual",1,0,1,1,1600.0,Maharashtra,Built-up Area
+Pune,Mundhwa,Residential,17000000,Semi-Furnished,3,3,Connected,1,1,1,1,1715.0,Maharashtra,Saleable Area
+Pune,Viman Nagar,Residential,17500000,Furnished,2,2,Individual,1,1,1,1,1360.0,Maharashtra,Saleable Area
+Pune,Salunke Vihar,Residential,11500000,Semi-Furnished,2,2,"Connected,Room-attached",0,0,0,1,1290.0,Maharashtra,Built-up Area
+Pune,Baner,Residential,90000000,Semi-Furnished,6,6,Individual,0,0,0,4,3776.0,Maharashtra,Carpet Area
+Pune,Viman Nagar,Residential,8900000,Semi-Furnished,2,2,Individual,0,0,0,1,1000.0,Maharashtra,Built-up Area
+Pune,Katraj Kondhwa Road,Residential,4200000,Semi-Furnished,2,2,Individual,0,0,0,1,452.0,Maharashtra,Carpet Area
+Pune,Ravet,Residential,8800000,Semi-Furnished,2,2,Connected,0,0,0,0,834.0,Maharashtra,Carpet Area
+Pune,Hadapsar,Residential,4200000,Unfurnished,2,2,Individual,1,1,1,2,564.0,Maharashtra,Carpet Area
+Pune,Hadapsar,Residential,5250000,Unfurnished,2,2,Connected,0,0,0,1,1040.0,Maharashtra,Built-up Area
+Pune,Dhanori,Residential,10000000,Semi-Furnished,2,3,"Connected,Individual",0,0,0,2,1374.0,Maharashtra,Built-up Area
+Pune,Viman Nagar,Residential,6200000,Unfurnished,1,1,Individual,0,0,1,2,800.0,Maharashtra,Built-up Area
+Pune,Balewadi,Residential,18500000,Semi-Furnished,3,3,Individual,0,0,0,1,1780.0,Maharashtra,Built-up Area
+Pune,Kondhwa,Residential,11000000,Unfurnished,3,3,"Connected,Individual,Room-attached",0,0,0,3,1600.0,Maharashtra,Built-up Area
+Pune,Chakan,Residential,2700000,Unfurnished,2,2,Connected,1,1,1,2,1000.0,Maharashtra,Built-up Area
+Pune,Mundhwa,Residential,8500000,Semi-Furnished,3,3,Connected,1,0,1,1,950.0,Maharashtra,Carpet Area
+Pune,Kothrud,Residential,120000000,Unfurnished,6,5,"Connected,Individual",1,1,1,3,3100.0,Maharashtra,Carpet Area
+Pune,Dhanori,Residential,9000000,Unfurnished,2,2,Individual,0,0,0,1,1105.0,Maharashtra,Built-up Area
+Pune,Katraj,Residential,4200000,Semi-Furnished,1,1,Connected,0,0,0,1,560.0,Maharashtra,Built-up Area
+Pune,Pashan,Residential,7500000,Semi-Furnished,2,2,"Individual,Room-attached",0,0,0,1,890.0,Maharashtra,Carpet Area
+Pune,Yewalewadi,Residential,4500000,Semi-Furnished,1,2,Room-attached,0,0,1,1,700.0,Maharashtra,Built-up Area
+Pune,Nibm Annexe,Residential,9000000,Unfurnished,2,2,Connected,1,1,1,1,900.0,Maharashtra,Built-up Area
+Pune,Undri,Residential,6100000,Unfurnished,2,2,Connected,1,0,1,1,715.0,Maharashtra,Carpet Area
+Pune,Magarpatta,Residential,25700000,Unfurnished,3,3,Individual,0,0,0,1,1464.0,Maharashtra,Carpet Area
+Pune,Dhayari,Residential,9500000,Unfurnished,3,3,"Connected,Room-attached",1,1,1,1,986.0,Maharashtra,Carpet Area
+Pune,Hinjewadi,Residential,47000000,Semi-Furnished,5,5,Connected,0,0,0,2,2500.0,Maharashtra,Carpet Area
+Pune,Pimpri,Residential,6500000,Semi-Furnished,2,1,Connected,0,0,0,2,461.0,Maharashtra,Carpet Area
+Pune,Kothrud,Residential,120000000,Semi-Furnished,6,4,Individual,0,0,0,3,4300.0,Maharashtra,Carpet Area
+Pune,Baner,Residential,29000000,Unfurnished,3,3,Connected,1,1,1,2,1750.0,Maharashtra,Carpet Area
+Pune,Kondhwa,Residential,7700000,Unfurnished,2,2,Connected,0,0,1,1,1050.0,Maharashtra,Built-up Area
+Pune,Baner,Residential,20000000,Furnished,2,3,"Connected,Room-attached",0,0,0,3,2490.0,Maharashtra,Saleable Area
+Pune,Magarpatta,Residential,29900000,Unfurnished,3,3,"Individual,Room-attached",0,0,0,1,1696.0,Maharashtra,Carpet Area
+Pune,Baner,Residential,18000000,Unfurnished,3,3,Connected,1,1,1,1,1350.0,Maharashtra,Carpet Area
+Pune,Hinjewadi,Residential,10500000,Semi-Furnished,3,3,Connected,0,0,0,2,1310.0,Maharashtra,Built-up Area
+Pune,Wanwadi,Residential,11000000,Semi-Furnished,2,2,Connected,0,0,0,2,1070.0,Maharashtra,Saleable Area
+Pune,Ravet,Residential,9400000,Semi-Furnished,2,2,Connected,0,0,0,0,985.0,Maharashtra,Carpet Area
+Pune,Thergaon,Residential,4400000,Unfurnished,1,2,Connected,0,0,0,1,631.0,Maharashtra,Built-up Area
+Pune,Mohammadwadi,Residential,4700000,Furnished,1,2,Connected,0,0,0,0,690.0,Maharashtra,Saleable Area
+Pune,Undri,Residential,4200000,Semi-Furnished,2,2,"Connected,Individual",0,0,0,2,837.0,Maharashtra,Saleable Area
+Pune,Kothrud,Residential,14000000,Furnished,2,2,Connected,0,0,0,0,12000.0,Maharashtra,Built-up Area
+Pune,Dhanori,Residential,8500000,Unfurnished,2,2,Connected,1,1,1,1,877.0,Maharashtra,Carpet Area
+Pune,Nibm,Residential,15000000,Unfurnished,3,3,Connected,1,1,1,1,1210.0,Maharashtra,Carpet Area
+Pune,Bibwewadi,Residential,2700000,Unfurnished,1,1,Individual,0,0,0,0,650.0,Maharashtra,Built-up Area
+Pune,Kharadi,Residential,48500000,Semi-Furnished,5,6,Individual,0,0,0,2,2800.0,Maharashtra,Carpet Area
+Pune,Hinjewadi,Residential,25000000,Unfurnished,2,4,Connected,1,1,1,3,1744.0,Maharashtra,Carpet Area
+Pune,Dasar,Residential,11500000,Unfurnished,2,2,"Connected,Individual",1,1,1,1,1100.0,Maharashtra,Built-up Area
+Pune,Magarpatta,Residential,30900000,Unfurnished,4,4,Individual,0,0,0,1,1874.0,Maharashtra,Carpet Area
+Pune,Manjari,Residential,6500000,Furnished,2,2,Connected,0,0,0,1,1045.0,Maharashtra,Built-up Area
+Pune,Baner,Residential,35000000,Furnished,4,3,Connected,0,0,0,3,3200.0,Maharashtra,Built-up Area
+Pune,Hinjewadi,Residential,59000000,Semi-Furnished,5,5,Individual,0,0,0,2,3800.0,Maharashtra,Carpet Area
+Pune,Kothrud,Residential,130000000,Unfurnished,6,5,"Connected,Individual",1,1,1,4,3300.0,Maharashtra,Carpet Area
+Pune,Kiwale,Residential,9900000,Unfurnished,3,2,Individual,0,0,0,3,1096.0,Maharashtra,Carpet Area
+Pune,Punawale,Residential,12100000,Unfurnished,3,2,Connected,0,1,1,3,1126.0,Maharashtra,Carpet Area
+Pune,Hinjewadi,Residential,7150000,Furnished,2,2,Connected,0,0,0,2,702.0,Maharashtra,Carpet Area
+Pune,Baner,Residential,14500000,Unfurnished,3,3,"Connected,Room-attached",0,0,0,1,1296.0,Maharashtra,Carpet Area
+Pune,Baner,Commercial,0,Unfurnished,0,0,"Connected,Individual",0,0,0,2,1180.0,Maharashtra,Built-up Area
+Pune,Kharadi,Residential,19000000,Unfurnished,3,3,Individual,1,1,1,1,981.0,Maharashtra,Carpet Area
+Pune,Manjri Budruk,Residential,7450000,Unfurnished,2,2,Individual,0,0,0,1,757.0,Maharashtra,Carpet Area
+Pune,Undri,Residential,3100000,Furnished,1,2,Room-attached,0,0,0,2,625.0,Maharashtra,Saleable Area
+Pune,Dhanori,Residential,8500000,Unfurnished,2,3,Individual,1,1,1,2,980.0,Maharashtra,Carpet Area
+Pune,Hadapsar,Residential,13300000,Semi-Furnished,2,2,Individual,0,0,0,1,830.0,Maharashtra,Carpet Area
+Pune,Yewalewadi,Residential,3300000,Unfurnished,2,2,Individual,1,1,1,2,462.0,Maharashtra,Carpet Area
+Pune,Baner,Residential,24000000,Unfurnished,3,3,Connected,0,0,0,1,1438.0,Maharashtra,Carpet Area
+Pune,Baner,Residential,22500000,Unfurnished,3,3,Connected,1,1,1,2,1294.0,Maharashtra,Carpet Area
+Pune,Gahunje,Residential,13000000,Furnished,2,2,Connected,0,0,0,0,1245.0,Maharashtra,Carpet Area
+Pune,Baner,Residential,14500000,Unfurnished,3,3,Connected,0,0,0,1,1050.0,Maharashtra,Carpet Area
+Pune,Salunke Vihar,Residential,4800000,Furnished,1,2,"Individual,Room-attached",0,0,0,1,650.0,Maharashtra,Built-up Area
+Pune,Hadapsar,Residential,10700000,Unfurnished,2,2,Individual,1,1,1,1,870.0,Maharashtra,Carpet Area
+Pune,Mundhwa,Residential,9800000,Unfurnished,2,2,Individual,1,1,1,1,820.0,Maharashtra,Carpet Area
+Pune,Manjri Budruk,Residential,10600000,Unfurnished,2,3,Individual,1,1,1,1,1053.0,Maharashtra,Carpet Area
+Pune,Nanded,Residential,8500000,Unfurnished,2,2,"Connected,Room-attached",1,1,1,1,705.0,Maharashtra,Built-up Area
+Pune,Nanded,Residential,7700000,Unfurnished,2,2,"Connected,Room-attached",1,1,1,1,972.0,Maharashtra,Built-up Area
+Pune,Sinhagad,Residential,4200000,Unfurnished,1,1,"Connected,Room-attached",1,1,1,1,585.0,Maharashtra,Built-up Area
+Pune,Kharadi,Residential,18500000,Semi-Furnished,3,3,Individual,0,0,0,2,1618.0,Maharashtra,Carpet Area
+Pune,Magarpatta,Residential,27000000,Semi-Furnished,3,3,Individual,0,0,0,1,1700.0,Maharashtra,Carpet Area
+Pune,Baner,Residential,39000000,Furnished,4,4,Room-attached,0,0,0,2,3800.0,Maharashtra,Carpet Area
+Pune,Gahunje,Residential,18500000,Furnished,3,3,Connected,0,0,0,0,1450.0,Maharashtra,Carpet Area
+Pune,Mundhwa,Residential,13200000,Semi-Furnished,3,3,Individual,0,0,0,1,1055.0,Maharashtra,Carpet Area
+Pune,Punawale,Residential,4400000,Semi-Furnished,1,2,Individual,0,0,0,5,567.0,Maharashtra,Saleable Area
+Pune,Pimple Gurav,Residential,8500000,Unfurnished,2,2,Connected,1,0,1,1,750.0,Maharashtra,Carpet Area
+Pune,Budhwar Peth,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,400.0,Maharashtra,Built-up Area
+Pune,Kondhwa,Residential,4600000,Unfurnished,2,1,Individual,1,0,1,0,600.0,Maharashtra,Saleable Area
+Pune,Kharadi,Residential,20500000,Semi-Furnished,3,3,Individual,0,0,0,1,1383.0,Maharashtra,Carpet Area
+Pune,Kondhwa,Residential,11000000,Unfurnished,2,2,"Individual,Room-attached",1,1,1,3,1544.0,Maharashtra,Saleable Area
+Pune,Kharadi,Residential,7400000,Furnished,2,2,Connected,0,0,0,2,767.0,Maharashtra,Carpet Area
+Pune,Mohammadwadi,Residential,45000000,Semi-Furnished,5,4,Connected,0,0,0,2,4650.0,Maharashtra,Carpet Area
+Pune,Netaji Nagar,Residential,13000000,Furnished,3,3,Connected,0,0,0,1,1350.0,Maharashtra,Built-up Area
+Pune,Kharadi,Residential,37000000,Semi-Furnished,3,5,Individual,0,0,0,2,2300.0,Maharashtra,Built-up Area
+Pune,Ravet,Residential,8400000,Unfurnished,2,2,Connected,1,1,1,3,774.0,Maharashtra,Carpet Area
+Pune,Kharadi,Residential,9000000,Semi-Furnished,2,2,Connected,0,0,0,3,870.0,Maharashtra,Built-up Area
+Pune,Ganesh Peth,Residential,9000000,Furnished,2,2,Individual,0,0,0,1,1020.0,Maharashtra,Saleable Area
+Pune,Wagholi,Residential,10000000,Furnished,3,3,"Connected,Individual,Room-attached",1,1,1,2,1200.0,Maharashtra,Carpet Area
+Pune,Kharadi,Residential,10000000,Semi-Furnished,2,2,Individual,0,0,0,1,750.0,Maharashtra,Carpet Area
+Pune,Pimpri,Residential,6200000,Unfurnished,2,2,"Individual,Room-attached",0,0,0,3,750.0,Maharashtra,Built-up Area
+Pune,Wakad,Residential,10600000,Unfurnished,2,2,Individual,1,1,1,2,851.0,Maharashtra,Carpet Area
+Pune,Ravet,Residential,9700000,Semi-Furnished,2,2,Individual,0,0,0,4,947.0,Maharashtra,Saleable Area
+Pune,Kalyani Nagar,Residential,16500000,Unfurnished,2,2,Connected,1,1,1,1,1224.0,Maharashtra,Built-up Area
+Pune,Hadapsar,Residential,4500000,Unfurnished,1,2,Individual,1,1,1,2,432.0,Maharashtra,Carpet Area
+Pune,Mundhwa,Residential,21700000,Unfurnished,2,4,Individual,1,1,1,1,1738.0,Maharashtra,Carpet Area
+Pune,Kiwale,Residential,7100000,Unfurnished,2,2,Connected,0,0,0,3,744.0,Maharashtra,Carpet Area
+Pune,Kharadi,Residential,9000000,Semi-Furnished,2,2,Individual,0,0,0,1,747.0,Maharashtra,Carpet Area
+Pune,Baner,Residential,9200000,Semi-Furnished,2,2,Connected,0,0,0,1,900.0,Maharashtra,Built-up Area
+Pune,Tathawade,Residential,7500000,Unfurnished,2,2,Connected,1,1,1,2,851.0,Maharashtra,Carpet Area
+Pune,Dhanori,Residential,11000000,Furnished,3,3,Connected,0,0,0,1,1404.0,Maharashtra,Built-up Area
+Pune,Baner,Residential,11500000,Unfurnished,2,2,Connected,1,1,1,1,900.0,Maharashtra,Carpet Area
+Pune,Undri,Residential,3400000,Furnished,1,1,Individual,0,0,0,0,430.0,Maharashtra,Built-up Area
+Pune,Balewadi,Residential,22000000,Semi-Furnished,3,3,"Connected,Room-attached",0,0,0,3,1400.0,Maharashtra,Carpet Area
+Pune,Viman Nagar,Residential,9900000,Semi-Furnished,2,2,Connected,0,0,0,2,1100.0,Maharashtra,Built-up Area
+Pune,Hinjewadi,Residential,12500000,Unfurnished,2,2,Connected,1,1,1,2,1321.0,Maharashtra,Carpet Area
+Pune,Kharadi,Residential,9000000,Semi-Furnished,2,2,Individual,0,0,0,1,750.0,Maharashtra,Carpet Area
+Pune,Kharadi,Residential,14000000,Semi-Furnished,3,3,Individual,0,0,0,1,950.0,Maharashtra,Carpet Area
+Pune,Hadapsar,Residential,8500000,Semi-Furnished,2,2,Individual,0,0,0,1,750.0,Maharashtra,Carpet Area
+Pune,Dhayari,Residential,3350000,Unfurnished,1,2,Connected,0,0,0,1,600.0,Maharashtra,Built-up Area
+Pune,Kharadi,Residential,16000000,Furnished,2,2,Connected,0,0,0,0,1458.0,Maharashtra,Built-up Area
+Pune,Adarsh Colony,Residential,6000000,Unfurnished,2,2,Connected,0,0,0,1,1043.0,Maharashtra,Built-up Area
+Pune,Mukund Nagar,Residential,30000000,Unfurnished,3,3,Connected,0,0,0,1,1348.0,Maharashtra,Carpet Area
+Pune,Hinjewadi,Residential,6200000,Unfurnished,2,2,Connected,1,0,1,1,755.0,Maharashtra,Carpet Area
+Pune,Undri,Residential,2500000,Unfurnished,1,1,Connected,0,1,1,1,500.0,Maharashtra,Built-up Area
+Pune,Kharadi,Residential,21200000,Unfurnished,2,4,Individual,1,1,1,1,1599.0,Maharashtra,Carpet Area
+Pune,Balewadi,Residential,7000000,Semi-Furnished,4,2,"Connected,Room-attached",0,0,0,2,775.0,Maharashtra,Carpet Area
+Pune,Mundhwa,Residential,9200000,Semi-Furnished,2,2,Individual,0,0,0,1,820.0,Maharashtra,Carpet Area
+Pune,Magarpatta,Residential,27500000,Semi-Furnished,3,4,Individual,0,0,0,2,1692.0,Maharashtra,Carpet Area
+Pune,Kharadi,Residential,25500000,Semi-Furnished,3,4,Individual,0,0,0,2,1788.0,Maharashtra,Carpet Area
+Pune,Gahunje,Residential,18500000,Furnished,3,3,Connected,0,0,0,0,1425.0,Maharashtra,Carpet Area
+Pune,Dhayari,Residential,2500000,Unfurnished,1,1,Room-attached,0,0,1,0,600.0,Maharashtra,Built-up Area
+Pune,Dhanori,Residential,6500000,Semi-Furnished,2,2,Connected,0,0,0,1,1250.0,Maharashtra,Built-up Area
+Pune,Punawale,Residential,4400000,Semi-Furnished,1,2,Individual,0,0,0,4,789.0,Maharashtra,Saleable Area
+Pune,Nigdi,Residential,12000000,Unfurnished,2,3,Individual,1,0,1,1,1062.0,Maharashtra,Carpet Area
+Pune,Kondhwa,Residential,18000000,Unfurnished,2,2,Connected,1,1,1,1,1800.0,Maharashtra,Built-up Area
+Pune,Keshav Nagar,Residential,9600000,Semi-Furnished,2,2,Connected,1,1,1,1,700.0,Maharashtra,Carpet Area
+Pune,Viman Nagar,Residential,22500000,Semi-Furnished,4,4,Individual,0,0,0,2,2170.0,Maharashtra,Saleable Area
+Pune,Keshav Nagar,Residential,7800000,Semi-Furnished,2,3,Individual,0,0,0,1,820.0,Maharashtra,Carpet Area
+Pune,Sinhagad,Residential,4300000,Unfurnished,1,1,"Connected,Room-attached",1,0,1,1,585.0,Maharashtra,Built-up Area
+Pune,Wakad,Residential,13700000,Unfurnished,3,3,Individual,1,1,1,3,1163.0,Maharashtra,Carpet Area
+Pune,Balewadi,Residential,13500000,Unfurnished,3,3,Connected,1,1,1,1,900.0,Maharashtra,Carpet Area
+Pune,Wagholi,Residential,5500000,Furnished,2,2,Individual,0,0,0,2,705.0,Maharashtra,Saleable Area
+Pune,Kondhwa,Residential,7700000,Unfurnished,2,2,Individual,0,0,1,2,1025.0,Maharashtra,Saleable Area
+Pune,Magarpatta,Residential,31200000,Unfurnished,2,4,Individual,1,1,1,3,2088.0,Maharashtra,Carpet Area
+Pune,Lohegaon,Residential,4400000,Semi-Furnished,2,1,Connected,0,0,0,1,558.0,Maharashtra,Carpet Area
+Pune,Undri,Residential,2400000,Furnished,2,2,Individual,0,0,0,2,625.0,Maharashtra,Saleable Area
+Pune,Keshav Nagar,Residential,10200000,Semi-Furnished,3,3,Individual,0,0,0,1,1047.0,Maharashtra,Carpet Area
+Pune,Kalyani Nagar,Residential,24500000,Semi-Furnished,4,4,Individual,0,0,0,2,1651.0,Maharashtra,Carpet Area
+Pune,Magarpatta,Residential,27500000,Semi-Furnished,3,3,Individual,0,0,0,2,1700.0,Maharashtra,Carpet Area
+Pune,Kharadi,Residential,2400000,Semi-Furnished,3,3,Individual,0,0,0,2,1820.0,Maharashtra,Saleable Area
+Pune,Keshav Nagar,Residential,9200000,Semi-Furnished,2,2,Individual,0,0,0,1,912.0,Maharashtra,Carpet Area
+Pune,Viman Nagar,Residential,9500000,Semi-Furnished,2,2,Individual,0,0,0,2,950.0,Maharashtra,Built-up Area
+Pune,Baner,Residential,16000000,Unfurnished,3,3,Individual,1,1,0,2,1066.0,Maharashtra,Carpet Area
+Pune,Tathawade,Residential,6499000,Unfurnished,2,2,Connected,1,1,1,2,641.0,Maharashtra,Carpet Area
+Pune,Nanded,Residential,14000000,Unfurnished,3,3,"Connected,Room-attached",1,1,1,1,1558.0,Maharashtra,Built-up Area
+Pune,Dhanori,Residential,8500000,Semi-Furnished,3,2,Connected,0,0,0,1,877.0,Maharashtra,Built-up Area
+Pune,Dhanori,Residential,3500000,Furnished,2,2,Connected,0,0,0,2,911.0,Maharashtra,Built-up Area
+Pune,Ravet,Residential,9420000,Semi-Furnished,2,2,Connected,0,0,0,0,900.0,Maharashtra,Carpet Area
+Pune,Kharadi,Residential,11500000,Unfurnished,3,3,Connected,1,1,1,1,850.0,Maharashtra,Carpet Area
+Pune,Ravet,Residential,8800000,Unfurnished,2,2,Connected,0,0,0,3,802.0,Maharashtra,Carpet Area
+Pune,Koregaon Park,Residential,31400000,Semi-Furnished,3,4,Individual,0,0,0,2,1600.0,Maharashtra,Carpet Area
+Pune,Kharadi,Residential,10000000,Semi-Furnished,2,2,Individual,0,0,0,1,856.0,Maharashtra,Carpet Area
+Pune,Kharadi,Residential,29500000,Semi-Furnished,3,4,Individual,0,0,0,2,2250.0,Maharashtra,Carpet Area
+Pune,Kondhwa,Residential,24500000,Furnished,3,2,Connected,0,0,0,0,1259.0,Maharashtra,Built-up Area
+Pune,Kharadi,Residential,21000000,Semi-Furnished,3,3,Individual,0,0,0,1,1220.0,Maharashtra,Carpet Area
+Pune,Sinhagad Road,Residential,6500000,Unfurnished,2,2,"Connected,Room-attached",0,1,1,1,643.0,Maharashtra,Built-up Area
+Pune,Punawale,Residential,13000000,Unfurnished,3,2,Connected,1,1,1,3,1174.0,Maharashtra,Carpet Area
+Pune,Hadapsar,Residential,22000000,Semi-Furnished,3,3,Individual,0,0,0,1,1700.0,Maharashtra,Built-up Area
+Pune,Kharadi,Residential,14000000,Semi-Furnished,3,3,Individual,0,0,0,1,936.0,Maharashtra,Carpet Area
+Pune,Ravet,Residential,7800000,Semi-Furnished,2,2,Connected,0,0,0,0,759.0,Maharashtra,Carpet Area
+Pune,Kharadi,Residential,16000000,Semi-Furnished,3,3,Individual,0,0,0,1,1135.0,Maharashtra,Carpet Area
+Pune,Mundhwa,Residential,8970000,Semi-Furnished,3,3,Individual,0,0,0,1,995.0,Maharashtra,Carpet Area
+Pune,Viman Nagar,Residential,9700000,Unfurnished,2,2,Individual,1,0,1,2,1050.0,Maharashtra,Built-up Area
+Pune,Mundhwa,Residential,19800000,Semi-Furnished,4,4,Individual,0,0,0,2,1738.0,Maharashtra,Carpet Area
+Pune,Sinhagad Road,Residential,6500000,Unfurnished,2,2,"Connected,Room-attached",1,1,1,1,643.0,Maharashtra,Built-up Area
+Pune,Tingre Nagar,Residential,11000000,Unfurnished,3,2,Individual,0,1,1,2,1200.0,Maharashtra,Built-up Area
+Pune,Baner,Residential,38500000,Semi-Furnished,3,4,"Connected,Individual",0,0,0,1,1721.0,Maharashtra,Carpet Area
+Pune,Dhayari,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,1,290.0,Maharashtra,Built-up Area
+Pune,Kiwale,Residential,8900000,Unfurnished,3,2,Connected,1,0,0,3,1014.0,Maharashtra,Carpet Area
+Pune,Pimple Nilakh,Residential,9500000,Unfurnished,2,2,Room-attached,0,0,1,2,854.0,Maharashtra,Built-up Area
+Pune,Kalyani Nagar,Residential,19500000,Semi-Furnished,3,4,Individual,0,0,0,2,1800.0,Maharashtra,Built-up Area
+Pune,Mohammadwadi,Residential,24000000,Unfurnished,3,3,Connected,1,1,0,1,2600.0,Maharashtra,Built-up Area
+Pune,Kondhwa,Residential,8500000,Unfurnished,2,2,Connected,1,0,0,1,1150.0,Maharashtra,Built-up Area
+Pune,Dhanori,Residential,5300000,Unfurnished,2,2,Individual,0,0,0,2,750.0,Maharashtra,Built-up Area
+Pune,Wanowrie,Residential,11800000,Unfurnished,2,2,Connected,1,0,0,1,1350.0,Maharashtra,Built-up Area
+Pune,Kiwale,Residential,7600000,Unfurnished,2,1,Connected,0,0,0,1,796.0,Maharashtra,Carpet Area
+Pune,Ravet,Residential,9900000,Unfurnished,2,2,Connected,0,0,0,3,905.0,Maharashtra,Carpet Area
+Pune,Kharadi,Residential,17500000,Semi-Furnished,3,3,Individual,0,0,0,2,1200.0,Maharashtra,Carpet Area
+Pune,Baner,Residential,48500000,Semi-Furnished,3,4,Individual,0,0,0,2,1968.0,Maharashtra,Carpet Area
+Pune,Kondhwa,Residential,12500000,Unfurnished,3,3,Connected,1,0,0,1,1500.0,Maharashtra,Built-up Area
+Pune,Dhayari,Residential,6500000,Unfurnished,2,2,Connected,0,0,0,1,875.0,Maharashtra,Built-up Area
+Pune,Hadapsar,Residential,15000000,Furnished,2,2,Connected,0,0,0,0,1200.0,Maharashtra,Saleable Area
+Pune,Gahunje,Residential,18500000,Furnished,3,3,Connected,0,0,0,0,1420.0,Maharashtra,Carpet Area
+Pune,Pisoli,Residential,5200000,Furnished,2,2,Connected,0,0,0,1,1097.0,Maharashtra,Saleable Area
+Pune,Kondhwa,Residential,14500000,Unfurnished,3,3,Room-attached,0,0,1,1,1800.0,Maharashtra,Built-up Area
+Pune,Dhayari,Residential,13500000,Semi-Furnished,2,1,Connected,0,0,0,1,314.0,Maharashtra,Carpet Area
+Pune,Wagholi,Residential,6000000,Semi-Furnished,2,2,Connected,0,0,0,1,1060.0,Maharashtra,Saleable Area
+Pune,Balewadi,Commercial,0,Semi-Furnished,0,0,No Balcony,0,0,0,3,640.0,Maharashtra,Carpet Area
+Pune,Hinjewadi,Residential,5500000,Semi-Furnished,1,1,Room-attached,0,0,0,2,810.0,Maharashtra,Built-up Area
+Pune,Pimpri,Residential,7500000,Unfurnished,2,2,"Individual,Room-attached",1,1,1,2,1150.0,Maharashtra,Built-up Area
+Pune,Wakad,Residential,10500000,Semi-Furnished,2,2,Connected,0,0,0,1,750.0,Maharashtra,Carpet Area
+Pune,Pune Airport,Residential,8000000,Unfurnished,3,2,Connected,0,0,0,3,1400.0,Maharashtra,Built-up Area
+Pune,Mundhwa,Residential,7000000,Unfurnished,3,2,Connected,1,0,1,3,993.0,Maharashtra,Carpet Area
+Pune,Kondhwa,Residential,13000000,Furnished,2,2,"Connected,Individual,Room-attached",0,0,0,3,1655.0,Maharashtra,Saleable Area
+Pune,Mohammadwadi,Residential,6500000,Unfurnished,2,2,"Connected,Individual,Room-attached",1,1,1,2,801.0,Maharashtra,Carpet Area
+Pune,Kiwale,Residential,6747000,Unfurnished,2,2,Connected,1,1,1,2,753.0,Maharashtra,Carpet Area
+Pune,Wakad,Residential,8300000,Furnished,2,2,Connected,0,0,0,2,798.0,Maharashtra,Carpet Area
+Pune,Hadapsar,Residential,5550000,Semi-Furnished,2,2,"Connected,Individual,Room-attached",0,0,0,1,1060.0,Maharashtra,Saleable Area
+Pune,Wagholi,Residential,6600000,Semi-Furnished,2,2,Connected,0,0,0,1,1250.0,Maharashtra,Built-up Area
+Pune,Punawale,Residential,4400000,Semi-Furnished,1,2,Connected,0,0,0,4,440.0,Maharashtra,Saleable Area
+Pune,Nanded,Residential,8600000,Unfurnished,2,2,"Connected,Room-attached",1,1,1,1,705.0,Maharashtra,Built-up Area
+Pune,Wagholi,Residential,5500000,Semi-Furnished,2,2,Connected,0,0,0,0,1250.0,Maharashtra,Built-up Area
+Pune,Dhanori,Residential,6800000,Unfurnished,2,2,Connected,1,1,1,2,782.0,Maharashtra,Carpet Area
+Pune,Wagholi,Residential,4500000,Semi-Furnished,2,2,Individual,0,0,0,3,962.0,Maharashtra,Built-up Area
+Pune,Undri,Residential,210000000,Furnished,3,2,Connected,0,0,0,0,2100.0,Maharashtra,Built-up Area
+Pune,Ravet,Residential,9000000,Unfurnished,2,2,Connected,1,1,0,3,818.0,Maharashtra,Carpet Area
+Pune,Kondhwa,Residential,9000000,Semi-Furnished,2,2,Connected,0,0,0,2,1350.0,Maharashtra,Built-up Area
+Pune,Kothrud,Residential,42000000,Semi-Furnished,3,4,"Connected,Individual",0,0,0,1,1680.0,Maharashtra,Carpet Area
+Pune,Dhanori,Residential,6500000,Unfurnished,2,2,Individual,1,0,1,1,770.0,Maharashtra,Carpet Area
+Pune,Thergaon,Residential,4400000,Unfurnished,1,2,Connected,0,0,0,1,446.0,Maharashtra,Built-up Area
+Pune,Pisoli,Residential,4600000,Semi-Furnished,2,2,Connected,0,0,0,0,1070.0,Maharashtra,Built-up Area
+Pune,Tadiwala Road,Residential,5400000,Unfurnished,2,1,"Individual,Room-attached",1,1,1,1,420.0,Maharashtra,Carpet Area
+Pune,Baner,Residential,22000000,Semi-Furnished,2,4,Individual,0,0,0,3,1600.0,Maharashtra,Built-up Area
+Pune,Maan,Residential,4200000,Furnished,1,1,Connected,0,0,0,1,650.0,Maharashtra,Built-up Area
+Pune,Pimpri Chinchwad Pcmc,Residential,6500000,Semi-Furnished,2,2,Connected,0,0,0,1,850.0,Maharashtra,Saleable Area
+Pune,Mohammadwadi,Residential,9000000,Unfurnished,2,2,"Individual,Room-attached",1,1,1,2,881.0,Maharashtra,Carpet Area
+Pune,Kondhwa,Residential,9500000,Unfurnished,2,2,"Individual,Room-attached",1,1,1,2,1049.0,Maharashtra,Saleable Area
+Pune,Ambegaon Budruk,Residential,5500000,Unfurnished,2,2,Connected,1,1,1,1,1001.0,Maharashtra,Saleable Area
+Pune,Vishrantwadi,Residential,6500000,Furnished,2,2,Connected,0,0,0,1,893.0,Maharashtra,Built-up Area
+Pune,Pimpri,Residential,8856000,Unfurnished,2,2,Connected,0,0,0,0,1107.0,Maharashtra,Built-up Area
+Pune,Shirgaon,Residential,8700000,Semi-Furnished,3,3,Room-attached,0,0,0,3,947.0,Maharashtra,Carpet Area
+Pune,Viman Nagar,Residential,110000000,Semi-Furnished,6,2,"Connected,Individual",0,0,0,12,15000.0,Maharashtra,Built-up Area
+Pune,Kamgar Putala Vasahat,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,1,360.0,Maharashtra,Built-up Area
+Pune,Hinjewadi,Residential,7500000,Unfurnished,2,1,Connected,1,1,1,2,750.0,Maharashtra,Built-up Area
+Pune,Hadapsar,Residential,5600000,Semi-Furnished,2,2,"Connected,Individual,Room-attached",0,0,0,1,854.0,Maharashtra,Saleable Area
+Pune,State Bank Nagar,Residential,6800000,Unfurnished,2,2,"Connected,Room-attached",1,1,1,1,972.0,Maharashtra,Built-up Area
+Pune,Wadki,Residential,5800000,Semi-Furnished,2,2,Connected,0,0,0,0,554.0,Maharashtra,Carpet Area
+Pune,Ravet,Residential,9000000,Semi-Furnished,2,2,Connected,0,0,0,0,900.0,Maharashtra,Carpet Area
+Pune,Tingre Nagar,Residential,8800000,Semi-Furnished,3,2,Connected,0,0,0,1,963.0,Maharashtra,Built-up Area
+Pune,Gahunje,Residential,18500000,Furnished,3,3,Connected,0,0,0,0,1400.0,Maharashtra,Carpet Area
+Pune,Undri,Residential,5000000,Unfurnished,2,2,"Connected,Individual,Room-attached",1,1,1,1,950.0,Maharashtra,Saleable Area
+Pune,Kharadi,Residential,18500000,Unfurnished,2,3,Room-attached,0,1,1,1,1203.0,Maharashtra,Carpet Area
+Pune,Bibwewadi,Residential,31500000,Unfurnished,3,3,Connected,1,1,1,1,1335.0,Maharashtra,Carpet Area
+Pune,Mamurdi,Residential,4200000,Unfurnished,2,2,Connected,0,0,0,0,500.0,Maharashtra,Built-up Area
+Pune,Baner,Residential,117500000,Unfurnished,4,5,"Connected,Individual",1,1,1,3,4431.0,Maharashtra,Carpet Area
+Pune,Viman Nagar,Residential,17500000,Semi-Furnished,3,3,Individual,0,0,0,1,1270.0,Maharashtra,Carpet Area
+Pune,Aundh,Residential,17000000,Unfurnished,3,3,"Connected,Individual,Room-attached",1,0,1,2,1500.0,Maharashtra,Built-up Area
+Pune,Kondhwa,Residential,5900000,Semi-Furnished,2,2,Individual,0,0,0,2,1100.0,Maharashtra,Saleable Area
+Pune,Mohammadwadi,Residential,11500000,Furnished,2,3,"Individual,Room-attached",0,0,0,3,1480.0,Maharashtra,Saleable Area
+Pune,Kondhwa,Residential,4300000,Unfurnished,1,1,"Individual,Room-attached",0,0,0,2,555.0,Maharashtra,Built-up Area
+Pune,Kiwale,Residential,7000000,Unfurnished,2,2,Connected,1,0,1,2,749.0,Maharashtra,Carpet Area
+Pune,Pune Airport,Residential,9000000,Unfurnished,4,2,Connected,0,0,0,2,1100.0,Maharashtra,Built-up Area
+Pune,Mundhwa,Residential,8000000,Unfurnished,3,2,Room-attached,1,0,1,3,978.0,Maharashtra,Carpet Area
+Pune,Kharadi,Residential,32500000,Semi-Furnished,4,5,Individual,0,0,0,2,2286.0,Maharashtra,Carpet Area
+Pune,Nibm Annexe,Residential,7700000,Furnished,2,2,"Individual,Room-attached",0,0,0,3,1240.0,Maharashtra,Built-up Area
+Pune,Kondhwa,Residential,7000000,Unfurnished,2,2,Individual,0,0,0,2,1250.0,Maharashtra,Built-up Area
+Pune,Dhanori,Residential,6000000,Unfurnished,2,2,Individual,0,0,0,2,1044.0,Maharashtra,Built-up Area
+Pune,Dhanori,Residential,7600000,Semi-Furnished,2,2,Connected,0,0,0,1,1063.0,Maharashtra,Carpet Area
+Pune,Pimple Saudagar,Residential,8800000,Unfurnished,2,2,Connected,1,1,1,1,744.0,Maharashtra,Carpet Area
+Pune,Mohammadwadi,Residential,6300000,Unfurnished,2,2,"Individual,Room-attached",1,0,1,2,869.0,Maharashtra,Carpet Area
+Pune,Kiwale,Residential,8729000,Unfurnished,3,1,Connected,0,0,0,1,958.0,Maharashtra,Carpet Area
+Pune,Balewadi,Residential,6100000,Semi-Furnished,1,1,Connected,0,0,0,1,495.0,Maharashtra,Carpet Area
+Pune,Koregaon Park,Residential,43200000,Semi-Furnished,4,5,Individual,0,0,0,2,2500.0,Maharashtra,Carpet Area
+Pune,Pune Airport,Residential,8000000,Unfurnished,4,2,Connected,0,0,1,2,1200.0,Maharashtra,Built-up Area
+Pune,Wadmukhwadi,Residential,4700000,Unfurnished,2,2,Connected,0,1,1,1,666.0,Maharashtra,Carpet Area
+Pune,Hadapsar,Residential,4800000,Semi-Furnished,2,2,"Connected,Individual,Room-attached",0,0,0,1,950.0,Maharashtra,Saleable Area
+Pune,Wanowrie,Residential,7800000,Unfurnished,2,2,Individual,0,0,0,2,1100.0,Maharashtra,Built-up Area
+Pune,Vishrantwadi,Residential,6500000,Semi-Furnished,2,2,Room-attached,0,0,0,1,893.0,Maharashtra,Carpet Area
+Pune,Pimpri,Residential,6300000,Semi-Furnished,2,2,"Connected,Room-attached",0,0,0,3,810.0,Maharashtra,Built-up Area
+Pune,Ravet,Residential,9700000,Semi-Furnished,2,2,Individual,0,0,0,5,834.0,Maharashtra,Saleable Area
+Pune,Nibm Annexe,Residential,7800000,Semi-Furnished,2,2,"Individual,Room-attached",0,0,0,3,1250.0,Maharashtra,Built-up Area
+Pune,Kharadi,Residential,27000000,Unfurnished,3,3,"Connected,Individual,Room-attached",1,1,1,1,2175.0,Maharashtra,Built-up Area
+Pune,Bavdhan,Residential,7400000,Semi-Furnished,2,2,Connected,0,0,0,1,1335.0,Maharashtra,Saleable Area
+Pune,Kothrud,Residential,15000000,Semi-Furnished,2,3,Individual,0,0,0,4,729.0,Maharashtra,Carpet Area
+Pune,Sinhagad Road,Residential,11500000,Unfurnished,2,2,Connected,1,1,1,1,1158.0,Maharashtra,Saleable Area
+Pune,Wagholi,Residential,2700000,Semi-Furnished,1,1,Connected,0,0,0,1,500.0,Maharashtra,Built-up Area
+Pune,Pimple Saudagar,Residential,10500000,Unfurnished,3,3,Connected,0,0,0,0,1150.0,Maharashtra,Carpet Area
+Pune,Pune Airport,Residential,8000000,Unfurnished,3,2,Connected,1,0,0,3,1200.0,Maharashtra,Built-up Area
+Pune,Pune Sholapur Road,Residential,13266464,Semi-Furnished,1,1,Connected,0,0,0,2,360.0,Maharashtra,Built-up Area
+Pune,Undri,Residential,4500000,Semi-Furnished,2,2,Individual,0,0,0,1,532.0,Maharashtra,Carpet Area
+Pune,Undri,Residential,9000000,Unfurnished,3,3,Connected,1,1,1,1,1300.0,Maharashtra,Built-up Area
+Pune,Moshi,Residential,5700000,Unfurnished,2,2,Room-attached,1,1,1,1,733.0,Maharashtra,Carpet Area
+Pune,Kondhwa,Residential,6950000,Furnished,2,2,Connected,0,0,0,2,1164.0,Maharashtra,Carpet Area
+Pune,Ghorpadi,Residential,15800000,Unfurnished,3,3,Connected,1,1,1,1,1750.0,Maharashtra,Built-up Area
+Pune,Karve Nagar,Residential,18000000,Unfurnished,3,4,"Connected,Individual,Room-attached",0,1,0,3,1120.0,Maharashtra,Carpet Area
+Pune,Kondhwa,Residential,4800000,Semi-Furnished,1,1,Connected,0,0,0,1,700.0,Maharashtra,Built-up Area
+Pune,Dhanori,Residential,5500000,Unfurnished,2,2,Individual,0,0,0,1,970.0,Maharashtra,Built-up Area
+Pune,Thergaon,Residential,6300000,Unfurnished,2,2,Connected,1,0,1,1,926.0,Maharashtra,Built-up Area
+Pune,Bavdhan,Residential,11500000,Semi-Furnished,2,2,Connected,0,0,0,1,1250.0,Maharashtra,Built-up Area
+Pune,Kondhwa,Residential,4100000,Furnished,1,1,"Connected,Room-attached",0,0,0,2,565.0,Maharashtra,Built-up Area
+Pune,Jagtap Dairy,Residential,5000000,Furnished,1,2,Connected,0,0,0,0,470.0,Maharashtra,Carpet Area
+Pune,Balewadi,Residential,12000000,Unfurnished,2,2,Connected,0,0,1,0,895.0,Maharashtra,Carpet Area
+Pune,Shirgaon,Residential,6300000,Semi-Furnished,2,2,Room-attached,0,0,0,3,690.0,Maharashtra,Carpet Area
+Pune,Handewadi,Residential,3200000,Unfurnished,1,1,Individual,0,0,1,1,605.0,Maharashtra,Built-up Area
+Pune,Rahatani,Residential,8400000,Unfurnished,2,2,"Individual,Room-attached",1,0,1,1,793.0,Maharashtra,Carpet Area
+Pune,Balewadi,Residential,21000000,Unfurnished,3,3,"Connected,Room-attached",0,1,0,3,1400.0,Maharashtra,Built-up Area
+Pune,Khadakwasla,Residential,1700000,Semi-Furnished,1,1,Connected,0,0,0,1,550.0,Maharashtra,Built-up Area
+Pune,Pimple Saudagar,Residential,8500000,Unfurnished,2,2,Connected,1,1,1,0,772.0,Maharashtra,Carpet Area
+Pune,Kothrud,Residential,15000000,Semi-Furnished,2,3,Individual,0,0,0,4,839.0,Maharashtra,Carpet Area
+Pune,Wakad,Residential,4200000,Unfurnished,2,1,Connected,0,0,1,1,485.0,Maharashtra,Carpet Area
+Pune,Hinjewadi,Residential,7000000,Unfurnished,2,2,Connected,0,0,0,0,698.0,Maharashtra,Carpet Area
+Pune,Kondhwa,Residential,15000000,Unfurnished,3,3,Connected,1,1,1,1,2400.0,Maharashtra,Built-up Area
+Pune,Baner,Residential,22500000,Unfurnished,3,3,"Connected,Individual",1,1,1,2,1407.0,Maharashtra,Carpet Area
+Pune,Moshi,Residential,6700000,Furnished,3,2,Connected,0,0,0,0,928.0,Maharashtra,Carpet Area
+Pune,Satara Road,Commercial,0,Unfurnished,0,0,Connected,0,0,0,2,1475.0,Maharashtra,Carpet Area
+Pune,Sinhagad Road,Residential,7500000,Unfurnished,2,2,"Connected,Room-attached",1,1,1,1,938.0,Maharashtra,Built-up Area
+Pune,State Bank Nagar,Residential,7000000,Unfurnished,2,2,"Connected,Room-attached",0,1,1,1,972.0,Maharashtra,Built-up Area
+Pune,Hinjewadi,Residential,22000000,Semi-Furnished,3,4,Individual,0,0,0,2,1388.0,Maharashtra,Carpet Area
+Pune,Pune Airport,Residential,6000000,Unfurnished,3,2,Connected,1,1,1,3,1200.0,Maharashtra,Built-up Area
+Pune,Hinjewadi,Residential,7600000,Furnished,2,2,Connected,0,0,0,2,722.0,Maharashtra,Carpet Area
+Pune,Ravet,Residential,6800000,Furnished,2,2,Connected,0,0,0,0,740.0,Maharashtra,Carpet Area
+Pune,Mundhwa,Residential,19500000,Semi-Furnished,3,3,Connected,0,1,1,1,1138.0,Maharashtra,Carpet Area
+Pune,Moshi,Residential,6700000,Furnished,3,2,Connected,0,0,0,0,916.0,Maharashtra,Carpet Area
+Pune,Pimple Saudagar,Residential,13500000,Semi-Furnished,2,2,Connected,0,0,0,1,1068.0,Maharashtra,Carpet Area
+Pune,Kothrud,Residential,15000000,Semi-Furnished,2,3,Individual,0,0,0,4,778.0,Maharashtra,Carpet Area
+Pune,Pimple Saudagar,Residential,6700000,Unfurnished,2,2,Connected,1,0,1,1,800.0,Maharashtra,Carpet Area
+Pune,Mundhwa,Residential,11500000,Furnished,2,2,Connected,0,0,0,1,1400.0,Maharashtra,Built-up Area
+Pune,Kothrud,Residential,12900000,Unfurnished,2,2,"Connected,Room-attached",1,1,1,1,1260.0,Maharashtra,Built-up Area
+Pune,Baner,Residential,20000000,Unfurnished,3,2,Connected,1,1,1,1,2042.0,Maharashtra,Carpet Area
+Pune,Pisoli,Residential,4500000,Unfurnished,2,2,Room-attached,1,1,1,2,794.0,Maharashtra,Carpet Area
+Pune,Kothrud,Residential,13500000,Unfurnished,2,2,Connected,1,1,1,2,844.0,Maharashtra,Carpet Area
+Pune,Shirgaon,Residential,6200000,Semi-Furnished,2,2,Room-attached,0,0,0,3,698.0,Maharashtra,Carpet Area
+Pune,Deccan Gymkhana,Residential,16000000,Unfurnished,2,2,Connected,0,0,0,1,1060.0,Maharashtra,Built-up Area
+Pune,Undri,Residential,9500000,Semi-Furnished,2,2,Connected,0,0,0,1,923.0,Maharashtra,Carpet Area
+Pune,Uruli Devachi,Residential,3000000,Semi-Furnished,2,1,Individual,0,0,0,1,496.0,Maharashtra,Carpet Area
+Pune,Nanded,Residential,8200000,Unfurnished,2,2,Connected,0,0,0,2,973.0,Maharashtra,Saleable Area
+Pune,Handewadi,Residential,5600000,Semi-Furnished,2,2,"Connected,Individual,Room-attached",0,0,0,1,624.0,Maharashtra,Carpet Area
+Pune,Kharadi,Residential,18400000,Unfurnished,2,3,Room-attached,0,1,1,1,1203.0,Maharashtra,Carpet Area
+Pune,Hinjewadi,Residential,4300000,Semi-Furnished,2,2,Connected,0,0,0,0,550.0,Maharashtra,Built-up Area
+Pune,Wakad,Residential,16000000,Unfurnished,3,3,Connected,1,1,1,1,1000.0,Maharashtra,Carpet Area
+Pune,Dhanori,Residential,7500000,Semi-Furnished,2,2,Connected,0,0,0,1,1063.0,Maharashtra,Built-up Area
+Pune,Thergaon,Residential,4000000,Unfurnished,1,2,Connected,1,0,1,1,629.0,Maharashtra,Built-up Area
+Pune,Hinjewadi,Residential,13266464,Semi-Furnished,6,6,"Connected,Individual",0,0,0,3,1942.0,Maharashtra,Carpet Area
+Pune,Ravet,Residential,9900000,Semi-Furnished,2,2,Connected,0,0,0,0,580.0,Maharashtra,Carpet Area
+Pune,Vadgaon Maval,Residential,9200000,Unfurnished,2,3,Connected,1,1,1,1,1396.0,Maharashtra,Carpet Area
+Pune,Shirgaon,Residential,6200000,Semi-Furnished,2,2,Room-attached,0,0,0,2,688.0,Maharashtra,Carpet Area
+Pune,Wagholi,Residential,2800000,Semi-Furnished,1,1,Connected,0,0,0,1,550.0,Maharashtra,Built-up Area
+Pune,Thergaon,Residential,4800000,Unfurnished,1,2,Connected,1,0,1,1,680.0,Maharashtra,Built-up Area
+Pune,Aundh,Residential,19500000,Semi-Furnished,3,3,Connected,0,0,0,1,1450.0,Maharashtra,Saleable Area
+Pune,Baramati,Residential,4000000,Semi-Furnished,2,2,Connected,0,0,0,0,849.0,Maharashtra,Carpet Area
+Pune,Wakad,Residential,8400000,Unfurnished,2,2,Individual,1,0,1,2,787.0,Maharashtra,Carpet Area
+Pune,Uruli Kanchan,Residential,4600000,Unfurnished,2,2,Connected,1,0,1,0,11000.0,Maharashtra,Plot Area
+Pune,Wagholi,Residential,2800000,Semi-Furnished,2,1,Connected,0,0,0,1,506.0,Maharashtra,Carpet Area
+Pune,Wanowrie,Residential,8500000,Semi-Furnished,2,2,Individual,0,0,0,2,1000.0,Maharashtra,Saleable Area
+Pune,Maan,Residential,7700000,Unfurnished,2,2,Connected,1,1,1,2,735.0,Maharashtra,Carpet Area
+Pune,Hadapsar,Residential,6000000,Semi-Furnished,2,2,Connected,0,0,0,0,757.0,Maharashtra,Carpet Area
+Pune,Sahakar Nagar,Residential,16000000,Semi-Furnished,2,2,Connected,0,0,0,2,850.0,Maharashtra,Carpet Area
+Pune,Thergaon,Residential,6500000,Unfurnished,2,2,Connected,1,0,1,1,880.0,Maharashtra,Built-up Area
+Pune,Kothrud,Residential,15000000,Semi-Furnished,2,3,Individual,0,0,0,4,823.0,Maharashtra,Carpet Area
+Pune,Mundhwa,Residential,7000000,Semi-Furnished,2,2,Connected,1,1,0,1,750.0,Maharashtra,Built-up Area
+Pune,Punawale,Residential,8743000,Unfurnished,2,2,Connected,1,0,0,2,789.0,Maharashtra,Carpet Area
+Pune,Manjari,Residential,11000000,Unfurnished,3,2,Connected,0,0,0,0,952.0,Maharashtra,Carpet Area
+Pune,Thergaon,Residential,7000000,Unfurnished,2,2,Connected,1,0,1,1,883.0,Maharashtra,Built-up Area
+Pune,Kothrud,Residential,13600000,Unfurnished,2,2,"Connected,Room-attached",1,1,1,1,959.0,Maharashtra,Carpet Area
+Pune,Pimple Saudagar,Residential,8500000,Unfurnished,2,2,Connected,0,0,1,1,730.0,Maharashtra,Carpet Area
+Pune,Kharadi,Residential,16000000,Furnished,2,2,Connected,0,0,0,0,1445.0,Maharashtra,Built-up Area
+Pune,Keshav Nagar,Residential,20000000,Semi-Furnished,3,3,Connected,1,1,1,1,1250.0,Maharashtra,Carpet Area
+Pune,Dighi,Residential,4000000,Unfurnished,2,2,Connected,0,0,0,1,850.0,Maharashtra,Carpet Area
+Pune,Mulshi,Residential,2700000,Unfurnished,2,2,Connected,0,0,0,0,1100.0,Maharashtra,Plot Area
+Pune,Moshi,Residential,6700000,Furnished,3,2,Connected,0,0,0,0,918.0,Maharashtra,Carpet Area
+Pune,Nanded,Residential,13000000,Unfurnished,3,3,"Connected,Room-attached",1,1,1,1,1558.0,Maharashtra,Built-up Area
+Pune,Pune Airport,Residential,5000000,Unfurnished,3,2,Connected,1,0,1,1,1100.0,Maharashtra,Built-up Area
+Pune,Ambegaon Budruk,Residential,36000000,Unfurnished,1,1,Connected,0,0,0,2,563.0,Maharashtra,Built-up Area
+Pune,Kothrud,Residential,34800000,Unfurnished,4,4,Individual,0,0,0,6,1986.0,Maharashtra,Carpet Area
+Pune,Hinjewadi,Residential,6900000,Unfurnished,1,2,Connected,1,1,1,0,658.0,Maharashtra,Carpet Area
+Pune,Hadapsar,Residential,12400000,Semi-Furnished,1,1,Individual,0,0,0,1,749.0,Maharashtra,Carpet Area
+Pune,Undri,Residential,900000,Unfurnished,2,2,Connected,1,1,1,1,923.0,Maharashtra,Carpet Area
+Pune,Thergaon,Residential,4000000,Unfurnished,1,2,Connected,0,0,0,1,621.0,Maharashtra,Built-up Area
+Pune,Keshav Nagar,Residential,9200000,Furnished,2,2,Connected,1,1,1,1,1280.0,Maharashtra,Saleable Area
+Pune,Dhanori,Residential,7200000,Semi-Furnished,2,2,Connected,0,0,0,2,765.0,Maharashtra,Carpet Area
+Pune,Dhanori,Residential,7900000,Semi-Furnished,3,3,Connected,0,0,0,2,1000.0,Maharashtra,Carpet Area
+Pune,Mundhwa,Residential,20000000,Unfurnished,3,3,Connected,0,0,0,1,1400.0,Maharashtra,Carpet Area
+Pune,Tathawade,Residential,6900000,Unfurnished,2,2,Individual,1,1,1,2,679.0,Maharashtra,Carpet Area
+Pune,Kharadi,Residential,16000000,Furnished,2,2,Connected,0,0,0,0,1450.0,Maharashtra,Built-up Area
+Pune,Sadashiv Peth,Residential,18600000,Unfurnished,2,2,Connected,1,1,1,2,855.0,Maharashtra,Carpet Area
+Pune,Pune Airport,Residential,8000000,Unfurnished,3,1,Connected,0,0,1,1,1000.0,Maharashtra,Built-up Area
+Pune,Yerawada,Residential,12500000,Unfurnished,2,2,Connected,1,1,1,1,1100.0,Maharashtra,Built-up Area
+Pune,Gahunje,Residential,30000000,Furnished,4,3,Connected,0,0,0,0,2130.0,Maharashtra,Carpet Area
+Pune,Kharadi,Residential,20000000,Semi-Furnished,2,2,Connected,1,1,1,1,1300.0,Maharashtra,Built-up Area
+Pune,Hinjewadi,Residential,2500000,Semi-Furnished,2,2,Connected,0,0,0,0,1250.0,Maharashtra,Built-up Area
+Pune,Mohammadwadi,Residential,5200000,Unfurnished,2,2,"Individual,Room-attached",1,1,1,1,1050.0,Maharashtra,Carpet Area
+Pune,Kiwale,Residential,9200000,Unfurnished,3,3,Individual,1,1,1,2,958.0,Maharashtra,Carpet Area
+Pune,Tingre Nagar,Residential,5700000,Semi-Furnished,2,2,Connected,0,0,0,1,890.0,Maharashtra,Built-up Area
+Pune,Pune Airport,Residential,900000,Semi-Furnished,1,1,Connected,0,0,0,1,550.0,Maharashtra,Built-up Area
+Pune,Pimple Saudagar,Residential,8500000,Semi-Furnished,2,2,Connected,0,0,0,1,800.0,Maharashtra,Carpet Area
+Pune,Fatima Nagar,Residential,8500000,Furnished,2,2,Connected,0,0,0,0,1145.0,Maharashtra,Built-up Area
+Pune,Wakad,Residential,5100000,Unfurnished,1,1,Connected,0,0,0,1,690.0,Maharashtra,Built-up Area
+Pune,Ravet,Residential,5800000,Furnished,2,2,Connected,0,0,0,0,560.0,Maharashtra,Carpet Area
+Pune,Charholi Budruk,Residential,7000000,Furnished,2,2,Connected,0,0,0,1,850.0,Maharashtra,Built-up Area
+Pune,Nibm Road,Residential,10500000,Unfurnished,2,2,Connected,1,0,1,1,811.0,Maharashtra,Carpet Area
+Pune,Maan,Residential,8300000,Unfurnished,2,2,Individual,0,1,1,2,761.0,Maharashtra,Carpet Area
+Pune,Maan,Residential,17300000,Unfurnished,3,3,Individual,1,1,1,3,1650.0,Maharashtra,Carpet Area
+Pune,Nanded,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,1,350.0,Maharashtra,Carpet Area
+Pune,Mukund Nagar,Residential,30000000,Unfurnished,3,3,Connected,0,0,0,0,1350.0,Maharashtra,Carpet Area
+Pune,Marunji,Residential,15000000,Semi-Furnished,2,1,Connected,0,0,0,1,442.0,Maharashtra,Saleable Area
+Pune,Kothrud,Residential,21500000,Unfurnished,3,3,Room-attached,0,0,1,1,1550.0,Maharashtra,Built-up Area
+Pune,Shirgaon,Residential,7600000,Semi-Furnished,3,3,Connected,0,0,0,0,840.0,Maharashtra,Carpet Area
+Pune,Dhanori,Residential,5200000,Semi-Furnished,1,2,Individual,0,0,0,1,687.0,Maharashtra,Saleable Area
+Pune,Kamgar Putala Vasahat,Residential,27500000,Unfurnished,3,3,Room-attached,0,0,0,1,1660.0,Maharashtra,Carpet Area
+Pune,Dhanori,Residential,4200000,Unfurnished,1,2,Individual,1,1,1,2,525.0,Maharashtra,Carpet Area
+Pune,Kothrud,Residential,9800000,Unfurnished,1,2,Connected,0,0,0,1,510.0,Maharashtra,Carpet Area
+Pune,Gahunje,Residential,13000000,Furnished,2,2,Connected,0,0,0,0,1230.0,Maharashtra,Carpet Area
+Pune,Pimpri,Residential,9800000,Semi-Furnished,2,2,"Connected,Room-attached",0,0,0,3,776.0,Maharashtra,Built-up Area
+Pune,Baner,Residential,11000000,Unfurnished,2,2,Individual,1,1,1,1,838.0,Maharashtra,Carpet Area
+Pune,Nibm Road,Residential,5600000,Semi-Furnished,1,1,"Connected,Individual",0,0,0,1,920.0,Maharashtra,Built-up Area
+Pune,Hadapsar,Residential,3300000,Unfurnished,1,1,"Connected,Individual,Room-attached",0,1,1,2,409.0,Maharashtra,Carpet Area
+Pune,Dehu Road,Residential,4000000,Furnished,1,1,Connected,0,0,0,0,900.0,Maharashtra,Built-up Area
+Pune,Wakad,Residential,4200000,Unfurnished,1,2,Connected,1,0,1,1,642.0,Maharashtra,Built-up Area
+Pune,Kharadi,Residential,17000000,Unfurnished,3,3,Connected,1,1,1,1,842.0,Maharashtra,Carpet Area
+Pune,Wakad,Residential,8500000,Unfurnished,2,2,Individual,1,0,1,2,798.0,Maharashtra,Carpet Area
+Pune,Viman Nagar,Residential,23700000,Semi-Furnished,3,3,Individual,0,0,0,2,1412.0,Maharashtra,Built-up Area
+Pune,Mulshi,Residential,4900000,Unfurnished,2,2,Connected,1,0,0,0,107639.0,Maharashtra,Plot Area
+Pune,Wagholi,Residential,8500000,Semi-Furnished,2,2,Connected,0,0,0,1,732.0,Maharashtra,Carpet Area
+Pune,Dhanori,Residential,5400000,Semi-Furnished,2,2,Connected,0,0,0,1,930.0,Maharashtra,Built-up Area
+Pune,Pimple Saudagar,Residential,8600000,Semi-Furnished,2,2,Room-attached,0,0,0,1,800.0,Maharashtra,Carpet Area
+Pune,Hinjewadi,Residential,7200000,Unfurnished,2,2,Connected,1,1,1,2,660.0,Maharashtra,Built-up Area
+Pune,Kothrud,Residential,23300000,Unfurnished,3,3,"Connected,Individual,Room-attached",1,1,1,2,1518.0,Maharashtra,Carpet Area
+Pune,Dhanori,Residential,3200000,Unfurnished,2,1,Individual,0,0,1,1,610.0,Maharashtra,Carpet Area
+Pune,Kothrud,Residential,40000000,Unfurnished,4,5,"Connected,Individual,Room-attached",0,0,0,4,3100.0,Maharashtra,Carpet Area
+Pune,Pimple Nilakh,Residential,8000000,Unfurnished,2,2,Connected,0,0,1,1,750.0,Maharashtra,Carpet Area
+Pune,Nibm Road,Residential,7700000,Unfurnished,2,2,Connected,0,0,0,1,720.0,Maharashtra,Carpet Area
+Pune,Pimple Gurav,Residential,7200000,Furnished,2,2,Connected,0,0,0,0,1150.0,Maharashtra,Built-up Area
+Pune,Sopan Baug,Residential,47500000,Unfurnished,4,4,Connected,1,0,0,1,3400.0,Maharashtra,Built-up Area
+Pune,Charholi Budruk,Residential,6800000,Furnished,2,2,Connected,0,0,0,1,780.0,Maharashtra,Built-up Area
+Pune,Kalyani Nagar,Residential,7500000,Semi-Furnished,2,2,Connected,0,0,0,1,1250.0,Maharashtra,Built-up Area
+Pune,Punawale,Residential,6200000,Unfurnished,2,2,Connected,0,1,1,2,680.0,Maharashtra,Carpet Area
+Pune,Viman Nagar,Residential,6000000,Semi-Furnished,1,1,Connected,0,0,0,2,600.0,Maharashtra,Built-up Area
+Pune,Hadapsar,Commercial,0,Furnished,0,0,No Balcony,0,0,0,2,350.0,Maharashtra,Built-up Area
+Pune,Kondhwa,Residential,9500000,Semi-Furnished,3,3,"Connected,Individual,Room-attached",0,0,0,2,17000.0,Maharashtra,Built-up Area
+Pune,Ravet,Residential,10000000,Semi-Furnished,2,3,Connected,0,0,0,1,1200.0,Maharashtra,Saleable Area
+Pune,Viman Nagar,Residential,9900000,Semi-Furnished,2,2,Individual,0,0,0,2,1050.0,Maharashtra,Built-up Area
+Pune,Shirgaon,Residential,8600000,Semi-Furnished,3,3,Room-attached,0,0,0,5,947.0,Maharashtra,Carpet Area
+Pune,Pimple Saudagar,Residential,8000000,Unfurnished,2,2,Connected,0,0,1,1,950.0,Maharashtra,Saleable Area
+Pune,Viman Nagar,Residential,6600000,Semi-Furnished,1,2,Individual,0,0,0,1,612.0,Maharashtra,Built-up Area
+Pune,Kothrud,Residential,23300000,Unfurnished,3,3,"Connected,Individual,Room-attached",1,1,1,2,1430.0,Maharashtra,Carpet Area
+Pune,Aundh Road,Residential,12500000,Unfurnished,2,2,Connected,0,0,0,1,1205.0,Maharashtra,Built-up Area
+Pune,Kharadi,Residential,6800000,Unfurnished,2,2,Connected,1,1,1,1,878.0,Maharashtra,Saleable Area
+Pune,Kondhwa Budruk,Residential,5000000,Semi-Furnished,2,2,Connected,0,0,0,1,1100.0,Maharashtra,Built-up Area
+Pune,Kothrud,Residential,21000000,Unfurnished,3,3,Connected,1,0,0,3,1350.0,Maharashtra,Carpet Area
+Pune,Kharadi,Residential,5200000,Unfurnished,1,1,Connected,0,0,0,0,500.0,Maharashtra,Built-up Area
+Pune,Nanded,Residential,17500000,Unfurnished,2,2,Connected,1,0,1,0,21600.0,Maharashtra,Plot Area
+Pune,Charholi Budruk,Residential,6500000,Furnished,2,2,Connected,0,0,0,1,950.0,Maharashtra,Built-up Area
+Pune,Kondhwa,Residential,11000000,Furnished,4,4,Connected,0,0,0,0,2890.0,Maharashtra,Saleable Area
+Pune,Kalyani Nagar,Residential,16500000,Semi-Furnished,3,3,Individual,0,0,0,1,1525.0,Maharashtra,Saleable Area
+Pune,Viman Nagar,Residential,13500000,Furnished,2,2,Connected,0,0,0,1,1300.0,Maharashtra,Built-up Area
+Pune,Kharadi,Residential,16000000,Furnished,2,2,Connected,0,0,0,0,1430.0,Maharashtra,Built-up Area
+Pune,Baner Bypass Highway,Residential,16000000,Unfurnished,3,2,Connected,0,0,0,1,1310.0,Maharashtra,Built-up Area
+Pune,Thergaon,Residential,4700000,Unfurnished,1,2,Connected,1,0,1,1,673.0,Maharashtra,Built-up Area
+Pune,Camp,Residential,26500000,Unfurnished,3,3,Connected,1,0,0,1,1779.0,Maharashtra,Built-up Area
+Pune,Baner,Residential,27100000,Unfurnished,3,3,Connected,0,0,0,3,3007.0,Maharashtra,Saleable Area
+Pune,Hadapsar,Residential,15500000,Semi-Furnished,2,2,Connected,0,0,0,2,1200.0,Maharashtra,Saleable Area
+Pune,Tathawade,Residential,7700000,Unfurnished,2,2,Individual,1,1,1,2,740.0,Maharashtra,Carpet Area
+Pune,Sadashiv Peth,Residential,27300000,Unfurnished,3,3,Connected,1,1,1,2,1250.0,Maharashtra,Carpet Area
+Pune,Moshi,Residential,6700000,Furnished,3,2,Connected,0,0,0,0,935.0,Maharashtra,Carpet Area
+Pune,Ambegaon Budruk,Residential,2200000,Semi-Furnished,1,1,Room-attached,0,0,0,0,325.0,Maharashtra,Built-up Area
+Pune,Pradhikaran,Residential,32000000,Unfurnished,4,5,Individual,0,1,1,2,1870.0,Maharashtra,Carpet Area
+Pune,Vishrantwadi,Residential,8700000,Unfurnished,2,2,Connected,0,0,0,2,777.0,Maharashtra,Built-up Area
+Pune,Keshav Nagar,Residential,7000000,Unfurnished,2,2,Connected,0,0,0,1,729.0,Maharashtra,Carpet Area
+Pune,Mundhwa,Residential,850000,Semi-Furnished,2,2,Connected,0,0,0,1,522.0,Maharashtra,Carpet Area
+Pune,Rahatani,Residential,7800000,Semi-Furnished,2,2,Connected,0,0,0,1,1250.0,Maharashtra,Built-up Area
+Pune,Kondhwa,Residential,10000000,Semi-Furnished,2,3,Connected,0,0,0,1,1497.0,Maharashtra,Saleable Area
+Pune,Sasewadi,Residential,4200000,Semi-Furnished,2,2,Connected,0,0,0,1,1250.0,Maharashtra,Built-up Area
+Pune,Baner Bypass Highway,Residential,6900000,Furnished,2,2,Connected,0,0,0,0,936.0,Maharashtra,Built-up Area
+Pune,Tathawade,Residential,9500000,Semi-Furnished,2,2,Connected,0,0,0,2,673.0,Maharashtra,Carpet Area
+Pune,Gahunje,Residential,30000000,Furnished,4,3,Connected,0,0,0,0,2160.0,Maharashtra,Carpet Area
+Pune,Dhanori,Residential,7600000,Semi-Furnished,2,2,Individual,0,0,0,1,1063.0,Maharashtra,Built-up Area
+Pune,Mundhwa,Residential,10500000,Semi-Furnished,2,2,Connected,0,0,0,1,1250.0,Maharashtra,Built-up Area
+Pune,Lohegaon,Residential,4600000,Unfurnished,2,2,Connected,0,0,1,0,3088.0,Maharashtra,Plot Area
+Pune,Punawale,Residential,6500000,Semi-Furnished,2,2,Connected,0,0,0,0,672.0,Maharashtra,Carpet Area
+Pune,Alandi Road,Residential,7500000,Unfurnished,2,2,Connected,1,1,1,0,1313.0,Maharashtra,Built-up Area
+Pune,Alandi Road,Residential,7500000,Unfurnished,2,2,Connected,0,0,0,0,1313.0,Maharashtra,Built-up Area
+Pune,Hadapsar,Residential,13500000,Semi-Furnished,2,2,Connected,0,0,0,2,1011.0,Maharashtra,Saleable Area
+Pune,Kharadi,Residential,20800000,Semi-Furnished,2,3,Connected,0,0,0,1,2285.0,Maharashtra,Saleable Area
+Pune,Ravet,Residential,8210000,Furnished,2,2,Connected,0,0,0,0,900.0,Maharashtra,Carpet Area
+Pune,Lohegaon,Residential,4600000,Unfurnished,2,2,Connected,0,0,1,0,3454.0,Maharashtra,Plot Area
+Pune,Shirgaon,Residential,7600000,Semi-Furnished,3,3,Connected,0,0,0,0,855.0,Maharashtra,Carpet Area
+Pune,Bavdhan,Residential,12700000,Semi-Furnished,2,2,Connected,0,0,0,1,1050.0,Maharashtra,Saleable Area
+Pune,Lulla Nagar,Residential,21500000,Unfurnished,3,3,"Connected,Individual,Room-attached",0,0,1,1,1150.0,Maharashtra,Carpet Area
+Pune,Hadapsar,Residential,12500000,Furnished,2,2,Connected,0,0,0,2,900.0,Maharashtra,Saleable Area
+Pune,Hadapsar,Residential,11200000,Semi-Furnished,2,2,Connected,0,0,0,3,840.0,Maharashtra,Saleable Area
+Pune,Bavdhan,Residential,9000000,Unfurnished,3,2,"Connected,Room-attached",1,1,1,3,1116.0,Maharashtra,Carpet Area
+Pune,Wakad,Residential,6500000,Unfurnished,2,2,Connected,1,0,1,1,785.0,Maharashtra,Built-up Area
+Pune,Wakad,Residential,7850000,Semi-Furnished,2,2,Individual,0,0,0,2,800.0,Maharashtra,Carpet Area
+Pune,Baner,Residential,10100000,Semi-Furnished,3,3,Connected,0,0,0,1,1350.0,Maharashtra,Built-up Area
+Pune,Senapati Bapat Road,Residential,4000000,Semi-Furnished,1,1,Connected,0,0,0,1,556.0,Maharashtra,Built-up Area
+Pune,Wagholi,Residential,11000000,Unfurnished,2,2,Connected,0,0,0,0,1500.0,Maharashtra,Plot Area
+Pune,Vadgaon Budruk,Residential,7500000,Semi-Furnished,2,3,Connected,0,0,0,1,776.0,Maharashtra,Saleable Area
+Pune,Kharadi,Residential,2720000,Unfurnished,2,2,Connected,0,0,0,0,800.0,Maharashtra,Plot Area
+Pune,Chovisawadi,Residential,5500000,Unfurnished,2,2,Connected,0,0,0,0,713.0,Maharashtra,Carpet Area
+Pune,Pashan,Residential,5200000,Unfurnished,2,2,Individual,0,0,0,1,850.0,Maharashtra,Built-up Area
+Pune,Bavdhan,Residential,7500000,Unfurnished,2,1,Connected,1,1,1,1,760.0,Maharashtra,Saleable Area
+Pune,Wakad,Residential,9500000,Semi-Furnished,2,2,Connected,0,0,0,0,648.0,Maharashtra,Carpet Area
+Pune,Tathawade,Residential,9600000,Semi-Furnished,2,2,Connected,0,0,0,0,607.0,Maharashtra,Carpet Area
+Pune,Shirgaon,Residential,8030000,Semi-Furnished,3,3,Room-attached,0,0,0,3,900.0,Maharashtra,Built-up Area
+Pune,Baner,Residential,5500000,Unfurnished,1,1,Connected,0,0,0,1,487.0,Maharashtra,Carpet Area
+Pune,Camp,Residential,7200000,Semi-Furnished,2,2,Connected,0,0,0,2,950.0,Maharashtra,Saleable Area
+Pune,Mahalunge,Residential,4100000,Unfurnished,2,2,Connected,1,1,1,1,480.0,Maharashtra,Built-up Area
+Pune,Bt Kawade Road,Residential,8500000,Furnished,2,2,Connected,0,0,0,0,1170.0,Maharashtra,Saleable Area
+Pune,Lohegaon,Residential,4600000,Unfurnished,2,2,Connected,0,0,1,0,3000.0,Maharashtra,Plot Area
+Pune,Pimple Saudagar,Residential,5300000,Unfurnished,1,1,Connected,0,0,0,1,506.0,Maharashtra,Carpet Area
+Pune,Nagar Road,Residential,3899000,Unfurnished,2,2,Connected,0,0,0,0,1000.0,Maharashtra,Plot Area
+Pune,Bhugaon,Residential,12300000,Unfurnished,2,2,Connected,0,0,0,0,1938.0,Maharashtra,Plot Area
+Pune,Nibm,Residential,13000000,Unfurnished,3,3,Connected,1,0,1,1,1180.0,Maharashtra,Carpet Area
+Pune,Nibm Road,Residential,7600000,Unfurnished,2,2,Connected,1,0,1,1,722.0,Maharashtra,Carpet Area
+Pune,Chinchwad,Residential,9000000,Unfurnished,3,3,Individual,0,0,0,1,1300.0,Maharashtra,Saleable Area
+Pune,Punawale,Residential,6400000,Unfurnished,2,2,Individual,0,1,1,2,719.0,Maharashtra,Carpet Area
+Pune,Viman Nagar,Commercial,0,Unfurnished,0,0,Connected,0,0,0,3,900.0,Maharashtra,Built-up Area
+Pune,Baner,Residential,16300000,Furnished,2,2,Connected,0,0,0,0,1025.0,Maharashtra,Built-up Area
+Pune,Hinjewadi,Residential,9500000,Semi-Furnished,3,3,Connected,0,0,0,2,1400.0,Maharashtra,Built-up Area
+Pune,Nagar Road,Residential,6000000,Unfurnished,2,2,Connected,0,0,0,0,800.0,Maharashtra,Plot Area
+Pune,Kiwale,Residential,10500000,Unfurnished,3,3,Individual,1,1,1,3,1096.0,Maharashtra,Carpet Area
+Pune,Dhanori,Residential,3500000,Unfurnished,1,1,Connected,0,0,0,1,650.0,Maharashtra,Built-up Area
+Pune,Wakad,Residential,13300000,Unfurnished,3,2,Individual,0,1,1,2,1118.0,Maharashtra,Carpet Area
+Pune,Undri,Commercial,0,Furnished,0,0,No Balcony,0,0,0,0,459.0,Maharashtra,Built-up Area
+Pune,Hinjewadi,Commercial,0,Furnished,0,0,No Balcony,0,0,0,1,698.0,Maharashtra,Saleable Area
+Pune,Akurdi,Residential,7000000,Unfurnished,3,2,Connected,1,0,0,3,1100.0,Maharashtra,Built-up Area
+Pune,Pimple Nilakh,Residential,6300000,Unfurnished,2,2,Connected,0,0,0,1,601.0,Maharashtra,Carpet Area
+Pune,Bibwewadi,Residential,8500000,Unfurnished,2,2,Room-attached,0,0,1,1,1000.0,Maharashtra,Built-up Area
+Pune,Dhanori,Residential,3000000,Unfurnished,1,2,Connected,0,0,0,1,550.0,Maharashtra,Built-up Area
+Pune,Shirgaon,Residential,8000000,Semi-Furnished,3,3,Room-attached,0,0,0,3,865.0,Maharashtra,Built-up Area
+Pune,Baner,Residential,12000000,Unfurnished,2,2,Connected,0,0,0,1,732.0,Maharashtra,Carpet Area
+Pune,Hadapsar,Residential,7500000,Semi-Furnished,1,1,Connected,0,0,0,2,467.0,Maharashtra,Carpet Area
+Pune,Nibm Road,Residential,13000000,Unfurnished,3,3,Connected,0,0,0,1,1179.0,Maharashtra,Carpet Area
+Pune,Pimple Saudagar,Residential,6400000,Unfurnished,1,1,Connected,0,0,0,1,600.0,Maharashtra,Carpet Area
+Pune,Thergaon,Residential,4700000,Unfurnished,1,2,Connected,0,0,0,1,683.0,Maharashtra,Built-up Area
+Pune,Bavdhan,Residential,5000000,Unfurnished,3,2,Room-attached,1,1,1,3,1271.0,Maharashtra,Carpet Area
+Pune,Kondhwa,Residential,24000000,Unfurnished,4,5,Individual,1,0,1,1,3200.0,Maharashtra,Built-up Area
+Pune,Pimple Saudagar,Residential,7100000,Unfurnished,2,2,Connected,0,0,0,1,750.0,Maharashtra,Built-up Area
+Pune,Hinjewadi,Residential,2000000,Unfurnished,1,1,Connected,0,0,0,1,540.0,Maharashtra,Built-up Area
+Pune,Lohegaon,Residential,4600000,Unfurnished,2,2,Connected,0,0,1,0,3450.0,Maharashtra,Plot Area
+Pune,Baner,Residential,16300000,Furnished,2,2,Connected,0,0,0,0,1020.0,Maharashtra,Built-up Area
+Pune,Wanwadi,Residential,3000000,Semi-Furnished,4,4,Connected,0,0,0,1,1850.0,Maharashtra,Built-up Area
+Pune,Dhanori,Commercial,0,Semi-Furnished,0,0,Connected,0,0,0,1,250.0,Maharashtra,Carpet Area
+Pune,Wagholi,Residential,1800000,Semi-Furnished,1,1,Individual,0,0,0,3,451.0,Maharashtra,Built-up Area
+Pune,Baner,Residential,12000000,Unfurnished,2,2,"Connected,Individual,Room-attached",0,1,1,1,1100.0,Maharashtra,Built-up Area
+Pune,Tathawade,Residential,7699000,Unfurnished,2,1,Individual,1,1,1,2,660.0,Maharashtra,Carpet Area
+Pune,Pimple Nilakh,Residential,4500000,Unfurnished,1,1,Connected,0,0,0,0,590.0,Maharashtra,Built-up Area
+Pune,Ambale,Residential,1200000,Unfurnished,2,2,Connected,0,0,0,0,1614.0,Maharashtra,Plot Area
+Pune,Dhanori,Residential,3000000,Unfurnished,2,1,Connected,1,1,1,1,550.0,Maharashtra,Carpet Area
+Pune,Pimple Saudagar,Residential,8500000,Furnished,2,2,Connected,0,0,0,1,1100.0,Maharashtra,Built-up Area
+Pune,Nanded,Residential,8800000,Semi-Furnished,2,2,Connected,0,0,0,1,606.0,Maharashtra,Carpet Area
+Pune,Ghorpadi,Residential,19500000,Unfurnished,4,4,Connected,0,0,0,4,1512.0,Maharashtra,Carpet Area
+Pune,Model Colony,Residential,99000000,Unfurnished,4,4,Connected,1,1,0,1,5705.0,Maharashtra,Built-up Area
+Pune,Wanwadi,Residential,10300000,Semi-Furnished,2,2,Connected,0,0,0,0,1250.0,Maharashtra,Built-up Area
+Pune,Baner,Residential,19000000,Unfurnished,3,3,Connected,0,0,0,2,1110.0,Maharashtra,Carpet Area
+Pune,Pimple Saudagar,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,4,807.0,Maharashtra,Built-up Area
+Pune,Bibwewadi,Residential,8500000,Semi-Furnished,2,2,Connected,0,0,0,0,850.0,Maharashtra,Built-up Area
+Pune,Nibm Road,Residential,7900000,Unfurnished,2,2,Connected,0,0,0,1,739.0,Maharashtra,Carpet Area
+Pune,Wakad,Residential,5000000,Semi-Furnished,1,1,Individual,0,0,0,1,560.0,Maharashtra,Carpet Area
+Pune,Shirgaon,Residential,7600000,Semi-Furnished,3,3,Connected,0,0,0,0,900.0,Maharashtra,Carpet Area
+Pune,Mundhwa,Residential,36100000,Unfurnished,2,2,Connected,0,0,0,0,5150.0,Maharashtra,Plot Area
+Pune,Baner,Residential,61000000,Furnished,4,4,Connected,0,0,0,4,2200.0,Maharashtra,Carpet Area
+Pune,Wakad,Residential,8500000,Unfurnished,2,2,Connected,0,0,1,1,750.0,Maharashtra,Carpet Area
+Pune,Hadapsar,Residential,6100000,Semi-Furnished,2,2,Connected,0,0,0,0,875.0,Maharashtra,Saleable Area
+Pune,Kad Nagar,Residential,5400000,Unfurnished,2,2,Connected,0,0,0,1,1050.0,Maharashtra,Built-up Area
+Pune,Aundh,Residential,9000000,Semi-Furnished,2,2,Connected,0,0,0,0,800.0,Maharashtra,Built-up Area
+Pune,Nibm Road,Residential,7800000,Unfurnished,2,2,Connected,0,0,0,1,727.0,Maharashtra,Carpet Area
+Pune,Raviwar Peth,Residential,4900000,Unfurnished,1,1,Connected,0,0,0,2,650.0,Maharashtra,Built-up Area
+Pune,Punawale,Residential,7000000,Semi-Furnished,2,2,Connected,0,0,0,0,568.0,Maharashtra,Carpet Area
+Pune,Wagholi,Residential,12500000,Unfurnished,2,2,Connected,0,0,1,0,2510.0,Maharashtra,Plot Area
+Pune,Kasarwadi,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,2,7000.0,Maharashtra,Built-up Area
+Pune,Balewadi,Residential,7900000,Unfurnished,2,2,Connected,0,0,0,1,858.0,Maharashtra,Built-up Area
+Pune,Dhanori,Residential,3500000,Furnished,1,1,Connected,0,0,0,1,500.0,Maharashtra,Carpet Area
+Pune,Hinjewadi,Residential,8500000,Unfurnished,2,2,Connected,1,1,1,1,715.0,Maharashtra,Carpet Area
+Pune,Phase 1,Residential,4200000,Unfurnished,1,1,Connected,0,0,0,1,550.0,Maharashtra,Built-up Area
+Pune,Sortapwadi Phata,Residential,18000000,Unfurnished,2,2,Connected,0,0,0,0,18000.0,Maharashtra,Plot Area
+Pune,Wakad,Residential,7300000,Semi-Furnished,4,2,Individual,0,0,0,1,940.0,Maharashtra,Built-up Area
+Pune,Ghorpadi,Residential,15100000,Unfurnished,3,3,Connected,1,1,1,3,1166.0,Maharashtra,Carpet Area
+Pune,Thergaon,Residential,4000000,Unfurnished,2,2,Connected,0,0,0,0,1321.0,Maharashtra,Plot Area
+Pune,Pimpri,Residential,14000000,Semi-Furnished,3,3,"Connected,Individual,Room-attached",0,0,0,2,1550.0,Maharashtra,Built-up Area
+Pune,Viman Nagar,Residential,13500000,Furnished,2,3,Individual,0,0,0,1,1300.0,Maharashtra,Built-up Area
+Pune,Undri,Residential,3600000,Unfurnished,1,1,Connected,0,0,0,0,750.0,Maharashtra,Built-up Area
+Pune,Pimple Saudagar,Residential,7500000,Unfurnished,2,2,Connected,0,0,0,1,850.0,Maharashtra,Saleable Area
+Pune,Sinhagad Road,Residential,3500000,Unfurnished,1,1,Connected,0,0,0,1,620.0,Maharashtra,Saleable Area
+Pune,Hadapsar,Residential,7500000,Semi-Furnished,1,1,Connected,0,0,0,2,550.0,Maharashtra,Saleable Area
+Pune,Yerawada,Residential,10000000,Semi-Furnished,2,2,Connected,0,0,0,0,1250.0,Maharashtra,Built-up Area
+Pune,Kiwale,Residential,2800000,Semi-Furnished,1,1,Connected,0,0,0,1,550.0,Maharashtra,Built-up Area
+Pune,Undri,Residential,5200000,Unfurnished,2,2,Connected,0,0,0,1,720.0,Maharashtra,Carpet Area
+Pune,Hadapsar,Residential,550000,Semi-Furnished,1,1,Connected,0,0,0,0,550.0,Maharashtra,Built-up Area
+Pune,Pimple Saudagar,Residential,8000000,Unfurnished,2,2,Connected,0,0,0,1,750.0,Maharashtra,Built-up Area
+Pune,Nibm Annexe,Residential,14500000,Unfurnished,3,3,Connected,0,0,0,1,1211.0,Maharashtra,Carpet Area
+Pune,Kondhwa,Residential,6200000,Unfurnished,2,2,Connected,0,0,0,1,650.0,Maharashtra,Carpet Area
+Pune,Nanded,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,1,185.0,Maharashtra,Carpet Area
+Pune,Lokmanya Colony,Residential,38300000,Unfurnished,4,4,Connected,0,0,0,2,1852.0,Maharashtra,Carpet Area
+Pune,Kondhwa,Residential,5500000,Furnished,2,2,Connected,0,0,0,0,750.0,Maharashtra,Built-up Area
+Pune,Wakad,Residential,5000000,Unfurnished,1,1,Individual,0,0,0,1,550.0,Maharashtra,Built-up Area
+Pune,Mahalunge,Residential,7000000,Unfurnished,1,2,Connected,0,0,0,1,430.0,Maharashtra,Carpet Area
+Pune,Mamurdi,Residential,11000000,Semi-Furnished,2,2,Connected,0,0,0,0,574.0,Maharashtra,Built-up Area
+Pune,Pimple Saudagar,Residential,12800000,Unfurnished,3,3,Connected,0,0,0,1,1000.0,Maharashtra,Carpet Area
+Pune,Chovisawadi,Residential,4780000,Unfurnished,2,2,Connected,0,0,0,0,636.0,Maharashtra,Built-up Area
+Pune,Lohegaon,Residential,4600000,Unfurnished,2,2,Connected,0,0,1,0,3654.0,Maharashtra,Plot Area
+Pune,Pimple Saudagar,Residential,6400000,Unfurnished,2,2,Connected,0,0,1,1,542.0,Maharashtra,Carpet Area
+Pune,Wagholi,Residential,2300000,Semi-Furnished,1,1,Individual,0,0,0,4,712.0,Maharashtra,Built-up Area
+Pune,Aundh,Residential,65000000,Unfurnished,5,5,Connected,0,0,0,1,4577.0,Maharashtra,Saleable Area
+Pune,Fatima Nagar,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,1,300.0,Maharashtra,Built-up Area
+Pune,Hadapsar,Residential,7000000,Semi-Furnished,1,1,Individual,0,0,0,1,546.0,Maharashtra,Carpet Area
+Pune,Ghorpadi,Residential,15500000,Unfurnished,3,3,Connected,1,1,1,3,1206.0,Maharashtra,Carpet Area
+Pune,Nibm Road,Residential,9500000,Unfurnished,2,2,Connected,0,0,0,1,890.0,Maharashtra,Carpet Area
+Pune,Fatima Nagar,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,1,290.0,Maharashtra,Built-up Area
+Pune,Rahatani,Residential,4800000,Unfurnished,1,2,Connected,0,0,0,1,430.0,Maharashtra,Carpet Area
+Pune,Hadapsar,Residential,13300000,Unfurnished,2,2,Individual,0,0,0,1,870.0,Maharashtra,Carpet Area
+Pune,Wakad,Residential,7500000,Unfurnished,2,2,Connected,0,0,1,1,1200.0,Maharashtra,Carpet Area
+Pune,Ravet,Residential,7000000,Semi-Furnished,2,2,Connected,0,0,0,0,710.0,Maharashtra,Built-up Area
+Pune,Undri,Residential,3500000,Unfurnished,1,1,Connected,0,0,0,0,750.0,Maharashtra,Built-up Area
+Pune,Ambegaon Budruk,Residential,11500000,Unfurnished,3,3,Connected,1,1,1,1,1470.0,Maharashtra,Built-up Area
+Pune,Shirgaon,Residential,7050000,Semi-Furnished,3,2,Room-attached,0,0,0,1,850.0,Maharashtra,Built-up Area
+Pune,Hadapsar,Residential,11000000,Unfurnished,2,2,Connected,0,0,0,0,2000.0,Maharashtra,Plot Area
+Pune,Hadapsar,Residential,9500000,Semi-Furnished,2,2,Connected,0,0,0,0,1250.0,Maharashtra,Built-up Area
+Pune,Dhayari,Residential,4500000,Semi-Furnished,2,2,Connected,0,0,0,1,850.0,Maharashtra,Built-up Area
+Pune,Punawale,Residential,15000000,Furnished,3,2,Connected,0,0,0,0,1595.0,Maharashtra,Built-up Area
+Pune,Manjari,Residential,6500000,Semi-Furnished,2,1,Room-attached,0,0,0,1,770.0,Maharashtra,Carpet Area
+Pune,Pimple Saudagar,Residential,11500000,Semi-Furnished,3,3,Connected,0,0,0,1,1050.0,Maharashtra,Carpet Area
+Pune,Otur,Residential,2900000,Semi-Furnished,1,1,Connected,0,0,0,1,350.0,Maharashtra,Built-up Area
+Pune,Kondhwa,Residential,7800000,Unfurnished,2,2,Connected,0,0,0,1,996.0,Maharashtra,Built-up Area
+Pune,Dhanori,Residential,3500000,Furnished,1,1,Connected,0,0,0,0,500.0,Maharashtra,Built-up Area
+Pune,Lohegaon,Residential,6500000,Semi-Furnished,2,2,Individual,0,0,0,1,950.0,Maharashtra,Built-up Area
+Pune,Thergaon,Residential,7200000,Unfurnished,2,2,Connected,0,0,0,1,825.0,Maharashtra,Built-up Area
+Pune,Mundhwa,Residential,10500000,Furnished,2,2,Connected,0,0,0,1,886.0,Maharashtra,Carpet Area
+Pune,Mundhwa,Residential,10500000,Furnished,3,2,Connected,1,1,1,1,990.0,Maharashtra,Built-up Area
+Pune,Kharadi,Residential,37000000,Semi-Furnished,5,4,"Connected,Individual,Room-attached",1,1,1,1,2218.0,Maharashtra,Carpet Area
+Pune,Thergaon,Residential,4600000,Unfurnished,1,2,Connected,1,0,1,1,716.0,Maharashtra,Built-up Area
+Pune,Bibwewadi,Residential,8500000,Semi-Furnished,2,2,Connected,0,0,0,0,855.0,Maharashtra,Built-up Area
+Pune,Undri,Residential,4500000,Unfurnished,2,2,Connected,1,1,1,1,1044.0,Maharashtra,Built-up Area
+Pune,Mundhwa,Residential,14000000,Semi-Furnished,3,3,Connected,0,0,0,1,1050.0,Maharashtra,Carpet Area
+Pune,Kesnand,Residential,1899000,Unfurnished,2,2,Connected,0,0,0,0,1058.0,Maharashtra,Plot Area
+Pune,Balaji Nagar,Residential,3000000,Furnished,1,1,Connected,0,0,0,2,550.0,Maharashtra,Built-up Area
+Pune,Ravet,Residential,6800000,Unfurnished,2,2,Room-attached,1,1,1,2,628.0,Maharashtra,Carpet Area
+Pune,Baramati,Residential,500000,Unfurnished,2,2,Connected,0,0,0,0,3000.0,Maharashtra,Plot Area
+Pune,Kiwale,Residential,7400000,Unfurnished,2,2,Connected,0,0,0,1,801.0,Maharashtra,Carpet Area
+Pune,Wagholi,Residential,2300000,Semi-Furnished,1,2,Connected,0,0,0,0,712.0,Maharashtra,Built-up Area
+Pune,Saswad,Residential,2400000,Unfurnished,2,2,Connected,0,0,0,0,1300.0,Maharashtra,Plot Area
+Pune,New Sanghavi,Residential,15000000,Unfurnished,4,4,Connected,0,0,0,1,2000.0,Maharashtra,Built-up Area
+Pune,Dhanori,Residential,3500000,Semi-Furnished,2,1,Connected,0,0,0,2,911.0,Maharashtra,Built-up Area
+Pune,Rambaug Colony,Residential,17500000,Unfurnished,2,2,Connected,0,0,0,1,1017.0,Maharashtra,Saleable Area
+Pune,Gahunje,Residential,35000000,Furnished,6,5,Connected,0,0,0,9,3500.0,Maharashtra,Built-up Area
+Pune,Ravet,Residential,3600000,Semi-Furnished,1,1,Room-attached,0,0,0,1,470.0,Maharashtra,Carpet Area
+Pune,Mundhwa,Residential,10500000,Semi-Furnished,2,2,Connected,0,0,0,1,900.0,Maharashtra,Carpet Area
+Pune,Balewadi,Residential,15000000,Furnished,2,2,"Individual,Room-attached",0,0,0,1,1205.0,Maharashtra,Built-up Area
+Pune,Pashan,Residential,95000000,Unfurnished,4,4,Connected,1,0,1,2,2500.0,Maharashtra,Plot Area
+Pune,Hinjewadi,Residential,4800000,Unfurnished,2,2,Connected,0,0,0,0,3800.0,Maharashtra,Plot Area
+Pune,Shirgaon,Residential,7006000,Semi-Furnished,3,2,Connected,0,0,0,0,850.0,Maharashtra,Built-up Area
+Pune,Dhanori,Residential,19000000,Semi-Furnished,4,3,"Connected,Individual",0,0,0,3,2000.0,Maharashtra,Built-up Area
+Pune,Wanowrie,Residential,21000000,Semi-Furnished,3,3,"Connected,Room-attached",0,0,0,2,1775.0,Maharashtra,Built-up Area
+Pune,Viman Nagar,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,12932.0,Maharashtra,Carpet Area
+Pune,Nibm Road,Residential,28500000,Semi-Furnished,5,5,Room-attached,0,0,0,2,2850.0,Maharashtra,Built-up Area
+Pune,Undri,Residential,25000000,Unfurnished,5,6,Connected,1,1,1,2,2650.0,Maharashtra,Carpet Area
+Pune,Baner,Residential,40000000,Furnished,3,3,"Connected,Room-attached",0,0,0,5,3150.0,Maharashtra,Carpet Area
+Pune,Bhosari,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,1850.0,Maharashtra,Built-up Area
+Pune,Kesnand,Residential,1899000,Unfurnished,2,2,Connected,0,0,0,0,1010.0,Maharashtra,Plot Area
+Pune,Pimple Saudagar,Residential,12000000,Unfurnished,3,3,Connected,0,0,1,1,1432.0,Maharashtra,Saleable Area
+Pune,Mohammadwadi,Residential,7000000,Unfurnished,2,2,"Connected,Individual,Room-attached",0,1,1,1,1300.0,Maharashtra,Saleable Area
+Pune,Nibm Road,Residential,9800000,Unfurnished,2,2,Connected,0,0,0,1,917.0,Maharashtra,Carpet Area
+Pune,Kondhwa,Residential,12500000,Unfurnished,3,3,"Connected,Room-attached",0,1,1,1,2000.0,Maharashtra,Built-up Area
+Pune,Mohammadwadi,Residential,6800000,Unfurnished,2,2,Connected,0,0,1,1,839.0,Maharashtra,Saleable Area
+Pune,Velhe,Residential,3200000,Unfurnished,2,2,Connected,0,0,0,0,1100.0,Maharashtra,Plot Area
+Pune,Baner,Residential,16300000,Furnished,2,2,Connected,0,0,0,0,1040.0,Maharashtra,Built-up Area
+Pune,Fursungi,Residential,9000000,Unfurnished,2,2,Connected,0,0,0,0,16272.0,Maharashtra,Plot Area
+Pune,Chinchwad,Residential,16500000,Unfurnished,3,3,Room-attached,0,0,0,2,1500.0,Maharashtra,Built-up Area
+Pune,Hadapsar,Residential,8525000,Unfurnished,2,2,Connected,0,0,0,0,1550.0,Maharashtra,Plot Area
+Pune,Shewalwadi,Residential,11500000,Unfurnished,3,3,Connected,0,0,0,2,2115.0,Maharashtra,Built-up Area
+Pune,Nibm,Residential,47500000,Semi-Furnished,4,4,"Individual,Room-attached",0,0,0,2,4200.0,Maharashtra,Built-up Area
+Pune,Wanowrie,Residential,90000000,Semi-Furnished,4,2,Connected,0,0,0,0,5800.0,Maharashtra,Built-up Area
+Pune,Kalyani Nagar,Residential,7200000,Furnished,1,1,Connected,0,0,0,1,650.0,Maharashtra,Built-up Area
+Pune,Tathawade,Residential,3150000,Semi-Furnished,1,1,Connected,0,0,0,1,479.0,Maharashtra,Built-up Area
+Pune,Ambegaon Budruk,Residential,15000000,Furnished,3,4,Connected,0,0,0,2,1500.0,Maharashtra,Built-up Area
+Pune,Dattawadi,Residential,3600000,Unfurnished,1,1,Connected,0,0,0,2,722.0,Maharashtra,Built-up Area
+Pune,Nibm,Residential,14200000,Semi-Furnished,3,3,Individual,0,0,0,4,1675.0,Maharashtra,Saleable Area
+Pune,Chinchwad,Residential,9500000,Unfurnished,2,2,Connected,0,0,0,1,756.0,Maharashtra,Built-up Area
+Pune,Kalyani Nagar,Residential,20000000,Semi-Furnished,3,3,Individual,0,0,0,2,1700.0,Maharashtra,Saleable Area
+Pune,Chakan,Residential,12000000,Unfurnished,2,2,Connected,0,0,0,0,3418.0,Maharashtra,Plot Area
+Pune,Hadapsar,Residential,20500000,Semi-Furnished,3,3,Individual,0,0,0,2,1230.0,Maharashtra,Carpet Area
+Pune,Koregaon Park,Residential,14000000,Unfurnished,3,2,Connected,0,0,0,3,1300.0,Maharashtra,Built-up Area
+Pune,Ghorpadi,Residential,11100000,Unfurnished,2,2,"Connected,Individual",1,1,1,1,871.0,Maharashtra,Carpet Area
+Pune,Lohegaon,Residential,6500000,Unfurnished,2,1,Connected,0,0,0,2,535.0,Maharashtra,Built-up Area
+Pune,Koregaon Park,Residential,39000000,Unfurnished,3,3,Individual,0,0,0,1,1565.0,Maharashtra,Carpet Area
+Pune,Kesnand,Residential,1899000,Unfurnished,2,2,Connected,0,0,0,0,1064.0,Maharashtra,Plot Area
+Pune,Wagholi,Residential,7121000,Unfurnished,2,2,Connected,0,0,0,0,1826.0,Maharashtra,Plot Area
+Pune,Chovisawadi,Residential,3531000,Unfurnished,1,2,Connected,0,0,0,0,486.0,Maharashtra,Built-up Area
+Pune,Balewadi,Residential,8500000,Semi-Furnished,2,2,Connected,0,0,0,0,1020.0,Maharashtra,Built-up Area
+Pune,Pimpri,Residential,13800000,Unfurnished,3,3,Individual,1,1,0,1,1600.0,Maharashtra,Built-up Area
+Pune,Shirgaon,Residential,7060000,Semi-Furnished,3,2,Room-attached,0,0,0,2,850.0,Maharashtra,Built-up Area
+Pune,Baner,Residential,45000000,Semi-Furnished,5,4,Connected,0,0,0,2,2200.0,Maharashtra,Carpet Area
+Pune,Kothrud,Residential,13400000,Unfurnished,2,2,"Connected,Room-attached",0,0,0,1,1260.0,Maharashtra,Saleable Area
+Pune,Dhayari,Residential,16000000,Semi-Furnished,3,2,Connected,0,0,0,2,2050.0,Maharashtra,Built-up Area
+Pune,Thergaon,Residential,4000000,Unfurnished,1,2,Connected,0,0,0,1,650.0,Maharashtra,Built-up Area
+Pune,Baner,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,1,1250.0,Maharashtra,Built-up Area
+Pune,Pimple Gurav,Residential,7100000,Furnished,2,2,"Individual,Room-attached",0,0,0,1,731.0,Maharashtra,Built-up Area
+Pune,Bavdhan,Residential,20000000,Furnished,3,2,Connected,0,0,0,1,1340.0,Maharashtra,Built-up Area
+Pune,Narayan Peth,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,1,255.0,Maharashtra,Carpet Area
+Pune,Punawale,Residential,6500000,Unfurnished,2,2,Connected,0,0,0,2,681.0,Maharashtra,Built-up Area
+Pune,Kharadi,Residential,11000000,Unfurnished,3,3,"Connected,Room-attached",0,0,0,1,850.0,Maharashtra,Carpet Area
+Pune,Manjari,Residential,7500000,Furnished,2,2,Individual,0,0,0,1,915.0,Maharashtra,Carpet Area
+Pune,Chinchwad,Residential,17000000,Unfurnished,3,3,Individual,0,0,0,2,1530.0,Maharashtra,Built-up Area
+Pune,Koregaon Mul,Residential,2500000,Unfurnished,2,2,Connected,0,0,0,0,2500.0,Maharashtra,Plot Area
+Pune,Pashan,Residential,13266464,Unfurnished,2,2,Connected,0,0,0,0,4200.0,Maharashtra,Plot Area
+Pune,Pimple Saudagar,Commercial,0,Semi-Furnished,0,0,No Balcony,0,0,0,0,3500.0,Maharashtra,Carpet Area
+Pune,Aga Nagar,Residential,1998000,Unfurnished,2,2,Connected,0,0,0,0,2000.0,Maharashtra,Plot Area
+Pune,Ghorpadi,Residential,6500000,Unfurnished,2,2,Connected,0,0,0,0,950.0,Maharashtra,Carpet Area
+Pune,Aundh,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,1,800.0,Maharashtra,Built-up Area
+Pune,Kharadi,Residential,70000000,Unfurnished,2,2,Connected,0,0,0,0,12000.0,Maharashtra,Plot Area
+Pune,Lohgaon,Residential,3500000,Semi-Furnished,2,2,Connected,0,0,0,2,550.0,Maharashtra,Built-up Area
+Pune,Uruli Devachi,Residential,5500000,Unfurnished,3,1,Connected,0,0,0,1,1900.0,Maharashtra,Built-up Area
+Pune,Supe,Residential,800000,Unfurnished,2,2,Connected,0,0,0,0,5000.0,Maharashtra,Plot Area
+Pune,Wakad,Residential,17500000,Unfurnished,3,3,Room-attached,1,1,1,2,1250.0,Maharashtra,Carpet Area
+Pune,Wakad,Residential,25000000,Semi-Furnished,3,3,Connected,0,0,0,3,1400.0,Maharashtra,Carpet Area
+Pune,Pimple Saudagar,Commercial,0,Semi-Furnished,0,0,No Balcony,0,0,0,1,2358.0,Maharashtra,Carpet Area
+Pune,Baner,Residential,72500000,Unfurnished,2,2,Connected,0,0,0,0,43200.0,Maharashtra,Plot Area
+Pune,Mulshi,Residential,4890000,Unfurnished,2,2,Connected,0,0,0,0,10000.0,Maharashtra,Plot Area
+Pune,Hulshur,Residential,5500000,Unfurnished,2,2,Connected,0,0,0,0,1000.0,Maharashtra,Plot Area
+Pune,Chakan,Residential,4099000,Unfurnished,2,2,Connected,0,0,0,0,1368.0,Maharashtra,Plot Area
+Pune,Hinjewadi,Residential,15300000,Unfurnished,2,2,Connected,0,0,0,0,1534.0,Maharashtra,Plot Area
+Pune,Narhe,Residential,3500000,Semi-Furnished,1,1,Room-attached,0,0,0,2,550.0,Maharashtra,Saleable Area
+Pune,Pashan,Residential,6000000,Unfurnished,2,1,Room-attached,0,0,0,1,412.0,Maharashtra,Built-up Area
+Pune,Mohan Nagar,Residential,2100000,Semi-Furnished,1,1,"Connected,Room-attached",0,0,0,2,600.0,Maharashtra,Carpet Area
+Pune,Mulshi,Residential,4900000,Unfurnished,2,2,Connected,0,0,0,0,1000.0,Maharashtra,Plot Area
+Pune,Wadaki,Residential,1300000,Unfurnished,2,2,Connected,0,0,0,0,9000.0,Maharashtra,Plot Area
+Pune,Dhanori,Residential,23000000,Semi-Furnished,5,5,"Connected,Individual",0,0,0,3,2500.0,Maharashtra,Built-up Area
+Pune,Kasarsai,Residential,9000000,Unfurnished,2,2,Connected,0,0,0,0,4000.0,Maharashtra,Plot Area
+Pune,Kamgar Putala Vasahat,Residential,1700000,Unfurnished,2,2,Connected,0,0,0,0,36000.0,Maharashtra,Plot Area
+Pune,Law College Road,Commercial,0,Semi-Furnished,0,0,No Balcony,0,0,0,3,300.0,Maharashtra,Built-up Area
+Pune,Chikhali,Residential,5500000,Unfurnished,2,2,"Connected,Room-attached",0,0,0,2,1043.0,Maharashtra,Built-up Area
+Pune,Sadashiv Peth,Residential,3000000,Semi-Furnished,1,1,Connected,0,0,0,1,550.0,Maharashtra,Built-up Area
+Pune,Tathawade,Residential,7300000,Unfurnished,2,2,"Connected,Room-attached",0,0,0,1,679.0,Maharashtra,Carpet Area
+Pune,Vishal Nagar,Residential,4000000,Unfurnished,2,2,Individual,0,0,0,0,650.0,Maharashtra,Built-up Area
+Pune,Handewadi,Residential,135000000,Unfurnished,2,2,Connected,0,0,0,0,1440.0,Maharashtra,Plot Area
+Pune,Aundh,Residential,9600000,Semi-Furnished,2,2,Connected,0,0,0,2,930.0,Maharashtra,Built-up Area
+Pune,Hinjewadi,Residential,9000000,Semi-Furnished,2,2,Individual,0,0,0,2,675.0,Maharashtra,Built-up Area
+Pune,Pimple Gurav,Residential,8400000,Unfurnished,2,2,Connected,0,0,0,1,750.0,Maharashtra,Carpet Area
+Pune,Viman Nagar,Residential,56000000,Furnished,3,2,Connected,0,0,0,0,4500.0,Maharashtra,Built-up Area
+Pune,Baner,Residential,32500000,Semi-Furnished,3,2,Connected,0,0,0,0,2300.0,Maharashtra,Carpet Area
+Pune,Charholi Budruk,Residential,4500000,Unfurnished,2,2,Connected,0,0,1,1,762.0,Maharashtra,Carpet Area
+Pune,Aundh,Residential,7000000,Unfurnished,3,2,Connected,0,0,1,1,1100.0,Maharashtra,Built-up Area
+Pune,Kothrud,Residential,4200000,Unfurnished,1,2,Connected,0,1,1,1,700.0,Maharashtra,Built-up Area
+Pune,Kolwadi,Residential,2500000,Unfurnished,1,2,Connected,0,0,0,1,1000.0,Maharashtra,Built-up Area
+Pune,Vishal Nagar,Residential,1500000,Unfurnished,1,1,Connected,0,0,0,0,450.0,Maharashtra,Built-up Area
+Pune,Mulshi,Residential,3220000,Unfurnished,2,2,Connected,0,0,0,0,1100.0,Maharashtra,Plot Area
+Pune,Old Sangvi,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,1,250.0,Maharashtra,Built-up Area
+Pune,Uruli Kanchan,Residential,4600000,Unfurnished,2,2,Connected,0,0,0,0,1000.0,Maharashtra,Plot Area
+Pune,Nehru Nagar,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,2,406.0,Maharashtra,Built-up Area
+Pune,Tathawade,Commercial,0,Furnished,0,0,No Balcony,0,0,0,0,200.0,Maharashtra,Built-up Area
+Pune,Aundh Road,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,2,1360.0,Maharashtra,Built-up Area
+Pune,Wanowrie,Residential,900000000,Semi-Furnished,4,4,Connected,0,0,0,4,5524.0,Maharashtra,Built-up Area
+Pune,Nasrapur Velha Road,Residential,3250000,Unfurnished,2,2,Connected,0,0,0,0,11000.0,Maharashtra,Plot Area
+Pune,Manjari,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,250.0,Maharashtra,Built-up Area
+Pune,Bavdhan,Residential,18700000,Unfurnished,2,2,Connected,1,1,1,0,2518.0,Maharashtra,Plot Area
+Pune,Dattanagar,Residential,4600000,Unfurnished,2,2,Connected,0,0,0,0,1000.0,Maharashtra,Plot Area
+Pune,Lohgaon,Residential,4800000,Semi-Furnished,2,2,Individual,0,0,0,1,630.0,Maharashtra,Carpet Area
+Pune,Panshet,Residential,4250000,Unfurnished,2,2,Connected,0,0,0,0,11000.0,Maharashtra,Plot Area
+Pune,Gahunje,Residential,8500000,Unfurnished,2,2,Connected,0,0,0,0,9900.0,Maharashtra,Plot Area
+Pune,Charholi Budruk,Residential,13266464,Unfurnished,2,2,Connected,0,0,0,0,62000.0,Maharashtra,Plot Area
+Pune,Undri,Residential,3500000,Semi-Furnished,1,2,Connected,0,0,0,1,368.0,Maharashtra,Carpet Area
+Pune,Baner,Residential,25000000,Furnished,3,3,Connected,0,0,0,1,1950.0,Maharashtra,Built-up Area
+Pune,Uruli Devachi,Residential,2400000,Unfurnished,2,2,Connected,0,0,0,0,1800.0,Maharashtra,Plot Area
+Pune,Urit Nagar,Residential,4600000,Unfurnished,2,2,Connected,0,0,0,0,1000.0,Maharashtra,Plot Area
+Pune,Wadebolai,Residential,2200000,Unfurnished,2,2,Connected,0,0,0,0,1000.0,Maharashtra,Plot Area
+Pune,Shivajinagar,Residential,500000,Unfurnished,2,2,Connected,0,1,1,0,1000.0,Maharashtra,Plot Area
+Pune,Hinjewadi,Residential,1500000,Unfurnished,2,2,Connected,0,0,0,0,1500.0,Maharashtra,Plot Area
+Pune,Sector 27,Residential,22000000,Unfurnished,3,3,Individual,0,0,0,1,1800.0,Maharashtra,Built-up Area
+Pune,Kothrud,Residential,6000000,Semi-Furnished,2,2,Connected,0,0,0,1,1100.0,Maharashtra,Built-up Area
+Pune,Velhe,Residential,3200000,Unfurnished,2,2,Connected,0,0,0,0,11840.0,Maharashtra,Plot Area
+Pune,Kothrud,Residential,3600000,Unfurnished,1,1,Connected,0,0,0,2,272.0,Maharashtra,Built-up Area
+Pune,Aundh,Residential,13266464,Unfurnished,2,2,Connected,0,0,0,0,1500.0,Maharashtra,Plot Area
+Pune,Hinjewadi,Residential,4700000,Unfurnished,2,2,Connected,0,0,0,0,1190.0,Maharashtra,Plot Area
+Pune,Kanchan Nagari,Residential,4600000,Unfurnished,2,2,Connected,0,0,0,0,1000.0,Maharashtra,Plot Area
+Pune,Undri,Residential,12500000,Unfurnished,2,2,Connected,0,0,0,0,45000.0,Maharashtra,Plot Area
+Pune,Wagholi,Residential,17500000,Semi-Furnished,3,3,Connected,0,0,0,1,1975.0,Maharashtra,Saleable Area
+Pune,Panshet,Residential,4600000,Unfurnished,2,2,Connected,1,1,1,0,1000.0,Maharashtra,Carpet Area
+Pune,Katraj,Residential,16000000,Unfurnished,3,2,"Connected,Room-attached",0,0,1,2,1400.0,Maharashtra,Carpet Area
+Pune,Sahakar Nagar,Residential,50000000,Furnished,6,6,"Connected,Individual,Room-attached",0,0,0,10,2600.0,Maharashtra,Built-up Area
+Pune,New Sanghavi,Residential,30000000,Unfurnished,4,3,Connected,0,0,0,0,3000.0,Maharashtra,Saleable Area
+Pune,Pimple Gurav,Residential,17500000,Unfurnished,2,2,Connected,0,0,0,0,1829.0,Maharashtra,Plot Area
+Pune,Gahunje,Residential,12500000,Unfurnished,2,2,Connected,0,0,0,0,1500.0,Maharashtra,Plot Area
+Pune,Mulshi,Residential,1033000,Unfurnished,2,2,Connected,1,1,1,0,23247.0,Maharashtra,Plot Area
+Pune,Wagholi,Residential,8500000,Furnished,3,2,Connected,0,0,0,2,1013.0,Maharashtra,Built-up Area
+Pune,Kamraj Nagar,Residential,1600000,Unfurnished,2,2,Connected,0,0,0,0,810.0,Maharashtra,Plot Area
+Pune,Adhyapak Society,Residential,1236000,Unfurnished,2,2,Connected,0,0,0,0,1256.0,Maharashtra,Plot Area
+Pune,Nere,Residential,16800000,Unfurnished,2,2,Connected,0,0,0,0,8406.0,Maharashtra,Plot Area
+Pune,Tathawade,Residential,8500000,Semi-Furnished,2,2,Connected,0,0,0,2,711.0,Maharashtra,Carpet Area
+Pune,Dehu Road,Residential,3500000,Semi-Furnished,2,1,Individual,0,0,0,1,695.0,Maharashtra,Saleable Area
+Pune,Baner,Residential,38500000,Semi-Furnished,3,4,Connected,0,0,0,2,1750.0,Maharashtra,Carpet Area
+Pune,Dhanori,Residential,5800000,Unfurnished,1,2,Connected,1,1,1,2,800.0,Maharashtra,Built-up Area
+Pune,Kondhwa Budruk,Residential,6600000,Unfurnished,3,3,Connected,0,0,0,1,1250.0,Maharashtra,Saleable Area
+Pune,Mundhwa,Residential,12500000,Semi-Furnished,3,3,Individual,0,0,0,2,2010.0,Maharashtra,Saleable Area
+Pune,Hinjewadi,Residential,5000000,Unfurnished,1,1,Individual,0,0,0,1,670.0,Maharashtra,Built-up Area
+Pune,Dhanori,Residential,12000000,Unfurnished,3,3,Connected,0,0,0,1,1400.0,Maharashtra,Built-up Area
+Pune,Sinhagad,Residential,4500000,Unfurnished,1,1,"Connected,Room-attached",1,1,1,1,585.0,Maharashtra,Built-up Area
+Pune,Mohammadwadi,Residential,8300000,Unfurnished,3,3,Connected,1,1,1,1,922.0,Maharashtra,Carpet Area
+Pune,Madhav Nagar,Residential,7500000,Unfurnished,2,2,Connected,0,0,0,1,1120.0,Maharashtra,Built-up Area
+Pune,Mohammadwadi,Residential,3500000,Unfurnished,1,1,Connected,0,0,0,1,580.0,Maharashtra,Built-up Area
+Pune,Hinjewadi,Residential,13266464,Unfurnished,2,2,Connected,1,1,1,2,883.0,Maharashtra,Carpet Area
+Pune,Hinjewadi,Residential,5000000,Semi-Furnished,2,2,Connected,0,0,0,2,439.0,Maharashtra,Carpet Area
+Pune,Mundhwa,Residential,8500000,Semi-Furnished,2,2,Connected,0,0,0,2,1280.0,Maharashtra,Saleable Area
+Pune,Magarpatta,Residential,28800000,Unfurnished,4,4,Individual,1,1,1,3,1871.0,Maharashtra,Carpet Area
+Pune,Kondhwa,Residential,13000000,Unfurnished,3,3,Connected,1,1,1,1,1500.0,Maharashtra,Built-up Area
+Pune,Modi Colony,Residential,12500000,Semi-Furnished,2,2,Connected,0,0,0,1,1025.0,Maharashtra,Carpet Area
+Pune,Wanowrie,Residential,7200000,Unfurnished,2,2,"Connected,Individual",0,0,0,2,800.0,Maharashtra,Saleable Area
+Pune,Moshi,Residential,4070000,Unfurnished,2,2,Connected,0,0,0,1,650.0,Maharashtra,Carpet Area
+Pune,Kondhwa,Residential,8500000,Semi-Furnished,2,2,Connected,0,0,0,1,1200.0,Maharashtra,Built-up Area
+Pune,Dhanori,Residential,9000000,Unfurnished,2,2,Connected,1,0,1,1,1100.0,Maharashtra,Carpet Area
+Pune,Kondhwa,Residential,8000000,Semi-Furnished,2,2,Room-attached,0,0,0,1,1150.0,Maharashtra,Built-up Area
+Pune,Wanowrie,Residential,7000000,Unfurnished,2,2,Connected,0,0,0,2,950.0,Maharashtra,Built-up Area
+Pune,Baner Bypass Highway,Residential,12500000,Unfurnished,2,2,Connected,0,0,0,1,950.0,Maharashtra,Carpet Area
+Pune,Undri,Residential,14500000,Semi-Furnished,2,2,Connected,0,0,0,2,1700.0,Maharashtra,Saleable Area
+Pune,Mundhwa,Residential,19600000,Unfurnished,3,3,Connected,1,1,1,2,1390.0,Maharashtra,Carpet Area
+Pune,Wanowrie,Residential,14000000,Unfurnished,3,3,Connected,0,0,1,1,1650.0,Maharashtra,Built-up Area
+Pune,Dudulgaon,Residential,4499000,Unfurnished,2,2,Individual,0,0,0,1,740.0,Maharashtra,Carpet Area
+Pune,Undri,Residential,7500000,Unfurnished,3,3,"Connected,Room-attached",1,1,1,1,1050.0,Maharashtra,Built-up Area
+Pune,Undri,Residential,4700000,Unfurnished,2,2,"Connected,Individual,Room-attached",1,1,1,1,532.0,Maharashtra,Carpet Area
+Pune,Hadapsar,Residential,5200000,Semi-Furnished,2,2,"Connected,Individual,Room-attached",0,0,0,1,854.0,Maharashtra,Saleable Area
+Pune,Handewadi,Residential,5000000,Semi-Furnished,2,2,"Connected,Individual,Room-attached",0,0,0,1,710.0,Maharashtra,Saleable Area
+Pune,Mohammadwadi,Residential,12000000,Unfurnished,3,3,"Connected,Room-attached",0,0,0,1,1565.0,Maharashtra,Built-up Area
+Pune,Punawale,Residential,11000000,Unfurnished,2,3,Connected,1,1,1,2,1174.0,Maharashtra,Carpet Area
+Pune,Kondhwa,Residential,8200000,Semi-Furnished,2,2,"Connected,Room-attached",0,0,0,1,1200.0,Maharashtra,Built-up Area
+Pune,Mohammadwadi,Residential,9000000,Semi-Furnished,3,3,"Connected,Room-attached",0,0,0,1,1475.0,Maharashtra,Built-up Area
+Pune,Mundhwa,Residential,24000000,Unfurnished,4,4,Connected,1,1,1,2,1682.0,Maharashtra,Carpet Area
+Pune,Hadapsar,Residential,18000000,Unfurnished,3,3,Connected,1,1,1,2,1577.0,Maharashtra,Carpet Area
+Pune,Kharadi,Residential,16500000,Unfurnished,3,3,Individual,0,0,0,2,1330.0,Maharashtra,Carpet Area
+Pune,Mohammadwadi,Residential,12000000,Unfurnished,3,3,Connected,1,1,1,1,1565.0,Maharashtra,Built-up Area
+Pune,Undri,Residential,5700000,Unfurnished,2,2,Connected,1,1,1,1,707.0,Maharashtra,Saleable Area
+Pune,Magarpatta,Residential,25600000,Unfurnished,3,3,Individual,1,1,1,1,1464.0,Maharashtra,Carpet Area
+Pune,Ravet,Residential,13266464,Semi-Furnished,1,1,Connected,0,0,0,2,758.0,Maharashtra,Built-up Area
+Pune,Kondhwa,Residential,6200000,Furnished,2,2,Room-attached,0,0,0,1,850.0,Maharashtra,Built-up Area
+Pune,Undri,Residential,7800000,Unfurnished,3,3,"Connected,Room-attached",1,1,1,1,1095.0,Maharashtra,Built-up Area
+Pune,Mundhwa,Residential,14900000,Unfurnished,3,3,Connected,0,0,0,2,1120.0,Maharashtra,Carpet Area
+Pune,Dhanori,Residential,4200000,Unfurnished,1,2,Connected,1,1,1,1,660.0,Maharashtra,Saleable Area
+Pune,Undri,Residential,13266464,Unfurnished,2,2,Individual,0,0,1,2,625.0,Maharashtra,Saleable Area
+Pune,Hadapsar,Residential,13900000,Unfurnished,5,5,Connected,0,0,0,2,2250.0,Maharashtra,Built-up Area
+Pune,Vishrantwadi,Residential,13266464,Furnished,2,2,Connected,0,0,0,2,900.0,Maharashtra,Built-up Area
+Pune,Mohammadwadi,Residential,13266464,Unfurnished,2,2,Individual,1,1,1,2,855.0,Maharashtra,Saleable Area
+Pune,Mohammadwadi,Residential,6500000,Semi-Furnished,2,2,Individual,0,0,0,1,801.0,Maharashtra,Carpet Area
+Pune,Nibm,Residential,15000000,Semi-Furnished,3,3,Connected,0,0,0,1,1650.0,Maharashtra,Built-up Area
+Pune,Undri,Residential,7800000,Unfurnished,3,3,"Connected,Room-attached",0,1,1,1,1095.0,Maharashtra,Built-up Area
+Pune,Nibm Road,Residential,10000000,Unfurnished,3,3,Connected,0,0,1,1,1000.0,Maharashtra,Built-up Area
+Pune,Dhanori,Residential,7700000,Semi-Furnished,2,2,Connected,0,0,0,1,810.0,Maharashtra,Carpet Area
+Pune,Hinjewadi,Residential,7400000,Semi-Furnished,2,2,Connected,0,0,0,2,576.0,Maharashtra,Carpet Area
+Pune,Dhanori,Residential,5500000,Unfurnished,2,3,Individual,0,0,0,1,727.0,Maharashtra,Carpet Area
+Pune,Undri,Residential,8000000,Semi-Furnished,3,3,Individual,0,0,0,2,945.0,Maharashtra,Carpet Area
+Pune,Wanwadi,Residential,10000000,Unfurnished,3,3,Individual,0,0,0,2,1450.0,Maharashtra,Built-up Area
+Pune,Sinhagad,Residential,13000000,Unfurnished,3,3,"Connected,Room-attached",0,0,0,2,1458.0,Maharashtra,Built-up Area
+Pune,Tathawade,Residential,12900000,Unfurnished,3,3,"Connected,Room-attached",0,1,1,2,1096.0,Maharashtra,Carpet Area
+Pune,Mohammadwadi,Residential,3500000,Unfurnished,1,1,Connected,0,0,1,0,580.0,Maharashtra,Built-up Area
+Pune,Kondhwa,Residential,7500000,Unfurnished,2,2,Connected,0,0,0,1,1400.0,Maharashtra,Built-up Area
+Pune,Wanwadi,Residential,11000000,Unfurnished,3,3,Connected,1,1,1,1,1250.0,Maharashtra,Built-up Area
+Pune,Kondhwa,Residential,6500000,Unfurnished,2,2,Connected,0,0,0,1,1300.0,Maharashtra,Built-up Area
+Pune,Bhugaon,Residential,7900000,Unfurnished,2,4,Individual,1,1,1,2,830.0,Maharashtra,Carpet Area
+Pune,Mohammadwadi,Residential,31500000,Semi-Furnished,4,3,"Connected,Room-attached",0,0,0,2,3202.0,Maharashtra,Built-up Area
+Pune,Mohammadwadi,Residential,6500000,Semi-Furnished,2,2,Room-attached,0,0,0,1,1050.0,Maharashtra,Built-up Area
+Pune,Undri,Residential,13266464,Semi-Furnished,2,2,Connected,0,0,0,2,625.0,Maharashtra,Saleable Area
+Pune,Kondhwa,Residential,6500000,Semi-Furnished,2,2,Connected,0,0,0,1,1175.0,Maharashtra,Built-up Area
+Pune,Nibm,Residential,15000000,Semi-Furnished,3,3,"Connected,Room-attached",0,0,0,1,1650.0,Maharashtra,Built-up Area
+Pune,Kondhwa,Residential,6200000,Furnished,2,2,Room-attached,0,0,0,0,800.0,Maharashtra,Built-up Area
+Pune,Undri,Residential,7500000,Furnished,2,2,Individual,0,0,0,1,1080.0,Maharashtra,Built-up Area
+Pune,Kondhwa,Residential,7500000,Unfurnished,2,2,Room-attached,1,1,1,1,1050.0,Maharashtra,Built-up Area
+Pune,Hadapsar,Residential,12000000,Unfurnished,2,2,Connected,1,1,1,1,1125.0,Maharashtra,Built-up Area
+Pune,Kondhwa,Residential,6500000,Semi-Furnished,2,2,"Connected,Room-attached",0,0,0,1,1200.0,Maharashtra,Built-up Area
+Pune,Ambegaon Budruk,Residential,6800000,Unfurnished,2,2,Connected,1,1,1,1,661.0,Maharashtra,Carpet Area
+Pune,Nibm Annexe,Residential,8200000,Unfurnished,2,2,Room-attached,1,1,1,1,1100.0,Maharashtra,Built-up Area
+Pune,Mohammadwadi,Residential,6500000,Furnished,2,2,"Connected,Room-attached",0,0,0,1,1050.0,Maharashtra,Built-up Area
+Pune,Ravet,Residential,6700000,Semi-Furnished,2,2,Connected,0,0,0,1,1040.0,Maharashtra,Saleable Area
+Pune,Kondhwa,Residential,8200000,Furnished,2,2,"Connected,Room-attached",0,0,0,1,1200.0,Maharashtra,Built-up Area
+Pune,Nanded,Residential,8000000,Unfurnished,2,2,"Connected,Room-attached",0,1,1,1,973.0,Maharashtra,Built-up Area
+Pune,Kondhwa,Residential,7500000,Unfurnished,2,2,Connected,1,1,1,1,1400.0,Maharashtra,Built-up Area
+Pune,Dhanori,Residential,13266464,Unfurnished,2,2,Individual,1,1,1,2,714.0,Maharashtra,Carpet Area
+Pune,Magarpatta Road,Residential,13266464,Unfurnished,3,3,Individual,1,1,1,1,1883.0,Maharashtra,Saleable Area
+Pune,Undri,Residential,13266464,Semi-Furnished,2,2,"Connected,Room-attached",0,0,0,1,837.0,Maharashtra,Saleable Area
+Pune,Mundhwa,Residential,22700000,Unfurnished,4,5,Connected,0,0,0,3,1702.0,Maharashtra,Carpet Area
+Pune,Kharadi,Residential,10000000,Semi-Furnished,2,2,Connected,0,0,0,2,700.0,Maharashtra,Carpet Area
+Pune,Viman Nagar,Residential,7900000,Semi-Furnished,1,2,Connected,0,0,0,1,810.0,Maharashtra,Built-up Area
+Pune,Kondhwa,Residential,10700000,Semi-Furnished,3,3,"Connected,Individual,Room-attached",0,0,0,1,1048.0,Maharashtra,Carpet Area
+Pune,Koregaon Park Annexe,Residential,23600000,Unfurnished,4,3,Connected,1,1,1,2,1707.0,Maharashtra,Carpet Area
+Pune,Wanwadi,Residential,7500000,Unfurnished,2,2,"Connected,Individual",0,0,1,2,1070.0,Maharashtra,Saleable Area
+Pune,Dhayari,Residential,7500000,Unfurnished,2,2,"Individual,Room-attached",1,1,0,1,750.0,Maharashtra,Carpet Area
+Pune,Wanowrie,Residential,4200000,Unfurnished,2,1,Individual,0,0,1,2,563.0,Maharashtra,Carpet Area
+Pune,Punawale,Residential,8500000,Unfurnished,3,3,Connected,1,0,0,2,981.0,Maharashtra,Carpet Area
+Pune,Undri,Residential,6600000,Semi-Furnished,2,2,Individual,0,0,0,2,800.0,Maharashtra,Built-up Area
+Pune,Ravet,Residential,7500000,Unfurnished,2,2,"Connected,Room-attached",1,1,1,1,895.0,Maharashtra,Carpet Area
+Pune,Adarsh Colony,Residential,13266464,Furnished,1,1,Connected,0,0,0,0,237.0,Maharashtra,Carpet Area
+Pune,Kavade Mala,Residential,20000000,Unfurnished,2,3,Connected,0,1,0,5,1850.0,Maharashtra,Built-up Area
+Pune,Handewadi Road,Residential,5100000,Semi-Furnished,2,2,"Connected,Individual,Room-attached",0,0,0,1,891.0,Maharashtra,Saleable Area
+Pune,Wanowrie,Residential,15000000,Unfurnished,3,3,Connected,0,0,1,1,1650.0,Maharashtra,Built-up Area
+Pune,Mohammadwadi,Residential,8000000,Unfurnished,2,2,Connected,1,1,1,1,1200.0,Maharashtra,Built-up Area
+Pune,Kondhwa,Residential,8600000,Semi-Furnished,2,2,"Individual,Room-attached",0,0,0,1,1250.0,Maharashtra,Saleable Area
+Pune,Undri,Residential,10000000,Semi-Furnished,2,2,"Connected,Individual,Room-attached",0,0,0,1,923.0,Maharashtra,Carpet Area
+Pune,Undri,Residential,3200000,Semi-Furnished,1,2,"Connected,Individual,Room-attached",0,0,0,0,495.0,Maharashtra,Carpet Area
+Pune,Pimpri,Residential,13266464,Semi-Furnished,3,3,Connected,0,0,0,1,1300.0,Maharashtra,Built-up Area
+Pune,Nibm Annexe,Residential,8200000,Semi-Furnished,2,2,"Connected,Room-attached",0,0,0,1,1100.0,Maharashtra,Built-up Area
+Pune,Undri,Residential,4000000,Semi-Furnished,1,2,Individual,0,0,0,2,750.0,Maharashtra,Built-up Area
+Pune,Manjri Budruk,Residential,10700000,Unfurnished,3,3,Individual,1,1,1,1,1053.0,Maharashtra,Carpet Area
+Pune,Ghorpadi,Residential,11000000,Unfurnished,2,2,Connected,1,1,1,1,1310.0,Maharashtra,Built-up Area
+Pune,Mohammadwadi,Residential,27000000,Unfurnished,3,4,Individual,0,0,0,2,2000.0,Maharashtra,Built-up Area
+Pune,Tathawade,Residential,19500000,Unfurnished,4,4,"Connected,Room-attached",1,1,1,2,1645.0,Maharashtra,Carpet Area
+Pune,Wanowrie,Residential,10000000,Unfurnished,2,2,Connected,0,0,0,3,1100.0,Maharashtra,Built-up Area
+Pune,Kondhwa,Residential,9500000,Unfurnished,3,3,Room-attached,1,1,1,1,1550.0,Maharashtra,Built-up Area
+Pune,Bavdhan,Residential,13500000,Unfurnished,3,3,Individual,0,0,0,4,1150.0,Maharashtra,Carpet Area
+Pune,Mohammadwadi,Residential,8700000,Unfurnished,2,2,Connected,0,1,1,1,1200.0,Maharashtra,Built-up Area
+Pune,Kondhwa Budruk,Residential,5200000,Unfurnished,2,2,"Connected,Individual,Room-attached",0,0,0,2,1100.0,Maharashtra,Built-up Area
+Pune,Handewadi,Residential,4300000,Unfurnished,2,2,Connected,1,0,1,1,1030.0,Maharashtra,Saleable Area
+Pune,Mohammadwadi,Residential,10000000,Unfurnished,3,3,Connected,0,0,0,1,1800.0,Maharashtra,Built-up Area
+Pune,Kharadi,Residential,13266464,Unfurnished,3,3,Connected,0,0,0,2,1080.0,Maharashtra,Carpet Area
+Pune,Nanded,Residential,10900000,Unfurnished,2,2,"Connected,Room-attached",1,1,1,1,1358.0,Maharashtra,Built-up Area
+Pune,Undri,Residential,5100000,Unfurnished,2,2,Individual,1,1,1,2,942.0,Maharashtra,Saleable Area
+Pune,Madhav Nagar,Residential,7200000,Unfurnished,2,2,Connected,1,1,1,1,745.0,Maharashtra,Carpet Area
+Pune,Balewadi,Residential,13266464,Unfurnished,2,2,"Individual,Room-attached",0,0,1,1,1081.0,Maharashtra,Saleable Area
+Pune,Satav Nagar,Residential,4500000,Unfurnished,2,2,"Connected,Individual,Room-attached",0,1,1,1,623.0,Maharashtra,Carpet Area
+Pune,Dhanori,Residential,7600000,Unfurnished,2,2,Connected,1,1,1,1,1154.0,Maharashtra,Saleable Area
+Pune,Hadapsar,Residential,9900000,Unfurnished,3,3,Connected,1,0,1,2,1660.0,Maharashtra,Carpet Area
+Pune,Undri,Residential,13266464,Semi-Furnished,2,2,Individual,0,0,0,2,816.0,Maharashtra,Built-up Area
+Pune,Hinjewadi,Residential,7150000,Semi-Furnished,2,2,Connected,0,0,0,1,702.0,Maharashtra,Carpet Area
+Pune,Wanowrie,Residential,11000000,Unfurnished,3,3,"Connected,Individual,Room-attached",0,0,0,2,1450.0,Maharashtra,Built-up Area
+Pune,Punawale,Residential,8000000,Unfurnished,2,2,Connected,1,1,1,2,789.0,Maharashtra,Carpet Area
+Pune,Kharadi,Residential,13266464,Unfurnished,2,2,Connected,1,1,1,1,800.0,Maharashtra,Carpet Area
+Pune,Hadapsar,Residential,12500000,Semi-Furnished,2,2,Connected,0,0,0,2,1011.0,Maharashtra,Saleable Area
+Pune,Baner,Residential,45000000,Furnished,3,3,"Connected,Individual",0,0,0,3,2200.0,Maharashtra,Built-up Area
+Pune,Wakad,Residential,5500000,Unfurnished,1,1,Individual,0,0,0,1,660.0,Maharashtra,Built-up Area
+Pune,Kondhwa,Residential,10000000,Unfurnished,3,3,Connected,0,0,0,2,1455.0,Maharashtra,Built-up Area
+Pune,Sinhagad,Residential,10800000,Unfurnished,2,2,"Connected,Room-attached",0,0,0,1,1190.0,Maharashtra,Built-up Area
+Pune,Wanwadi,Residential,9500000,Unfurnished,2,2,"Individual,Room-attached",0,0,1,3,1070.0,Maharashtra,Saleable Area
+Pune,Undri,Residential,2400000,Unfurnished,1,1,Individual,0,0,0,2,625.0,Maharashtra,Saleable Area
+Pune,Nibm,Residential,4700000,Semi-Furnished,2,2,Room-attached,0,0,0,0,850.0,Maharashtra,Built-up Area
+Pune,Nibm Road,Residential,16500000,Unfurnished,3,3,Connected,1,1,1,1,1200.0,Maharashtra,Carpet Area
+Pune,Adarsh Colony,Residential,13266464,Semi-Furnished,1,1,Connected,0,0,0,1,550.0,Maharashtra,Carpet Area
+Pune,Sinhagad Road,Residential,27600000,Unfurnished,4,5,Connected,0,0,0,3,1473.0,Maharashtra,Carpet Area
+Pune,Mohammadwadi,Residential,7500000,Semi-Furnished,2,2,Connected,0,0,0,1,1150.0,Maharashtra,Saleable Area
+Pune,Thergaon,Residential,13266464,Unfurnished,2,2,Connected,1,0,1,1,900.0,Maharashtra,Built-up Area
+Pune,Ambegaon Budruk,Residential,5700000,Furnished,2,2,Connected,0,0,0,1,699.0,Maharashtra,Carpet Area
+Pune,Nanded,Residential,10800000,Unfurnished,2,2,"Connected,Room-attached",1,1,1,1,1358.0,Maharashtra,Built-up Area
+Pune,Nibm Road,Residential,18500000,Semi-Furnished,3,3,Individual,0,0,0,4,2200.0,Maharashtra,Built-up Area
+Pune,Vishrantwadi,Residential,8500000,Furnished,2,2,Connected,0,0,0,1,950.0,Maharashtra,Built-up Area
+Pune,Kharadi,Residential,15600000,Unfurnished,2,3,Individual,1,1,1,1,1237.0,Maharashtra,Carpet Area
+Pune,Ambegaon Budruk,Residential,10500000,Unfurnished,2,3,Connected,1,1,1,2,837.0,Maharashtra,Carpet Area
+Pune,Mundhwa,Residential,9700000,Unfurnished,2,2,Connected,1,1,1,0,821.0,Maharashtra,Carpet Area
+Pune,Wanowrie,Residential,36000000,Unfurnished,4,4,Connected,1,1,1,1,5000.0,Maharashtra,Built-up Area
+Pune,Kalyani Nagar,Residential,35000000,Furnished,4,5,Individual,0,0,0,2,2300.0,Maharashtra,Saleable Area
+Pune,Nanded,Residential,12800000,Unfurnished,3,2,"Connected,Room-attached",1,1,1,2,1221.0,Maharashtra,Carpet Area
+Pune,Mohammadwadi,Residential,12000000,Unfurnished,3,3,Connected,0,0,0,1,1650.0,Maharashtra,Built-up Area
+Pune,Undri,Residential,2430000,Unfurnished,2,2,Individual,0,0,1,1,630.0,Maharashtra,Saleable Area
+Pune,Sinhagad,Residential,3800000,Unfurnished,1,1,Individual,1,0,1,0,585.0,Maharashtra,Saleable Area
+Pune,Hadapsar,Residential,5550000,Furnished,2,2,Connected,0,0,0,1,1055.0,Maharashtra,Built-up Area
+Pune,Dhanori,Residential,5300000,Unfurnished,2,2,Room-attached,1,1,1,1,687.0,Maharashtra,Saleable Area
+Pune,Mohammadwadi,Residential,8700000,Semi-Furnished,2,2,Individual,0,0,0,2,881.0,Maharashtra,Carpet Area
+Pune,Mohammadwadi,Residential,8700000,Unfurnished,2,2,Connected,1,1,1,1,881.0,Maharashtra,Carpet Area
+Pune,Pimple Nilakh,Residential,10000000,Semi-Furnished,3,3,"Connected,Room-attached",0,0,0,2,950.0,Maharashtra,Built-up Area
+Pune,Handewadi,Residential,6600000,Semi-Furnished,2,2,Connected,0,0,0,0,662.0,Maharashtra,Carpet Area
+Pune,Nibm Annexe,Residential,5100000,Semi-Furnished,2,2,"Connected,Individual,Room-attached",0,0,0,1,700.0,Maharashtra,Saleable Area
+Pune,Kharadi,Residential,13266464,Unfurnished,3,3,Connected,1,1,1,1,1250.0,Maharashtra,Carpet Area
+Pune,Magarpatta,Residential,22500000,Semi-Furnished,3,3,Individual,0,0,0,2,1475.0,Maharashtra,Carpet Area
+Pune,Ambegaon Budruk,Residential,8400000,Furnished,2,3,Connected,0,0,0,2,1202.0,Maharashtra,Saleable Area
+Pune,Bavdhan,Residential,14600000,Semi-Furnished,3,3,Connected,0,0,0,2,1100.0,Maharashtra,Built-up Area
+Pune,Balewadi,Residential,11500000,Unfurnished,2,2,"Connected,Room-attached",1,1,1,2,900.0,Maharashtra,Saleable Area
+Pune,Mohammadwadi,Residential,9300000,Furnished,2,2,"Connected,Individual,Room-attached",0,0,0,3,2500.0,Maharashtra,Built-up Area
+Pune,Tathawade,Residential,12700000,Unfurnished,3,3,Connected,0,1,1,1,1078.0,Maharashtra,Carpet Area
+Pune,Undri,Residential,5000000,Semi-Furnished,2,2,Connected,0,0,0,1,1097.0,Maharashtra,Saleable Area
+Pune,Thergaon,Residential,13266464,Unfurnished,2,2,Connected,1,0,1,1,866.0,Maharashtra,Built-up Area
+Pune,Manjri Budruk,Residential,7650000,Unfurnished,2,2,Individual,1,1,1,1,757.0,Maharashtra,Carpet Area
+Pune,Mohammadwadi,Residential,6800000,Semi-Furnished,2,2,Individual,0,0,0,2,1202.0,Maharashtra,Saleable Area
+Pune,Mohammadwadi,Residential,5500000,Unfurnished,2,2,Connected,1,1,1,1,945.0,Maharashtra,Built-up Area
+Pune,Kharadi,Residential,13266464,Semi-Furnished,3,3,Connected,0,0,0,1,1587.0,Maharashtra,Saleable Area
+Pune,Mohammadwadi,Residential,37500000,Unfurnished,3,3,"Connected,Room-attached",1,1,1,3,2300.0,Maharashtra,Built-up Area
+Pune,Magarpatta,Residential,30000000,Unfurnished,4,4,Individual,1,1,1,1,1874.0,Maharashtra,Carpet Area
+Pune,Wanowrie,Residential,4800000,Unfurnished,1,1,Connected,0,0,0,2,650.0,Maharashtra,Saleable Area
+Pune,Undri,Residential,8000000,Unfurnished,2,2,Individual,1,1,1,1,838.0,Maharashtra,Carpet Area
+Pune,Magarpatta,Residential,23800000,Unfurnished,3,3,Individual,0,0,0,3,1471.0,Maharashtra,Carpet Area
+Pune,Thergaon,Residential,7500000,Unfurnished,2,2,Connected,1,0,1,1,1052.0,Maharashtra,Built-up Area
+Pune,Wanwadi,Residential,47500000,Furnished,4,4,"Connected,Room-attached",0,0,0,2,2175.0,Maharashtra,Built-up Area
+Pune,Bavdhan,Residential,11200000,Unfurnished,2,2,Individual,1,0,0,3,1072.0,Maharashtra,Saleable Area
+Pune,Kondhwa,Residential,6300000,Unfurnished,2,2,Individual,0,0,0,1,1100.0,Maharashtra,Built-up Area
+Pune,Wanwadi,Residential,47500000,Semi-Furnished,4,4,"Connected,Room-attached",0,0,0,3,2175.0,Maharashtra,Built-up Area
+Pune,Bavdhan,Residential,26500000,Unfurnished,5,4,Connected,0,0,0,6,2400.0,Maharashtra,Carpet Area
+Pune,Hinjewadi,Residential,7500000,Semi-Furnished,2,2,Connected,0,0,0,1,668.0,Maharashtra,Carpet Area
+Pune,Tathawade,Residential,14800000,Unfurnished,3,3,Connected,1,1,1,1,1277.0,Maharashtra,Carpet Area
+Pune,Mohammadwadi,Residential,5800000,Unfurnished,2,2,Individual,1,0,1,1,714.0,Maharashtra,Carpet Area
+Pune,Undri,Residential,3100000,Semi-Furnished,1,2,Room-attached,0,0,0,1,625.0,Maharashtra,Saleable Area
+Pune,Magarpatta,Residential,13266464,Unfurnished,3,3,Individual,0,0,0,1,1464.0,Maharashtra,Carpet Area
+Pune,Hadapsar,Residential,10900000,Unfurnished,2,3,Individual,1,1,1,2,937.0,Maharashtra,Carpet Area
+Pune,Nibm,Residential,4700000,Semi-Furnished,2,1,Room-attached,0,0,0,1,850.0,Maharashtra,Built-up Area
+Pune,Hadapsar,Residential,6500000,Furnished,2,2,Connected,0,0,0,1,1080.0,Maharashtra,Built-up Area
+Pune,Kharadi,Residential,13266464,Unfurnished,3,3,Connected,1,1,1,1,1060.0,Maharashtra,Carpet Area
+Pune,Bavdhan,Residential,9500000,Semi-Furnished,2,2,"Connected,Room-attached",0,0,0,1,812.0,Maharashtra,Carpet Area
+Pune,Kondhwa,Residential,3800000,Semi-Furnished,1,1,Connected,0,0,0,1,630.0,Maharashtra,Built-up Area
+Pune,Undri,Residential,5800000,Unfurnished,2,2,Individual,1,0,1,2,885.0,Maharashtra,Built-up Area
+Pune,Sasane Nagar,Residential,7200000,Semi-Furnished,2,2,Connected,0,0,0,1,1044.0,Maharashtra,Built-up Area
+Pune,Tingre Nagar,Residential,8500000,Semi-Furnished,2,2,Connected,0,0,0,2,1010.0,Maharashtra,Built-up Area
+Pune,Sinhagad Road,Residential,10800000,Unfurnished,2,2,"Connected,Room-attached",1,1,1,1,1190.0,Maharashtra,Built-up Area
+Pune,Uday Baug,Residential,12500000,Unfurnished,2,2,Connected,0,0,0,1,1166.0,Maharashtra,Built-up Area
+Pune,Lohegaon,Residential,8000000,Semi-Furnished,2,3,Individual,0,0,0,1,1002.0,Maharashtra,Carpet Area
+Pune,Ambegaon Budruk,Residential,11000000,Unfurnished,3,3,Connected,1,1,1,2,1450.0,Maharashtra,Built-up Area
+Pune,Nibm,Residential,11500000,Unfurnished,2,3,Connected,0,0,1,1,1000.0,Maharashtra,Built-up Area
+Pune,Undri,Residential,13266464,Semi-Furnished,2,2,Individual,0,0,0,2,942.0,Maharashtra,Saleable Area
+Pune,Sinhagad Road,Residential,8000000,Semi-Furnished,2,2,Individual,0,0,0,1,938.0,Maharashtra,Saleable Area
+Pune,Kharadi,Residential,19000000,Unfurnished,3,3,Individual,1,1,1,1,1203.0,Maharashtra,Carpet Area
+Pune,Hadapsar,Residential,3200000,Unfurnished,2,1,Connected,0,0,1,1,500.0,Maharashtra,Saleable Area
+Pune,Sinhagad,Residential,13000000,Unfurnished,3,3,"Connected,Room-attached",1,0,1,2,1458.0,Maharashtra,Built-up Area
+Pune,Kharadi,Residential,13266464,Unfurnished,3,3,Connected,1,1,1,1,1820.0,Maharashtra,Saleable Area
+Pune,Kharadi,Residential,9500000,Unfurnished,2,2,Connected,1,1,1,2,1220.0,Maharashtra,Saleable Area
+Pune,Pimple Nilakh,Residential,13266464,Semi-Furnished,2,2,Connected,0,0,0,2,1180.0,Maharashtra,Saleable Area
+Pune,Hadapsar,Residential,6350000,Unfurnished,2,2,Individual,0,0,1,1,782.0,Maharashtra,Carpet Area
+Pune,Baner Bypass Highway,Residential,16000000,Unfurnished,3,3,Room-attached,0,0,0,2,1312.0,Maharashtra,Carpet Area
+Pune,Viman Nagar,Residential,12800000,Furnished,1,2,"Connected,Individual",0,0,0,4,1050.0,Maharashtra,Built-up Area
+Pune,Ravet,Residential,13266464,Unfurnished,2,2,Connected,0,1,1,1,895.0,Maharashtra,Built-up Area
+Pune,Tathawade,Residential,16000000,Unfurnished,4,3,Connected,0,1,1,2,1451.0,Maharashtra,Carpet Area
+Pune,Wanowrie,Residential,27000000,Unfurnished,4,4,"Connected,Individual,Room-attached",1,1,1,2,2399.0,Maharashtra,Carpet Area
+Pune,Shivajinagar,Residential,37800000,Unfurnished,4,4,Connected,1,1,1,2,2217.0,Maharashtra,Carpet Area
+Pune,Manjri Budruk,Residential,7450000,Unfurnished,2,2,Individual,1,1,1,1,757.0,Maharashtra,Carpet Area
+Pune,Salunke Vihar,Residential,9500000,Unfurnished,2,2,Connected,0,1,1,1,1128.0,Maharashtra,Built-up Area
+Pune,Kothrud,Residential,21000000,Furnished,2,3,Individual,0,0,0,2,1250.0,Maharashtra,Built-up Area
+Pune,Thergaon,Residential,4400000,Unfurnished,1,2,Connected,0,0,0,1,587.0,Maharashtra,Built-up Area
+Pune,Balewadi,Residential,12500000,Unfurnished,2,2,"Individual,Room-attached",0,0,0,3,900.0,Maharashtra,Carpet Area
+Pune,Wanowrie,Residential,12000000,Unfurnished,2,2,Connected,1,0,1,1,1300.0,Maharashtra,Built-up Area
+Pune,Sinhagad,Residential,8990000,Unfurnished,2,2,"Connected,Room-attached",0,0,0,1,743.0,Maharashtra,Built-up Area
+Pune,Nanded,Residential,12700000,Unfurnished,3,3,"Connected,Room-attached",1,1,1,2,1221.0,Maharashtra,Built-up Area
+Pune,Hinjewadi,Residential,8000000,Semi-Furnished,2,2,Connected,0,0,0,1,900.0,Maharashtra,Built-up Area
+Pune,Baner,Residential,47500000,Semi-Furnished,4,5,Connected,0,0,0,3,2000.0,Maharashtra,Carpet Area
+Pune,Vadgaon Budruk,Residential,10300000,Semi-Furnished,3,3,Connected,0,0,0,2,1080.0,Maharashtra,Carpet Area
+Pune,Kondhwa,Residential,6650000,Unfurnished,2,1,"Connected,Individual",1,1,1,2,1032.0,Maharashtra,Saleable Area
+Pune,Sus,Residential,13500000,Furnished,3,2,Connected,0,0,0,0,1106.0,Maharashtra,Built-up Area
+Pune,Kondhwa,Residential,15000000,Unfurnished,3,3,Connected,1,1,1,1,1600.0,Maharashtra,Built-up Area
+Pune,Baner,Residential,22500000,Semi-Furnished,3,3,"Connected,Room-attached",0,0,0,3,2353.0,Maharashtra,Carpet Area
+Pune,Hadapsar,Residential,13266464,Unfurnished,2,2,Individual,1,1,1,1,834.0,Maharashtra,Carpet Area
+Pune,Manjri Budruk,Residential,13266464,Unfurnished,2,2,Individual,1,1,1,1,757.0,Maharashtra,Carpet Area
+Pune,Mundhwa,Residential,13266464,Unfurnished,2,1,Individual,1,1,1,1,605.0,Maharashtra,Carpet Area
+Pune,Dhanori,Residential,13266464,Semi-Furnished,2,1,Individual,0,0,0,1,501.0,Maharashtra,Carpet Area
+Pune,Katraj,Residential,12500000,Semi-Furnished,3,3,Connected,0,0,0,2,1350.0,Maharashtra,Built-up Area
+Pune,Wagholi,Residential,5800000,Semi-Furnished,2,2,Connected,0,0,0,1,707.0,Maharashtra,Carpet Area
+Pune,Undri,Residential,13500000,Unfurnished,3,3,Connected,1,1,1,1,1750.0,Maharashtra,Built-up Area
+Pune,Thergaon,Residential,4600000,Unfurnished,1,2,Connected,1,0,1,1,714.0,Maharashtra,Built-up Area
+Pune,Kharadi,Residential,13266464,Semi-Furnished,3,3,Connected,1,0,1,1,1603.0,Maharashtra,Saleable Area
+Pune,Camp,Residential,12500000,Furnished,2,2,Connected,0,0,0,1,1250.0,Maharashtra,Built-up Area
+Pune,Kondhwa,Residential,11000000,Unfurnished,3,3,Connected,1,1,1,1,1650.0,Maharashtra,Built-up Area
+Pune,Tathawade,Residential,7700000,Semi-Furnished,2,2,Connected,0,0,0,1,829.0,Maharashtra,Carpet Area
+Pune,Dhanori,Residential,8500000,Semi-Furnished,3,3,Connected,0,0,0,1,1350.0,Maharashtra,Built-up Area
+Pune,Viman Nagar,Residential,26800000,Semi-Furnished,4,4,Individual,0,0,0,2,1970.0,Maharashtra,Saleable Area
+Pune,Kharadi,Residential,11000000,Semi-Furnished,2,2,Individual,0,0,0,1,856.0,Maharashtra,Carpet Area
+Pune,Moshi,Residential,6750000,Unfurnished,2,2,Connected,1,1,1,1,880.0,Maharashtra,Carpet Area
+Pune,Mahalunge,Residential,13266464,Furnished,2,2,Connected,0,0,0,1,1200.0,Maharashtra,Built-up Area
+Pune,Hadapsar,Residential,16400000,Unfurnished,3,3,Individual,1,1,1,1,1181.0,Maharashtra,Carpet Area
+Pune,Manjri Budruk,Residential,10500000,Unfurnished,2,3,Individual,1,1,1,1,1053.0,Maharashtra,Carpet Area
+Pune,Mohammadwadi,Residential,17500000,Furnished,3,3,Connected,0,0,0,3,2150.0,Maharashtra,Built-up Area
+Pune,Sus,Residential,13500000,Furnished,3,2,Connected,0,0,0,0,1102.0,Maharashtra,Built-up Area
+Pune,Kondhwa,Residential,3650000,Semi-Furnished,1,1,Connected,0,0,0,1,610.0,Maharashtra,Built-up Area
+Pune,Wanowrie,Residential,13000000,Unfurnished,3,3,Connected,0,0,1,1,1600.0,Maharashtra,Saleable Area
+Pune,Kalyani Nagar,Residential,21800000,Unfurnished,3,4,Connected,1,1,1,2,1609.0,Maharashtra,Carpet Area
+Pune,Undri,Residential,13266464,Furnished,2,2,Individual,0,0,0,2,720.0,Maharashtra,Carpet Area
+Pune,Mundhwa,Residential,9500000,Semi-Furnished,2,2,Connected,0,0,0,2,824.0,Maharashtra,Saleable Area
+Pune,Undri,Residential,4500000,Semi-Furnished,2,2,"Connected,Individual",0,0,0,2,811.0,Maharashtra,Carpet Area
+Pune,Hadapsar,Residential,8600000,Unfurnished,3,3,Connected,0,0,0,1,938.0,Maharashtra,Carpet Area
+Pune,Balewadi,Residential,11500000,Unfurnished,2,2,Individual,0,0,0,1,1100.0,Maharashtra,Built-up Area
+Pune,Balewadi,Residential,22000000,Semi-Furnished,3,3,"Connected,Room-attached",0,0,0,3,1440.0,Maharashtra,Built-up Area
+Pune,Mohammadwadi,Residential,22000000,Furnished,4,4,"Connected,Individual,Room-attached",0,0,0,3,3500.0,Maharashtra,Built-up Area
+Pune,Madhav Nagar,Residential,6500000,Unfurnished,2,2,Connected,1,1,1,1,850.0,Maharashtra,Carpet Area
+Pune,Bibwewadi,Residential,18000000,Furnished,3,3,"Connected,Room-attached",0,0,0,2,1400.0,Maharashtra,Built-up Area
+Pune,Kondhwa,Residential,21000000,Unfurnished,4,4,Connected,1,1,1,1,2200.0,Maharashtra,Built-up Area
+Pune,Thergaon,Residential,4400000,Unfurnished,1,2,Connected,0,0,0,1,445.0,Maharashtra,Built-up Area
+Pune,Hinjewadi,Residential,6900000,Semi-Furnished,2,2,Connected,0,0,0,1,563.0,Maharashtra,Carpet Area
+Pune,Hinjewadi,Residential,13266464,Unfurnished,2,2,Connected,1,1,1,1,800.0,Maharashtra,Carpet Area
+Pune,Hinjewadi,Residential,6000000,Unfurnished,1,1,Connected,1,1,1,2,395.0,Maharashtra,Carpet Area
+Pune,Nanded,Residential,14200000,Unfurnished,3,3,"Connected,Room-attached",0,0,0,2,1316.0,Maharashtra,Carpet Area
+Pune,Sus,Residential,9550000,Unfurnished,3,3,Individual,1,0,1,1,1064.0,Maharashtra,Built-up Area
+Pune,Dhanori,Residential,4500000,Unfurnished,1,1,Connected,0,1,1,1,644.0,Maharashtra,Saleable Area
+Pune,Undri,Residential,6000000,Unfurnished,2,2,Connected,0,0,1,1,1016.0,Maharashtra,Carpet Area
+Pune,Manjri Budruk,Residential,10400000,Unfurnished,2,3,Individual,1,1,1,1,1053.0,Maharashtra,Carpet Area
+Pune,Bavdhan,Residential,9400000,Unfurnished,2,2,Individual,0,0,0,3,875.0,Maharashtra,Carpet Area
+Pune,Vishrantwadi,Residential,7500000,Furnished,2,2,Connected,0,0,0,1,893.0,Maharashtra,Built-up Area
+Pune,Hinjewadi,Residential,7200000,Semi-Furnished,2,2,Connected,0,0,0,2,750.0,Maharashtra,Built-up Area
+Pune,Ravet,Residential,5700000,Semi-Furnished,2,2,Connected,0,0,0,1,688.0,Maharashtra,Built-up Area
+Pune,Sinhagad Road,Residential,8800000,Unfurnished,2,2,"Connected,Room-attached",1,1,1,1,743.0,Maharashtra,Built-up Area
+Pune,Punawale,Residential,5700000,Semi-Furnished,2,2,"Connected,Room-attached",0,0,0,1,690.0,Maharashtra,Carpet Area
+Pune,Mundhwa,Residential,17500000,Unfurnished,3,3,Individual,0,0,0,2,1312.0,Maharashtra,Carpet Area
+Pune,Amanora Park Town,Residential,23000000,Semi-Furnished,3,3,Connected,0,0,0,1,1700.0,Maharashtra,Built-up Area
+Pune,Kharadi,Residential,13266464,Semi-Furnished,2,2,Connected,1,1,1,1,1000.0,Maharashtra,Carpet Area
+Pune,Punawale,Residential,6200000,Unfurnished,2,2,Connected,1,1,1,1,675.0,Maharashtra,Carpet Area
+Pune,Wagholi,Residential,6500000,Semi-Furnished,2,2,Room-attached,0,0,0,2,930.0,Maharashtra,Built-up Area
+Pune,Mohammadwadi,Residential,9500000,Unfurnished,2,3,"Individual,Room-attached",0,0,0,2,1335.0,Maharashtra,Saleable Area
+Pune,Thergaon,Residential,6300000,Unfurnished,2,2,Connected,1,0,1,1,986.0,Maharashtra,Built-up Area
+Pune,Undri,Residential,13266464,Semi-Furnished,2,2,Connected,0,0,0,1,1032.0,Maharashtra,Saleable Area
+Pune,Kondhwa,Residential,13266464,Furnished,3,3,Room-attached,0,0,0,3,2135.0,Maharashtra,Saleable Area
+Pune,Wakad,Residential,7300000,Unfurnished,2,2,Connected,1,1,1,1,733.0,Maharashtra,Carpet Area
+Pune,Dhanori,Residential,7200000,Unfurnished,2,2,Connected,1,1,1,1,743.0,Maharashtra,Carpet Area
+Pune,Mundhwa,Residential,14200000,Unfurnished,2,3,Individual,1,1,1,1,1055.0,Maharashtra,Carpet Area
+Pune,Magarpatta,Residential,23500000,Furnished,3,2,Connected,0,0,0,0,1471.0,Maharashtra,Carpet Area
+Pune,Nanded,Residential,14000000,Unfurnished,3,3,Room-attached,1,0,1,1,1558.0,Maharashtra,Built-up Area
+Pune,Sinhagad Road,Residential,7500000,Unfurnished,2,2,"Connected,Room-attached",0,1,1,1,938.0,Maharashtra,Built-up Area
+Pune,Hinjewadi,Residential,13266464,Unfurnished,2,2,Connected,1,1,1,2,862.0,Maharashtra,Carpet Area
+Pune,Kharadi,Residential,13000000,Unfurnished,3,3,Individual,1,1,1,2,1064.0,Maharashtra,Carpet Area
+Pune,Hinjewadi,Residential,6900000,Semi-Furnished,2,2,Connected,0,0,0,1,550.0,Maharashtra,Built-up Area
+Pune,Balewadi,Residential,13266464,Unfurnished,2,2,Connected,1,1,1,2,830.0,Maharashtra,Carpet Area
+Pune,Balewadi,Residential,11000000,Semi-Furnished,2,2,Connected,0,0,0,1,790.0,Maharashtra,Carpet Area
+Pune,Tathawade,Residential,10000000,Unfurnished,2,2,Connected,0,1,1,1,730.0,Maharashtra,Carpet Area
+Pune,Kharadi,Residential,13266464,Semi-Furnished,3,3,Connected,1,1,1,1,1550.0,Maharashtra,Saleable Area
+Pune,Nanded,Residential,7500000,Unfurnished,2,2,"Connected,Room-attached",1,1,1,1,973.0,Maharashtra,Built-up Area
+Pune,Magarpatta,Residential,29900000,Unfurnished,3,3,Individual,1,1,1,1,1696.0,Maharashtra,Carpet Area
+Pune,Kharadi,Residential,10300000,Furnished,2,2,Individual,0,0,0,1,1050.0,Maharashtra,Built-up Area
+Pune,Lohegaon,Residential,4800000,Semi-Furnished,2,2,Connected,0,0,0,1,800.0,Maharashtra,Built-up Area
+Pune,Kalyani Nagar,Residential,6700000,Semi-Furnished,2,2,Connected,0,0,0,2,600.0,Maharashtra,Built-up Area
+Pune,Kalyani Nagar,Residential,12100000,Unfurnished,2,2,Connected,1,1,1,1,807.0,Maharashtra,Carpet Area
+Pune,Nanded,Residential,9200000,Unfurnished,2,2,"Connected,Room-attached",1,1,1,1,1041.0,Maharashtra,Built-up Area
+Pune,Pashan,Residential,48000000,Semi-Furnished,2,4,Connected,0,0,0,3,2500.0,Maharashtra,Saleable Area
+Pune,Kharadi,Residential,9000000,Semi-Furnished,2,2,Individual,0,0,0,2,748.0,Maharashtra,Carpet Area
+Pune,Mohammadwadi,Residential,43000000,Furnished,2,2,"Connected,Individual,Room-attached",0,0,0,3,4560.0,Maharashtra,Saleable Area
+Pune,Mundhwa,Residential,9200000,Unfurnished,1,2,Individual,0,0,1,2,615.0,Maharashtra,Saleable Area
+Pune,Nanded,Residential,13000000,Unfurnished,3,3,"Connected,Room-attached",1,1,0,1,1558.0,Maharashtra,Built-up Area
+Pune,Hinjewadi,Residential,7800000,Semi-Furnished,2,2,Connected,0,0,0,1,1250.0,Maharashtra,Built-up Area
+Pune,Kondhwa,Residential,6900000,Unfurnished,2,2,Connected,1,1,1,1,1300.0,Maharashtra,Saleable Area
+Pune,Mohammadwadi,Residential,13266464,Semi-Furnished,2,2,Individual,0,0,0,1,640.0,Maharashtra,Saleable Area
+Pune,Sus,Residential,7200000,Unfurnished,2,2,"Connected,Room-attached",0,0,0,2,760.0,Maharashtra,Carpet Area
+Pune,Mundhwa,Residential,13000000,Semi-Furnished,3,3,Connected,0,0,0,2,1530.0,Maharashtra,Saleable Area
+Pune,Kalyani Nagar,Residential,7750000,Unfurnished,2,2,Connected,0,1,1,1,621.0,Maharashtra,Carpet Area
+Pune,Sopan Baug,Residential,47500000,Unfurnished,4,4,Connected,1,0,0,1,4000.0,Maharashtra,Built-up Area
+Pune,Kharadi,Residential,6500000,Unfurnished,2,2,Individual,0,0,1,1,980.0,Maharashtra,Built-up Area
+Pune,Azad Nagar,Residential,8800000,Unfurnished,2,2,Connected,0,0,0,1,1175.0,Maharashtra,Built-up Area
+Pune,Wadgaon Sheri,Residential,25000000,Furnished,3,3,"Connected,Individual",0,0,0,6,1765.0,Maharashtra,Built-up Area
+Pune,Sinhagad Road,Residential,7500000,Unfurnished,2,2,"Connected,Room-attached",0,0,0,1,938.0,Maharashtra,Built-up Area
+Pune,Kharadi,Residential,25000000,Semi-Furnished,3,5,Individual,0,0,0,2,1720.0,Maharashtra,Built-up Area
+Pune,Nanded,Residential,6700000,Unfurnished,2,2,"Connected,Room-attached",1,1,1,1,872.0,Maharashtra,Built-up Area
+Pune,Ravet,Residential,25100000,Semi-Furnished,5,4,"Connected,Individual,Room-attached",0,0,0,3,3200.0,Maharashtra,Built-up Area
+Pune,Viman Nagar,Residential,9900000,Furnished,2,2,Individual,0,0,0,2,1100.0,Maharashtra,Built-up Area
+Pune,Undri,Residential,2400000,Unfurnished,2,2,Connected,1,0,1,2,625.0,Maharashtra,Saleable Area
+Pune,Kondhwa,Residential,25500000,Semi-Furnished,3,3,Individual,0,0,0,2,2350.0,Maharashtra,Built-up Area
+Pune,Mundhwa,Residential,8500000,Semi-Furnished,2,2,Connected,0,0,0,2,1120.0,Maharashtra,Saleable Area
+Pune,Magarpatta,Residential,28800000,Unfurnished,5,5,Individual,0,1,0,2,2008.0,Maharashtra,Carpet Area
+Pune,Kondhwa,Residential,7950000,Unfurnished,2,2,Connected,0,1,1,1,1150.0,Maharashtra,Built-up Area
+Pune,Hadapsar,Residential,10900000,Unfurnished,2,2,Individual,1,1,1,1,844.0,Maharashtra,Carpet Area
+Pune,Dhanori,Residential,13266464,Unfurnished,2,1,Connected,1,1,1,1,501.0,Maharashtra,Carpet Area
+Pune,Sinhagad Road,Residential,7300000,Unfurnished,2,2,"Connected,Room-attached",1,1,1,1,938.0,Maharashtra,Built-up Area
+Pune,Nanded,Residential,6800000,Unfurnished,2,2,"Connected,Room-attached",1,0,1,1,872.0,Maharashtra,Built-up Area
+Pune,Wanwadi,Residential,8500000,Unfurnished,2,2,Individual,0,0,0,2,1050.0,Maharashtra,Built-up Area
+Pune,Sus,Residential,9000000,Unfurnished,2,3,"Connected,Room-attached",1,0,1,3,962.0,Maharashtra,Carpet Area
+Pune,Baner,Residential,36500000,Furnished,3,3,Connected,0,0,0,2,1536.0,Maharashtra,Carpet Area
+Pune,Thergaon,Residential,4400000,Unfurnished,1,2,Connected,1,0,1,1,460.0,Maharashtra,Built-up Area
+Pune,Mohammadwadi,Residential,20000000,Semi-Furnished,3,3,"Connected,Individual,Room-attached",0,0,0,3,2000.0,Maharashtra,Built-up Area
+Pune,Sinhagad Road,Residential,11000000,Unfurnished,2,2,Connected,1,1,1,1,1158.0,Maharashtra,Saleable Area
+Pune,Sinhagad Road,Residential,7500000,Unfurnished,2,2,"Connected,Room-attached",0,0,1,1,938.0,Maharashtra,Built-up Area
+Pune,Dhanori,Residential,13266464,Semi-Furnished,2,4,Individual,0,0,0,2,1021.0,Maharashtra,Carpet Area
+Pune,Magarpatta,Residential,23500000,Furnished,3,2,Connected,0,0,0,0,1470.0,Maharashtra,Carpet Area
+Pune,Dhanori,Residential,14500000,Unfurnished,3,3,"Individual,Room-attached",1,1,1,2,1258.0,Maharashtra,Built-up Area
+Pune,Mundhwa,Residential,8500000,Semi-Furnished,2,2,Connected,0,0,0,2,750.0,Maharashtra,Saleable Area
+Pune,Ravet,Residential,8000000,Unfurnished,2,2,Connected,0,0,1,1,1180.0,Maharashtra,Built-up Area
+Pune,Tathawade,Residential,10900000,Unfurnished,3,2,Connected,1,1,1,2,943.0,Maharashtra,Carpet Area
+Pune,Kasarwadi,Residential,6700000,Unfurnished,2,2,Connected,0,0,1,1,1100.0,Maharashtra,Built-up Area
+Pune,Viman Nagar,Residential,7800000,Semi-Furnished,1,2,Connected,0,0,0,1,850.0,Maharashtra,Built-up Area
+Pune,Keshav Nagar,Residential,14000000,Semi-Furnished,3,3,Individual,0,0,0,1,1315.0,Maharashtra,Carpet Area
+Pune,Mundhwa,Residential,8000000,Semi-Furnished,2,2,Connected,0,0,0,2,824.0,Maharashtra,Saleable Area
+Pune,Moshi,Residential,3900000,Unfurnished,2,2,Connected,1,1,1,1,660.0,Maharashtra,Carpet Area
+Pune,Mohammadwadi,Residential,13000000,Unfurnished,3,3,Connected,1,1,1,1,1230.0,Maharashtra,Carpet Area
+Pune,Mundhwa,Residential,7600000,Unfurnished,2,1,Individual,1,1,1,1,605.0,Maharashtra,Carpet Area
+Pune,Salunke Vihar,Residential,12000000,Unfurnished,3,3,Connected,1,1,1,1,1500.0,Maharashtra,Built-up Area
+Pune,Undri,Residential,5500000,Furnished,2,2,"Connected,Individual",0,0,0,3,701.0,Maharashtra,Carpet Area
+Pune,Mamurdi,Residential,13266464,Semi-Furnished,2,2,Individual,0,0,0,0,569.0,Maharashtra,Carpet Area
+Pune,Thergaon,Residential,13266464,Unfurnished,1,2,Connected,0,0,0,1,622.0,Maharashtra,Built-up Area
+Pune,Dhanori,Residential,4500000,Semi-Furnished,1,1,Connected,0,0,0,1,700.0,Maharashtra,Built-up Area
+Pune,Sus,Residential,6400000,Unfurnished,2,2,"Connected,Room-attached",1,0,1,1,682.0,Maharashtra,Carpet Area
+Pune,Thergaon,Residential,13266464,Unfurnished,1,2,Connected,1,0,1,1,726.0,Maharashtra,Built-up Area
+Pune,Thergaon,Residential,7500000,Unfurnished,2,2,Connected,1,0,1,1,972.0,Maharashtra,Built-up Area
+Pune,Kharadi,Residential,37000000,Semi-Furnished,3,4,Individual,0,0,0,2,2380.0,Maharashtra,Built-up Area
+Pune,Kharadi,Residential,13266464,Unfurnished,2,2,Connected,0,0,0,1,936.0,Maharashtra,Carpet Area
+Pune,Nibm,Residential,13500000,Unfurnished,3,3,Connected,0,1,0,1,1500.0,Maharashtra,Built-up Area
+Pune,Mundhwa,Residential,7550000,Unfurnished,2,1,Individual,1,1,1,1,605.0,Maharashtra,Carpet Area
+Pune,Kondhwa,Residential,6500000,Unfurnished,2,2,"Connected,Room-attached",1,0,1,1,1600.0,Maharashtra,Built-up Area
+Pune,Nanded,Residential,13000000,Unfurnished,3,3,"Connected,Room-attached",1,1,1,2,1558.0,Maharashtra,Built-up Area
+Pune,Hadapsar,Residential,11000000,Unfurnished,2,2,Connected,1,1,1,1,1510.0,Maharashtra,Saleable Area
+Pune,Undri,Residential,6800000,Semi-Furnished,2,2,Individual,0,0,0,2,755.0,Maharashtra,Carpet Area
+Pune,Manjri Budruk,Residential,14600000,Unfurnished,4,4,Individual,1,1,1,2,1520.0,Maharashtra,Carpet Area
+Pune,Mohammadwadi,Residential,7000000,Unfurnished,2,2,Connected,1,1,1,1,1202.0,Maharashtra,Saleable Area
+Pune,Kondhwa,Residential,14000000,Furnished,3,3,Connected,0,0,0,2,2300.0,Maharashtra,Built-up Area
+Pune,Baner,Residential,14800000,Unfurnished,2,2,Connected,1,1,1,1,925.0,Maharashtra,Carpet Area
+Pune,Manjri Budruk,Residential,7690000,Semi-Furnished,3,3,"Connected,Individual,Room-attached",0,0,0,2,1053.0,Maharashtra,Built-up Area
+Pune,State Bank Nagar,Residential,6700000,Unfurnished,2,2,"Connected,Room-attached",1,1,1,1,972.0,Maharashtra,Built-up Area
+Pune,Baner,Residential,41000000,Furnished,3,3,Connected,0,0,0,4,2950.0,Maharashtra,Saleable Area
+Pune,Hinjewadi,Residential,6500000,Unfurnished,2,1,Connected,1,1,1,2,508.0,Maharashtra,Carpet Area
+Pune,Kalyani Nagar,Residential,24800000,Semi-Furnished,4,5,Individual,0,0,0,2,1875.0,Maharashtra,Carpet Area
+Pune,Kharadi,Residential,9500000,Semi-Furnished,2,2,Individual,0,0,0,1,752.0,Maharashtra,Carpet Area
+Pune,Kondhwa,Residential,4000000,Unfurnished,1,1,Connected,1,0,1,1,700.0,Maharashtra,Saleable Area
+Pune,Balewadi,Residential,14000000,Unfurnished,3,3,Connected,0,0,0,2,1154.0,Maharashtra,Carpet Area
+Pune,Wagholi,Residential,4500000,Unfurnished,1,2,Individual,1,1,1,2,800.0,Maharashtra,Saleable Area
+Pune,Nanded,Residential,11000000,Unfurnished,3,3,"Connected,Room-attached",1,1,1,1,1358.0,Maharashtra,Built-up Area
+Pune,Tathawade,Residential,9300000,Unfurnished,2,2,Connected,0,0,0,1,812.0,Maharashtra,Carpet Area
+Pune,Kondhwa,Residential,3800000,Semi-Furnished,1,1,Connected,0,0,0,0,450.0,Maharashtra,Built-up Area
+Pune,Thergaon,Residential,4000000,Unfurnished,1,2,Connected,1,0,1,1,452.0,Maharashtra,Built-up Area
+Pune,Nibm,Residential,5500000,Furnished,2,2,"Connected,Individual,Room-attached",0,0,0,3,825.0,Maharashtra,Saleable Area
+Pune,Kalyani Nagar,Residential,40000000,Semi-Furnished,3,4,Individual,0,0,0,2,1400.0,Maharashtra,Carpet Area
+Pune,Mundhwa,Residential,13000000,Semi-Furnished,3,3,Connected,0,0,0,2,1070.0,Maharashtra,Saleable Area
+Pune,Sinhagad Road,Residential,9600000,Unfurnished,2,2,Individual,1,1,1,1,948.0,Maharashtra,Carpet Area
+Pune,Viman Nagar,Residential,18200000,Semi-Furnished,3,3,Room-attached,0,0,0,2,1550.0,Maharashtra,Built-up Area
+Pune,Kalyani Nagar,Residential,16500000,Semi-Furnished,3,2,Individual,0,0,0,1,1774.0,Maharashtra,Saleable Area
+Pune,Wanowrie,Residential,6500000,Unfurnished,2,2,Individual,0,1,1,1,950.0,Maharashtra,Built-up Area
+Pune,Mohammadwadi,Residential,7000000,Furnished,2,2,"Connected,Individual,Room-attached",0,0,0,2,1100.0,Maharashtra,Built-up Area
+Pune,Baner,Residential,37800000,Furnished,4,4,Connected,0,0,0,3,3000.0,Maharashtra,Built-up Area
+Pune,Hadapsar,Residential,13266464,Unfurnished,2,2,Individual,1,1,1,2,677.0,Maharashtra,Carpet Area
+Pune,Hadapsar,Residential,13266464,Unfurnished,2,2,Connected,1,1,1,2,1464.0,Maharashtra,Carpet Area
+Pune,Kondhwa,Residential,13266464,Furnished,2,2,"Connected,Individual,Room-attached",0,0,0,2,1025.0,Maharashtra,Saleable Area
+Pune,Wakad,Residential,9200000,Unfurnished,2,2,"Connected,Individual",1,1,1,2,702.0,Maharashtra,Carpet Area
+Pune,Wadgaon Sheri,Residential,25000000,Semi-Furnished,3,4,Individual,0,0,0,2,1400.0,Maharashtra,Carpet Area
+Pune,Mohammadwadi,Residential,8500000,Unfurnished,2,2,"Connected,Individual,Room-attached",0,0,0,2,1050.0,Maharashtra,Built-up Area
+Pune,Tathawade,Residential,13266464,Semi-Furnished,2,2,Connected,1,1,1,1,718.0,Maharashtra,Carpet Area
+Pune,Tathawade,Residential,7600000,Unfurnished,2,2,Connected,0,1,0,1,829.0,Maharashtra,Carpet Area
+Pune,Balewadi,Residential,12000000,Semi-Furnished,2,2,"Connected,Room-attached",0,0,0,1,810.0,Maharashtra,Carpet Area
+Pune,Hadapsar,Residential,15200000,Unfurnished,3,3,"Connected,Individual,Room-attached",1,1,1,2,1400.0,Maharashtra,Built-up Area
+Pune,Ambegaon Budruk,Residential,5450000,Unfurnished,1,1,Room-attached,1,1,1,1,495.0,Maharashtra,Carpet Area
+Pune,Kalyani Nagar,Residential,2600000,Semi-Furnished,1,1,Connected,0,0,0,1,600.0,Maharashtra,Saleable Area
+Pune,Mohammadwadi,Residential,6600000,Unfurnished,2,2,"Connected,Individual,Room-attached",0,0,0,2,1150.0,Maharashtra,Built-up Area
+Pune,Wakad,Residential,9200000,Unfurnished,2,2,Connected,1,1,1,1,1189.0,Maharashtra,Built-up Area
+Pune,Sinhagad,Residential,13500000,Unfurnished,3,3,"Connected,Room-attached",1,0,1,2,1458.0,Maharashtra,Built-up Area
+Pune,Wanowrie,Residential,15000000,Unfurnished,3,3,Connected,1,1,1,1,1650.0,Maharashtra,Built-up Area
+Pune,Charholi Budruk,Residential,4500000,Semi-Furnished,1,2,Connected,0,0,0,1,810.0,Maharashtra,Built-up Area
+Pune,Nanded Fata,Residential,6800000,Unfurnished,2,2,"Connected,Room-attached",1,0,1,1,872.0,Maharashtra,Built-up Area
+Pune,Undri,Residential,4500000,Unfurnished,2,2,"Connected,Individual,Room-attached",0,0,0,2,1100.0,Maharashtra,Built-up Area
+Pune,Undri,Residential,6500000,Unfurnished,2,2,Connected,1,1,1,1,1001.0,Maharashtra,Saleable Area
+Pune,Kothrud,Residential,12000000,Semi-Furnished,2,2,Individual,0,0,0,1,851.0,Maharashtra,Saleable Area
+Pune,Ravet,Residential,7400000,Semi-Furnished,2,2,Connected,0,0,0,1,1100.0,Maharashtra,Saleable Area
+Pune,Hadapsar,Residential,11000000,Unfurnished,2,2,Room-attached,1,1,0,1,1103.0,Maharashtra,Carpet Area
+Pune,Tathawade,Residential,6500000,Unfurnished,2,2,Connected,1,0,1,1,924.0,Maharashtra,Built-up Area
+Pune,Pimple Nilakh,Residential,5500000,Semi-Furnished,1,1,Connected,0,0,0,2,550.0,Maharashtra,Built-up Area
+Pune,Hadapsar,Residential,7300000,Unfurnished,3,3,Connected,1,0,1,1,864.0,Maharashtra,Carpet Area
+Pune,Sinhagad Road,Residential,13000000,Unfurnished,3,3,"Connected,Room-attached",1,1,1,2,1033.0,Maharashtra,Built-up Area
+Pune,Baner,Residential,1700000,Furnished,2,3,"Connected,Room-attached",0,0,0,3,1500.0,Maharashtra,Built-up Area
+Pune,Mohammadwadi,Residential,3600000,Unfurnished,1,1,"Individual,Room-attached",0,0,0,2,650.0,Maharashtra,Built-up Area
+Pune,Hinjewadi,Residential,6200000,Unfurnished,1,1,Connected,1,1,1,2,395.0,Maharashtra,Carpet Area
+Pune,Ganesh Peth,Residential,7000000,Furnished,2,2,Connected,0,0,0,0,681.0,Maharashtra,Built-up Area
+Pune,Nanded,Residential,7800000,Unfurnished,2,2,Individual,0,0,0,1,972.0,Maharashtra,Saleable Area
+Pune,Mundhwa,Residential,6000000,Semi-Furnished,2,2,Connected,0,0,0,2,708.0,Maharashtra,Saleable Area
+Pune,Wanowrie,Residential,8300000,Unfurnished,2,2,"Individual,Room-attached",0,0,1,2,1000.0,Maharashtra,Saleable Area
+Pune,Hadapsar,Residential,6886000,Unfurnished,2,2,"Connected,Individual,Room-attached",1,1,1,1,707.0,Maharashtra,Built-up Area
+Pune,Sus,Residential,8800000,Unfurnished,3,3,Room-attached,0,0,1,3,936.0,Maharashtra,Carpet Area
+Pune,Mundhwa,Residential,13266464,Unfurnished,3,3,Individual,0,0,0,2,1489.0,Maharashtra,Carpet Area
+Pune,Undri,Residential,9000000,Unfurnished,2,2,Connected,1,1,1,1,1200.0,Maharashtra,Carpet Area
+Pune,Sus,Residential,6450000,Unfurnished,2,2,Connected,0,0,0,0,780.0,Maharashtra,Carpet Area
+Pune,Mundhwa,Residential,9500000,Semi-Furnished,2,2,Connected,0,0,0,2,703.0,Maharashtra,Saleable Area
+Pune,Nanded,Residential,13400000,Unfurnished,3,2,"Connected,Room-attached",1,1,1,1,1316.0,Maharashtra,Carpet Area
+Pune,Ravet,Residential,6900000,Semi-Furnished,2,2,Connected,0,0,0,1,1060.0,Maharashtra,Saleable Area
+Pune,Wanwadi,Residential,13500000,Furnished,2,2,Connected,0,0,0,1,1290.0,Maharashtra,Built-up Area
+Pune,Mohammadwadi,Residential,15000000,Unfurnished,3,3,Connected,1,1,1,2,3112.0,Maharashtra,Saleable Area
+Pune,Hadapsar,Residential,13266464,Semi-Furnished,1,1,"Connected,Individual,Room-attached",0,0,0,1,667.0,Maharashtra,Saleable Area
+Pune,Mohammadwadi,Residential,14000000,Unfurnished,3,3,Room-attached,0,0,0,4,1650.0,Maharashtra,Built-up Area
+Pune,Tathawade,Residential,6500000,Semi-Furnished,2,2,Connected,0,0,0,2,683.0,Maharashtra,Carpet Area
+Pune,Katraj Kondhwa Road,Residential,4000000,Unfurnished,1,2,Connected,1,0,1,1,635.0,Maharashtra,Carpet Area
+Pune,Hadapsar,Residential,13266464,Unfurnished,2,2,Connected,1,1,1,1,1040.0,Maharashtra,Built-up Area
+Pune,Magarpatta,Residential,14100000,Unfurnished,3,3,Individual,1,1,1,1,1119.0,Maharashtra,Carpet Area
+Pune,Ravet,Residential,6100000,Unfurnished,2,2,Connected,0,1,1,1,920.0,Maharashtra,Built-up Area
+Pune,Hinjewadi,Residential,13266464,Unfurnished,2,2,Connected,1,1,1,4,1744.0,Maharashtra,Carpet Area
+Pune,Bibwewadi,Residential,17000000,Furnished,3,3,"Connected,Room-attached",0,0,0,1,1470.0,Maharashtra,Built-up Area
+Pune,Manjari,Residential,8276000,Unfurnished,3,3,"Connected,Individual,Room-attached",1,1,1,2,988.0,Maharashtra,Built-up Area
+Pune,Thergaon,Residential,4000000,Unfurnished,1,2,Connected,1,0,1,1,852.0,Maharashtra,Built-up Area
+Pune,Hinjewadi,Residential,19500000,Unfurnished,3,3,Connected,0,1,1,3,1388.0,Maharashtra,Carpet Area
+Pune,Sus,Residential,13500000,Furnished,3,2,Connected,0,0,0,0,1101.0,Maharashtra,Built-up Area
+Pune,Kharadi,Residential,11000000,Semi-Furnished,2,2,Individual,0,0,0,1,808.0,Maharashtra,Carpet Area
+Pune,Kondhwa,Residential,13266464,Semi-Furnished,2,2,Room-attached,0,0,0,3,880.0,Maharashtra,Saleable Area
+Pune,Talegaon Dabhade,Residential,2400000,Furnished,1,1,Room-attached,0,0,0,2,435.0,Maharashtra,Built-up Area
+Pune,Nibm,Residential,10500000,Unfurnished,2,2,Connected,0,0,1,1,1165.0,Maharashtra,Built-up Area
+Pune,Hadapsar,Residential,9500000,Furnished,1,1,Connected,0,0,0,1,745.0,Maharashtra,Built-up Area
+Pune,Ravet,Residential,6000000,Unfurnished,2,2,"Connected,Room-attached",0,0,1,1,980.0,Maharashtra,Built-up Area
+Pune,Wakad,Residential,10800000,Unfurnished,2,2,Connected,1,1,1,2,875.0,Maharashtra,Carpet Area
+Pune,Nanded,Residential,7800000,Unfurnished,2,2,Room-attached,0,0,0,1,973.0,Maharashtra,Saleable Area
+Pune,Akurdi,Residential,7850000,Unfurnished,2,2,Individual,1,1,1,1,780.0,Maharashtra,Carpet Area
+Pune,Punawale,Residential,6000000,Semi-Furnished,2,2,"Connected,Room-attached",0,0,0,1,580.0,Maharashtra,Carpet Area
+Pune,Kondhwa,Residential,6500000,Unfurnished,2,2,"Individual,Room-attached",0,0,0,2,935.0,Maharashtra,Saleable Area
+Pune,Wakad,Residential,7400000,Unfurnished,2,2,Connected,0,1,1,1,733.0,Maharashtra,Carpet Area
+Pune,Wanowrie,Residential,13000000,Unfurnished,3,3,Connected,0,1,1,1,1600.0,Maharashtra,Saleable Area
+Pune,Yewalewadi,Residential,6500000,Furnished,2,2,Connected,0,0,0,2,850.0,Maharashtra,Carpet Area
+Pune,Undri,Residential,7000000,Unfurnished,2,2,"Connected,Individual",1,1,1,1,1200.0,Maharashtra,Carpet Area
+Pune,Sus,Residential,13500000,Furnished,3,2,Connected,0,0,0,0,1104.0,Maharashtra,Built-up Area
+Pune,Thergaon,Residential,13266464,Unfurnished,2,2,Connected,0,0,0,1,866.0,Maharashtra,Built-up Area
+Pune,Undri,Residential,13500000,Semi-Furnished,2,3,Individual,0,0,0,2,1143.0,Maharashtra,Carpet Area
+Pune,Kondhwa,Residential,3800000,Unfurnished,1,2,Connected,1,0,1,1,400.0,Maharashtra,Built-up Area
+Pune,Talegaon Dabhade,Residential,2400000,Furnished,1,1,Room-attached,0,0,0,1,410.0,Maharashtra,Built-up Area
+Pune,Mundhwa,Residential,11000000,Semi-Furnished,3,3,Connected,0,0,0,2,1715.0,Maharashtra,Saleable Area
+Pune,Hinjewadi,Residential,13266464,Unfurnished,2,3,Individual,1,1,1,2,1133.0,Maharashtra,Carpet Area
+Pune,Magarpatta,Residential,28100000,Unfurnished,2,2,Connected,0,0,0,0,1871.0,Maharashtra,undefined
+Pune,Kharadi,Residential,14500000,Semi-Furnished,3,3,Individual,0,0,0,1,1080.0,Maharashtra,Carpet Area
+Pune,Undri,Residential,5500000,Unfurnished,2,2,"Connected,Individual,Room-attached",1,1,1,2,1064.0,Maharashtra,Saleable Area
+Pune,Punawale,Residential,6300000,Semi-Furnished,2,2,"Connected,Room-attached",0,0,0,1,600.0,Maharashtra,Carpet Area
+Pune,Mohammadwadi,Residential,16500000,Furnished,3,3,Room-attached,0,0,0,2,1600.0,Maharashtra,Built-up Area
+Pune,Dhanori,Residential,7200000,Furnished,2,2,Connected,0,0,0,1,765.0,Maharashtra,Carpet Area
+Pune,Kalyani Nagar,Residential,10500000,Semi-Furnished,2,2,Individual,0,0,0,1,790.0,Maharashtra,Carpet Area
+Pune,Wanowrie,Residential,13266464,Unfurnished,2,2,"Connected,Individual,Room-attached",0,0,0,3,1240.0,Maharashtra,Built-up Area
+Pune,Wanowrie,Residential,14500000,Unfurnished,3,3,Connected,1,1,1,1,1800.0,Maharashtra,Saleable Area
+Pune,Dhanori,Residential,4500000,Furnished,2,2,Room-attached,0,0,0,3,705.0,Maharashtra,Built-up Area
+Pune,Punawale,Residential,5700000,Unfurnished,2,2,Connected,1,1,1,1,692.0,Maharashtra,Carpet Area
+Pune,Netaji Nagar,Residential,4500000,Semi-Furnished,1,1,Connected,0,0,0,1,610.0,Maharashtra,Built-up Area
+Pune,Ravet,Residential,10000000,Unfurnished,2,2,Connected,0,1,1,2,894.0,Maharashtra,Carpet Area
+Pune,Ravet,Residential,13266464,Unfurnished,2,2,Connected,0,1,1,1,920.0,Maharashtra,Built-up Area
+Pune,Aundh,Residential,10000000,Semi-Furnished,2,2,Connected,0,0,0,2,930.0,Maharashtra,Built-up Area
+Pune,Undri,Residential,3600000,Unfurnished,2,1,Individual,0,1,1,1,610.0,Maharashtra,Saleable Area
+Pune,Mundhwa,Residential,9500000,Semi-Furnished,2,2,Connected,0,0,0,2,820.0,Maharashtra,Saleable Area
+Pune,Hadapsar,Residential,13500000,Semi-Furnished,2,2,Connected,0,0,0,2,719.0,Maharashtra,Carpet Area
+Pune,Handewadi,Residential,5600000,Semi-Furnished,2,2,Connected,0,0,0,1,662.0,Maharashtra,Carpet Area
+Pune,Bopodi,Residential,17500000,Semi-Furnished,3,3,Connected,0,0,0,2,1480.0,Maharashtra,Built-up Area
+Pune,Kondhwa,Residential,7000000,Furnished,2,2,"Connected,Individual,Room-attached",0,0,0,2,1050.0,Maharashtra,Built-up Area
+Pune,Kharadi,Residential,13266464,Unfurnished,3,3,Connected,1,1,1,1,1080.0,Maharashtra,Carpet Area
+Pune,Nibm Road,Residential,30000000,Unfurnished,3,3,Connected,1,1,1,1,3200.0,Maharashtra,Built-up Area
+Pune,Wanowrie,Residential,20000000,Semi-Furnished,3,3,Individual,0,0,0,1,2475.0,Maharashtra,Built-up Area
+Pune,Ganesh Peth,Residential,7000000,Furnished,2,2,Connected,0,0,0,0,680.0,Maharashtra,Built-up Area
+Pune,Wanwadi,Residential,45000000,Unfurnished,4,4,Connected,0,0,1,2,2175.0,Maharashtra,Built-up Area
+Pune,Talegaon Dabhade,Residential,2400000,Furnished,1,1,Room-attached,0,0,0,1,415.0,Maharashtra,Built-up Area
+Pune,Wakad,Residential,13266464,Unfurnished,3,3,Connected,1,0,1,2,1036.0,Maharashtra,Built-up Area
+Pune,Thergaon,Residential,13266464,Unfurnished,2,2,Connected,1,0,1,1,788.0,Maharashtra,Built-up Area
+Pune,Thergaon,Residential,4400000,Unfurnished,1,2,Connected,1,0,1,1,452.0,Maharashtra,Built-up Area
+Pune,Thergaon,Residential,13266464,Unfurnished,2,2,Connected,1,0,1,1,925.0,Maharashtra,Built-up Area
+Pune,Wanowrie,Residential,13500000,Unfurnished,3,3,"Connected,Individual,Room-attached",0,0,0,3,1500.0,Maharashtra,Built-up Area
+Pune,Nibm,Residential,25200000,Unfurnished,2,3,Individual,1,1,1,1,1628.0,Maharashtra,Carpet Area
+Pune,Kalyani Nagar,Residential,11000000,Semi-Furnished,2,2,Individual,0,0,0,1,785.0,Maharashtra,Carpet Area
+Pune,Kharadi,Residential,11800000,Unfurnished,3,2,Individual,1,1,1,2,1350.0,Maharashtra,Built-up Area
+Pune,Sinhagad Road,Residential,6500000,Unfurnished,2,2,Connected,0,1,1,1,603.0,Maharashtra,Carpet Area
+Pune,Kondhwa,Residential,7500000,Semi-Furnished,2,2,"Connected,Room-attached",0,0,0,1,1100.0,Maharashtra,Built-up Area
+Pune,Wagholi,Residential,3500000,Semi-Furnished,2,1,Connected,0,0,0,1,579.0,Maharashtra,Saleable Area
+Pune,Hadapsar,Residential,8640000,Unfurnished,3,3,"Connected,Individual,Room-attached",1,1,1,2,937.0,Maharashtra,Built-up Area
+Pune,Lulla Nagar,Residential,9800000,Unfurnished,2,2,Connected,0,0,0,1,1170.0,Maharashtra,Built-up Area
+Pune,Rajyavahatuk Society,Residential,18500000,Furnished,3,3,Connected,0,0,0,2,1300.0,Maharashtra,Built-up Area
+Pune,State Bank Nagar,Residential,6800000,Unfurnished,2,2,"Connected,Room-attached",0,0,0,1,972.0,Maharashtra,Built-up Area
+Pune,Baner,Residential,1700000,Furnished,3,3,"Connected,Room-attached",0,0,0,5,1514.0,Maharashtra,Saleable Area
+Pune,Sinhagad Road,Residential,7800000,Unfurnished,2,2,"Connected,Room-attached",0,0,0,1,938.0,Maharashtra,Built-up Area
+Pune,Wakad,Residential,10000000,Unfurnished,2,2,Connected,1,1,0,1,800.0,Maharashtra,Carpet Area
+Pune,Baner,Residential,13266464,Unfurnished,3,2,Room-attached,0,0,0,3,1625.0,Maharashtra,Built-up Area
+Pune,Kondhwa,Residential,9000000,Semi-Furnished,3,3,Connected,0,0,0,1,1350.0,Maharashtra,Built-up Area
+Pune,Bibwewadi,Residential,32500000,Semi-Furnished,3,3,Connected,0,0,0,2,2700.0,Maharashtra,Built-up Area
+Pune,Kharadi,Residential,13266464,Unfurnished,2,2,Connected,0,0,0,1,810.0,Maharashtra,Carpet Area
+Pune,Dhanori,Residential,13000000,Furnished,3,1,Connected,0,0,0,1,1300.0,Maharashtra,Built-up Area
+Pune,Undri,Residential,13266464,Unfurnished,2,2,"Connected,Individual,Room-attached",0,1,1,1,980.0,Maharashtra,Saleable Area
+Pune,Tathawade,Residential,13266464,Unfurnished,2,2,"Individual,Room-attached",1,1,1,1,728.0,Maharashtra,Carpet Area
+Pune,Thergaon,Residential,7000000,Unfurnished,2,2,Connected,0,0,0,1,924.0,Maharashtra,Built-up Area
+Pune,Sus,Residential,6450000,Unfurnished,2,2,"Individual,Room-attached",1,0,1,1,750.0,Maharashtra,Carpet Area
+Pune,Mohammadwadi,Residential,13266464,Unfurnished,2,2,Individual,1,1,1,1,785.0,Maharashtra,Saleable Area
+Pune,Magarpatta,Residential,35000000,Unfurnished,2,4,Connected,0,1,1,0,2088.0,Maharashtra,Carpet Area
+Pune,Kothrud,Residential,25500000,Semi-Furnished,3,3,"Connected,Individual,Room-attached",0,0,0,2,1430.0,Maharashtra,Carpet Area
+Pune,Nanded,Residential,9000000,Unfurnished,2,2,Connected,0,1,1,1,878.0,Maharashtra,Carpet Area
+Pune,Tathawade,Residential,7800000,Unfurnished,2,2,Connected,1,0,1,0,774.0,Maharashtra,Saleable Area
+Pune,Thergaon,Residential,13266464,Unfurnished,2,2,Connected,0,0,0,1,1051.0,Maharashtra,Built-up Area
+Pune,Kharadi Bypass Road,Residential,7000000,Unfurnished,2,2,Individual,0,0,0,2,1020.0,Maharashtra,Saleable Area
+Pune,Baner,Residential,1700000,Furnished,3,3,"Connected,Room-attached",0,0,0,5,1513.0,Maharashtra,Saleable Area
+Pune,Dhanori,Residential,9000000,Semi-Furnished,2,2,Connected,0,0,0,1,1000.0,Maharashtra,Carpet Area
+Pune,Baramati,Residential,8000000,Semi-Furnished,3,3,Connected,0,0,0,1,1033.0,Maharashtra,Carpet Area
+Pune,Camp,Residential,17500000,Furnished,3,3,Connected,0,0,0,1,1750.0,Maharashtra,Built-up Area
+Pune,Dhanori,Residential,8600000,Unfurnished,3,3,"Connected,Individual,Room-attached",0,0,1,2,910.0,Maharashtra,Carpet Area
+Pune,Wakad,Residential,13266464,Furnished,2,2,Connected,0,0,0,1,710.0,Maharashtra,Carpet Area
+Pune,Thergaon,Residential,4700000,Unfurnished,1,2,Connected,0,0,0,1,450.0,Maharashtra,Built-up Area
+Pune,Salunke Vihar,Residential,11500000,Unfurnished,2,2,Connected,1,1,1,2,880.0,Maharashtra,Built-up Area
+Pune,Sinhagad Road,Residential,6800000,Unfurnished,2,2,Connected,1,1,1,1,603.0,Maharashtra,Carpet Area
+Pune,Wakad,Residential,7200000,Semi-Furnished,2,2,Connected,0,0,0,1,615.0,Maharashtra,Carpet Area
+Pune,Kondhwa,Residential,8500000,Semi-Furnished,2,2,"Connected,Individual,Room-attached",0,0,0,3,1658.0,Maharashtra,Saleable Area
+Pune,Kothrud,Residential,23200000,Furnished,3,2,Connected,0,0,0,0,1120.0,Maharashtra,Carpet Area
+Pune,Baner,Residential,13266464,Unfurnished,3,3,Room-attached,0,0,0,5,1620.0,Maharashtra,Built-up Area
+Pune,Tathawade,Residential,13266464,Unfurnished,2,2,"Individual,Room-attached",1,1,1,1,766.0,Maharashtra,Carpet Area
+Pune,Sinhagad Road,Residential,22000000,Unfurnished,3,3,Connected,0,0,0,2,1278.0,Maharashtra,Carpet Area
+Pune,Wagholi,Residential,5500000,Semi-Furnished,2,2,"Connected,Room-attached",0,0,0,2,705.0,Maharashtra,Saleable Area
+Pune,Thergaon,Residential,6500000,Unfurnished,2,2,Connected,1,0,1,1,866.0,Maharashtra,Built-up Area
+Pune,Nanded,Residential,11000000,Unfurnished,3,3,Connected,1,1,0,1,1358.0,Maharashtra,Saleable Area
+Pune,Sinhagad Road,Residential,10000000,Unfurnished,2,2,Connected,1,1,1,1,914.0,Maharashtra,Built-up Area
+Pune,Kalyani Nagar,Residential,17500000,Semi-Furnished,3,3,Individual,0,0,0,2,1625.0,Maharashtra,Saleable Area
+Pune,Manjari,Residential,7568000,Unfurnished,2,2,"Connected,Individual,Room-attached",1,1,1,1,864.0,Maharashtra,Built-up Area
+Pune,Baner,Residential,11000000,Unfurnished,2,2,"Connected,Room-attached",1,1,1,2,780.0,Maharashtra,Carpet Area
+Pune,Wakad,Residential,11500000,Semi-Furnished,2,2,Connected,0,0,0,1,550.0,Maharashtra,Built-up Area
+Pune,Mundhwa,Residential,9000000,Semi-Furnished,3,3,Connected,0,0,0,2,928.0,Maharashtra,Saleable Area
+Pune,Baner Bypass Highway,Residential,47500000,Semi-Furnished,5,5,Connected,0,0,0,3,2100.0,Maharashtra,Carpet Area
+Pune,Hadapsar,Residential,3850000,Unfurnished,1,1,Individual,0,0,0,1,473.0,Maharashtra,Carpet Area
+Pune,Baner,Residential,47500000,Semi-Furnished,4,5,Connected,0,0,0,3,2050.0,Maharashtra,Carpet Area
+Pune,Tathawade,Residential,8600000,Semi-Furnished,2,2,Connected,0,0,0,5,719.0,Maharashtra,Carpet Area
+Pune,Mundhwa,Residential,13266464,Unfurnished,3,3,Individual,1,1,1,2,1464.0,Maharashtra,Carpet Area
+Pune,Nagar Road,Residential,5300000,Unfurnished,1,2,Individual,0,0,0,1,924.0,Maharashtra,Built-up Area
+Pune,Pune Airport,Residential,7500000,Unfurnished,3,2,"Connected,Room-attached",0,0,0,2,950.0,Maharashtra,Built-up Area
+Pune,Hadapsar,Residential,13266464,Semi-Furnished,1,1,Connected,0,0,0,1,550.0,Maharashtra,Saleable Area
+Pune,Hadapsar,Residential,13266464,Unfurnished,2,2,"Individual,Room-attached",1,1,1,1,664.0,Maharashtra,Carpet Area
+Pune,Hadapsar,Residential,12000000,Unfurnished,3,3,Connected,0,0,0,1,1052.0,Maharashtra,Carpet Area
+Pune,Baner,Residential,13266464,Furnished,2,3,"Connected,Room-attached",0,0,0,3,1500.0,Maharashtra,Built-up Area
+Pune,Kothrud,Residential,23200000,Unfurnished,3,3,"Connected,Individual,Room-attached",1,1,1,2,1950.0,Maharashtra,Saleable Area
+Pune,Pashan Sus Road,Residential,13266464,Semi-Furnished,2,2,Connected,0,0,0,2,755.0,Maharashtra,Saleable Area
+Pune,Ambegaon Budruk,Residential,5500000,Unfurnished,2,2,Connected,0,0,0,1,1001.0,Maharashtra,Saleable Area
+Pune,Pune Airport,Residential,8000000,Unfurnished,2,1,Connected,0,0,0,1,850.0,Maharashtra,Built-up Area
+Pune,Manjari,Residential,5530000,Unfurnished,2,2,"Connected,Individual,Room-attached",1,1,1,1,642.0,Maharashtra,Built-up Area
+Pune,Kharadi,Residential,37000000,Semi-Furnished,4,4,Connected,1,1,1,1,2218.0,Maharashtra,Carpet Area
+Pune,Lohegaon,Residential,5000000,Semi-Furnished,2,1,Connected,0,0,0,1,631.0,Maharashtra,Saleable Area
+Pune,Ravet,Residential,8299000,Unfurnished,2,2,Room-attached,0,0,0,1,1095.0,Maharashtra,Built-up Area
+Pune,Baner,Residential,13266464,Semi-Furnished,2,3,"Connected,Room-attached",0,0,0,3,939.0,Maharashtra,Carpet Area
+Pune,Mundhwa,Residential,9000000,Semi-Furnished,3,3,Connected,0,0,0,2,1020.0,Maharashtra,Saleable Area
+Pune,Sinhagad Road,Residential,8000000,Unfurnished,2,2,Connected,1,1,1,1,1160.0,Maharashtra,Built-up Area
+Pune,Hadapsar,Residential,13266464,Unfurnished,2,2,Individual,0,0,0,1,834.0,Maharashtra,Carpet Area
+Pune,Magarpatta,Residential,29900000,Unfurnished,3,3,Individual,0,0,0,1,1696.0,Maharashtra,Carpet Area
+Pune,Kharadi,Residential,9400000,Semi-Furnished,2,2,Individual,0,0,0,1,968.0,Maharashtra,Carpet Area
+Pune,Chinchwad,Residential,8500000,Furnished,2,2,Connected,0,0,0,2,946.0,Maharashtra,Built-up Area
+Pune,Wakad,Residential,4200000,Unfurnished,1,2,Connected,1,0,1,1,574.0,Maharashtra,Built-up Area
+Pune,Baner,Residential,1700000,Furnished,2,3,"Connected,Room-attached",0,0,0,3,1551.0,Maharashtra,Built-up Area
+Pune,Magarpatta,Residential,29500000,Furnished,4,2,Connected,0,0,0,0,1870.0,Maharashtra,Carpet Area
+Pune,Thergaon,Residential,13266464,Unfurnished,2,2,Connected,1,0,1,1,972.0,Maharashtra,Built-up Area
+Pune,Kausar Baugh,Residential,6000000,Semi-Furnished,2,2,Connected,0,0,0,1,1000.0,Maharashtra,Built-up Area
+Pune,Kharadi,Residential,15000000,Unfurnished,3,3,Connected,1,1,1,2,953.0,Maharashtra,Carpet Area
+Pune,Ravet,Residential,4800000,Semi-Furnished,1,1,Connected,0,0,0,2,778.0,Maharashtra,Built-up Area
+Pune,State Bank Nagar,Residential,7000000,Unfurnished,2,2,Connected,1,1,1,1,650.0,Maharashtra,Built-up Area
+Pune,Magarpatta,Residential,25000000,Unfurnished,2,3,Connected,0,1,1,0,1464.0,Maharashtra,Carpet Area
+Pune,Wagholi,Residential,13266464,Semi-Furnished,2,2,Connected,0,0,0,1,1360.0,Maharashtra,Saleable Area
+Pune,Magarpatta,Residential,22900000,Unfurnished,4,4,Individual,0,0,0,2,1674.0,Maharashtra,Carpet Area
+Pune,Wakad,Residential,4200000,Unfurnished,1,2,Connected,1,0,1,1,425.0,Maharashtra,Built-up Area
+Pune,Loni Kalbhor,Residential,8700000,Unfurnished,3,3,Connected,1,1,1,1,1110.0,Maharashtra,Carpet Area
+Pune,Sinhagad Road,Residential,8000000,Unfurnished,2,2,Connected,0,0,0,1,1158.0,Maharashtra,Built-up Area
+Pune,Shivajinagar,Residential,42500000,Semi-Furnished,4,4,Connected,0,0,0,0,1934.0,Maharashtra,Carpet Area
+Pune,Undri,Residential,8000000,Semi-Furnished,2,3,"Connected,Room-attached",0,0,0,1,1420.0,Maharashtra,Built-up Area
+Pune,Charholi Budruk,Residential,13266464,Semi-Furnished,2,2,Room-attached,0,0,0,2,780.0,Maharashtra,Built-up Area
+Pune,Pune Airport,Residential,90000000,Unfurnished,3,2,Connected,0,0,0,1,1100.0,Maharashtra,Built-up Area
+Pune,Kalewadi,Residential,10000000,Furnished,2,3,Connected,0,0,0,1,1075.0,Maharashtra,Saleable Area
+Pune,Nibm,Residential,8500000,Unfurnished,2,2,Connected,1,1,1,0,1020.0,Maharashtra,Built-up Area
+Pune,Salunke Vihar,Residential,16000000,Unfurnished,3,3,Connected,1,1,1,1,1600.0,Maharashtra,Built-up Area
+Pune,Lulla Nagar,Residential,36000000,Unfurnished,4,4,Connected,0,0,0,3,2790.0,Maharashtra,Built-up Area
+Pune,Nanded,Residential,4300000,Unfurnished,1,1,Room-attached,0,0,0,1,563.0,Maharashtra,Built-up Area
+Pune,Kothrud,Residential,23200000,Furnished,3,2,Connected,0,0,0,0,1124.0,Maharashtra,Carpet Area
+Pune,Kondhwa,Residential,4300000,Unfurnished,1,1,Room-attached,0,0,0,2,655.0,Maharashtra,Built-up Area
+Pune,Undri,Residential,5500000,Furnished,2,2,"Connected,Individual,Room-attached",0,0,0,4,1100.0,Maharashtra,Built-up Area
+Pune,Kothrud,Residential,23000000,Unfurnished,3,3,"Connected,Individual,Room-attached",1,1,1,2,1950.0,Maharashtra,Built-up Area
+Pune,Thergaon,Residential,4400000,Unfurnished,1,2,Connected,1,0,1,1,562.0,Maharashtra,Built-up Area
+Pune,Kharadi,Residential,22700000,Unfurnished,4,4,Connected,1,1,1,1,1830.0,Maharashtra,Carpet Area
+Pune,Undri,Residential,13266464,Unfurnished,2,2,"Connected,Individual,Room-attached",0,1,1,1,1010.0,Maharashtra,Saleable Area
+Pune,Loni Kalbhor,Residential,8904000,Unfurnished,2,2,"Connected,Individual,Room-attached",1,1,1,1,1000.0,Maharashtra,Built-up Area
+Pune,Mundhwa,Residential,13266464,Unfurnished,2,4,Individual,1,1,1,1,1738.0,Maharashtra,Carpet Area
+Pune,Kharadi,Residential,18500000,Semi-Furnished,2,2,Connected,1,1,1,1,2500.0,Maharashtra,Saleable Area
+Pune,Hinjewadi,Residential,29500000,Unfurnished,4,4,Connected,1,1,1,4,1942.0,Maharashtra,Carpet Area
+Pune,Adarsh Colony,Residential,13266464,Furnished,1,2,Connected,0,0,0,0,237.0,Maharashtra,Carpet Area
+Pune,Mohammadwadi,Residential,21000000,Furnished,6,6,"Connected,Individual,Room-attached",0,0,0,3,4500.0,Maharashtra,Built-up Area
+Pune,Sopan Baug,Residential,40000000,Unfurnished,4,4,Connected,1,1,0,1,2650.0,Maharashtra,Built-up Area
+Pune,Undri,Residential,13266464,Unfurnished,2,2,Connected,1,1,1,3,563.0,Maharashtra,Carpet Area
+Pune,Wakad,Residential,4200000,Unfurnished,1,2,Connected,1,0,1,1,544.0,Maharashtra,Built-up Area
+Pune,Baner,Residential,1700000,Furnished,3,3,"Connected,Room-attached",0,0,0,5,1529.0,Maharashtra,Saleable Area
+Pune,Wadegaon,Residential,4500000,Furnished,1,2,Connected,0,0,0,0,605.0,Maharashtra,Built-up Area
+Pune,Thergaon,Residential,4700000,Unfurnished,1,2,Connected,1,0,1,1,852.0,Maharashtra,Built-up Area
+Pune,Talegaon Dabhade,Residential,2341000,Unfurnished,1,1,"Connected,Individual",1,1,0,2,580.0,Maharashtra,Built-up Area
+Pune,Wakad,Residential,13266464,Semi-Furnished,2,2,"Connected,Room-attached",0,0,0,1,938.0,Maharashtra,Carpet Area
+Pune,Magarpatta,Residential,25400000,Unfurnished,3,3,Individual,0,0,0,1,1464.0,Maharashtra,Carpet Area
+Pune,Vishrantwadi,Residential,7500000,Furnished,2,2,Connected,0,0,0,2,850.0,Maharashtra,Built-up Area
+Pune,Marunji,Residential,6500000,Unfurnished,2,2,Connected,0,0,0,1,800.0,Maharashtra,Carpet Area
+Pune,Kharadi,Residential,13266464,Unfurnished,2,2,Connected,1,1,1,1,773.0,Maharashtra,Carpet Area
+Pune,Manjari,Residential,13266464,Unfurnished,2,2,"Individual,Room-attached",1,1,1,1,691.0,Maharashtra,Carpet Area
+Pune,Loni Kalbhor,Residential,9274000,Unfurnished,3,3,"Connected,Individual,Room-attached",1,1,1,2,1100.0,Maharashtra,Built-up Area
+Pune,Wanowrie,Residential,6000000,Semi-Furnished,1,2,Connected,0,0,0,2,920.0,Maharashtra,Built-up Area
+Pune,Baner,Residential,22500000,Semi-Furnished,3,3,"Connected,Room-attached",0,0,0,2,1250.0,Maharashtra,Carpet Area
+Pune,Undri,Residential,13266464,Semi-Furnished,3,3,Individual,0,0,0,2,2050.0,Maharashtra,Built-up Area
+Pune,Undri,Residential,8500000,Unfurnished,2,2,Individual,0,0,0,1,834.0,Maharashtra,Carpet Area
+Pune,Manjri Budruk,Residential,6470000,Semi-Furnished,2,2,"Connected,Individual,Room-attached",0,0,0,1,757.0,Maharashtra,Built-up Area
+Pune,Wagholi,Residential,16200000,Semi-Furnished,3,3,Connected,0,0,0,1,1300.0,Maharashtra,Built-up Area
+Pune,Undri,Residential,13266464,Semi-Furnished,2,2,Individual,0,0,0,2,800.0,Maharashtra,Carpet Area
+Pune,Pimpri,Residential,8000000,Semi-Furnished,2,2,Connected,0,0,0,1,650.0,Maharashtra,Built-up Area
+Pune,Mundhwa,Residential,4200000,Semi-Furnished,1,1,Connected,0,0,0,2,428.0,Maharashtra,Saleable Area
+Pune,Manjari,Residential,5276000,Unfurnished,2,2,"Connected,Individual,Room-attached",0,1,1,1,630.0,Maharashtra,Built-up Area
+Pune,Wanwadi,Residential,13500000,Unfurnished,3,3,Connected,0,1,1,1,2000.0,Maharashtra,Built-up Area
+Pune,Tathawade,Residential,6000000,Semi-Furnished,1,2,Room-attached,0,0,0,1,650.0,Maharashtra,Built-up Area
+Pune,Talegaon Dabhade,Residential,2340000,Unfurnished,1,1,Connected,1,1,0,1,580.0,Maharashtra,Built-up Area
+Pune,Bund Garden Road,Residential,57500000,Unfurnished,4,4,Connected,0,1,0,1,3500.0,Maharashtra,Saleable Area
+Pune,Ghorpadi,Residential,13266464,Unfurnished,2,2,"Individual,Room-attached",0,0,0,1,751.0,Maharashtra,Carpet Area
+Pune,Sinhagad Road,Residential,6500000,Unfurnished,2,2,Connected,0,0,0,0,900.0,Maharashtra,undefined
+Pune,Kharadi,Residential,13000000,Semi-Furnished,2,2,Connected,0,0,1,1,1400.0,Maharashtra,Saleable Area
+Pune,Baner,Residential,1700000,Furnished,2,3,"Connected,Room-attached",0,0,0,3,1506.0,Maharashtra,Built-up Area
+Pune,Wakad,Residential,4200000,Unfurnished,1,2,Connected,1,0,1,1,562.0,Maharashtra,Built-up Area
+Pune,Vishrantwadi,Residential,8600000,Furnished,2,2,Connected,0,0,0,1,1100.0,Maharashtra,Saleable Area
+Pune,Thergaon,Residential,7500000,Unfurnished,2,2,Connected,1,0,1,1,956.0,Maharashtra,Built-up Area
+Pune,Ganesh Peth,Residential,7000000,Furnished,2,2,Connected,0,0,0,0,682.0,Maharashtra,Built-up Area
+Pune,Undri,Residential,14500000,Unfurnished,3,3,"Connected,Individual,Room-attached",1,1,1,4,1275.0,Maharashtra,Carpet Area
+Pune,Mohammadwadi,Residential,13266464,Furnished,4,4,"Connected,Room-attached",0,0,0,2,1650.0,Maharashtra,Carpet Area
+Pune,Magarpatta,Residential,33000000,Furnished,5,2,Connected,0,0,0,0,2088.0,Maharashtra,Built-up Area
+Pune,Talegaon Dabhade,Residential,2400000,Furnished,1,1,Room-attached,0,0,0,1,432.0,Maharashtra,Built-up Area
+Pune,Thergaon,Residential,13266464,Unfurnished,2,2,Connected,1,0,1,1,912.0,Maharashtra,Built-up Area
+Pune,Balewadi,Residential,13266464,Semi-Furnished,2,2,"Connected,Room-attached",0,0,0,1,900.0,Maharashtra,Carpet Area
+Pune,Sinhagad Road,Residential,6800000,Unfurnished,2,2,Connected,0,1,1,1,603.0,Maharashtra,Carpet Area
+Pune,Keshav Nagar,Residential,13266464,Furnished,2,2,Individual,0,0,0,1,750.0,Maharashtra,Carpet Area
+Pune,Hinjewadi,Residential,7200000,Unfurnished,2,2,Connected,0,0,0,1,700.0,Maharashtra,Carpet Area
+Pune,Undri,Residential,13266464,Unfurnished,1,1,Individual,0,0,0,1,750.0,Maharashtra,Built-up Area
+Pune,Charholi Budruk,Residential,13266464,Semi-Furnished,2,2,Room-attached,0,0,0,2,787.0,Maharashtra,Built-up Area
+Pune,Hadapsar,Residential,10200000,Semi-Furnished,2,2,Connected,0,0,0,1,646.0,Maharashtra,Carpet Area
+Pune,Viman Nagar,Residential,26000000,Unfurnished,3,3,Individual,1,1,1,2,1908.0,Maharashtra,Built-up Area
+Pune,Chikhali,Residential,4599000,Unfurnished,2,2,Connected,1,0,1,1,643.0,Maharashtra,Carpet Area
+Pune,Kausar Baugh,Residential,6000000,Semi-Furnished,2,2,"Connected,Room-attached",0,0,0,1,1000.0,Maharashtra,Built-up Area
+Pune,Taljai,Residential,9000000,Unfurnished,3,2,"Connected,Room-attached",0,0,1,1,1100.0,Maharashtra,Saleable Area
+Pune,Undri,Residential,13266464,Semi-Furnished,2,2,Individual,0,0,0,2,955.0,Maharashtra,Built-up Area
+Pune,Pune Airport,Residential,8000000,Unfurnished,3,2,Connected,0,0,0,2,1300.0,Maharashtra,Built-up Area
+Pune,Pisoli,Residential,3200000,Unfurnished,1,1,Connected,0,0,0,1,427.0,Maharashtra,Carpet Area
+Pune,Hadapsar,Residential,13266464,Unfurnished,3,3,Individual,1,1,1,2,1160.0,Maharashtra,Carpet Area
+Pune,Pune Airport,Residential,9000000,Unfurnished,3,2,Connected,0,0,0,2,1200.0,Maharashtra,Built-up Area
+Pune,Salunke Vihar,Residential,16000000,Unfurnished,3,3,Connected,1,1,1,2,1850.0,Maharashtra,Built-up Area
+Pune,Hadapsar,Residential,13266464,Unfurnished,2,2,Connected,1,1,1,1,805.0,Maharashtra,Built-up Area
+Pune,Shobhapur,Residential,11000000,Semi-Furnished,2,2,Connected,0,0,0,0,1200.0,Maharashtra,Built-up Area
+Pune,Wadgaon Sheri,Residential,28000000,Furnished,4,4,Connected,0,0,0,2,2500.0,Maharashtra,Built-up Area
+Pune,Mundhwa,Residential,13266464,Semi-Furnished,2,2,Individual,0,0,0,1,700.0,Maharashtra,Carpet Area
+Pune,Wakad,Residential,9400000,Semi-Furnished,2,2,Connected,0,0,0,1,622.0,Maharashtra,Carpet Area
+Pune,Hadapsar,Residential,13266464,Semi-Furnished,2,2,Individual,0,0,0,1,945.0,Maharashtra,Carpet Area
+Pune,Erandwane,Residential,28000000,Semi-Furnished,4,4,Connected,0,0,0,4,2300.0,Maharashtra,Carpet Area
+Pune,Kothrud,Residential,13000000,Unfurnished,2,2,"Connected,Room-attached",1,1,1,1,938.0,Maharashtra,Carpet Area
+Pune,Baner,Residential,19000000,Semi-Furnished,3,3,"Connected,Room-attached",0,0,0,2,1406.0,Maharashtra,Built-up Area
+Pune,Kharadi,Residential,13266464,Unfurnished,2,2,Individual,1,1,1,1,770.0,Maharashtra,Carpet Area
+Pune,Magarpatta,Residential,23500000,Furnished,3,2,Connected,0,0,0,0,1465.0,Maharashtra,Carpet Area
+Pune,Thergaon,Residential,4400000,Unfurnished,1,2,Connected,1,0,1,1,567.0,Maharashtra,Built-up Area
+Pune,Magarpatta,Residential,30000000,Unfurnished,2,2,Connected,0,1,1,0,1874.0,Maharashtra,Carpet Area
+Pune,Nibm Annexe,Residential,10500000,Unfurnished,3,3,Connected,0,0,0,1,1015.0,Maharashtra,Carpet Area
+Pune,Undri,Residential,13266464,Unfurnished,2,2,Individual,1,1,1,1,919.0,Maharashtra,Built-up Area
+Pune,Pimpri Chinchwad Pcmc,Residential,5200000,Semi-Furnished,1,1,Connected,0,0,0,1,550.0,Maharashtra,Built-up Area
+Pune,Madhav Nagar,Residential,6000000,Furnished,2,2,Connected,0,0,0,1,700.0,Maharashtra,Saleable Area
+Pune,Mohammadwadi,Residential,13266464,Furnished,2,2,Individual,0,0,0,2,638.0,Maharashtra,Carpet Area
+Pune,Wakad,Residential,13266464,Furnished,3,3,Connected,0,0,0,3,2500.0,Maharashtra,Built-up Area
+Pune,Kharadi,Residential,21000000,Furnished,2,2,Connected,1,1,1,2,961.0,Maharashtra,Saleable Area
+Pune,Fatima Nagar,Residential,10500000,Semi-Furnished,3,3,"Connected,Room-attached",0,0,0,1,1750.0,Maharashtra,Built-up Area
+Pune,Kalyani Nagar,Residential,92500000,Semi-Furnished,4,5,Individual,0,0,0,3,3278.0,Maharashtra,Carpet Area
+Pune,Wagholi,Residential,5500000,Semi-Furnished,2,2,Connected,0,0,0,1,665.0,Maharashtra,Carpet Area
+Pune,Dhanori,Residential,13266464,Furnished,2,2,Connected,0,0,0,1,1200.0,Maharashtra,Built-up Area
+Pune,Loni Kalbhor,Residential,6988000,Unfurnished,2,2,"Connected,Individual,Room-attached",0,0,0,1,949.0,Maharashtra,Built-up Area
+Pune,Dhanori,Residential,5000000,Semi-Furnished,2,2,Connected,0,0,0,1,721.0,Maharashtra,Saleable Area
+Pune,Kothrud,Residential,13000000,Unfurnished,2,2,"Connected,Room-attached",1,1,1,1,952.0,Maharashtra,Carpet Area
+Pune,Dighi,Residential,13266464,Semi-Furnished,1,1,Connected,0,0,0,1,550.0,Maharashtra,Built-up Area
+Pune,Vikas Nagar,Residential,9800000,Unfurnished,2,2,Connected,0,0,1,1,988.0,Maharashtra,Saleable Area
+Pune,Thergaon,Residential,13266464,Unfurnished,1,2,Connected,1,0,1,1,713.0,Maharashtra,Built-up Area
+Pune,Kharadi,Residential,13266464,Semi-Furnished,2,2,Individual,0,0,0,3,990.0,Maharashtra,Carpet Area
+Pune,Taljai,Residential,9000000,Semi-Furnished,3,3,Connected,0,0,0,3,833.0,Maharashtra,Carpet Area
+Pune,Taljai,Residential,8000000,Unfurnished,2,2,Connected,0,0,1,5,970.0,Maharashtra,Saleable Area
+Pune,Magarpatta,Residential,29500000,Furnished,4,2,Connected,0,0,0,0,1875.0,Maharashtra,Carpet Area
+Pune,Wadegaon,Residential,4500000,Unfurnished,2,2,Connected,0,0,0,0,605.0,Maharashtra,undefined
+Pune,Thergaon,Residential,4000000,Unfurnished,1,2,Connected,1,0,1,1,653.0,Maharashtra,Built-up Area
+Pune,Viman Nagar,Residential,6600000,Semi-Furnished,1,2,Individual,0,0,0,1,620.0,Maharashtra,Built-up Area
+Pune,Hadapsar,Residential,10700000,Furnished,2,2,Connected,0,0,0,0,700.0,Maharashtra,Built-up Area
+Pune,Baner,Residential,13400000,Unfurnished,3,2,Connected,1,0,1,2,1464.0,Maharashtra,Saleable Area
+Pune,Salunke Vihar,Residential,8500000,Semi-Furnished,2,2,Connected,0,0,0,1,940.0,Maharashtra,Saleable Area
+Pune,Pandhari Nagar,Residential,13266464,Unfurnished,3,3,Connected,1,1,1,1,1556.0,Maharashtra,Carpet Area
+Pune,Pisoli,Residential,13266464,Unfurnished,2,2,Individual,1,1,0,1,661.0,Maharashtra,Carpet Area
+Pune,Mohammadwadi,Residential,13266464,Unfurnished,2,2,Individual,1,0,1,2,800.0,Maharashtra,Carpet Area
+Pune,Ganesh Peth,Residential,7000000,Furnished,2,2,Connected,0,0,0,0,663.0,Maharashtra,Built-up Area
+Pune,Hadapsar,Residential,8500000,Furnished,1,2,Connected,0,0,0,0,650.0,Maharashtra,Built-up Area
+Pune,Mohammadwadi,Residential,13266464,Semi-Furnished,2,1,Individual,0,0,0,2,517.0,Maharashtra,Carpet Area
+Pune,Thergaon,Residential,13266464,Unfurnished,1,2,Connected,1,0,1,1,621.0,Maharashtra,Built-up Area
+Pune,Thergaon,Residential,13266464,Unfurnished,1,2,Connected,0,0,0,1,461.0,Maharashtra,Built-up Area
+Pune,Tathawade,Residential,9600000,Semi-Furnished,2,2,Connected,0,0,0,0,673.0,Maharashtra,Carpet Area
+Pune,Magarpatta,Residential,33000000,Furnished,5,2,Connected,0,0,0,0,2082.0,Maharashtra,Built-up Area
+Pune,Moshi,Residential,6700000,Unfurnished,3,3,Connected,1,1,1,1,902.0,Maharashtra,Carpet Area
+Pune,Nanded,Residential,6700000,Unfurnished,2,2,"Connected,Room-attached",1,0,1,1,872.0,Maharashtra,Built-up Area
+Pune,Mohammadwadi,Residential,13266464,Unfurnished,2,2,"Individual,Room-attached",0,0,0,2,950.0,Maharashtra,Built-up Area
+Pune,Wakad,Residential,4200000,Unfurnished,1,2,Connected,1,0,1,1,532.0,Maharashtra,Built-up Area
+Pune,Keshav Nagar,Residential,8000000,Semi-Furnished,2,2,Connected,0,0,0,3,778.0,Maharashtra,Carpet Area
+Pune,Thergaon,Residential,4000000,Unfurnished,1,2,Connected,1,0,1,1,562.0,Maharashtra,Built-up Area
+Pune,Ravet,Residential,17900000,Unfurnished,4,3,Connected,0,0,0,2,1582.0,Maharashtra,Carpet Area
+Pune,Pune Airport,Residential,8000000,Unfurnished,2,2,Connected,0,0,0,2,1200.0,Maharashtra,Built-up Area
+Pune,Undri,Residential,13266464,Semi-Furnished,3,3,Individual,0,0,0,2,1650.0,Maharashtra,Built-up Area
+Pune,Koregaon,Residential,59900000,Semi-Furnished,4,3,Room-attached,0,0,0,2,2403.0,Maharashtra,Built-up Area
+Pune,Wakad,Residential,8500000,Unfurnished,2,2,Connected,0,0,0,1,945.0,Maharashtra,Carpet Area
+Pune,Viman Nagar,Residential,6500000,Semi-Furnished,1,1,Connected,0,0,0,1,625.0,Maharashtra,Built-up Area
+Pune,Thergaon,Residential,13266464,Unfurnished,2,2,Connected,1,0,1,1,700.0,Maharashtra,Built-up Area
+Pune,Kondhwa,Residential,6000000,Unfurnished,2,2,Individual,0,0,0,2,1050.0,Maharashtra,Built-up Area
+Pune,Ravet,Residential,13266464,Semi-Furnished,2,2,Connected,0,0,0,1,1000.0,Maharashtra,Built-up Area
+Pune,Vishrantwadi,Residential,8500000,Furnished,2,2,Connected,0,0,0,1,850.0,Maharashtra,Carpet Area

@@ -1,0 +1,343 @@
+City,Locality,Property Type,Price,Furnishing Status,Number of Rooms,Number of Bathroom,Balcony,Clubhouse,Swimming Pool,"""Kids Play Areas""",Parking,Area (Sq.Ft.),State,Area Type
+Nashik,Dindori,Commercial,0,Unfurnished,0,0,No Balcony,1,0,1,0,2430.0,Maharashtra,Plot Area
+Nashik,Khambale,Residential,7500000,Furnished,2,2,Room-attached,0,0,0,1,1428.0,Maharashtra,Built-up Area
+Nashik,Patharadi Road,Residential,2150000,Unfurnished,2,2,Connected,0,0,0,0,774.0,Maharashtra,Plot Area
+Nashik,Panchavati,Residential,3280000,Unfurnished,2,2,Connected,0,0,0,0,720.0,Maharashtra,Plot Area
+Nashik,Pathardi,Residential,1628000,Unfurnished,2,2,Connected,0,0,0,0,740.0,Maharashtra,Plot Area
+Nashik,Pathardi Phata,Residential,1600000,Unfurnished,2,2,Connected,0,0,0,0,680.0,Maharashtra,Plot Area
+Nashik,Ojhar,Residential,4625000,Unfurnished,2,2,Connected,0,0,0,0,510.0,Maharashtra,Plot Area
+Nashik,Igatpuri,Residential,7500000,Unfurnished,2,2,Connected,1,1,1,2,1228.0,Maharashtra,Carpet Area
+Nashik,Indira Nagar,Residential,2700000,Unfurnished,1,1,Room-attached,0,0,0,1,740.0,Maharashtra,Built-up Area
+Nashik,Igatpuri,Residential,6500000,Unfurnished,2,2,Connected,0,0,0,0,26000.0,Maharashtra,Plot Area
+Nashik,Ojhar,Commercial,0,Semi-Furnished,0,0,No Balcony,0,0,0,0,20000.0,Maharashtra,Built-up Area
+Nashik,Nashik Road,Residential,1200000,Unfurnished,2,2,Connected,0,0,0,0,500.0,Maharashtra,Plot Area
+Nashik,Trimbak Road,Residential,5000000,Unfurnished,2,2,Connected,0,0,0,0,10000.0,Maharashtra,Plot Area
+Nashik,Devlali,Residential,3400000,Unfurnished,2,2,Room-attached,0,0,0,1,900.0,Maharashtra,Built-up Area
+Nashik,Gangapur Road,Residential,4400000,Unfurnished,2,2,Connected,0,0,0,0,1476.0,Maharashtra,Plot Area
+Nashik,Pathardi Phata,Residential,6200000,Furnished,2,2,Connected,0,0,0,0,1555.0,Maharashtra,Built-up Area
+Nashik,Nashik Road,Residential,3200000,Semi-Furnished,1,1,Connected,0,0,0,1,820.0,Maharashtra,Built-up Area
+Nashik,Wadner Road,Residential,5000000,Unfurnished,2,2,"Connected,Room-attached",0,0,0,2,1950.0,Maharashtra,Built-up Area
+Nashik,Pathardi,Residential,1651000,Unfurnished,2,2,Connected,0,0,0,0,675.0,Maharashtra,Plot Area
+Nashik,Jail Road,Residential,3399000,Unfurnished,2,2,Room-attached,0,0,0,1,9000.0,Maharashtra,Built-up Area
+Nashik,Trimbak Road,Residential,2995000,Unfurnished,2,2,Connected,0,0,0,0,1089.0,Maharashtra,Plot Area
+Nashik,Devlali,Residential,4700000,Unfurnished,2,2,Room-attached,1,0,0,2,1200.0,Maharashtra,Built-up Area
+Nashik,Sinnar,Residential,5000000,Unfurnished,2,2,Individual,0,0,0,1,1053.0,Maharashtra,Carpet Area
+Nashik,Deolali,Residential,7780000,Unfurnished,2,2,Connected,0,0,0,3,1414.0,Maharashtra,Built-up Area
+Nashik,Ojhar,Residential,2207000,Unfurnished,2,2,Connected,0,0,0,0,2207.0,Maharashtra,Plot Area
+Nashik,Nashik Road,Residential,13500000,Unfurnished,4,4,Room-attached,0,0,1,4,3200.0,Maharashtra,Built-up Area
+Nashik,Trimbak,Residential,2677000,Unfurnished,2,2,Connected,0,0,0,0,2835.0,Maharashtra,Plot Area
+Nashik,Gangapur,Residential,1551000,Unfurnished,2,2,Connected,0,0,1,0,558.0,Maharashtra,Plot Area
+Nashik,Wadner Road,Residential,4700000,Unfurnished,2,2,Room-attached,0,0,0,1,1200.0,Maharashtra,Built-up Area
+Nashik,Nashik Road,Residential,2100000,Unfurnished,2,2,Connected,0,0,0,0,639.0,Maharashtra,Plot Area
+Nashik,Pathardi,Residential,2330000,Unfurnished,2,2,Connected,0,0,0,0,639.0,Maharashtra,Plot Area
+Nashik,Indira Nagar,Residential,2152000,Unfurnished,2,2,Connected,0,0,0,0,639.0,Maharashtra,Plot Area
+Nashik,Dasak,Residential,5300000,Unfurnished,2,2,Individual,0,0,0,2,1044.0,Maharashtra,Built-up Area
+Nashik,Ojhar,Residential,3000000,Unfurnished,2,2,Connected,0,0,0,0,3000.0,Maharashtra,Plot Area
+Nashik,Igatpuri,Residential,2800000,Unfurnished,1,1,Connected,0,0,0,0,420.0,Maharashtra,Carpet Area
+Nashik,Deolali,Residential,7900000,Unfurnished,3,3,Connected,0,0,0,3,1670.0,Maharashtra,Built-up Area
+Nashik,Cidco,Residential,4700000,Unfurnished,4,3,Individual,0,0,0,2,1300.0,Maharashtra,Built-up Area
+Nashik,Nashik Road,Residential,5106000,Furnished,2,3,"Individual,Room-attached",0,0,0,3,1184.0,Maharashtra,Saleable Area
+Nashik,Ojhar,Residential,4628000,Unfurnished,2,2,Connected,0,0,0,0,4628.0,Maharashtra,Plot Area
+Nashik,NashiK-Pune Road,Residential,4900000,Unfurnished,2,2,Room-attached,0,0,0,2,945.0,Maharashtra,Built-up Area
+Nashik,Pathardi Phata,Residential,4100000,Unfurnished,2,2,Room-attached,0,0,0,2,1000.0,Maharashtra,Built-up Area
+Nashik,Trimbak Road,Residential,3307000,Unfurnished,2,2,Connected,0,0,0,0,3500.0,Maharashtra,Plot Area
+Nashik,Nashik Road,Residential,3400000,Unfurnished,2,2,Connected,0,0,0,1,900.0,Maharashtra,Built-up Area
+Nashik,Trimbak,Residential,2549000,Unfurnished,2,2,Connected,0,0,0,0,2700.0,Maharashtra,Plot Area
+Nashik,Trimbak,Residential,4500000,Unfurnished,2,2,Connected,1,1,0,0,24300.0,Maharashtra,Plot Area
+Nashik,Lam Road,Residential,3850000,Unfurnished,2,2,Connected,0,0,1,0,1388.5430999999999,Maharashtra,Plot Area
+Nashik,Pathardi,Residential,2381000,Unfurnished,2,2,Connected,0,0,1,0,666.0,Maharashtra,Plot Area
+Nashik,Mhasrul Gaon,Residential,1851000,Unfurnished,2,2,Connected,0,0,0,0,639.0,Maharashtra,Plot Area
+Nashik,Pimpalgaon Bahula,Residential,8000000,Unfurnished,2,2,Connected,0,0,0,0,720.0,Maharashtra,Plot Area
+Nashik,Wadner Road,Residential,1750000,Unfurnished,2,2,Connected,0,0,0,0,675.0,Maharashtra,Plot Area
+Nashik,Devlali,Commercial,0,Furnished,0,0,No Balcony,0,0,0,9,2300.0,Maharashtra,Built-up Area
+Nashik,MumbaI-Nashik Highway,Residential,9900000,Unfurnished,3,3,Connected,1,0,1,1,15000.0,Maharashtra,Built-up Area
+Nashik,Dindori,Residential,9569631,Unfurnished,2,2,Connected,0,0,0,0,675.0,Maharashtra,Plot Area
+Nashik,Gangapur,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,3095.0,Maharashtra,Plot Area
+Nashik,Sharanpur,Residential,9569631,Unfurnished,2,2,Connected,0,0,0,0,5859.0,Maharashtra,Plot Area
+Nashik,Devlali,Commercial,0,Furnished,0,0,No Balcony,0,0,0,6,2300.0,Maharashtra,Built-up Area
+Nashik,Trimbak Road,Residential,3400000,Unfurnished,2,2,Connected,0,0,0,0,1089.0,Maharashtra,Plot Area
+Nashik,Ashoka Marg,Residential,7100000,Unfurnished,3,3,"Connected,Individual,Room-attached",0,0,0,1,1571.0,Maharashtra,Built-up Area
+Nashik,Rasegaon,Residential,9569631,Unfurnished,2,2,Connected,0,0,0,0,3095.0,Maharashtra,Plot Area
+Nashik,Igatpuri,Residential,8000000,Unfurnished,2,2,Connected,0,0,0,1,1227.0,Maharashtra,Built-up Area
+Nashik,Igatpuri,Residential,4445000,Unfurnished,2,2,Connected,0,0,0,0,1100.0,Maharashtra,Plot Area
+Nashik,Nashik Airport,Residential,9569631,Unfurnished,2,2,Connected,0,0,0,0,2700.0,Maharashtra,Plot Area
+Nashik,Dindori Road,Residential,9569631,Unfurnished,2,2,Connected,0,0,0,0,675.0,Maharashtra,Plot Area
+Nashik,Indira Nagar,Residential,4000000,Unfurnished,2,2,Connected,0,0,0,2,1075.0,Maharashtra,Built-up Area
+Nashik,Pathardi Phata,Residential,7290000,Unfurnished,2,2,Connected,0,0,0,0,2187.0,Maharashtra,Plot Area
+Nashik,Nashik Road,Residential,2500000,Furnished,2,1,Connected,0,0,0,1,750.0,Maharashtra,Built-up Area
+Nashik,Chetana Nagar,Residential,9500000,Semi-Furnished,3,2,Individual,0,0,0,1,2200.0,Maharashtra,Built-up Area
+Nashik,Pathardi Phata,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,1260.0,Maharashtra,Plot Area
+Nashik,Lam Road,Residential,11000000,Unfurnished,3,3,Connected,0,0,0,4,2400.0,Maharashtra,Built-up Area
+Nashik,Makhmalabad,Residential,3600000,Unfurnished,2,2,Room-attached,0,0,0,1,982.0,Maharashtra,Built-up Area
+Nashik,Dindori,Residential,700000,Unfurnished,2,2,Connected,0,0,0,0,675.0,Maharashtra,Plot Area
+Nashik,Igatpuri,Residential,30000000,Unfurnished,2,2,Connected,0,0,0,0,3095.0,Maharashtra,Plot Area
+Nashik,Pathardi Phata,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,1,503.0,Maharashtra,Built-up Area
+Nashik,Dr Homi Bhabha Nagar,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,12,431.0,Maharashtra,Built-up Area
+Nashik,Mhasrul Gaon,Residential,1381000,Unfurnished,2,2,Connected,0,0,0,0,630.0,Maharashtra,Plot Area
+Nashik,Dhruv Nagar,Residential,7000000,Unfurnished,3,3,"Connected,Room-attached",0,0,0,1,2000.0,Maharashtra,Built-up Area
+Nashik,Gangapur,Residential,1555000,Unfurnished,2,2,Connected,0,0,1,0,594.0,Maharashtra,Plot Area
+Nashik,Ojhar,Residential,2725000,Unfurnished,2,2,Connected,0,0,0,0,2727.0,Maharashtra,Plot Area
+Nashik,Trimbak,Residential,9569631,Unfurnished,2,2,Connected,0,0,1,0,2696.0,Maharashtra,Plot Area
+Nashik,Trimbak,Residential,3210000,Unfurnished,2,2,Connected,0,0,0,0,3400.0,Maharashtra,Plot Area
+Nashik,Trimbak,Residential,9569631,Unfurnished,2,2,Connected,0,0,0,0,7535.0,Maharashtra,Plot Area
+Nashik,Nashik Road,Residential,1591000,Unfurnished,2,2,Connected,0,0,0,0,585.0,Maharashtra,Plot Area
+Nashik,Trimbak Road,Residential,9569631,Unfurnished,2,2,Connected,0,0,0,0,410.0,Maharashtra,Plot Area
+Nashik,Ojhar,Residential,1620000,Unfurnished,2,2,Connected,0,0,0,0,1620.0,Maharashtra,Plot Area
+Nashik,Gangapur,Residential,2700000,Unfurnished,2,2,Connected,0,0,1,0,2700.0,Maharashtra,Plot Area
+Nashik,Pathardi,Residential,4620000,Unfurnished,2,2,Connected,0,0,1,0,1179.0,Maharashtra,Plot Area
+Nashik,Pathardi Phata,Residential,4500000,Unfurnished,2,2,Connected,0,0,0,0,1170.0,Maharashtra,Plot Area
+Nashik,Makhmalabad,Residential,3813000,Unfurnished,2,2,Room-attached,0,0,1,2,1030.0,Maharashtra,Built-up Area
+Nashik,Pathardi,Residential,9569631,Unfurnished,2,2,Connected,0,0,0,0,1100.0,Maharashtra,Plot Area
+Nashik,Pathardi Phata,Residential,7000000,Furnished,3,2,Connected,0,0,0,2,1033.0,Maharashtra,Carpet Area
+Nashik,Igatpuri,Residential,9569631,Unfurnished,2,2,Connected,0,0,0,0,3095.0,Maharashtra,Plot Area
+Nashik,Wadner Road,Residential,1658000,Unfurnished,2,2,Connected,0,0,0,0,675.0,Maharashtra,Plot Area
+Nashik,Anand Nagar,Residential,3700000,Unfurnished,2,2,Connected,0,0,0,3,1100.0,Maharashtra,Built-up Area
+Nashik,Panchavati,Residential,3250000,Unfurnished,2,2,Connected,0,0,0,0,720.0,Maharashtra,Plot Area
+Nashik,Adgaon,Residential,25000000,Unfurnished,2,2,Connected,0,0,0,0,49500.0,Maharashtra,Plot Area
+Nashik,Pathardi Phata,Residential,3343000,Unfurnished,2,2,"Connected,Room-attached",0,0,0,1,916.0,Maharashtra,Carpet Area
+Nashik,Indira Nagar,Residential,4200000,Unfurnished,2,2,Connected,0,0,0,2,1000.0,Maharashtra,Built-up Area
+Nashik,Nashik Airport,Residential,9569631,Unfurnished,2,2,Connected,0,0,0,0,4626.0,Maharashtra,Plot Area
+Nashik,Trimbak Road,Residential,5100000,Unfurnished,2,2,Connected,0,0,0,0,11000.0,Maharashtra,Plot Area
+Nashik,Trimbak Road,Residential,1566000,Unfurnished,2,2,Connected,0,0,0,0,2716.0,Maharashtra,Plot Area
+Nashik,Adgaon,Residential,4700000,Unfurnished,2,2,Connected,0,0,1,0,1512.0,Maharashtra,Plot Area
+Nashik,Ojhar,Residential,4626000,Unfurnished,2,2,Connected,0,0,1,0,4626.0,Maharashtra,Plot Area
+Nashik,Pathardi,Residential,3100000,Unfurnished,2,2,Room-attached,0,0,0,1,852.0,Maharashtra,Built-up Area
+Nashik,Trimbak,Residential,2945000,Unfurnished,2,2,Connected,0,0,1,0,3120.0,Maharashtra,Plot Area
+Nashik,Gangapur,Residential,3105000,Unfurnished,2,2,Connected,1,0,0,0,27900.0,Maharashtra,Plot Area
+Nashik,Trimbak,Residential,4500000,Unfurnished,2,2,Connected,0,0,1,0,9000.0,Maharashtra,Plot Area
+Nashik,Indira Nagar,Residential,13000000,Furnished,3,3,"Connected,Room-attached",0,0,0,3,1918.0,Maharashtra,Built-up Area
+Nashik,Panchavati,Residential,20600000,Unfurnished,2,2,Connected,0,0,0,0,4644.0,Maharashtra,Plot Area
+Nashik,Gangapur,Residential,1551000,Unfurnished,2,2,Connected,0,0,1,0,585.0,Maharashtra,Plot Area
+Nashik,Pathardi,Residential,4051000,Furnished,2,2,Connected,0,0,0,1,1180.0,Maharashtra,Built-up Area
+Nashik,Shivaji Nagar,Residential,2100000,Unfurnished,2,2,Connected,0,0,1,0,675.0,Maharashtra,Plot Area
+Nashik,Bajrang Nagar,Residential,9569631,Unfurnished,2,2,Connected,0,0,0,0,8821.0,Maharashtra,Plot Area
+Nashik,Wadner Road,Residential,4480000,Unfurnished,2,2,"Connected,Room-attached",1,0,1,3,1400.0,Maharashtra,Saleable Area
+Nashik,Trimbak,Residential,2961000,Unfurnished,2,2,Connected,0,0,0,0,10768.0,Maharashtra,Plot Area
+Nashik,Nashik Road,Residential,3951000,Semi-Furnished,2,3,Individual,0,0,0,2,1008.0,Maharashtra,Saleable Area
+Nashik,Trimbak,Residential,2548000,Unfurnished,2,2,Connected,0,0,0,0,2710.0,Maharashtra,Plot Area
+Nashik,Nagalwadi,Residential,2415000,Unfurnished,2,2,Connected,0,0,0,0,3105.0,Maharashtra,Plot Area
+Nashik,Mhasrul Gaon,Residential,25000000,Unfurnished,2,2,Connected,0,0,0,0,4500.0,Maharashtra,Plot Area
+Nashik,NashiK-Pune Road,Residential,4100000,Unfurnished,2,2,Connected,0,0,1,0,4572.0,Maharashtra,Plot Area
+Nashik,Devlali,Residential,7428000,Unfurnished,2,2,"Connected,Room-attached",1,1,1,1,1415.0,Maharashtra,Built-up Area
+Nashik,Indira Nagar,Residential,4500000,Unfurnished,3,2,Connected,0,1,1,1,1250.0,Maharashtra,Built-up Area
+Nashik,Pathardi,Residential,25000000,Unfurnished,2,2,Connected,0,0,0,0,9585.0,Maharashtra,Plot Area
+Nashik,Indira Nagar,Residential,1325000,Unfurnished,2,2,Connected,0,0,0,0,405.0,Maharashtra,Plot Area
+Nashik,Wadner Road,Residential,2250000,Unfurnished,2,2,Connected,0,0,0,0,675.0,Maharashtra,Plot Area
+Nashik,Igatpuri,Residential,4000000,Unfurnished,2,2,Connected,0,1,1,1,565.0,Maharashtra,Carpet Area
+Nashik,Patharadi Road,Residential,2650000,Unfurnished,2,2,Connected,0,0,0,0,792.0,Maharashtra,Plot Area
+Nashik,Nandur Village,Residential,1600000,Unfurnished,2,2,Connected,0,0,1,0,585.0,Maharashtra,Plot Area
+Nashik,Patharadi Road,Residential,1651000,Unfurnished,2,2,Connected,0,0,1,0,675.0,Maharashtra,Plot Area
+Nashik,Ashoka Marg,Residential,8500000,Furnished,4,3,Room-attached,0,0,0,2,2000.0,Maharashtra,Built-up Area
+Nashik,Pathardi,Residential,2382000,Unfurnished,2,2,Connected,0,0,1,0,639.0,Maharashtra,Plot Area
+Nashik,Igatpuri,Residential,5500000,Unfurnished,2,2,Connected,0,0,0,0,3150.0,Maharashtra,Plot Area
+Nashik,Dhruv Nagar,Residential,9569631,Unfurnished,2,2,Connected,0,0,0,0,2214.0,Maharashtra,Plot Area
+Nashik,Nashik Airport,Residential,4622000,Unfurnished,2,2,Connected,0,0,0,0,4621.0,Maharashtra,Plot Area
+Nashik,Adgaon,Residential,3243000,Semi-Furnished,2,1,"Connected,Room-attached",0,0,0,0,954.0,Maharashtra,Built-up Area
+Nashik,Ganjmal,Residential,1500000,Unfurnished,2,2,Connected,0,0,0,0,540.0,Maharashtra,Plot Area
+Nashik,Adgaon,Residential,8260000,Unfurnished,2,2,Connected,0,0,0,0,2331.0,Maharashtra,Plot Area
+Nashik,Jail Road,Residential,2100000,Unfurnished,1,1,Connected,0,0,0,1,600.0,Maharashtra,Built-up Area
+Nashik,Chetana Nagar,Residential,3851000,Unfurnished,2,2,"Connected,Room-attached",0,0,0,1,1000.0,Maharashtra,Built-up Area
+Nashik,Chetana Nagar,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,1,605.0,Maharashtra,Built-up Area
+Nashik,Lam Road,Residential,11000000,Furnished,3,3,"Connected,Room-attached",0,0,0,4,2200.0,Maharashtra,Built-up Area
+Nashik,Adgaon,Residential,3100000,Semi-Furnished,2,2,Connected,0,0,0,2,810.0,Maharashtra,Built-up Area
+Nashik,Igatpuri,Residential,9900000,Unfurnished,2,2,Connected,0,0,0,0,3095.0,Maharashtra,Plot Area
+Nashik,Chandshi,Residential,9569631,Unfurnished,2,2,Connected,0,0,0,0,2500.0,Maharashtra,Plot Area
+Nashik,Igatpuri,Residential,5197000,Unfurnished,2,2,Connected,0,0,0,0,3150.0,Maharashtra,Plot Area
+Nashik,Shivaji Nagar,Residential,3200000,Unfurnished,2,2,Connected,0,0,0,0,1530.0,Maharashtra,Plot Area
+Nashik,Trimbak Road,Residential,4411000,Unfurnished,2,2,Connected,0,0,0,0,4675.0,Maharashtra,Plot Area
+Nashik,Pathardi Phata,Residential,2387000,Unfurnished,2,2,Connected,0,0,0,0,639.0,Maharashtra,Plot Area
+Nashik,Patharadi Road,Residential,2500000,Unfurnished,2,2,Connected,0,0,0,0,900.0,Maharashtra,Plot Area
+Nashik,Indira Nagar,Residential,3050000,Unfurnished,2,2,Connected,0,0,0,1,750.0,Maharashtra,Built-up Area
+Nashik,Indira Nagar,Residential,2200000,Unfurnished,1,1,Connected,0,0,0,0,540.0,Maharashtra,Built-up Area
+Nashik,Govind Nagar,Residential,9000000,Furnished,3,2,Connected,0,0,0,3,1160.0,Maharashtra,Built-up Area
+Nashik,Abhang Nagar,Residential,2000000,Unfurnished,2,2,Connected,0,0,0,0,918.0,Maharashtra,Plot Area
+Nashik,Jail Road,Residential,2251000,Unfurnished,1,1,Connected,0,0,0,2,600.0,Maharashtra,Built-up Area
+Nashik,Deolali,Commercial,0,Furnished,0,0,No Balcony,0,0,0,5,2300.0,Maharashtra,Built-up Area
+Nashik,Pathardi Phata,Residential,4200000,Unfurnished,2,2,Connected,0,0,0,0,800.0,Maharashtra,Built-up Area
+Nashik,Tapovan Road,Residential,3300000,Unfurnished,2,2,Connected,0,0,0,2,865.0,Maharashtra,Built-up Area
+Nashik,Indira Nagar,Residential,1350000,Unfurnished,2,2,Connected,0,0,0,0,405.0,Maharashtra,Plot Area
+Nashik,Midc Ambad,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,47700.0,Maharashtra,Plot Area
+Nashik,Pathardi,Residential,9900000,Unfurnished,2,2,Connected,0,0,0,0,4212.0,Maharashtra,Plot Area
+Nashik,Gangapur,Residential,1709000,Unfurnished,2,2,Connected,0,0,1,0,592.0,Maharashtra,Plot Area
+Nashik,Gangapur Road,Residential,20000000,Unfurnished,4,4,Connected,0,0,1,2,2900.0,Maharashtra,Built-up Area
+Nashik,Trimbak Road,Residential,2790000,Unfurnished,2,2,Connected,0,0,0,0,11000.0,Maharashtra,Plot Area
+Nashik,Indira Nagar,Residential,9600000,Unfurnished,3,3,Connected,0,0,0,3,1800.0,Maharashtra,Built-up Area
+Nashik,Trimbak Road,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,25134.0,Maharashtra,Plot Area
+Nashik,Indira Nagar,Residential,6500000,Unfurnished,2,2,Connected,0,0,0,1,1281.0,Maharashtra,Built-up Area
+Nashik,Gangapur,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,3095.0,Maharashtra,Plot Area
+Nashik,Devlali,Residential,11000000,Semi-Furnished,3,3,Room-attached,0,0,0,4,2200.0,Maharashtra,Built-up Area
+Nashik,Gangapur Road,Residential,12300000,Unfurnished,2,2,Connected,0,0,1,0,4068.0,Maharashtra,Plot Area
+Nashik,Nashik Airport,Residential,2201000,Unfurnished,2,2,Connected,0,0,1,0,2212.0,Maharashtra,Plot Area
+Nashik,NashiK-Pune Road,Residential,4284000,Semi-Furnished,2,3,"Connected,Room-attached",0,0,0,3,1122.0,Maharashtra,Built-up Area
+Nashik,Pathardi Phata,Residential,6600000,Unfurnished,2,2,Connected,0,0,0,0,2565.0,Maharashtra,Plot Area
+Nashik,Panchavati,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,4644.0,Maharashtra,Plot Area
+Nashik,Jail Road,Residential,2500000,Unfurnished,1,2,Connected,0,0,0,0,650.0,Maharashtra,Built-up Area
+Nashik,Adgaon,Residential,40000000,Unfurnished,2,2,Connected,0,0,0,0,9000.0,Maharashtra,Plot Area
+Nashik,Nashik Road,Residential,1200000,Unfurnished,2,2,Connected,0,0,0,0,1100.0,Maharashtra,Plot Area
+Nashik,Pathardi Phata,Residential,1500000,Unfurnished,2,2,Connected,0,0,0,0,540.0,Maharashtra,Plot Area
+Nashik,Ojhar,Residential,880000,Unfurnished,2,2,Connected,0,0,0,0,720.0,Maharashtra,Plot Area
+Nashik,Abhang Nagar,Residential,2100000,Unfurnished,2,2,Connected,0,0,0,0,900.0,Maharashtra,Plot Area
+Nashik,Indira Nagar,Residential,4700000,Unfurnished,1,1,Connected,1,0,1,1,825.0,Maharashtra,Built-up Area
+Nashik,Govind Nagar,Residential,7500000,Unfurnished,3,3,"Individual,Room-attached",0,0,0,2,1460.0,Maharashtra,Built-up Area
+Nashik,Adgaon,Residential,4107000,Semi-Furnished,3,2,"Connected,Room-attached",0,0,0,1,1208.0,Maharashtra,Built-up Area
+Nashik,Vaidya Nagar,Residential,2810000,Unfurnished,2,2,Connected,0,0,0,0,846.0,Maharashtra,Plot Area
+Nashik,Trimbak,Residential,2000000,Unfurnished,2,2,Connected,0,0,0,0,1089.0,Maharashtra,Plot Area
+Nashik,Jalalpur,Residential,6705000,Unfurnished,2,2,Connected,0,0,0,0,2025.0,Maharashtra,Plot Area
+Nashik,Indira Nagar,Residential,7500000,Unfurnished,2,2,"Connected,Room-attached",0,0,0,1,1400.0,Maharashtra,Built-up Area
+Nashik,MumbaI-Nashik Highway,Commercial,0,Semi-Furnished,0,0,No Balcony,0,0,0,1,330.0,Maharashtra,Built-up Area
+Nashik,Igatpuri,Residential,3750000,Unfurnished,2,2,Connected,0,0,0,0,2500.0,Maharashtra,Plot Area
+Nashik,Igatpuri,Residential,3600000,Unfurnished,2,2,Connected,0,0,0,0,2600.0,Maharashtra,Plot Area
+Nashik,Trimbak,Residential,2900000,Unfurnished,1,2,"Connected,Room-attached",0,0,0,1,600.0,Maharashtra,Built-up Area
+Nashik,Makhmalabad Road,Residential,3500000,Semi-Furnished,4,2,Room-attached,0,0,0,1,900.0,Maharashtra,Built-up Area
+Nashik,Nashik Road,Residential,3780000,Unfurnished,2,2,Connected,0,0,0,0,3240.0,Maharashtra,Plot Area
+Nashik,Ashoka Marg,Residential,4200000,Unfurnished,2,2,Connected,0,0,0,6,1003.0,Maharashtra,Built-up Area
+Nashik,Trimbak Road,Residential,260800000,Unfurnished,2,2,Connected,0,0,0,0,2760.0,Maharashtra,Plot Area
+Nashik,Panchavati,Residential,3280000,Unfurnished,2,2,Connected,0,0,0,0,720.0,Maharashtra,Plot Area
+Nashik,Rajiv Nagar,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,240.0,Maharashtra,Built-up Area
+Nashik,Igatpuri,Residential,5040000,Unfurnished,2,2,Connected,0,0,0,0,3150.0,Maharashtra,Plot Area
+Nashik,Igatpuri,Residential,2788000,Unfurnished,2,2,Connected,0,0,0,0,1743.0,Maharashtra,Plot Area
+Nashik,Takli,Residential,6800000,Semi-Furnished,3,3,Individual,0,0,0,1,1950.0,Maharashtra,Built-up Area
+Nashik,Gangapur,Residential,15400000,Unfurnished,2,2,Connected,0,0,0,0,4383.0,Maharashtra,Plot Area
+Nashik,Kamatwade,Residential,2400000,Unfurnished,1,1,Individual,0,0,0,1,680.0,Maharashtra,Built-up Area
+Nashik,Pathardi,Residential,5500000,Unfurnished,2,2,Room-attached,0,0,0,1,1036.0,Maharashtra,Carpet Area
+Nashik,Trimbak Road,Residential,5000000,Unfurnished,2,2,Connected,0,0,0,0,10890.0,Maharashtra,Plot Area
+Nashik,Trimbak Road,Residential,2940000,Unfurnished,2,2,Connected,0,0,0,0,4410.0,Maharashtra,Plot Area
+Nashik,Pathardi Phata,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,1,600.0,Maharashtra,Built-up Area
+Nashik,Vinay Nagar,Residential,1200000,Unfurnished,2,2,Connected,0,0,0,0,1200.0,Maharashtra,Plot Area
+Nashik,Indira Nagar,Residential,17000000,Unfurnished,2,2,Connected,0,0,0,0,4959.0,Maharashtra,Plot Area
+Nashik,Gangapur Road,Residential,2939000,Unfurnished,2,2,Connected,0,0,0,0,963.0,Maharashtra,Plot Area
+Nashik,Pathardi Phata,Residential,4250000,Unfurnished,2,2,Individual,0,0,0,2,1090.0,Maharashtra,Built-up Area
+Nashik,Patharadi Road,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,6,450.0,Maharashtra,Built-up Area
+Nashik,Pathardi Phata,Residential,2500000,Unfurnished,2,2,Connected,0,0,0,0,675.0,Maharashtra,Plot Area
+Nashik,Nashik Airport,Residential,4411000,Unfurnished,2,2,Connected,0,0,1,0,2212.0,Maharashtra,Plot Area
+Nashik,Upnagar,Residential,6000000,Semi-Furnished,3,3,Connected,0,0,0,1,1050.0,Maharashtra,Carpet Area
+Nashik,Kathe Gali,Residential,4000000,Unfurnished,2,2,Room-attached,0,0,0,2,840.0,Maharashtra,Built-up Area
+Nashik,Panchavati,Residential,2351000,Unfurnished,1,1,Connected,0,0,1,1,550.0,Maharashtra,Built-up Area
+Nashik,Wadner Road,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,3095.0,Maharashtra,Plot Area
+Nashik,Serene Meadows,Residential,11000000,Furnished,3,3,Room-attached,0,0,0,3,1750.0,Maharashtra,Saleable Area
+Nashik,Khutwad Nagar,Residential,6000000,Unfurnished,2,2,"Connected,Room-attached",0,0,0,2,810.0,Maharashtra,Built-up Area
+Nashik,Igatpuri,Residential,9500000,Unfurnished,3,3,Connected,0,0,0,2,1448.0,Maharashtra,Carpet Area
+Nashik,Anandvalli,Residential,9500000,Unfurnished,3,4,"Connected,Individual,Room-attached",0,0,0,2,1850.0,Maharashtra,Built-up Area
+Nashik,Deolali,Residential,6060000,Unfurnished,3,3,Room-attached,1,0,1,2,1440.0,Maharashtra,Built-up Area
+Nashik,Trimbak Road,Residential,2500000,Unfurnished,2,2,Connected,0,0,0,0,1089.0,Maharashtra,Plot Area
+Nashik,Nashik Road,Commercial,0,Unfurnished,0,0,No Balcony,0,0,1,0,6345.0,Maharashtra,Plot Area
+Nashik,Igatpuri,Residential,5600000,Unfurnished,2,2,Connected,0,0,0,0,35115.0,Maharashtra,Plot Area
+Nashik,Trimbak,Commercial,0,Unfurnished,0,0,No Balcony,1,1,1,0,4410.0,Maharashtra,Plot Area
+Nashik,Trimbak,Residential,3000000,Unfurnished,2,2,Connected,0,0,0,0,10089.0,Maharashtra,Plot Area
+Nashik,Indira Nagar,Residential,8000000,Unfurnished,3,2,Connected,0,0,0,2,1700.0,Maharashtra,Built-up Area
+Nashik,Gangapur,Residential,7140000,Unfurnished,2,2,Connected,0,0,0,0,2295.0,Maharashtra,Plot Area
+Nashik,Bajrang Nagar,Residential,1834000,Unfurnished,2,2,Connected,0,0,0,0,1836.0,Maharashtra,Plot Area
+Nashik,Khutwad Nagar,Residential,4400000,Semi-Furnished,2,2,"Individual,Room-attached",0,0,0,1,955.0,Maharashtra,Built-up Area
+Nashik,Gangapur Road,Residential,9569631,Unfurnished,2,2,Connected,0,0,0,0,1600.0,Maharashtra,Plot Area
+Nashik,Tapovan Road,Residential,9569631,Unfurnished,2,2,Connected,0,0,0,0,13500.0,Maharashtra,Plot Area
+Nashik,Gangapur,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,90000.0,Maharashtra,Plot Area
+Nashik,Vaibhav Colony,Residential,6500000,Furnished,2,2,Connected,0,0,0,0,850.0,Maharashtra,Built-up Area
+Nashik,Pathardi,Residential,5000000,Unfurnished,3,3,Connected,0,0,0,3,1800.0,Maharashtra,Built-up Area
+Nashik,Chandshi,Residential,6500000,Unfurnished,2,2,Connected,0,0,0,0,2025.0,Maharashtra,Plot Area
+Nashik,NashiK-Pune Road,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,6345.0,Maharashtra,Plot Area
+Nashik,NashiK-Pune Road,Residential,3100000,Unfurnished,2,2,Connected,0,0,1,0,4032.0,Maharashtra,Plot Area
+Nashik,Sinnar,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,6458.34,Maharashtra,Plot Area
+Nashik,Igatpuri,Residential,2500000,Unfurnished,2,2,Connected,0,0,0,0,1500.0,Maharashtra,Plot Area
+Nashik,NashiK-Pune Road,Residential,24000000,Unfurnished,2,2,Connected,0,0,0,0,3095.0,Maharashtra,Plot Area
+Nashik,Pathardi Phata,Residential,7000000,Unfurnished,2,2,Connected,0,0,0,0,2205.0,Maharashtra,Plot Area
+Nashik,Nashik Road,Residential,10900000,Unfurnished,4,3,Room-attached,0,0,0,4,2328.0,Maharashtra,Built-up Area
+Nashik,Gangapur Road,Residential,12200000,Unfurnished,2,2,Connected,0,0,0,0,4068.0,Maharashtra,Plot Area
+Nashik,Panchavati,Residential,3400000,Unfurnished,2,2,Connected,0,0,0,0,720.0,Maharashtra,Plot Area
+Nashik,Lam Road,Residential,7132000,Unfurnished,3,3,Connected,1,1,1,2,1678.0,Maharashtra,Built-up Area
+Nashik,Nashik Road,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,440.0,Maharashtra,Built-up Area
+Nashik,Sane Guruji Nagar,Residential,9569631,Furnished,3,3,Connected,0,0,1,8,2600.0,Maharashtra,Saleable Area
+Nashik,Nashik Road,Residential,4000000,Furnished,2,2,Room-attached,0,0,0,1,950.0,Maharashtra,Built-up Area
+Nashik,Dwarka,Residential,5400000,Unfurnished,2,2,Connected,0,0,0,0,1080.0,Maharashtra,Plot Area
+Nashik,Igatpuri,Residential,7500000,Unfurnished,2,2,Connected,0,0,0,2,1228.0,Maharashtra,Carpet Area
+Nashik,Indira Nagar,Residential,3300000,Semi-Furnished,2,2,Connected,0,0,0,1,850.0,Maharashtra,Built-up Area
+Nashik,Kathe Gali,Residential,7500000,Furnished,3,2,Connected,0,0,0,1,1700.0,Maharashtra,Built-up Area
+Nashik,Abhang Nagar,Residential,1200000,Unfurnished,2,2,Connected,0,0,0,0,900.0,Maharashtra,Plot Area
+Nashik,Wadner Road,Residential,3325000,Unfurnished,2,2,Individual,1,0,1,2,950.0,Maharashtra,Built-up Area
+Nashik,Kamatwade,Residential,9569631,Furnished,2,2,Connected,0,0,0,1,910.0,Maharashtra,Built-up Area
+Nashik,Indira Nagar,Residential,4200000,Unfurnished,2,1,Connected,0,0,0,0,1048.0,Maharashtra,Built-up Area
+Nashik,Tidke Colony,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,4,1120.0,Maharashtra,Saleable Area
+Nashik,Panchavati,Residential,3200000,Semi-Furnished,2,2,"Connected,Room-attached",0,0,0,1,685.0,Maharashtra,Carpet Area
+Nashik,Nashik Road,Residential,21500000,Furnished,4,3,"Connected,Room-attached",0,0,0,2,2900.0,Maharashtra,Built-up Area
+Nashik,Dhruv Nagar,Residential,5100000,Unfurnished,3,3,"Connected,Individual,Room-attached",0,0,0,1,1350.0,Maharashtra,Built-up Area
+Nashik,Nashik Road,Residential,3800000,Unfurnished,2,2,Connected,0,0,0,2,900.0,Maharashtra,Built-up Area
+Nashik,Gole Colony,Commercial,0,Furnished,0,0,Connected,0,0,0,1,1850.0,Maharashtra,Built-up Area
+Nashik,Mhasrul Gaon,Residential,1831000,Unfurnished,2,2,Connected,0,0,1,0,675.0,Maharashtra,Plot Area
+Nashik,Panchavati,Residential,21100000,Unfurnished,2,2,Connected,0,0,1,0,5040.0,Maharashtra,Plot Area
+Nashik,Deolali,Residential,5600000,Unfurnished,3,3,Room-attached,0,0,0,2,1420.0,Maharashtra,Built-up Area
+Nashik,NashiK-Pune Road,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,1,225.0,Maharashtra,Built-up Area
+Nashik,Ashoka Marg,Residential,4199000,Unfurnished,2,2,Connected,0,0,1,1,953.0,Maharashtra,Saleable Area
+Nashik,Makhmalabad Road,Residential,3587000,Semi-Furnished,2,1,"Connected,Room-attached",0,0,0,0,1071.0,Maharashtra,Built-up Area
+Nashik,Kalpataru Nagar,Residential,5500000,Semi-Furnished,2,2,Individual,0,0,0,1,1000.0,Maharashtra,Carpet Area
+Nashik,Devlali,Residential,7000000,Unfurnished,2,2,Room-attached,0,1,1,2,1350.0,Maharashtra,Built-up Area
+Nashik,Adgaon,Residential,2250000,Unfurnished,2,2,Connected,0,0,1,0,810.0,Maharashtra,Plot Area
+Nashik,Pathardi Phata,Residential,7000000,Unfurnished,2,2,Connected,0,0,0,0,2250.0,Maharashtra,Plot Area
+Nashik,Anandvalli,Residential,9900000,Semi-Furnished,3,3,"Individual,Room-attached",0,0,0,1,2100.0,Maharashtra,Built-up Area
+Nashik,Jalalpur,Residential,5200000,Unfurnished,2,2,Connected,0,0,0,0,1620.0,Maharashtra,Plot Area
+Nashik,Ashoka Marg,Residential,4500000,Unfurnished,2,2,Connected,0,0,0,2,1450.0,Maharashtra,Built-up Area
+Nashik,Pathardi Phata,Residential,3300000,Furnished,2,2,Connected,0,0,0,1,880.0,Maharashtra,Built-up Area
+Nashik,Ashoka Marg,Residential,4100000,Unfurnished,2,2,Connected,0,0,0,1,1265.0,Maharashtra,Built-up Area
+Nashik,Wadner Road,Residential,8533000,Unfurnished,2,2,Connected,0,0,0,0,30051.0,Maharashtra,Plot Area
+Nashik,Nashik Road,Residential,2824000,Unfurnished,2,2,Connected,0,0,0,0,2999.0,Maharashtra,Plot Area
+Nashik,Dindori,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,3095.0,Maharashtra,Plot Area
+Nashik,Indira Nagar,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,143.0,Maharashtra,Built-up Area
+Nashik,Nashik Road,Residential,3500000,Unfurnished,2,2,Connected,0,0,0,0,4446.0,Maharashtra,Plot Area
+Nashik,Sadguru Nagar,Residential,6500000,Semi-Furnished,2,2,"Connected,Room-attached",0,0,0,1,1160.0,Maharashtra,Built-up Area
+Nashik,Panchavati,Residential,2900000,Semi-Furnished,2,2,"Connected,Room-attached",0,0,0,1,607.0,Maharashtra,Carpet Area
+Nashik,Govind Nagar,Residential,9569631,Furnished,1,1,Connected,0,0,0,2,1160.0,Maharashtra,Built-up Area
+Nashik,Sadguru Nagar,Residential,7500000,Furnished,3,3,Room-attached,0,0,0,3,1378.0,Maharashtra,Built-up Area
+Nashik,Gangapur,Residential,14500000,Unfurnished,2,2,Connected,0,0,0,0,4941.0,Maharashtra,Plot Area
+Nashik,Adgaon,Residential,5000000,Furnished,2,2,Room-attached,0,0,0,2,960.0,Maharashtra,Built-up Area
+Nashik,Gangapur Road,Residential,4000000,Semi-Furnished,2,2,"Individual,Room-attached",0,0,0,2,835.0,Maharashtra,Built-up Area
+Nashik,Kathe Gali,Residential,13000000,Unfurnished,2,2,Connected,0,0,0,0,2925.0,Maharashtra,Plot Area
+Nashik,Upnagar,Residential,4000000,Unfurnished,2,2,Connected,0,0,0,1,1050.0,Maharashtra,Built-up Area
+Nashik,Sinnar,Residential,9600000,Unfurnished,2,2,Connected,0,0,0,0,6458.34,Maharashtra,Plot Area
+Nashik,Pathardi,Residential,1200000,Unfurnished,2,2,Connected,0,0,1,0,630.0,Maharashtra,Plot Area
+Nashik,Pathardi,Residential,2200000,Unfurnished,1,1,Individual,0,0,0,1,700.0,Maharashtra,Built-up Area
+Nashik,Nashik Road,Residential,10500000,Semi-Furnished,3,3,"Connected,Individual,Room-attached",0,0,0,3,1600.0,Maharashtra,Built-up Area
+Nashik,Jail Road,Residential,2751000,Semi-Furnished,2,2,Connected,0,0,0,3,851.0,Maharashtra,Built-up Area
+Nashik,Govind Nagar,Residential,5546000,Semi-Furnished,3,2,"Connected,Room-attached",0,0,0,1,1219.0,Maharashtra,Built-up Area
+Nashik,Gondedumala,Residential,7500000,Furnished,2,2,Individual,0,0,0,3,1800.0,Maharashtra,Saleable Area
+Nashik,Indira Nagar,Residential,2600000,Unfurnished,1,2,Connected,0,0,0,0,710.0,Maharashtra,Built-up Area
+Nashik,Sinnar,Residential,600000,Unfurnished,2,2,Connected,0,0,0,0,2000.0,Maharashtra,Plot Area
+Nashik,Indira Nagar,Residential,1900000,Semi-Furnished,1,2,Connected,0,0,0,0,631.0,Maharashtra,Built-up Area
+Nashik,Jail Road,Residential,2500000,Semi-Furnished,1,1,Connected,0,0,0,1,700.0,Maharashtra,Built-up Area
+Nashik,Adgaon,Residential,1500000,Unfurnished,2,2,Connected,0,0,0,0,783.0,Maharashtra,Plot Area
+Nashik,Indira Nagar,Residential,2200000,Unfurnished,1,1,Connected,0,0,0,0,600.0,Maharashtra,Built-up Area
+Nashik,Kamatwade,Residential,4000000,Unfurnished,4,2,Connected,0,0,0,2,675.0,Maharashtra,Built-up Area
+Nashik,Trimbak,Residential,1500000,Unfurnished,2,2,Connected,0,0,0,0,5382.0,Maharashtra,Plot Area
+Nashik,Mhasrul Gaon,Residential,1381000,Unfurnished,2,2,Connected,0,0,0,0,675.0,Maharashtra,Plot Area
+Nashik,Jai Bhavani Road,Residential,10000000,Semi-Furnished,2,1,Connected,0,0,0,2,2200.0,Maharashtra,Plot Area
+Nashik,Nashik Road,Residential,711000,Unfurnished,2,2,Connected,0,0,0,0,753.0,Maharashtra,Plot Area
+Nashik,Gangapur Road,Residential,5300000,Unfurnished,2,2,Connected,0,0,0,1,943.0,Maharashtra,Built-up Area
+Nashik,Indira Nagar,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,1,240.0,Maharashtra,Built-up Area
+Nashik,NashiK-Pune Road,Residential,1890000,Semi-Furnished,2,1,"Connected,Room-attached",0,0,0,0,700.0,Maharashtra,Built-up Area
+Nashik,Pathardi Phata,Commercial,0,Unfurnished,0,0,No Balcony,0,0,1,2,1600.0,Maharashtra,Built-up Area
+Nashik,Gangapur Road,Residential,2481000,Semi-Furnished,1,1,"Connected,Room-attached",0,0,0,0,653.0,Maharashtra,Built-up Area
+Nashik,Karmayogi Nagar,Residential,2698000,Semi-Furnished,1,1,"Connected,Room-attached",0,0,0,0,710.0,Maharashtra,Built-up Area
+Nashik,Indira Nagar,Residential,4951000,Unfurnished,2,2,Room-attached,0,0,0,1,1154.0,Maharashtra,Built-up Area
+Nashik,Sinnar,Residential,2690000,Unfurnished,2,2,Individual,0,0,0,1,1200.0,Maharashtra,Built-up Area
+Nashik,College Road,Residential,10500000,Semi-Furnished,2,3,Individual,0,0,0,2,2000.0,Maharashtra,Built-up Area
+Nashik,Pathardi Phata,Residential,10500000,Furnished,3,3,Room-attached,0,0,0,2,1500.0,Maharashtra,Built-up Area
+Nashik,Gangapur Road,Residential,5225000,Unfurnished,2,2,Connected,0,0,0,0,1881.0,Maharashtra,Plot Area
+Nashik,Satpur,Residential,4200000,Semi-Furnished,5,2,Individual,0,0,0,1,1300.0,Maharashtra,Built-up Area
+Nashik,Pathardi Phata,Residential,2000000,Unfurnished,1,1,"Connected,Room-attached",0,0,0,1,650.0,Maharashtra,Built-up Area
+Nashik,Igatpuri,Residential,8000000,Unfurnished,2,2,Connected,1,1,1,1,1228.0,Maharashtra,Carpet Area
+Nashik,Deolali,Residential,10000000,Furnished,3,3,"Connected,Room-attached",0,0,0,3,2390.0,Maharashtra,Built-up Area
+Nashik,Igatpuri,Residential,5475000,Furnished,2,2,Room-attached,0,0,0,2,1300.0,Maharashtra,Built-up Area
+Nashik,Nashik Road,Residential,13000000,Unfurnished,5,4,"Connected,Room-attached",0,0,0,5,217.0,Maharashtra,Plot Area
+Nashik,Igatpuri,Residential,7499000,Unfurnished,3,3,Connected,0,0,0,2,1600.0,Maharashtra,Built-up Area
+Nashik,Uttara Nagar,Residential,5800000,Furnished,6,4,Connected,0,0,0,1,1200.0,Maharashtra,Built-up Area
+Nashik,Kathe Gali,Residential,6500000,Unfurnished,3,3,"Connected,Individual",1,1,1,1,1800.0,Maharashtra,Built-up Area
+Nashik,Makhmalabad,Residential,3900000,Unfurnished,2,2,Connected,0,0,0,0,1350.0,Maharashtra,Plot Area
+Nashik,Makhmalabad,Residential,4200000,Unfurnished,3,2,Individual,0,0,0,1,1250.0,Maharashtra,Built-up Area
+Nashik,Indira Nagar,Residential,6000000,Semi-Furnished,3,3,Individual,0,0,0,1,1500.0,Maharashtra,Built-up Area
+Nashik,Hirawadi,Residential,3800000,Unfurnished,2,2,Connected,0,0,0,1,1200.0,Maharashtra,Built-up Area
+Nashik,Indira Nagar,Residential,9800000,Furnished,3,4,"Connected,Room-attached",0,0,0,1,1900.0,Maharashtra,Built-up Area
+Nashik,Igatpuri,Residential,65000000,Furnished,6,2,Connected,0,0,0,0,7500.0,Maharashtra,Carpet Area
+Nashik,Pathardi Phata,Residential,25000000,Furnished,4,5,Room-attached,0,0,0,4,3000.0,Maharashtra,Built-up Area
+Nashik,Kathe Gali,Residential,6500000,Semi-Furnished,3,3,Connected,0,0,0,2,1067.0,Maharashtra,Built-up Area
+Nashik,Igatpuri,Residential,7500000,Unfurnished,2,2,"Connected,Room-attached",1,1,1,3,1600.0,Maharashtra,Built-up Area
+Nashik,Tapovan Road,Residential,7500000,Unfurnished,4,3,"Connected,Individual,Room-attached",0,0,0,2,1800.0,Maharashtra,Built-up Area
+Nashik,Lam Road,Residential,10000000,Furnished,3,3,Room-attached,0,0,0,5,2300.0,Maharashtra,Built-up Area
+Nashik,Igatpuri,Residential,17500000,Unfurnished,3,2,Connected,0,1,0,1,3165.0,Maharashtra,Built-up Area
+Nashik,Deolali,Residential,5500000,Unfurnished,3,2,Connected,0,0,0,4,1700.0,Maharashtra,Built-up Area

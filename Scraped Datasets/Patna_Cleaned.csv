@@ -1,0 +1,359 @@
+City,Locality,Property Type,Price,Furnishing Status,Number of Rooms,Number of Bathroom,Balcony,Clubhouse,Swimming Pool,"""Kids Play Areas""",Parking,Area (Sq.Ft.),State,Area Type
+Patna,Chitragupta Nagar,Residential,12000000,Semi-Furnished,3,2,Room-attached,0,0,0,1,1200.0,Bihar,Built-up Area
+Patna,Deedarganj,Residential,20000000,Unfurnished,2,2,Room-attached,0,0,0,0,5400.0,Bihar,Plot Area
+Patna,Bihta,Residential,3100000,Unfurnished,2,2,Room-attached,0,0,0,0,1361.0,Bihar,Plot Area
+Patna,Shivala Par,Residential,3500000,Unfurnished,2,2,Room-attached,0,0,0,0,800.0,Bihar,Plot Area
+Patna,Paithani Nathupur,Residential,4000000,Unfurnished,2,2,Room-attached,0,0,0,0,3361.0,Bihar,Plot Area
+Patna,Aitwarpur,Residential,2876000,Unfurnished,2,2,Room-attached,0,0,0,0,1799.0,Bihar,Plot Area
+Patna,Parmanandpur,Residential,1500000,Unfurnished,2,2,Room-attached,0,0,0,0,1200.0,Bihar,Plot Area
+Patna,Patna - Gaya Road,Residential,4003000,Furnished,2,2,Room-attached,0,0,0,1,1220.0,Bihar,Built-up Area
+Patna,Bihta,Residential,1918000,Unfurnished,2,2,Room-attached,0,0,0,0,1201.0,Bihar,Plot Area
+Patna,Bihta,Residential,1558000,Unfurnished,2,2,Room-attached,0,0,0,0,1200.0,Bihar,Plot Area
+Patna,Tripolia,Residential,3700000,Unfurnished,2,2,Room-attached,0,0,0,0,1200.0,Bihar,Plot Area
+Patna,Danapur Khagaul Road,Residential,3500000,Unfurnished,2,2,Room-attached,0,0,0,0,600.0,Bihar,Plot Area
+Patna,Gopalpur,Residential,4200000,Unfurnished,2,2,Room-attached,0,0,0,0,1200.0,Bihar,Plot Area
+Patna,Jaganpura,Residential,4905000,Furnished,2,2,Connected,0,0,0,2,1169.0,Bihar,Built-up Area
+Patna,Boring Road,Residential,8800000,Semi-Furnished,4,3,"Connected,Room-attached",0,0,0,1,1530.0,Bihar,Built-up Area
+Patna,Aitwarpur,Residential,2500000,Unfurnished,2,2,Room-attached,0,0,0,0,1200.0,Bihar,Plot Area
+Patna,Saguna More,Residential,8000000,Unfurnished,2,2,Room-attached,0,0,0,0,1200.0,Bihar,Plot Area
+Patna,Naubatpur,Residential,1500000,Unfurnished,2,2,Room-attached,0,0,0,0,1000.0,Bihar,Plot Area
+Patna,Danapur Road,Residential,8000000,Unfurnished,2,2,Room-attached,0,0,0,0,12249.0,Bihar,Plot Area
+Patna,Jaganpura,Residential,4900000,Furnished,2,2,Room-attached,0,0,0,0,1175.0,Bihar,Built-up Area
+Patna,Bihta,Residential,1918000,Unfurnished,2,2,Room-attached,0,0,0,0,1200.0,Bihar,Plot Area
+Patna,Aitwarpur,Residential,2308000,Unfurnished,2,2,Room-attached,0,0,0,0,1444.0,Bihar,Plot Area
+Patna,Bihta,Residential,600000,Unfurnished,2,2,Room-attached,0,0,0,0,10800.0,Bihar,Plot Area
+Patna,Patna - Gaya Road,Residential,4002000,Furnished,2,2,Room-attached,0,0,0,1,1220.0,Bihar,Built-up Area
+Patna,Shivala Par,Residential,2900000,Unfurnished,2,2,Room-attached,0,0,0,0,1200.0,Bihar,Plot Area
+Patna,Kankarbagh Road,Residential,2500000,Unfurnished,2,2,Room-attached,0,0,0,0,1200.0,Bihar,Plot Area
+Patna,Kautilya Nagar,Residential,1900000,Unfurnished,2,2,Room-attached,0,0,0,0,808.0,Bihar,Plot Area
+Patna,Bihta,Residential,3360000,Unfurnished,2,2,Room-attached,0,0,0,0,1200.0,Bihar,Plot Area
+Patna,Bailey Road,Residential,5800000,Unfurnished,2,2,Individual,0,0,0,0,820.0,Bihar,Built-up Area
+Patna,Jai Prakash Nagar,Residential,1600000,Unfurnished,2,2,Room-attached,0,0,0,0,680.0,Bihar,Plot Area
+Patna,Golambar,Residential,4500000,Unfurnished,2,2,Room-attached,0,0,0,0,1200.0,Bihar,Plot Area
+Patna,Danapur Khagaul Road,Residential,5500000,Semi-Furnished,3,2,Connected,0,0,0,1,1129.0,Bihar,Built-up Area
+Patna,Beldarichak,Residential,4200000,Unfurnished,2,2,Room-attached,0,0,0,0,1208.0,Bihar,Plot Area
+Patna,Anisabad,Residential,4500000,Unfurnished,2,2,Room-attached,0,0,0,0,1125.0,Bihar,Plot Area
+Patna,Bihta,Residential,1450000,Unfurnished,2,2,Room-attached,0,0,0,0,945.0,Bihar,Plot Area
+Patna,Shivala Par,Residential,1200000,Unfurnished,2,2,Room-attached,0,0,0,0,680.0,Bihar,Plot Area
+Patna,Bihta,Residential,1500000,Unfurnished,2,2,Room-attached,0,0,0,0,1200.0,Bihar,Plot Area
+Patna,Patel Nagar,Residential,7500000,Unfurnished,2,2,Room-attached,0,0,0,0,3000.0,Bihar,Plot Area
+Patna,Bihta,Residential,1794000,Unfurnished,2,2,Room-attached,0,0,0,0,945.0,Bihar,Plot Area
+Patna,Bihta,Residential,1800000,Unfurnished,2,2,Room-attached,0,0,0,0,1500.0,Bihar,Plot Area
+Patna,Kurthoul,Residential,8400000,Unfurnished,2,2,Room-attached,0,0,0,0,4083.0,Bihar,Plot Area
+Patna,Bhogipur,Residential,5500000,Unfurnished,2,2,Room-attached,0,0,0,0,1361.0,Bihar,Plot Area
+Patna,Bihta,Residential,3280000,Unfurnished,2,2,Room-attached,0,0,0,0,1200.0,Bihar,Plot Area
+Patna,Patna - Gaya Road,Residential,7000000,Furnished,3,2,Room-attached,0,0,0,1,1455.0,Bihar,Built-up Area
+Patna,Jaganpura,Residential,4907000,Furnished,2,2,Room-attached,0,0,0,1,1169.0,Bihar,Built-up Area
+Patna,Shivala Par,Residential,4500000,Unfurnished,2,2,Room-attached,0,0,0,0,1361.0,Bihar,Plot Area
+Patna,Kankarbagh,Residential,3500000,Unfurnished,2,2,Room-attached,0,0,0,0,1361.0,Bihar,Plot Area
+Patna,Kadamkuan,Residential,2850000,Unfurnished,2,2,Room-attached,0,0,0,0,1361.0,Bihar,Plot Area
+Patna,Khagaul,Residential,4500000,Unfurnished,2,2,Room-attached,0,0,0,0,1200.0,Bihar,Plot Area
+Patna,Danapur Khagaul Road,Residential,5600000,Unfurnished,2,2,Room-attached,0,0,0,0,1200.0,Bihar,Plot Area
+Patna,Jai Prakash Nagar,Residential,2800000,Unfurnished,2,2,Room-attached,0,0,0,0,800.0,Bihar,Plot Area
+Patna,Kisan Colony,Residential,1600000,Unfurnished,2,2,Room-attached,0,0,0,0,680.0,Bihar,Plot Area
+Patna,Aitwarpur,Residential,1758000,Unfurnished,2,2,Room-attached,0,0,0,0,1100.0,Bihar,Plot Area
+Patna,Ashok Nagar,Residential,2331000,Unfurnished,2,2,Room-attached,0,0,0,0,1458.0,Bihar,Plot Area
+Patna,Bihta,Residential,2878000,Unfurnished,2,2,Room-attached,0,0,0,0,1800.0,Bihar,Plot Area
+Patna,Beldarichak,Residential,1850000,Unfurnished,2,2,Room-attached,0,0,0,0,1165.0,Bihar,Plot Area
+Patna,Bihta,Residential,11112946,Unfurnished,2,2,Room-attached,0,0,0,0,1000.0,Bihar,Plot Area
+Patna,Bihta,Residential,2882000,Unfurnished,2,2,Room-attached,0,0,0,0,1850.0,Bihar,Plot Area
+Patna,Patna - Gaya Road,Residential,7090000,Furnished,3,2,Room-attached,0,0,0,2,1485.0,Bihar,Built-up Area
+Patna,Beldarichak,Residential,1850000,Unfurnished,2,2,Room-attached,0,0,0,0,1109.0,Bihar,Plot Area
+Patna,Bairiya,Residential,4851000,Unfurnished,2,2,Room-attached,0,0,0,1,1036.0,Bihar,Built-up Area
+Patna,Jaganpura,Commercial,0,Furnished,0,0,No Balcony,0,0,0,2,230.0,Bihar,Built-up Area
+Patna,Bihta,Residential,2200000,Unfurnished,2,2,Room-attached,0,0,0,0,1200.0,Bihar,Plot Area
+Patna,Bihta,Residential,11112946,Unfurnished,2,2,Room-attached,0,0,0,0,800.0,Bihar,Plot Area
+Patna,Shivala Par,Residential,3000000,Unfurnished,2,2,Room-attached,0,0,0,0,1200.0,Bihar,Plot Area
+Patna,Patna - Gaya Road,Residential,5090000,Unfurnished,2,2,Room-attached,0,0,0,1,1093.0,Bihar,Built-up Area
+Patna,Bhogipur,Residential,8000000,Unfurnished,2,2,Connected,0,0,0,0,1000.0,Bihar,Built-up Area
+Patna,Patna - Gaya Road,Residential,7070000,Furnished,3,2,Room-attached,0,0,0,2,1480.0,Bihar,Built-up Area
+Patna,Beldarichak,Residential,1850000,Unfurnished,2,2,Room-attached,0,0,0,0,1147.0,Bihar,Plot Area
+Patna,Jaganpura,Commercial,0,Furnished,0,0,No Balcony,0,0,0,0,235.0,Bihar,Built-up Area
+Patna,Naubatpur,Residential,11112946,Unfurnished,2,2,Room-attached,0,0,0,0,800.0,Bihar,Plot Area
+Patna,Bihta,Residential,2891000,Unfurnished,2,2,Room-attached,1,0,0,0,2260.0,Bihar,Plot Area
+Patna,Bazar Samiti,Residential,7500000,Furnished,4,3,Room-attached,0,0,0,0,600.0,Bihar,Built-up Area
+Patna,Naubatpur,Residential,1000000,Unfurnished,2,2,Room-attached,0,1,1,0,1000.0,Bihar,Plot Area
+Patna,Shivala Par,Residential,2500000,Unfurnished,2,2,Room-attached,0,0,0,0,1200.0,Bihar,Plot Area
+Patna,Kadamkuan,Residential,2500000,Unfurnished,2,2,Room-attached,0,0,0,0,1200.0,Bihar,Plot Area
+Patna,Aitwarpur,Residential,1990000,Unfurnished,2,2,Room-attached,0,0,0,0,1245.0,Bihar,Plot Area
+Patna,Beldarichak,Residential,70000000,Unfurnished,2,2,Room-attached,0,0,0,0,136100.0,Bihar,Plot Area
+Patna,Bairiya,Residential,4851000,Semi-Furnished,2,2,Room-attached,0,0,0,2,1036.0,Bihar,Built-up Area
+Patna,Patna - Gaya Road,Residential,2000000,Unfurnished,2,2,Room-attached,0,0,0,0,1500.0,Bihar,Plot Area
+Patna,Jaganpura,Residential,11500000,Unfurnished,2,2,Room-attached,0,0,0,0,1361.0,Bihar,Plot Area
+Patna,Bihta,Residential,1318000,Unfurnished,2,2,Room-attached,0,0,0,0,1200.0,Bihar,Plot Area
+Patna,Naubatpur,Residential,6975000,Unfurnished,3,2,"Individual,Room-attached",0,0,0,2,1305.0,Bihar,Built-up Area
+Patna,Jamsaut,Residential,2000000,Unfurnished,2,2,Room-attached,0,0,0,0,1200.0,Bihar,Plot Area
+Patna,Bihta,Residential,2000000,Unfurnished,2,2,Room-attached,0,0,0,0,1500.0,Bihar,Plot Area
+Patna,Yarpur,Residential,4500000,Unfurnished,2,2,Connected,0,0,0,1,850.0,Bihar,Built-up Area
+Patna,Fraser Road Area,Residential,11112946,Unfurnished,2,2,Room-attached,0,0,0,0,9100.0,Bihar,Plot Area
+Patna,Patna - Gaya Road,Residential,2600000,Unfurnished,2,2,Room-attached,0,0,0,0,1361.0,Bihar,Plot Area
+Patna,Gola Road,Residential,11112946,Unfurnished,2,2,Room-attached,0,0,0,0,1361.0,Bihar,Plot Area
+Patna,Bihta,Residential,2160000,Unfurnished,2,2,Room-attached,0,0,0,0,1200.0,Bihar,Plot Area
+Patna,Patna - Gaya Road,Residential,3000000,Unfurnished,2,2,Room-attached,0,0,0,0,1200.0,Bihar,Plot Area
+Patna,Bihta,Residential,11112946,Unfurnished,2,2,Room-attached,0,0,0,0,1200.0,Bihar,Plot Area
+Patna,Bairiya,Residential,5262000,Unfurnished,2,2,Room-attached,0,0,0,2,1134.0,Bihar,Built-up Area
+Patna,Gaurichak,Residential,1600000,Unfurnished,2,2,Room-attached,0,0,0,0,1200.0,Bihar,Plot Area
+Patna,Sampatchak,Residential,2500000,Unfurnished,2,2,Room-attached,0,0,0,0,1200.0,Bihar,Plot Area
+Patna,Bairiya,Residential,2500000,Unfurnished,2,2,Room-attached,0,0,0,0,600.0,Bihar,Plot Area
+Patna,Danapur Road,Residential,10200000,Semi-Furnished,3,2,Room-attached,0,0,0,2,1545.0,Bihar,Built-up Area
+Patna,Saguna More,Residential,5045000,Unfurnished,2,2,Room-attached,0,0,0,2,1010.0,Bihar,Built-up Area
+Patna,Anisabad,Residential,5500000,Unfurnished,2,2,Room-attached,0,0,0,0,1361.0,Bihar,Plot Area
+Patna,Patna - Gaya Road,Residential,4981000,Unfurnished,2,2,Room-attached,0,0,0,2,1067.0,Bihar,Built-up Area
+Patna,Sampatchak,Residential,4500000,Unfurnished,2,2,Room-attached,0,0,0,0,1361.0,Bihar,Plot Area
+Patna,Khagaul Road,Residential,8625000,Unfurnished,2,2,Room-attached,0,0,0,2,1250.0,Bihar,Built-up Area
+Patna,Beldarichak,Residential,1800000,Unfurnished,2,2,Room-attached,0,0,0,0,1200.0,Bihar,Plot Area
+Patna,Patna - Gaya Road,Residential,4100000,Unfurnished,2,2,Room-attached,0,0,1,0,600.0,Bihar,Plot Area
+Patna,Paijawa,Residential,4500000,Unfurnished,2,2,Room-attached,0,0,0,0,10800.0,Bihar,Plot Area
+Patna,Jaganpura,Residential,10100000,Semi-Furnished,2,2,Room-attached,0,0,0,2,1338.0,Bihar,Built-up Area
+Patna,Samanpura,Residential,5000000,Unfurnished,2,1,Connected,0,0,0,1,850.0,Bihar,Built-up Area
+Patna,Patna - Gaya Road,Residential,4800000,Unfurnished,2,2,Room-attached,0,0,0,0,1361.0,Bihar,Plot Area
+Patna,Sampatchak,Residential,4500000,Unfurnished,2,2,Room-attached,0,0,0,0,1200.0,Bihar,Plot Area
+Patna,Kankarbagh Road,Residential,11112946,Unfurnished,2,2,Room-attached,0,0,0,0,600.0,Bihar,Plot Area
+Patna,Jaganpura,Residential,11112946,Semi-Furnished,3,2,Room-attached,0,0,0,2,1669.0,Bihar,Built-up Area
+Patna,Bairiya,Residential,7186000,Unfurnished,3,2,Room-attached,0,0,0,2,1592.0,Bihar,Built-up Area
+Patna,Khagaul,Residential,8000000,Unfurnished,2,1,Room-attached,0,0,0,1,1400.0,Bihar,Built-up Area
+Patna,Bazar Samiti,Residential,8083000,Unfurnished,2,2,Room-attached,0,0,0,0,1000.0,Bihar,Plot Area
+Patna,Mithapur,Residential,5850000,Unfurnished,2,2,Room-attached,0,0,0,2,857.0,Bihar,Built-up Area
+Patna,Exhibition Road,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,1,800.0,Bihar,Built-up Area
+Patna,Khagaul Road,Residential,9255000,Semi-Furnished,3,2,Room-attached,0,0,0,3,1347.0,Bihar,Built-up Area
+Patna,Sampatchak,Residential,5000000,Unfurnished,2,2,Room-attached,0,0,0,0,1361.0,Bihar,Plot Area
+Patna,Shivala Par,Residential,2145000,Unfurnished,2,2,Room-attached,0,0,0,0,1300.0,Bihar,Plot Area
+Patna,Sonepur,Residential,2250000,Unfurnished,2,2,Room-attached,0,0,0,0,1500.0,Bihar,Plot Area
+Patna,Patna University Campus,Residential,5090000,Semi-Furnished,2,2,Room-attached,0,0,0,2,1093.0,Bihar,Built-up Area
+Patna,Rajapur,Residential,5698000,Semi-Furnished,2,2,Room-attached,0,0,0,2,1130.0,Bihar,Built-up Area
+Patna,Anisabad,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,2041.0,Bihar,Plot Area
+Patna,Ashok Nagar,Residential,13300000,Semi-Furnished,3,2,Room-attached,0,0,0,2,1799.0,Bihar,Built-up Area
+Patna,Sampatchak,Residential,1500000,Unfurnished,2,2,Room-attached,0,0,0,0,1200.0,Bihar,Plot Area
+Patna,Danapur,Residential,1500000,Unfurnished,2,2,Room-attached,0,0,0,0,1200.0,Bihar,Plot Area
+Patna,Rps More,Residential,19900000,Unfurnished,2,2,Room-attached,0,0,0,0,1943.0,Bihar,Plot Area
+Patna,Sadikpur,Residential,1920000,Unfurnished,2,2,Room-attached,0,0,0,0,1200.0,Bihar,Plot Area
+Patna,Patliputra Road,Residential,5506000,Semi-Furnished,2,2,Room-attached,0,0,0,2,1192.0,Bihar,Built-up Area
+Patna,Indira Nagar,Residential,7800000,Semi-Furnished,3,2,Room-attached,0,0,0,2,1587.0,Bihar,Built-up Area
+Patna,Bihta,Residential,750000,Unfurnished,2,2,Room-attached,0,0,0,0,600.0,Bihar,Plot Area
+Patna,Kothwan,Residential,9000000,Unfurnished,3,3,"Individual,Room-attached",0,0,0,2,1500.0,Bihar,Built-up Area
+Patna,Ag Colony,Residential,11112946,Furnished,3,3,Room-attached,0,0,0,2,1400.0,Bihar,Built-up Area
+Patna,Mustafapur,Residential,10500000,Unfurnished,3,2,Room-attached,0,0,0,1,1191.0,Bihar,Built-up Area
+Patna,Phulwari Sharif,Residential,5200000,Unfurnished,2,2,Room-attached,0,0,0,0,2000.0,Bihar,Plot Area
+Patna,Chhoti Pahari,Residential,12500000,Furnished,6,2,Room-attached,0,0,0,2,680.0,Bihar,Built-up Area
+Patna,Bairiya,Residential,1530000,Unfurnished,2,2,Room-attached,0,0,0,0,1000.0,Bihar,Plot Area
+Patna,Gandhi Maidan,Residential,7500000,Semi-Furnished,2,2,Connected,0,0,0,2,1000.0,Bihar,Built-up Area
+Patna,Jaganpura,Residential,1400000,Unfurnished,2,2,Room-attached,0,0,0,0,1361.0,Bihar,Plot Area
+Patna,Naubatpur,Residential,680000,Unfurnished,2,2,Room-attached,0,1,1,0,1361.0,Bihar,Plot Area
+Patna,Saguna More,Residential,11112946,Unfurnished,3,3,Room-attached,0,0,0,3,1950.0,Bihar,Built-up Area
+Patna,Beldarichak,Residential,2220000,Unfurnished,2,2,Room-attached,0,0,1,0,1200.0,Bihar,Plot Area
+Patna,Naubatpur,Residential,2312000,Unfurnished,2,2,Room-attached,0,0,0,0,1361.0,Bihar,Plot Area
+Patna,Kankarbagh,Residential,23000000,Unfurnished,2,2,Room-attached,0,0,0,0,12249.0,Bihar,Plot Area
+Patna,Bihta,Residential,500000,Unfurnished,2,2,Room-attached,0,0,0,0,1200.0,Bihar,Plot Area
+Patna,Deedarganj,Residential,11112946,Unfurnished,2,2,Room-attached,0,0,0,0,10000.0,Bihar,Plot Area
+Patna,Deedarganj,Residential,11112946,Unfurnished,2,2,Room-attached,0,0,0,0,5000.0,Bihar,Plot Area
+Patna,Bihta,Residential,3400000,Unfurnished,2,2,Room-attached,0,0,0,0,10800.0,Bihar,Plot Area
+Patna,Bihta,Residential,1700000,Unfurnished,2,2,Room-attached,1,0,1,0,1200.0,Bihar,Plot Area
+Patna,Danapur Road,Residential,10600000,Semi-Furnished,3,3,Room-attached,0,0,0,2,1612.0,Bihar,Built-up Area
+Patna,Bairiya,Residential,7190000,Semi-Furnished,3,3,Room-attached,0,0,0,2,1593.0,Bihar,Built-up Area
+Patna,Shivala Par,Residential,3200000,Unfurnished,2,2,Room-attached,0,0,0,0,1200.0,Bihar,Plot Area
+Patna,Bihta,Residential,1470000,Unfurnished,2,2,Room-attached,0,0,0,0,1200.0,Bihar,Plot Area
+Patna,Saguna More,Residential,7668000,Furnished,2,2,Room-attached,0,0,0,2,1172.0,Bihar,Built-up Area
+Patna,Bihta,Residential,1250000,Unfurnished,2,2,Room-attached,0,0,0,0,1000.0,Bihar,Plot Area
+Patna,Beldarichak,Residential,11112946,Unfurnished,2,2,Room-attached,0,0,0,0,1000.0,Bihar,Plot Area
+Patna,Bihta,Residential,2500000,Unfurnished,2,2,Room-attached,0,1,0,0,1200.0,Bihar,Plot Area
+Patna,Naubatpur,Residential,1119000,Unfurnished,2,2,Room-attached,0,1,0,0,800.0,Bihar,Plot Area
+Patna,Muradpur,Residential,11112946,Unfurnished,2,2,Room-attached,0,0,0,0,4500.0,Bihar,Plot Area
+Patna,Bihta,Residential,2300000,Unfurnished,2,2,Room-attached,0,0,0,0,1361.0,Bihar,Plot Area
+Patna,Patna - Gaya Road,Residential,11112946,Unfurnished,2,2,Room-attached,0,0,0,0,630.0,Bihar,Plot Area
+Patna,Gola Road,Residential,9600000,Furnished,3,2,Room-attached,0,0,0,0,1431.0,Bihar,Built-up Area
+Patna,Gola Road,Residential,9500000,Furnished,3,2,Room-attached,0,0,0,0,1421.0,Bihar,Built-up Area
+Patna,Sampatchak,Residential,6000000,Unfurnished,2,2,Room-attached,0,0,0,0,1361.0,Bihar,Plot Area
+Patna,Bihta,Residential,1680000,Unfurnished,2,2,Room-attached,0,1,0,0,800.0,Bihar,Plot Area
+Patna,Jalalpur,Residential,7098000,Semi-Furnished,2,2,Room-attached,0,0,0,0,1183.0,Bihar,Built-up Area
+Patna,Sonepur,Residential,2400000,Unfurnished,2,2,Room-attached,0,0,0,0,1835.0,Bihar,Plot Area
+Patna,Bihta,Residential,3000000,Unfurnished,2,2,Room-attached,0,0,0,0,21600.0,Bihar,Plot Area
+Patna,Sonepur,Residential,3200000,Unfurnished,2,2,Room-attached,0,0,0,0,23076.0,Bihar,Plot Area
+Patna,Saguna More,Residential,10200000,Furnished,3,3,Room-attached,0,0,0,2,1572.0,Bihar,Built-up Area
+Patna,Pareo,Residential,8500000,Unfurnished,2,2,Connected,0,0,0,1,1000.0,Bihar,Built-up Area
+Patna,Bihta,Residential,2160000,Unfurnished,2,2,Room-attached,0,0,0,0,10800.0,Bihar,Plot Area
+Patna,Exhibition Road,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,1,1500.0,Bihar,Built-up Area
+Patna,Aitwarpur,Residential,11112946,Unfurnished,2,2,Room-attached,0,0,0,0,950.0,Bihar,Plot Area
+Patna,Bihta,Residential,1440000,Unfurnished,2,2,Room-attached,0,0,0,0,1200.0,Bihar,Plot Area
+Patna,Naubatpur,Residential,9173000,Unfurnished,3,3,Room-attached,1,0,1,0,1577.0,Bihar,Built-up Area
+Patna,Vijay Nagar,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,1200.0,Bihar,Plot Area
+Patna,Jakkanpur,Residential,11112946,Unfurnished,2,2,Room-attached,0,0,0,0,5580.0,Bihar,Plot Area
+Patna,Lohia Nagar,Residential,5700000,Unfurnished,2,2,Room-attached,0,1,0,0,1100.0,Bihar,Built-up Area
+Patna,Bihta,Residential,1300000,Unfurnished,2,2,Room-attached,0,0,0,0,1200.0,Bihar,Plot Area
+Patna,Parmanandpur,Residential,2200000,Unfurnished,2,2,Room-attached,0,0,0,0,18000.0,Bihar,Plot Area
+Patna,Naubatpur,Residential,1740000,Unfurnished,2,2,Room-attached,0,0,0,0,1200.0,Bihar,Plot Area
+Patna,Bakarganj,Residential,1200000,Unfurnished,2,2,Room-attached,0,0,0,0,1000.0,Bihar,Plot Area
+Patna,Chhoti Pahari,Residential,2200000,Unfurnished,2,2,Room-attached,0,0,0,0,18000.0,Bihar,Plot Area
+Patna,Bihta,Residential,1350000,Unfurnished,2,2,Room-attached,0,0,0,0,1000.0,Bihar,Plot Area
+Patna,Kidwaipuri,Residential,10000000,Unfurnished,3,2,Individual,0,0,0,1,1300.0,Bihar,Built-up Area
+Patna,Bihta,Residential,1404000,Unfurnished,2,2,Room-attached,0,0,0,0,7020.0,Bihar,Plot Area
+Patna,Kankarbagh,Residential,9500000,Semi-Furnished,3,2,Individual,0,0,0,2,1600.0,Bihar,Built-up Area
+Patna,Bihta,Residential,1920000,Unfurnished,2,2,Room-attached,0,0,0,0,1200.0,Bihar,Plot Area
+Patna,Patna - Gaya Road,Residential,45000000,Unfurnished,2,2,Room-attached,0,0,0,0,5000.0,Bihar,Plot Area
+Patna,Jalalpur,Residential,7500000,Unfurnished,2,2,Room-attached,0,0,0,1,1000.0,Bihar,Built-up Area
+Patna,Bazar Samiti,Residential,11112946,Unfurnished,2,2,Room-attached,0,0,1,0,800.0,Bihar,Plot Area
+Patna,Gola Road,Residential,12000000,Furnished,3,2,Room-attached,0,0,0,0,1300.0,Bihar,Built-up Area
+Patna,Exhibition Road,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,700.0,Bihar,Built-up Area
+Patna,Bihta,Residential,2000000,Unfurnished,2,2,Room-attached,0,0,0,0,1200.0,Bihar,Plot Area
+Patna,Aitwarpur,Residential,1685000,Unfurnished,2,2,Room-attached,0,0,0,0,1800.0,Bihar,Plot Area
+Patna,Bihta,Residential,1050000,Unfurnished,2,2,Room-attached,0,0,0,0,1000.0,Bihar,Plot Area
+Patna,Fraser Road Area,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,19000.0,Bihar,Plot Area
+Patna,Kumhrar,Residential,9500000,Unfurnished,2,2,Room-attached,0,0,0,0,8019.0,Bihar,Plot Area
+Patna,Kankarbagh Road,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,1,508.0,Bihar,Built-up Area
+Patna,Bairiya,Residential,7000000,Unfurnished,2,2,Room-attached,0,0,0,0,1200.0,Bihar,Plot Area
+Patna,Sonepur,Residential,2000000,Unfurnished,2,2,Room-attached,0,0,0,0,1300.0,Bihar,Plot Area
+Patna,Shivala Par,Residential,2600000,Unfurnished,2,2,Room-attached,1,0,0,0,10800.0,Bihar,Plot Area
+Patna,Kankarbagh,Residential,18200000,Unfurnished,2,2,Room-attached,0,0,0,0,16632.0,Bihar,Plot Area
+Patna,Patna - Gaya Road,Residential,3000000,Unfurnished,2,2,Room-attached,0,0,0,0,2800.0,Bihar,Plot Area
+Patna,Ramkrishan Nagar,Commercial,0,Furnished,0,0,Connected,0,0,0,3,800.0,Bihar,Built-up Area
+Patna,Danapur Road,Residential,2800000,Unfurnished,2,2,Room-attached,0,0,0,0,1200.0,Bihar,Plot Area
+Patna,Kadamkuan,Residential,11112946,Unfurnished,2,2,Room-attached,0,0,0,0,15300.0,Bihar,Plot Area
+Patna,Bihta,Residential,2482000,Unfurnished,2,2,Room-attached,0,0,0,0,1500.0,Bihar,Plot Area
+Patna,Kadam Kuan,Residential,30000000,Unfurnished,2,2,Room-attached,0,0,0,0,2700.0,Bihar,Plot Area
+Patna,Shahpur,Residential,8100000,Unfurnished,2,2,Room-attached,0,0,0,0,1302.0,Bihar,Built-up Area
+Patna,Jagdeo Path,Residential,9500000,Unfurnished,2,2,Room-attached,0,0,0,0,1361.0,Bihar,Plot Area
+Patna,Bihta,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,43200.0,Bihar,Plot Area
+Patna,Anisabad,Residential,2500000,Unfurnished,2,2,Room-attached,0,0,0,0,950.0,Bihar,Plot Area
+Patna,Naubatpur,Residential,1000000,Unfurnished,2,2,Room-attached,0,0,0,0,1250.0,Bihar,Plot Area
+Patna,Boring Road,Residential,7500000,Unfurnished,2,2,Connected,0,0,0,1,1000.0,Bihar,Built-up Area
+Patna,Kidwaipur Postal Colony,Residential,11112946,Unfurnished,2,2,Connected,0,0,0,0,1000.0,Bihar,Built-up Area
+Patna,Boring Road,Residential,11112946,Semi-Furnished,3,2,Room-attached,0,0,0,0,1500.0,Bihar,Built-up Area
+Patna,Parmanandpur,Residential,1866000,Unfurnished,2,2,Room-attached,0,0,1,0,1200.0,Bihar,Plot Area
+Patna,Rajbanshi Nagar,Residential,4600000,Unfurnished,2,2,Room-attached,0,1,0,0,1000.0,Bihar,Built-up Area
+Patna,Bihta,Residential,1500000,Unfurnished,2,2,Room-attached,0,0,0,0,1000.0,Bihar,Plot Area
+Patna,Saguna More,Residential,13000000,Unfurnished,2,2,Room-attached,0,0,0,0,12249.0,Bihar,Plot Area
+Patna,Shareef Colony,Residential,9500000,Unfurnished,2,2,Room-attached,0,0,0,0,9000.0,Bihar,Plot Area
+Patna,Boring Road,Residential,12000000,Semi-Furnished,3,2,Room-attached,0,0,0,0,1500.0,Bihar,Built-up Area
+Patna,Patna - Gaya Road,Residential,6000000,Unfurnished,2,2,Room-attached,0,0,0,0,4000.0,Bihar,Plot Area
+Patna,Beldarichak,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,7600.0,Bihar,Plot Area
+Patna,Chhoti Pahari,Residential,2000000,Unfurnished,2,2,Room-attached,0,0,0,0,16200.0,Bihar,Plot Area
+Patna,Chitkohra,Residential,4100000,Unfurnished,2,2,Room-attached,0,0,0,0,1500.0,Bihar,Plot Area
+Patna,Exhibition Road,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,900.0,Bihar,Built-up Area
+Patna,Hanuman Nagar Colony,Residential,25000000,Unfurnished,2,2,Room-attached,0,0,0,0,16200.0,Bihar,Plot Area
+Patna,Tripolia,Residential,11112946,Unfurnished,3,3,"Individual,Room-attached",0,0,0,1,1480.0,Bihar,Built-up Area
+Patna,Bihta,Residential,1678000,Unfurnished,2,2,Room-attached,0,0,0,0,1200.0,Bihar,Plot Area
+Patna,Saguna More,Residential,11000000,Furnished,3,3,Room-attached,0,0,0,2,1650.0,Bihar,Built-up Area
+Patna,Naubatpur,Residential,1980000,Unfurnished,2,2,Room-attached,0,0,0,0,1200.0,Bihar,Plot Area
+Patna,Bairiya,Residential,11200000,Unfurnished,2,2,Room-attached,0,0,0,0,1500.0,Bihar,Plot Area
+Patna,Kankarbagh Kumhrar,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,1,508.0,Bihar,Built-up Area
+Patna,Sonepur,Residential,3000000,Unfurnished,2,2,Room-attached,0,0,0,0,2504.0,Bihar,Plot Area
+Patna,Lohia Nagar,Residential,10500000,Semi-Furnished,3,2,Connected,0,0,0,1,1350.0,Bihar,Built-up Area
+Patna,New Jakkanpur,Residential,6800000,Semi-Furnished,3,2,Connected,0,0,0,1,1300.0,Bihar,Built-up Area
+Patna,Raja Bazar,Residential,9400000,Furnished,2,2,Room-attached,0,0,0,0,1000.0,Bihar,Built-up Area
+Patna,Bihta,Residential,8600000,Semi-Furnished,3,3,"Connected,Individual,Room-attached",0,0,0,2,1577.0,Bihar,Saleable Area
+Patna,Boring Road,Residential,7000000,Unfurnished,2,2,Connected,0,0,0,2,1050.0,Bihar,Built-up Area
+Patna,Kadamkuan,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,6800.0,Bihar,Plot Area
+Patna,Sheikhpura,Residential,11000000,Semi-Furnished,3,3,"Connected,Room-attached",0,0,0,2,1420.0,Bihar,Built-up Area
+Patna,Bazar Samiti,Residential,50500000,Unfurnished,6,2,Room-attached,0,0,0,0,2400.0,Bihar,Built-up Area
+Patna,Rajbanshi Nagar,Residential,4600000,Unfurnished,2,2,"Connected,Individual,Room-attached",0,0,0,2,1000.0,Bihar,Built-up Area
+Patna,Bihta,Residential,1620000,Unfurnished,2,2,Room-attached,0,0,1,0,1200.0,Bihar,Plot Area
+Patna,Dhanaut,Residential,4000000,Unfurnished,2,2,Room-attached,0,0,0,0,10800.0,Bihar,Plot Area
+Patna,Bankman Colony,Residential,15000000,Unfurnished,2,2,Room-attached,0,0,0,0,1800.0,Bihar,Plot Area
+Patna,Deedarganj,Residential,7020000,Semi-Furnished,3,2,Connected,0,0,0,2,1600.0,Bihar,Built-up Area
+Patna,Anisabad,Residential,6500000,Semi-Furnished,2,2,Room-attached,0,0,0,2,1130.0,Bihar,Saleable Area
+Patna,Kankarbagh,Residential,20000000,Unfurnished,2,2,Room-attached,0,0,0,0,18000.0,Bihar,Plot Area
+Patna,Buddha Colony,Residential,7100000,Unfurnished,2,3,Room-attached,0,0,0,0,1500.0,Bihar,Built-up Area
+Patna,Gandhi Maidan,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,5300.0,Bihar,Plot Area
+Patna,Saguna More,Residential,6500000,Unfurnished,2,2,Room-attached,0,0,0,0,1200.0,Bihar,Plot Area
+Patna,Exhibition Road,Residential,22500000,Semi-Furnished,3,2,Individual,0,0,0,1,1650.0,Bihar,Built-up Area
+Patna,Digha,Residential,8673000,Semi-Furnished,3,3,"Connected,Individual,Room-attached",0,0,0,2,1577.0,Bihar,Saleable Area
+Patna,Saguna More,Residential,6500000,Semi-Furnished,2,2,"Connected,Room-attached",0,0,0,2,1000.0,Bihar,Saleable Area
+Patna,Chitrakut Nagar,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,17000.0,Bihar,Plot Area
+Patna,Yadav Colony,Residential,8000000,Unfurnished,3,2,"Individual,Room-attached",0,1,1,1,1460.0,Bihar,Built-up Area
+Patna,Raja Bazar,Residential,9200000,Furnished,2,1,"Connected,Individual,Room-attached",0,0,0,0,1000.0,Bihar,Built-up Area
+Patna,Kankarbagh Road,Residential,20000000,Unfurnished,2,2,Room-attached,0,0,0,0,18000.0,Bihar,Plot Area
+Patna,Bakarganj,Residential,11112946,Unfurnished,2,2,Room-attached,0,0,0,0,1000.0,Bihar,Plot Area
+Patna,Shivala Par,Residential,2000000,Unfurnished,2,2,Room-attached,0,0,1,0,800.0,Bihar,Plot Area
+Patna,Aitwarpur,Residential,7200000,Semi-Furnished,3,2,Room-attached,0,0,0,0,1650.0,Bihar,Built-up Area
+Patna,Kankarbagh,Residential,2600000,Unfurnished,2,2,Room-attached,0,0,0,0,1000.0,Bihar,Plot Area
+Patna,Bairiya,Residential,4200000,Unfurnished,2,2,Room-attached,0,0,0,0,1200.0,Bihar,Plot Area
+Patna,Phulwari Sharif,Residential,10000000,Unfurnished,2,2,Room-attached,0,0,0,0,2722.0,Bihar,Plot Area
+Patna,Bazar Samiti,Residential,55000000,Semi-Furnished,6,3,"Connected,Individual,Room-attached",0,0,0,2,4084.0,Bihar,Built-up Area
+Patna,Exhibition Road,Commercial,0,Furnished,0,0,Individual,0,0,0,2,1361.0,Bihar,Built-up Area
+Patna,Kankarbagh,Residential,35000000,Semi-Furnished,6,2,Room-attached,0,0,0,0,3300.0,Bihar,Built-up Area
+Patna,Gandhi Maidan,Residential,11112946,Semi-Furnished,3,2,Room-attached,0,0,0,2,1400.0,Bihar,Built-up Area
+Patna,Sampatchak,Residential,500000,Unfurnished,2,2,Room-attached,1,0,1,0,1200.0,Bihar,Plot Area
+Patna,Danapur Road,Residential,5420000,Unfurnished,3,2,Connected,0,0,0,1,1600.0,Bihar,Built-up Area
+Patna,Mainpura,Residential,5500000,Unfurnished,2,2,Room-attached,0,0,0,0,958.0,Bihar,Plot Area
+Patna,Deedarganj,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,1,778.0,Bihar,Built-up Area
+Patna,Fraser Road Area,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,1,350.0,Bihar,Built-up Area
+Patna,Shivala Par,Residential,3600000,Unfurnished,2,2,Room-attached,0,0,0,0,1500.0,Bihar,Plot Area
+Patna,Saguna More,Residential,7000000,Semi-Furnished,3,2,Connected,0,0,0,1,1300.0,Bihar,Built-up Area
+Patna,Parmanandpur,Residential,21000000,Furnished,6,3,"Connected,Individual,Room-attached",0,0,0,4,1022.0,Bihar,Built-up Area
+Patna,Chitrakut Nagar,Residential,3400000,Unfurnished,2,2,Room-attached,0,0,0,0,25200.0,Bihar,Plot Area
+Patna,Patna - Gaya Road,Residential,7260000,Semi-Furnished,3,2,Connected,0,0,0,1,1450.0,Bihar,Built-up Area
+Patna,Danapur Khagaul Road,Residential,7370000,Semi-Furnished,3,2,"Connected,Individual",0,0,0,2,1340.0,Bihar,Built-up Area
+Patna,Kidwaipur Postal Colony,Residential,7500000,Furnished,2,2,Individual,0,0,0,1,1000.0,Bihar,Built-up Area
+Patna,Dhibra,Residential,7536000,Semi-Furnished,3,2,Room-attached,0,0,0,0,1570.0,Bihar,Built-up Area
+Patna,Ramkrishan Nagar,Residential,11112946,Furnished,2,2,Individual,0,0,0,1,800.0,Bihar,Built-up Area
+Patna,Bahadurpur,Residential,55000000,Semi-Furnished,6,2,Room-attached,0,0,0,0,4083.0,Bihar,Built-up Area
+Patna,Chitrakut Nagar,Residential,3100000,Unfurnished,2,2,Room-attached,0,0,0,0,21600.0,Bihar,Plot Area
+Patna,Rajendra Nagar,Residential,30000000,Unfurnished,2,2,Room-attached,0,0,0,0,18900.0,Bihar,Plot Area
+Patna,Kumhrar,Residential,40000000,Semi-Furnished,4,2,Room-attached,0,0,0,0,2000.0,Bihar,Built-up Area
+Patna,Rajbanshi Nagar,Residential,12000000,Semi-Furnished,3,2,"Connected,Individual,Room-attached",0,0,0,2,1650.0,Bihar,Built-up Area
+Patna,Kankarbagh,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,1900.0,Bihar,Plot Area
+Patna,Raja Bazar,Residential,12000000,Furnished,3,3,Room-attached,0,0,0,1,1480.0,Bihar,Built-up Area
+Patna,AshianA-Digha Road,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,5300.0,Bihar,Plot Area
+Patna,Patna - Gaya Road,Residential,2880000,Unfurnished,2,2,Room-attached,0,0,1,0,10800.0,Bihar,Plot Area
+Patna,Gola Road,Residential,10000000,Semi-Furnished,3,2,Connected,0,0,0,1,1500.0,Bihar,Built-up Area
+Patna,Danapur,Residential,134400000,Semi-Furnished,3,2,Room-attached,0,0,0,0,1900.0,Bihar,Built-up Area
+Patna,Jagdeo Path,Residential,12000000,Unfurnished,2,2,Room-attached,0,0,0,0,18900.0,Bihar,Plot Area
+Patna,Golambar,Residential,2700000,Unfurnished,2,2,Room-attached,0,0,0,0,1500.0,Bihar,Plot Area
+Patna,Danapur Khagaul Road,Residential,5775000,Semi-Furnished,2,2,"Connected,Individual,Room-attached",0,0,0,2,1050.0,Bihar,Built-up Area
+Patna,Digha,Residential,10200000,Semi-Furnished,3,3,"Connected,Individual,Room-attached",0,0,0,2,1700.0,Bihar,Built-up Area
+Patna,Gola Road,Residential,7200000,Semi-Furnished,3,2,Connected,0,0,0,2,1350.0,Bihar,Built-up Area
+Patna,Gandhi Maidan,Residential,14000000,Semi-Furnished,3,3,Room-attached,0,0,0,2,1400.0,Bihar,Built-up Area
+Patna,Patna - Gaya Road,Residential,5880000,Semi-Furnished,3,2,"Connected,Individual,Room-attached",0,0,0,2,1470.0,Bihar,Saleable Area
+Patna,Jalalpur,Residential,13600000,Furnished,2,3,Connected,0,0,0,4,1215.0,Bihar,Saleable Area
+Patna,Bihta,Residential,13500000,Semi-Furnished,4,4,Connected,0,0,0,3,1600.0,Bihar,Built-up Area
+Patna,Saguna More,Residential,14500000,Semi-Furnished,3,3,Individual,0,0,0,2,1800.0,Bihar,Built-up Area
+Patna,Dhibra,Residential,4500000,Furnished,2,2,Individual,0,0,0,1,802.0,Bihar,Saleable Area
+Patna,Kankarbagh,Residential,8500000,Unfurnished,2,2,Room-attached,0,0,1,0,850.0,Bihar,Plot Area
+Patna,Boring Road,Residential,11112946,Semi-Furnished,2,2,Connected,0,0,0,2,1200.0,Bihar,Built-up Area
+Patna,Kidwaipuri,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,2200.0,Bihar,Plot Area
+Patna,Kankarbagh,Residential,7855000,Semi-Furnished,2,2,"Individual,Room-attached",0,0,0,1,1091.0,Bihar,Built-up Area
+Patna,Exhibition Road,Residential,12000000,Semi-Furnished,3,2,Room-attached,0,0,0,0,1400.0,Bihar,Built-up Area
+Patna,Kankarbagh,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,2,480.0,Bihar,Built-up Area
+Patna,Rupaspur,Residential,5500000,Semi-Furnished,2,2,"Connected,Room-attached",0,0,0,2,1050.0,Bihar,Built-up Area
+Patna,Phulwari Sharif,Residential,4500000,Unfurnished,5,3,Connected,0,0,0,3,296.0,Bihar,Built-up Area
+Patna,Kankarbagh,Residential,30000000,Semi-Furnished,6,2,Room-attached,0,0,0,0,2700.0,Bihar,Built-up Area
+Patna,Ramjaipal Nagar,Residential,5100000,Furnished,3,2,Individual,0,0,0,2,1200.0,Bihar,Built-up Area
+Patna,Ag Colony,Residential,985000,Unfurnished,2,2,Room-attached,0,0,0,0,900.0,Bihar,Plot Area
+Patna,Bihta,Residential,11112946,Unfurnished,2,2,Room-attached,0,0,0,0,600.0,Bihar,Plot Area
+Patna,Sardar Patel Colony,Residential,28000000,Unfurnished,4,2,Room-attached,0,0,0,0,1361.0,Bihar,Built-up Area
+Patna,Ramkrishan Nagar,Residential,13000000,Unfurnished,6,2,Room-attached,0,0,0,0,1361.0,Bihar,Built-up Area
+Patna,Rupaspur,Residential,5000000,Semi-Furnished,2,2,"Connected,Room-attached",0,0,0,2,1075.0,Bihar,Built-up Area
+Patna,Khagaul Road,Residential,30000000,Semi-Furnished,5,2,Room-attached,0,0,0,0,1361.0,Bihar,Built-up Area
+Patna,Patna Golf Club,Residential,2000000,Unfurnished,2,2,Room-attached,0,0,0,0,900.0,Bihar,Plot Area
+Patna,Bazar Samiti,Residential,70000000,Semi-Furnished,6,3,Room-attached,0,0,0,1,4083.0,Bihar,Built-up Area
+Patna,Naubatpur,Residential,3200000,Unfurnished,2,2,Room-attached,0,0,0,0,1500.0,Bihar,Plot Area
+Patna,Jagdeo Path,Residential,14500000,Unfurnished,2,2,Room-attached,0,0,0,0,12600.0,Bihar,Plot Area
+Patna,Boring Road,Residential,35000000,Unfurnished,2,2,Room-attached,0,0,0,0,23400.0,Bihar,Plot Area
+Patna,Boring Road,Residential,10600000,Semi-Furnished,3,2,"Connected,Individual,Room-attached",0,0,0,2,1150.0,Bihar,Built-up Area
+Patna,Danapur Road,Residential,5700000,Unfurnished,2,2,Room-attached,0,0,0,1,835.0,Bihar,Saleable Area
+Patna,Ashiana Nagar,Residential,17000000,Unfurnished,2,2,Room-attached,0,0,1,0,12249.0,Bihar,Plot Area
+Patna,Gardanibagh,Residential,5000000,Semi-Furnished,2,2,Connected,0,0,0,2,950.0,Bihar,Built-up Area
+Patna,Saguna More,Residential,8820000,Unfurnished,3,2,"Connected,Room-attached",1,1,1,2,1960.0,Bihar,Built-up Area
+Patna,Rajbanshi Nagar,Residential,8100000,Unfurnished,3,2,Room-attached,0,0,0,0,1500.0,Bihar,Built-up Area
+Patna,Exhibition Road,Residential,7500000,Semi-Furnished,2,2,Connected,0,0,0,1,1000.0,Bihar,Built-up Area
+Patna,Ashiana Nagar,Residential,16000000,Unfurnished,2,2,Room-attached,0,0,1,0,12249.0,Bihar,Plot Area
+Patna,Patna - Gaya Road,Residential,4000000,Semi-Furnished,2,2,"Connected,Room-attached",0,0,0,2,1000.0,Bihar,Saleable Area
+Patna,Kankarbagh,Residential,5112000,Unfurnished,1,1,"Individual,Room-attached",0,0,0,1,710.0,Bihar,Built-up Area
+Patna,Fraser Road Area,Residential,15000000,Semi-Furnished,3,2,Individual,0,0,0,1,1600.0,Bihar,Built-up Area
+Patna,Saguna More,Residential,10600000,Furnished,3,2,"Connected,Individual,Room-attached",0,0,0,2,1634.0,Bihar,Built-up Area
+Patna,Bihta,Residential,2500000,Unfurnished,2,2,Room-attached,0,0,0,0,1361.0,Bihar,Plot Area
+Patna,Ramkrishna Nagar,Residential,14000000,Furnished,4,2,Room-attached,0,0,0,1,1100.0,Bihar,Built-up Area
+Patna,Raja Bazar,Commercial,0,Semi-Furnished,0,0,No Balcony,0,0,0,1,1100.0,Bihar,Built-up Area
+Patna,Boring Road,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,2200.0,Bihar,Plot Area
+Patna,Danapur,Residential,4100000,Unfurnished,2,2,Room-attached,0,0,0,0,1361.0,Bihar,Plot Area
+Patna,Patna Golf Club,Residential,6000000,Semi-Furnished,2,2,Connected,0,0,0,1,1000.0,Bihar,Built-up Area
+Patna,Shivpuri,Residential,10000000,Furnished,3,2,Connected,0,0,0,2,1380.0,Bihar,Built-up Area
+Patna,Kadamkuan,Residential,11000000,Semi-Furnished,3,2,"Connected,Individual",0,0,0,2,1400.0,Bihar,Built-up Area
+Patna,Indira Nagar,Residential,6138000,Semi-Furnished,3,2,Connected,0,0,0,0,1323.0,Bihar,Built-up Area
+Patna,Boring Road,Residential,60000000,Unfurnished,2,2,Room-attached,0,0,0,0,40500.0,Bihar,Plot Area
+Patna,Patna University Campus,Residential,6800000,Semi-Furnished,2,2,Room-attached,0,0,0,2,1208.0,Bihar,Saleable Area
+Patna,Saguna More,Residential,7000000,Unfurnished,2,2,Room-attached,0,0,0,0,1361.0,Bihar,Plot Area
+Patna,Bailey Road,Residential,7000000,Semi-Furnished,3,3,Room-attached,0,0,0,1,1302.0,Bihar,Built-up Area
+Patna,New Patliputra Colony,Residential,75000000,Semi-Furnished,6,2,Room-attached,0,0,0,0,4000.0,Bihar,Built-up Area
+Patna,Anandpuri,Residential,2500000,Unfurnished,1,2,Room-attached,0,0,0,0,950.0,Bihar,Built-up Area
+Patna,Ashiana Nagar,Residential,35000000,Semi-Furnished,6,3,"Connected,Room-attached",0,0,0,3,3200.0,Bihar,Saleable Area
+Patna,Kidwaipuri,Residential,60000000,Furnished,6,2,Connected,0,0,0,7,2690.0,Bihar,Built-up Area

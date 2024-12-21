@@ -1,0 +1,142 @@
+City,Locality,Property Type,Price,Furnishing Status,Number of Rooms,Number of Bathroom,Balcony,Clubhouse,Swimming Pool,"""Kids Play Areas""",Parking,Area (Sq.Ft.),State,Area Type
+Coimbatore,Vadavalli,Residential,5500000,Unfurnished,3,3,Connected,0,0,0,0,1874.0,Tamil Nadu,Plot Area
+Coimbatore,Singanallur,Residential,6600000,Unfurnished,2,2,Room-attached,0,0,0,1,1325.0,Tamil Nadu,Built-up Area
+Coimbatore,Madukkarai,Residential,8700000,Furnished,3,3,"Individual,Room-attached",0,0,0,3,1700.0,Tamil Nadu,Built-up Area
+Coimbatore,Kinathukadavu,Residential,7000000,Unfurnished,3,3,Connected,0,0,0,0,1742.0,Tamil Nadu,Plot Area
+Coimbatore,Saravanampatti,Residential,1500000,Unfurnished,3,3,Connected,0,0,0,0,850.0,Tamil Nadu,Plot Area
+Coimbatore,Thudiyalur,Residential,13000000,Semi-Furnished,2,4,Connected,0,0,0,2,3500.0,Tamil Nadu,Built-up Area
+Coimbatore,Othakalmandapam,Residential,6700000,Unfurnished,3,4,"Connected,Individual,Room-attached",0,0,0,2,1950.0,Tamil Nadu,Built-up Area
+Coimbatore,Thondamuthur Road,Residential,16000000,Unfurnished,3,3,Connected,0,0,0,0,3339.0,Tamil Nadu,Plot Area
+Coimbatore,Arasampalayam,Residential,900000,Unfurnished,3,3,Connected,0,0,0,0,1200.0,Tamil Nadu,Plot Area
+Coimbatore,Saravanampatti,Residential,1350000,Unfurnished,3,3,Connected,0,0,0,0,1350.0,Tamil Nadu,Plot Area
+Coimbatore,Cheran Ma Nagar,Residential,8700000,Unfurnished,3,3,Connected,0,0,0,0,1820.0,Tamil Nadu,Plot Area
+Coimbatore,Thadagam Main Road,Residential,11100000,Unfurnished,2,2,Connected,1,0,1,1,1112.0,Tamil Nadu,Built-up Area
+Coimbatore,Gandhipuram,Residential,3500000,Unfurnished,3,3,Connected,0,0,0,0,2280.0,Tamil Nadu,Plot Area
+Coimbatore,Saravanampatti,Residential,30000000,Unfurnished,4,3,Connected,0,0,1,4,3550.0,Tamil Nadu,Built-up Area
+Coimbatore,Veerapandi,Residential,4600000,Semi-Furnished,2,2,Connected,0,0,1,2,1274.0,Tamil Nadu,Built-up Area
+Coimbatore,Periyanaickenpalayam,Residential,5800000,Unfurnished,2,3,Connected,0,0,0,2,1100.0,Tamil Nadu,Built-up Area
+Coimbatore,Vellalore,Residential,7800000,Unfurnished,3,3,Connected,0,0,0,0,2484.0,Tamil Nadu,Plot Area
+Coimbatore,Kinathukadavu,Residential,9000000,Unfurnished,3,3,Connected,0,0,0,0,17420.0,Tamil Nadu,Plot Area
+Coimbatore,Kalapatti,Residential,27500000,Unfurnished,6,3,Connected,0,0,0,3,3470.0,Tamil Nadu,Built-up Area
+Coimbatore,Othakalmandapam,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,7840.0,Tamil Nadu,Plot Area
+Coimbatore,Chettipalayam,Residential,4155000,Unfurnished,3,3,Connected,0,0,0,0,2129.0,Tamil Nadu,Plot Area
+Coimbatore,Saravanampatti,Residential,6500000,Furnished,4,3,Connected,0,0,0,3,1266.0,Tamil Nadu,Built-up Area
+Coimbatore,Kalapatti,Residential,19000000,Semi-Furnished,4,4,Room-attached,0,0,0,1,1920.0,Tamil Nadu,Built-up Area
+Coimbatore,Annur,Residential,10000000,Furnished,6,6,Connected,0,0,0,5,9000.0,Tamil Nadu,Built-up Area
+Coimbatore,Podanur,Residential,1126000,Unfurnished,3,3,Connected,0,0,0,0,1258.0,Tamil Nadu,Plot Area
+Coimbatore,Kovilpalayam,Residential,2400000,Unfurnished,3,3,Connected,0,0,0,0,900.0,Tamil Nadu,Plot Area
+Coimbatore,Vadavalli,Residential,13500000,Semi-Furnished,4,4,Individual,0,0,0,2,2400.0,Tamil Nadu,Built-up Area
+Coimbatore,Saravanampatti,Residential,3300000,Unfurnished,3,3,Connected,0,0,0,0,871.0,Tamil Nadu,Plot Area
+Coimbatore,Peelamedu,Residential,2000000,Unfurnished,3,3,Connected,0,0,0,0,4500.0,Tamil Nadu,Plot Area
+Coimbatore,Kovaipudur,Residential,3000000,Unfurnished,3,3,Connected,0,0,0,0,1608.0,Tamil Nadu,Plot Area
+Coimbatore,Coimbatore International Airport,Residential,500000,Unfurnished,3,3,Connected,0,0,0,0,250.0,Tamil Nadu,Plot Area
+Coimbatore,Pappampatti,Residential,38500000,Unfurnished,3,3,Connected,0,0,0,0,11976.0,Tamil Nadu,Plot Area
+Coimbatore,Ganapathy,Residential,22500000,Unfurnished,4,2,"Connected,Individual,Room-attached",0,0,0,3,3000.0,Tamil Nadu,Built-up Area
+Coimbatore,Saibaba Colony,Residential,10000000,Semi-Furnished,3,4,Connected,0,0,0,1,1670.0,Tamil Nadu,Built-up Area
+Coimbatore,Kmch City Center,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,4200.0,Tamil Nadu,Plot Area
+Coimbatore,Masakali Palayam,Residential,4500000,Unfurnished,3,3,Connected,0,0,0,0,3500.0,Tamil Nadu,Plot Area
+Coimbatore,Sundakkamuthur,Residential,3975000,Unfurnished,6,2,Individual,0,0,0,0,1000.0,Tamil Nadu,Built-up Area
+Coimbatore,Saravanampatti,Residential,6500000,Semi-Furnished,3,3,Individual,0,0,0,3,1250.0,Tamil Nadu,Built-up Area
+Coimbatore,Cheran Ma Nagar,Residential,13500000,Furnished,5,4,Connected,0,0,0,1,2600.0,Tamil Nadu,Built-up Area
+Coimbatore,Eachanari,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,1000.0,Tamil Nadu,Plot Area
+Coimbatore,Othakalmandapam,Residential,2400000,Unfurnished,3,3,Connected,0,0,0,0,4350.0,Tamil Nadu,Plot Area
+Coimbatore,Singanallur,Residential,4100000,Unfurnished,3,3,Connected,0,0,0,0,1200.0,Tamil Nadu,Plot Area
+Coimbatore,Thondamuthur,Residential,2000000,Unfurnished,3,3,Connected,0,0,0,0,2200.0,Tamil Nadu,Plot Area
+Coimbatore,Selvapuram,Residential,1750000,Unfurnished,3,3,Connected,0,0,0,0,1530.0,Tamil Nadu,Plot Area
+Coimbatore,Chettipalayam,Residential,3400000,Unfurnished,2,2,Connected,0,0,0,0,920.0,Tamil Nadu,Built-up Area
+Coimbatore,Thennampalayam,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,28000.0,Tamil Nadu,Built-up Area
+Coimbatore,Saibaba Colony,Residential,13000000,Unfurnished,3,3,Connected,0,0,0,0,1470.0,Tamil Nadu,Plot Area
+Coimbatore,Tvs Nagar,Residential,9300000,Unfurnished,3,3,Connected,0,0,0,1,1950.0,Tamil Nadu,Built-up Area
+Coimbatore,Thudiyalur,Residential,6000000,Semi-Furnished,2,2,Connected,0,0,0,1,960.0,Tamil Nadu,Built-up Area
+Coimbatore,Saravanampatti,Residential,9000000,Furnished,3,4,Individual,0,0,0,2,1700.0,Tamil Nadu,Built-up Area
+Coimbatore,Thudiyalur,Residential,6000000,Unfurnished,3,3,Connected,0,0,0,1,1450.0,Tamil Nadu,Built-up Area
+Coimbatore,Bilichi,Residential,8900000,Semi-Furnished,4,3,Individual,0,0,1,2,2350.0,Tamil Nadu,Built-up Area
+Coimbatore,Irugur,Residential,1300000,Unfurnished,3,3,Connected,0,0,0,0,2700.0,Tamil Nadu,Plot Area
+Coimbatore,Kmch City Center,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,3375.0,Tamil Nadu,Plot Area
+Coimbatore,Sundakkamuthur,Residential,5900000,Unfurnished,2,2,Connected,0,0,0,1,1000.0,Tamil Nadu,Built-up Area
+Coimbatore,Race Course,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,5500.0,Tamil Nadu,Built-up Area
+Coimbatore,Saravanampatti,Residential,7500000,Semi-Furnished,3,3,Connected,0,0,0,2,2150.0,Tamil Nadu,Built-up Area
+Coimbatore,Singanallur,Residential,15000000,Unfurnished,3,3,Individual,0,0,0,4,3382.0,Tamil Nadu,Built-up Area
+Coimbatore,Peelamedu,Commercial,0,Semi-Furnished,0,0,No Balcony,0,0,0,0,9000.0,Tamil Nadu,Built-up Area
+Coimbatore,Gandhipuram,Residential,60000000,Unfurnished,4,3,Connected,0,0,0,0,60000.0,Tamil Nadu,Built-up Area
+Coimbatore,Ganapathy,Residential,60000000,Unfurnished,3,3,Connected,0,0,0,0,1500.0,Tamil Nadu,Built-up Area
+Coimbatore,Saravanampatti,Residential,15000000,Unfurnished,5,4,Connected,0,0,0,1,2000.0,Tamil Nadu,Built-up Area
+Coimbatore,Saibaba Colony,Residential,60000000,Unfurnished,3,3,Connected,0,0,0,0,1500.0,Tamil Nadu,Built-up Area
+Coimbatore,Villankurichi,Residential,16000000,Semi-Furnished,4,4,Individual,0,0,0,2,3200.0,Tamil Nadu,Built-up Area
+Coimbatore,Neelambur,Residential,6000000,Unfurnished,3,3,Connected,0,0,0,0,2400.0,Tamil Nadu,Plot Area
+Coimbatore,Madukkarai,Residential,9800000,Furnished,3,3,"Individual,Room-attached",0,0,0,4,1800.0,Tamil Nadu,Built-up Area
+Coimbatore,Sundakkamuthur,Residential,8750000,Unfurnished,3,3,Connected,0,0,0,0,2800.0,Tamil Nadu,Plot Area
+Coimbatore,Ukkadam,Residential,60000000,Unfurnished,3,3,Connected,0,0,0,0,6000.0,Tamil Nadu,Built-up Area
+Coimbatore,Pappampatti,Commercial,0,Semi-Furnished,0,0,No Balcony,0,0,0,0,1800.0,Tamil Nadu,Built-up Area
+Coimbatore,Malumichampatti,Residential,3800000,Unfurnished,3,3,Connected,0,0,0,0,1500.0,Tamil Nadu,Plot Area
+Coimbatore,Thadagam Main Road,Residential,4600000,Unfurnished,5,3,Individual,0,0,0,2,1000.0,Tamil Nadu,Built-up Area
+Coimbatore,Coimbatore International Airport,Residential,3900000,Unfurnished,3,3,Connected,0,0,1,0,1888.0,Tamil Nadu,Plot Area
+Coimbatore,Sulur,Residential,1100000,Unfurnished,3,3,Connected,0,0,0,0,872.0,Tamil Nadu,Plot Area
+Coimbatore,West Club Road,Residential,2199000,Unfurnished,3,3,Connected,0,0,0,0,1455.0,Tamil Nadu,Plot Area
+Coimbatore,Thondamuthur,Residential,10680056,Unfurnished,3,3,Connected,0,0,0,0,2200.0,Tamil Nadu,Plot Area
+Coimbatore,Othakalmandapam,Residential,2199000,Unfurnished,3,3,Connected,0,0,0,0,1200.0,Tamil Nadu,Plot Area
+Coimbatore,Pappampatti,Residential,1450000,Unfurnished,3,3,Connected,0,0,0,0,1350.0,Tamil Nadu,Plot Area
+Coimbatore,Mettupalayam Road,Residential,6750000,Unfurnished,3,3,Connected,0,0,0,0,1500.0,Tamil Nadu,Plot Area
+Coimbatore,Pn Pudur,Residential,8500000,Unfurnished,3,3,Connected,0,0,0,5,1500.0,Tamil Nadu,Built-up Area
+Coimbatore,Madukkarai,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,116305.0,Tamil Nadu,Plot Area
+Coimbatore,Madukkarai,Residential,10680056,Unfurnished,3,3,Connected,0,0,0,0,1200.0,Tamil Nadu,Plot Area
+Coimbatore,Peelamedu,Residential,10680056,Unfurnished,3,3,Connected,0,0,0,0,1742.0,Tamil Nadu,Plot Area
+Coimbatore,Karamadai,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,4984.0,Tamil Nadu,Plot Area
+Coimbatore,Coimbatore International Airport,Residential,10680056,Unfurnished,3,3,Connected,0,0,0,0,4984.0,Tamil Nadu,Plot Area
+Coimbatore,Ram Nagar,Commercial,0,Semi-Furnished,0,0,Individual,0,0,0,1,2070.0,Tamil Nadu,Built-up Area
+Coimbatore,Kanuvai,Residential,10680056,Unfurnished,3,3,Connected,0,0,0,0,4984.0,Tamil Nadu,Plot Area
+Coimbatore,Nehru Nagar West,Residential,13200000,Unfurnished,3,3,Connected,0,0,0,0,2400.0,Tamil Nadu,Plot Area
+Coimbatore,Chettipalayam,Residential,10680056,Unfurnished,3,3,Connected,0,0,0,0,9147.0,Tamil Nadu,Plot Area
+Coimbatore,Kinathukadavu,Residential,10680056,Unfurnished,3,3,Connected,0,0,0,0,4984.0,Tamil Nadu,Plot Area
+Coimbatore,Krg Nagar,Residential,10680056,Unfurnished,4,4,Room-attached,0,0,0,2,2845.0,Tamil Nadu,Built-up Area
+Coimbatore,Annur,Residential,568000,Unfurnished,3,3,Connected,0,0,0,0,1308.0,Tamil Nadu,Plot Area
+Coimbatore,Madukkarai,Residential,1300000,Unfurnished,3,3,Connected,0,0,0,0,800.0,Tamil Nadu,Plot Area
+Coimbatore,Thondamuthur,Residential,4862000,Unfurnished,3,3,Connected,0,0,0,0,1619.0,Tamil Nadu,Plot Area
+Coimbatore,Kovaipudur,Residential,10680056,Unfurnished,3,3,Connected,0,0,0,0,5000.0,Tamil Nadu,Plot Area
+Coimbatore,Othakalmandapam,Residential,2114000,Unfurnished,3,3,Connected,0,0,0,0,1675.0,Tamil Nadu,Plot Area
+Coimbatore,Ashokapuram,Residential,10680056,Semi-Furnished,2,2,Connected,0,0,0,2,740.0,Tamil Nadu,Built-up Area
+Coimbatore,Avinashi Road,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,5,5000.0,Tamil Nadu,Built-up Area
+Coimbatore,Gopala Puram,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,5,5000.0,Tamil Nadu,Built-up Area
+Coimbatore,Sulur,Residential,1800000,Unfurnished,3,3,Connected,0,0,0,0,10800.0,Tamil Nadu,Plot Area
+Coimbatore,Lakshmi Nagar,Commercial,0,Unfurnished,0,0,No Balcony,0,1,0,0,4984.0,Tamil Nadu,Plot Area
+Coimbatore,Pulian Thoppu,Residential,10680056,Unfurnished,3,3,Connected,0,1,0,0,9360.0,Tamil Nadu,Plot Area
+Coimbatore,Neelambur,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,7200.0,Tamil Nadu,Built-up Area
+Coimbatore,Sulur,Commercial,0,Unfurnished,0,0,Connected,0,0,0,6,3000.0,Tamil Nadu,Built-up Area
+Coimbatore,Palladam,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,10890.0,Tamil Nadu,Plot Area
+Coimbatore,Eachanari,Residential,1800000,Unfurnished,3,3,Connected,0,0,0,0,1400.0,Tamil Nadu,Plot Area
+Coimbatore,Ponnaiah Raja Puram,Residential,10680056,Furnished,3,3,Connected,0,0,0,1,1840.0,Tamil Nadu,Built-up Area
+Coimbatore,Kinathukadavu,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,21780.0,Tamil Nadu,Plot Area
+Coimbatore,Vilankurichi Road,Residential,9800000,Unfurnished,3,3,Connected,0,0,0,0,1500.0,Tamil Nadu,Plot Area
+Coimbatore,Periyanaickenpalayam,Residential,19500000,Unfurnished,3,3,Connected,0,0,1,0,56615.0,Tamil Nadu,Plot Area
+Coimbatore,Eachanari,Residential,7500000,Unfurnished,3,3,Connected,0,0,0,0,3100.0,Tamil Nadu,Plot Area
+Coimbatore,Peelamedu,Commercial,0,Furnished,0,0,No Balcony,0,0,0,0,5800.0,Tamil Nadu,Built-up Area
+Coimbatore,Podanur,Residential,2300000,Unfurnished,3,3,Connected,0,1,0,0,12393.0,Tamil Nadu,Plot Area
+Coimbatore,Kovilpalayam,Residential,4500000,Unfurnished,3,3,Connected,0,0,0,0,1960.0,Tamil Nadu,Plot Area
+Coimbatore,Karumbukkadai,Residential,5900000,Unfurnished,3,3,Connected,0,0,0,0,2405.0,Tamil Nadu,Plot Area
+Coimbatore,Coimbatore International Airport,Residential,7600000,Unfurnished,2,2,Connected,0,0,0,1,1197.0,Tamil Nadu,Built-up Area
+Coimbatore,Ganapathy,Residential,10680056,Unfurnished,6,5,Individual,0,0,0,2,2800.0,Tamil Nadu,Built-up Area
+Coimbatore,Veerakeralam,Residential,1500000,Unfurnished,3,3,Connected,0,0,1,0,435.0,Tamil Nadu,Plot Area
+Coimbatore,Periyanaickenpalayam,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,1,2400.0,Tamil Nadu,Built-up Area
+Coimbatore,Pappampatti,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,880.0,Tamil Nadu,Plot Area
+Coimbatore,Pollachi,Residential,8000000,Unfurnished,2,4,Room-attached,0,0,0,1,1600.0,Tamil Nadu,Built-up Area
+Coimbatore,Sulur,Residential,749000,Unfurnished,3,3,Connected,0,0,0,0,1200.0,Tamil Nadu,Plot Area
+Coimbatore,Vellalore,Residential,15000000,Unfurnished,3,3,Connected,0,0,0,0,28800.0,Tamil Nadu,Plot Area
+Coimbatore,Malumichampatti,Residential,6500000,Semi-Furnished,3,4,Connected,0,0,0,1,1640.0,Tamil Nadu,Built-up Area
+Coimbatore,Chettipalayam,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,4,3000.0,Tamil Nadu,Built-up Area
+Coimbatore,Athipalayam,Residential,9850000,Furnished,3,3,"Individual,Room-attached",0,0,0,3,1700.0,Tamil Nadu,Built-up Area
+Coimbatore,Othakalmandapam,Residential,5700000,Unfurnished,2,3,Connected,0,0,1,1,1400.0,Tamil Nadu,Built-up Area
+Coimbatore,Vadavalli,Commercial,0,Unfurnished,0,0,No Balcony,0,1,0,0,6600.0,Tamil Nadu,Plot Area
+Coimbatore,Pannimadai,Residential,7000000,Unfurnished,3,4,Connected,0,0,1,1,1950.0,Tamil Nadu,Built-up Area
+Coimbatore,Chettipalayam,Residential,3500000,Unfurnished,2,2,Individual,0,0,0,2,1000.0,Tamil Nadu,Built-up Area
+Coimbatore,Kinathukadavu,Residential,2800000,Unfurnished,3,3,Connected,0,0,0,0,1200.0,Tamil Nadu,Carpet Area
+Coimbatore,Palladam,Residential,10680056,Furnished,2,1,Connected,0,0,0,2,2652.0,Tamil Nadu,Built-up Area
+Coimbatore,K Vadamadurai,Residential,8300000,Semi-Furnished,3,4,Connected,0,0,0,2,1800.0,Tamil Nadu,Built-up Area
+Coimbatore,Saravanampatti,Residential,10680056,Unfurnished,3,3,Connected,0,0,0,0,2000.0,Tamil Nadu,Plot Area
+Coimbatore,Kinathukadavu,Residential,4600000,Unfurnished,2,3,Individual,0,0,0,1,1200.0,Tamil Nadu,Built-up Area
+Coimbatore,Vinayagapuram,Residential,8300000,Furnished,2,3,Individual,0,0,0,1,1350.0,Tamil Nadu,Built-up Area
+Coimbatore,Ganapathy,Residential,27500000,Semi-Furnished,6,5,Individual,0,0,0,2,5000.0,Tamil Nadu,Built-up Area
+Coimbatore,Kovilpalayam,Residential,10000000,Unfurnished,5,5,Room-attached,0,0,0,2,2650.0,Tamil Nadu,Built-up Area
+Coimbatore,Gandhipuram,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,2542.0,Tamil Nadu,Plot Area
+Coimbatore,Tvs Nagar,Residential,12800000,Semi-Furnished,2,3,Connected,0,0,0,1,1700.0,Tamil Nadu,Built-up Area
+Coimbatore,Rs Puram,Residential,12500000,Semi-Furnished,3,3,Individual,0,0,0,1,1125.0,Tamil Nadu,Built-up Area
+Coimbatore,Saibaba Colony,Residential,7000000,Furnished,2,2,Individual,0,0,0,1,934.0,Tamil Nadu,Built-up Area

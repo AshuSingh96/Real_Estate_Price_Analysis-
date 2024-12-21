@@ -1,0 +1,489 @@
+City,Locality,Property Type,Price,Furnishing Status,Number of Rooms,Number of Bathroom,Balcony,Clubhouse,Swimming Pool,"""Kids Play Areas""",Parking,Area (Sq.Ft.),State,Area Type
+Vijayawada,Sri Ramachandra Nagar,Residential,10900000,Unfurnished,3,3,Room-attached,1,1,1,2,1900.0,Andhra Pradesh,Built-up Area
+Vijayawada,Kanuru,Residential,11500000,Furnished,3,3,Individual,0,0,1,2,1900.0,Andhra Pradesh,Built-up Area
+Vijayawada,Gannavaram,Residential,2550000,Unfurnished,2,2,Connected,0,0,0,0,1350.0,Andhra Pradesh,Plot Area
+Vijayawada,Gannavaram,Residential,2400000,Unfurnished,2,2,Connected,0,0,0,0,1350.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,8000000,Unfurnished,2,2,Connected,0,0,0,0,5517.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,9056000,Unfurnished,2,2,Connected,0,0,0,0,5400.0,Andhra Pradesh,Plot Area
+Vijayawada,Poranki,Residential,15000000,Semi-Furnished,3,3,Room-attached,0,0,0,2,2500.0,Andhra Pradesh,Built-up Area
+Vijayawada,Kankipadu,Residential,8609000,Unfurnished,2,2,Connected,0,0,0,0,4500.0,Andhra Pradesh,Plot Area
+Vijayawada,Mangalagiri,Residential,7000000,Unfurnished,2,2,Connected,0,0,0,0,1800.0,Andhra Pradesh,Plot Area
+Vijayawada,Komaravolu,Residential,5400000,Unfurnished,2,2,Connected,0,0,0,0,1800.0,Andhra Pradesh,Plot Area
+Vijayawada,Mylavaram,Residential,990000,Unfurnished,2,2,Connected,0,0,0,0,900.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,6000000,Unfurnished,2,2,Connected,0,0,1,1,1665.0,Andhra Pradesh,Built-up Area
+Vijayawada,Mangalagiri,Residential,6000000,Unfurnished,2,2,Connected,0,0,1,0,1656.0,Andhra Pradesh,Plot Area
+Vijayawada,Bandar Road,Residential,3300000,Unfurnished,2,2,Connected,0,0,0,0,1980.0,Andhra Pradesh,Plot Area
+Vijayawada,Vijayawada One Town,Residential,2650000,Unfurnished,2,2,Connected,0,0,0,0,1080.0,Andhra Pradesh,Plot Area
+Vijayawada,Ibrahimpatnam,Residential,645000,Unfurnished,2,2,Connected,0,0,0,0,900.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,9004000,Unfurnished,2,2,Connected,0,0,1,0,5400.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,8600000,Unfurnished,2,2,Connected,0,0,1,0,4500.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,4908000,Unfurnished,2,2,Connected,0,0,0,0,3150.0,Andhra Pradesh,Plot Area
+Vijayawada,Mangalagiri,Residential,7006000,Unfurnished,2,2,Connected,0,0,0,0,1800.0,Andhra Pradesh,Plot Area
+Vijayawada,Nandigama,Residential,3300000,Unfurnished,2,2,Connected,0,0,0,0,1341.0,Andhra Pradesh,Plot Area
+Vijayawada,Payakkapuram,Residential,6500000,Unfurnished,2,2,Connected,0,0,0,0,2250.0,Andhra Pradesh,Plot Area
+Vijayawada,Ramavarappadu,Residential,5200000,Unfurnished,2,2,Connected,1,0,0,0,1800.0,Andhra Pradesh,Plot Area
+Vijayawada,Chittinagar,Residential,1660000,Unfurnished,2,2,Connected,0,0,0,0,1494.0,Andhra Pradesh,Plot Area
+Vijayawada,Ramavarappadu,Residential,5200000,Unfurnished,2,2,Connected,0,0,0,0,2007.0,Andhra Pradesh,Plot Area
+Vijayawada,Mangalagiri,Residential,7008000,Unfurnished,2,2,Connected,0,0,0,0,1800.0,Andhra Pradesh,Plot Area
+Vijayawada,Vijayawada One Town,Residential,4200000,Unfurnished,2,2,Connected,0,0,0,0,2700.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,39000000,Unfurnished,2,2,Connected,0,0,1,0,16920.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,6006000,Unfurnished,2,2,Connected,0,0,1,1,1656.0,Andhra Pradesh,Built-up Area
+Vijayawada,Vijayawada One Town,Residential,3528000,Unfurnished,2,2,Connected,0,0,0,0,2268.0,Andhra Pradesh,Plot Area
+Vijayawada,Yenamalakuduru Lanka,Residential,3500000,Furnished,2,2,Individual,0,0,0,2,1100.0,Andhra Pradesh,Built-up Area
+Vijayawada,Kankipadu,Residential,8609000,Unfurnished,2,2,Connected,0,0,1,0,4500.0,Andhra Pradesh,Plot Area
+Vijayawada,Vaddeswaram,Residential,3425000,Unfurnished,2,2,Connected,0,0,0,0,2205.0,Andhra Pradesh,Plot Area
+Vijayawada,Ramavarappadu,Residential,4394000,Unfurnished,2,2,Connected,0,0,0,0,1521.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,5509000,Unfurnished,2,2,Connected,0,0,1,1,1494.0,Andhra Pradesh,Built-up Area
+Vijayawada,Bandar Road,Residential,2928000,Unfurnished,2,2,Connected,0,0,0,0,1647.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,8000000,Unfurnished,2,2,Connected,0,0,0,0,4500.0,Andhra Pradesh,Plot Area
+Vijayawada,Nandigama,Residential,3256000,Unfurnished,2,2,Connected,0,0,0,0,1332.0,Andhra Pradesh,Plot Area
+Vijayawada,Payakkapuram,Residential,3978000,Unfurnished,2,2,Connected,0,0,0,0,1377.0,Andhra Pradesh,Plot Area
+Vijayawada,Gannavaram,Residential,9411599,Unfurnished,2,2,Connected,0,0,0,0,1197.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,4907000,Unfurnished,2,2,Connected,0,0,1,0,3150.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,6098000,Unfurnished,2,2,Connected,0,0,1,1,1656.0,Andhra Pradesh,Built-up Area
+Vijayawada,Chittinagar,Residential,1670000,Unfurnished,2,2,Connected,0,0,0,0,1503.0,Andhra Pradesh,Plot Area
+Vijayawada,Vambay Colony,Residential,5656000,Unfurnished,2,2,Connected,0,0,0,0,3996.0,Andhra Pradesh,Plot Area
+Vijayawada,Mangalagiri,Residential,6106000,Unfurnished,2,2,Connected,0,0,1,0,1656.0,Andhra Pradesh,Plot Area
+Vijayawada,Mangalagiri,Residential,7098000,Unfurnished,2,2,Connected,0,0,0,0,1800.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,4906000,Unfurnished,2,2,Connected,0,0,1,0,3150.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,39000000,Unfurnished,2,2,Connected,0,0,0,0,1880.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,7875000,Unfurnished,2,2,Connected,0,0,0,0,2025.0,Andhra Pradesh,Plot Area
+Vijayawada,Vijayawada One Town,Residential,3500000,Unfurnished,2,2,Connected,0,0,0,0,2241.0,Andhra Pradesh,Plot Area
+Vijayawada,Vaddeswaram,Residential,2128000,Unfurnished,2,2,Connected,0,0,0,0,1368.0,Andhra Pradesh,Plot Area
+Vijayawada,Ganguru,Residential,4422000,Unfurnished,2,2,Connected,0,1,1,0,1872.0,Andhra Pradesh,Plot Area
+Vijayawada,Ganguru,Residential,4422000,Unfurnished,2,2,Connected,0,1,1,0,2250.0,Andhra Pradesh,Plot Area
+Vijayawada,Mangalagiri,Residential,7007000,Unfurnished,2,2,Connected,0,0,0,0,1800.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,2600000,Unfurnished,2,2,Connected,0,0,0,0,1494.0,Andhra Pradesh,Plot Area
+Vijayawada,Tadigadapa,Residential,7550000,Semi-Furnished,3,3,Room-attached,0,0,0,1,1510.0,Andhra Pradesh,Built-up Area
+Vijayawada,Vijayawada One Town,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,720.0,Andhra Pradesh,Plot Area
+Vijayawada,Madhura Nagar,Residential,3800000,Unfurnished,2,2,Individual,0,0,0,1,1060.0,Andhra Pradesh,Built-up Area
+Vijayawada,Kunchanapalli,Residential,8300000,Semi-Furnished,3,2,Individual,0,0,0,1,1640.0,Andhra Pradesh,Built-up Area
+Vijayawada,Vidhyadharpuram,Residential,9900000,Semi-Furnished,3,1,Connected,0,0,0,0,1600.0,Andhra Pradesh,Built-up Area
+Vijayawada,Bhavanipuram,Residential,9900000,Semi-Furnished,3,1,Connected,0,0,0,0,1600.0,Andhra Pradesh,Built-up Area
+Vijayawada,Guntupalli,Residential,3600000,Furnished,2,2,Individual,0,0,0,1,1200.0,Andhra Pradesh,Saleable Area
+Vijayawada,Mangalagiri,Residential,6100000,Unfurnished,2,2,Connected,0,0,0,0,1656.0,Andhra Pradesh,Plot Area
+Vijayawada,Durgapuram,Residential,9411599,Unfurnished,2,2,Connected,0,0,0,0,2250.0,Andhra Pradesh,Plot Area
+Vijayawada,Gosala,Residential,4200000,Unfurnished,2,2,Connected,1,0,0,0,2700.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,5500000,Unfurnished,2,2,Connected,0,0,1,1,252.0,Andhra Pradesh,Built-up Area
+Vijayawada,Gosala,Residential,4200000,Unfurnished,2,2,Connected,0,0,0,0,2700.0,Andhra Pradesh,Plot Area
+Vijayawada,Nunna,Residential,9411599,Unfurnished,2,2,Connected,0,0,0,0,1350.0,Andhra Pradesh,Plot Area
+Vijayawada,Vaddeswaram,Residential,2800000,Unfurnished,2,2,Connected,0,0,0,0,1800.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,3607000,Unfurnished,2,2,Connected,0,0,1,0,2250.0,Andhra Pradesh,Plot Area
+Vijayawada,Nunna,Residential,2100000,Unfurnished,2,2,Connected,0,0,0,0,2700.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,3609000,Unfurnished,2,2,Connected,0,0,1,0,2250.0,Andhra Pradesh,Plot Area
+Vijayawada,Gosala,Residential,2800000,Unfurnished,2,2,Connected,0,1,1,0,1800.0,Andhra Pradesh,Plot Area
+Vijayawada,Durgapuram,Residential,9411599,Unfurnished,2,2,Connected,0,0,0,0,2160.0,Andhra Pradesh,Plot Area
+Vijayawada,Mangalagiri,Residential,6100000,Unfurnished,2,2,Connected,0,0,1,0,1656.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,3600000,Unfurnished,2,2,Connected,0,0,1,0,2250.0,Andhra Pradesh,Plot Area
+Vijayawada,Durga Agraharam,Residential,9411599,Unfurnished,2,2,Connected,0,0,0,0,2250.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,8000000,Unfurnished,2,2,Connected,0,0,0,0,980.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,8604000,Unfurnished,2,2,Connected,0,0,1,0,4500.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,39000000,Unfurnished,2,2,Connected,0,0,0,0,16920.0,Andhra Pradesh,Plot Area
+Vijayawada,Nunna,Residential,3600000,Unfurnished,2,2,Connected,0,0,0,0,1800.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,3600000,Unfurnished,2,2,Connected,0,0,0,0,2250.0,Andhra Pradesh,Plot Area
+Vijayawada,Mylavaram,Residential,800000,Unfurnished,2,2,Connected,0,0,0,0,151.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,3000000,Unfurnished,2,2,Connected,0,0,1,0,1674.0,Andhra Pradesh,Plot Area
+Vijayawada,Penamaluru,Residential,2800000,Unfurnished,2,2,Connected,0,0,1,0,1809.0,Andhra Pradesh,Plot Area
+Vijayawada,Mylavaram,Residential,599000,Unfurnished,2,2,Connected,0,0,0,0,900.0,Andhra Pradesh,Plot Area
+Vijayawada,Mustabada,Residential,9500000,Semi-Furnished,2,2,Individual,0,0,0,3,986.0,Andhra Pradesh,Built-up Area
+Vijayawada,Mylavaram,Residential,800000,Unfurnished,2,2,Connected,0,0,0,0,142.0,Andhra Pradesh,Plot Area
+Vijayawada,Mustabada,Residential,9800000,Semi-Furnished,2,2,Connected,0,0,0,0,1123.0,Andhra Pradesh,Built-up Area
+Vijayawada,Gudavalli,Residential,3800000,Unfurnished,2,2,Connected,0,0,1,0,1800.0,Andhra Pradesh,Plot Area
+Vijayawada,Benz Circle,Residential,3400000,Unfurnished,2,2,Connected,0,0,0,0,1530.0,Andhra Pradesh,Plot Area
+Vijayawada,Bandar Road,Residential,2400000,Unfurnished,2,2,Connected,0,0,0,0,1440.0,Andhra Pradesh,Plot Area
+Vijayawada,Vijayawada One Town,Residential,9411599,Unfurnished,2,2,Connected,0,0,0,0,2772.0,Andhra Pradesh,Plot Area
+Vijayawada,Guntur,Commercial,0,Unfurnished,0,0,Connected,0,0,0,5,3100.0,Andhra Pradesh,Built-up Area
+Vijayawada,Kanchikacherla,Residential,1800000,Unfurnished,2,2,Connected,0,0,0,0,1620.0,Andhra Pradesh,Plot Area
+Vijayawada,Pamarru,Residential,2400000,Unfurnished,2,2,Connected,0,0,0,0,2700.0,Andhra Pradesh,Plot Area
+Vijayawada,Poranki,Residential,3950000,Unfurnished,2,2,Connected,0,0,0,0,1404.0,Andhra Pradesh,Plot Area
+Vijayawada,Madhura Nagar,Residential,35000000,Unfurnished,6,2,Individual,0,0,0,6,7500.0,Andhra Pradesh,Built-up Area
+Vijayawada,Durgapuram,Residential,3500000,Unfurnished,2,2,Individual,0,0,0,1,650.0,Andhra Pradesh,Built-up Area
+Vijayawada,Kanuru,Residential,6000000,Semi-Furnished,2,2,Individual,0,0,0,1,1182.0,Andhra Pradesh,Built-up Area
+Vijayawada,Tadepalli,Residential,6300000,Unfurnished,2,2,Connected,1,1,1,1,1255.0,Andhra Pradesh,Built-up Area
+Vijayawada,Enikepadu,Residential,17000000,Unfurnished,5,5,Connected,0,0,0,1,2268.0,Andhra Pradesh,Built-up Area
+Vijayawada,Tadepalli,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,2772.0,Andhra Pradesh,Plot Area
+Vijayawada,Prasadampadu,Residential,2000000,Unfurnished,4,2,Connected,0,0,0,1,900.0,Andhra Pradesh,Carpet Area
+Vijayawada,Gunadala,Residential,9411599,Semi-Furnished,5,5,"Connected,Room-attached",0,0,0,4,4500.0,Andhra Pradesh,Built-up Area
+Vijayawada,Patamata,Residential,8500000,Unfurnished,6,3,Connected,0,0,0,0,972.0,Andhra Pradesh,Built-up Area
+Vijayawada,Patamata,Residential,13000000,Furnished,6,3,Room-attached,0,0,0,1,2000.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,2158000,Unfurnished,2,2,Connected,0,0,0,0,1494.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,2400000,Unfurnished,2,2,Connected,0,0,1,0,1656.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,2500000,Unfurnished,2,2,Connected,0,0,1,0,1494.0,Andhra Pradesh,Plot Area
+Vijayawada,Mangalagiri,Residential,6000000,Unfurnished,2,2,Connected,0,0,0,0,1656.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,2400000,Unfurnished,2,2,Connected,0,0,1,0,1638.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,5500000,Unfurnished,2,2,Connected,0,0,1,1,1494.0,Andhra Pradesh,Built-up Area
+Vijayawada,Gosala,Residential,6800000,Unfurnished,2,2,Connected,0,0,0,0,1800.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,9411599,Unfurnished,2,2,Connected,0,0,1,1,1629.0,Andhra Pradesh,Built-up Area
+Vijayawada,Mangalagiri,Residential,7100000,Unfurnished,2,2,Connected,0,0,0,0,1800.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,3120000,Unfurnished,2,2,Connected,0,0,0,0,2160.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,9411599,Unfurnished,2,2,Connected,0,0,1,0,1647.0,Andhra Pradesh,Plot Area
+Vijayawada,Mangalagiri,Residential,6050000,Unfurnished,2,2,Connected,0,0,0,0,1656.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,2012000,Unfurnished,2,2,Connected,0,0,1,0,1575.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,8500000,Unfurnished,2,2,Connected,0,0,0,0,4500.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,5250000,Unfurnished,2,2,Connected,0,0,0,0,3150.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,8500000,Unfurnished,2,2,Connected,0,0,0,0,4509.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,2400000,Unfurnished,2,2,Connected,0,0,0,0,1665.0,Andhra Pradesh,Plot Area
+Vijayawada,Gosala,Residential,8712000,Unfurnished,2,2,Connected,0,0,0,0,2178.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,3350000,Unfurnished,2,2,Connected,0,0,1,0,2250.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,2157000,Unfurnished,2,2,Connected,0,0,0,0,1494.0,Andhra Pradesh,Plot Area
+Vijayawada,Gosala,Residential,7040000,Unfurnished,2,2,Connected,0,0,0,0,1980.0,Andhra Pradesh,Plot Area
+Vijayawada,Gosala,Residential,7140000,Unfurnished,2,2,Connected,0,0,1,0,1890.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,2158000,Unfurnished,2,2,Connected,0,0,0,0,1503.0,Andhra Pradesh,Plot Area
+Vijayawada,Gosala,Residential,9180000,Unfurnished,2,2,Connected,0,0,1,0,2430.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,2100000,Unfurnished,2,2,Connected,0,0,0,0,1008.0,Andhra Pradesh,Plot Area
+Vijayawada,Edupugallu,Residential,4200000,Unfurnished,2,2,Connected,0,0,1,0,2160.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,8506000,Unfurnished,2,2,Connected,0,0,0,0,4500.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,2700000,Unfurnished,2,2,Connected,0,0,1,0,1665.0,Andhra Pradesh,Plot Area
+Vijayawada,Mangalagiri,Residential,6444000,Unfurnished,2,2,Connected,0,0,1,0,1656.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,2400000,Unfurnished,2,2,Connected,0,0,0,0,1674.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,4900000,Unfurnished,2,2,Connected,0,0,1,1,1503.0,Andhra Pradesh,Built-up Area
+Vijayawada,Kankipadu,Residential,9050000,Unfurnished,2,2,Connected,0,0,1,0,5400.0,Andhra Pradesh,Plot Area
+Vijayawada,Edupugallu,Residential,5775000,Unfurnished,2,2,Connected,0,0,1,0,2970.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,8500000,Unfurnished,2,2,Connected,0,0,0,0,4545.0,Andhra Pradesh,Plot Area
+Vijayawada,Gosala,Residential,8937000,Unfurnished,2,2,Connected,1,0,0,0,2925.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,3000000,Unfurnished,2,2,Connected,0,0,0,0,1665.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,2500000,Unfurnished,2,2,Connected,0,0,1,0,1512.0,Andhra Pradesh,Plot Area
+Vijayawada,Edupugallu,Residential,4025000,Unfurnished,2,2,Connected,0,0,1,0,2070.0,Andhra Pradesh,Plot Area
+Vijayawada,Mangalagiri,Residential,7001000,Unfurnished,2,2,Connected,0,0,1,0,1800.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,2250000,Unfurnished,2,2,Connected,0,0,0,0,1350.0,Andhra Pradesh,Plot Area
+Vijayawada,Edupugallu,Residential,6300000,Unfurnished,2,2,Connected,0,0,0,0,3240.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,5500000,Unfurnished,2,2,Connected,0,0,1,1,1503.0,Andhra Pradesh,Built-up Area
+Vijayawada,Edupugallu,Residential,3500000,Unfurnished,2,2,Connected,0,0,0,0,1800.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,39400000,Unfurnished,2,2,Connected,0,0,0,0,16911.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,2400000,Unfurnished,2,2,Connected,0,0,1,0,1674.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,9411599,Unfurnished,2,2,Connected,1,1,1,0,1350.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,5000000,Unfurnished,2,2,Connected,0,0,0,0,1647.0,Andhra Pradesh,undefined
+Vijayawada,Gosala,Residential,8349000,Unfurnished,2,2,Connected,0,0,0,0,2178.0,Andhra Pradesh,Plot Area
+Vijayawada,Edupugallu,Residential,5425000,Unfurnished,2,2,Connected,0,0,1,0,2790.0,Andhra Pradesh,Plot Area
+Vijayawada,Gosala,Residential,2100000,Unfurnished,2,2,Connected,0,0,0,0,1350.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,8605000,Unfurnished,2,2,Connected,0,0,1,0,4500.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,9411599,Unfurnished,3,3,Connected,0,0,1,1,1629.0,Andhra Pradesh,Built-up Area
+Vijayawada,Kankipadu,Residential,39400000,Unfurnished,2,2,Connected,0,0,1,0,16947.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,8600000,Unfurnished,2,2,Connected,0,0,0,0,4500.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,2158000,Unfurnished,2,2,Connected,0,0,0,0,1485.0,Andhra Pradesh,Plot Area
+Vijayawada,Edupugallu,Residential,5075000,Unfurnished,2,2,Connected,0,0,1,0,2610.0,Andhra Pradesh,Plot Area
+Vijayawada,Edupugallu,Residential,3547000,Unfurnished,2,2,Connected,0,0,0,0,1935.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,9411599,Unfurnished,2,2,Connected,1,1,1,0,1800.0,Andhra Pradesh,Plot Area
+Vijayawada,Gosala,Residential,8500000,Unfurnished,2,2,Connected,0,0,1,0,2250.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,2505000,Unfurnished,2,2,Connected,0,0,1,0,1503.0,Andhra Pradesh,Plot Area
+Vijayawada,Mangalagiri,Residential,7080000,Unfurnished,2,2,Connected,0,0,0,0,1818.0,Andhra Pradesh,Plot Area
+Vijayawada,Gosala,Residential,7480000,Unfurnished,2,2,Connected,0,0,1,0,1980.0,Andhra Pradesh,Plot Area
+Vijayawada,Edupugallu,Residential,6825000,Unfurnished,2,2,Connected,0,0,0,0,3510.0,Andhra Pradesh,Plot Area
+Vijayawada,Gosala,Residential,5600000,Unfurnished,2,2,Connected,0,0,0,0,3600.0,Andhra Pradesh,Plot Area
+Vijayawada,Gosala,Residential,6800000,Unfurnished,2,2,Connected,0,0,1,0,1800.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,3300000,Unfurnished,2,2,Connected,0,0,0,0,2268.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,3000000,Unfurnished,2,2,Connected,1,1,1,0,1800.0,Andhra Pradesh,Plot Area
+Vijayawada,Nandigama,Residential,9411599,Unfurnished,2,2,Connected,0,0,0,0,1827.0,Andhra Pradesh,Plot Area
+Vijayawada,Bandar Road,Residential,3750000,Unfurnished,2,2,Connected,0,0,0,0,2250.0,Andhra Pradesh,Plot Area
+Vijayawada,Nunna,Residential,1400000,Unfurnished,2,2,Connected,0,0,0,0,1800.0,Andhra Pradesh,Plot Area
+Vijayawada,Madhura Nagar,Residential,1500000,Unfurnished,2,2,Connected,0,0,0,0,2520.0,Andhra Pradesh,Plot Area
+Vijayawada,Punadipadu,Residential,5180000,Unfurnished,2,2,Connected,0,0,0,0,2520.0,Andhra Pradesh,Plot Area
+Vijayawada,Punadipadu,Residential,4440000,Unfurnished,2,2,Connected,0,0,1,0,2160.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,3250000,Unfurnished,2,2,Connected,0,0,1,0,2223.0,Andhra Pradesh,Plot Area
+Vijayawada,Mangalagiri,Residential,7000000,Unfurnished,2,2,Connected,0,0,1,0,1800.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,5500000,Unfurnished,2,1,Connected,0,0,1,2,1503.0,Andhra Pradesh,Built-up Area
+Vijayawada,Kankipadu,Residential,1932000,Unfurnished,2,2,Connected,0,0,0,0,1512.0,Andhra Pradesh,Plot Area
+Vijayawada,Punadipadu,Residential,6105000,Unfurnished,2,2,Connected,0,0,1,0,2970.0,Andhra Pradesh,Plot Area
+Vijayawada,Gosala,Residential,8160000,Unfurnished,2,2,Connected,0,0,1,0,2160.0,Andhra Pradesh,Plot Area
+Vijayawada,Edupugallu,Residential,5735000,Unfurnished,2,2,Connected,0,0,1,0,2790.0,Andhra Pradesh,Plot Area
+Vijayawada,Durgapuram,Residential,9411599,Unfurnished,2,2,Connected,0,0,0,0,3240.0,Andhra Pradesh,Plot Area
+Vijayawada,Gosala,Residential,9411599,Unfurnished,2,2,Connected,0,0,0,0,1800.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,8500000,Unfurnished,2,2,Connected,0,0,0,0,4554.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,9060000,Unfurnished,2,2,Connected,0,0,1,0,5400.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,8500000,Unfurnished,2,2,Connected,0,0,0,0,4518.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,39400000,Unfurnished,2,2,Connected,0,0,0,0,16875.0,Andhra Pradesh,Plot Area
+Vijayawada,Punadipadu,Residential,5365000,Unfurnished,2,2,Connected,0,0,1,0,2610.0,Andhra Pradesh,Plot Area
+Vijayawada,Edupugallu,Residential,4550000,Unfurnished,2,2,Connected,0,0,1,0,2340.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,1851000,Unfurnished,2,2,Connected,0,0,1,0,1449.0,Andhra Pradesh,Plot Area
+Vijayawada,Gosala,Residential,8435000,Unfurnished,2,2,Connected,0,0,0,0,2169.0,Andhra Pradesh,Plot Area
+Vijayawada,Mangalagiri,Residential,7015000,Unfurnished,2,2,Connected,0,0,1,0,1800.0,Andhra Pradesh,Plot Area
+Vijayawada,Punadipadu,Residential,4625000,Unfurnished,2,2,Connected,0,0,1,0,2250.0,Andhra Pradesh,Plot Area
+Vijayawada,Edupugallu,Residential,6825000,Unfurnished,2,2,Connected,0,0,1,0,3510.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,8601000,Unfurnished,2,2,Connected,0,0,1,0,4500.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,5200000,Unfurnished,2,2,Connected,0,0,1,1,1602.0,Andhra Pradesh,Built-up Area
+Vijayawada,Kankipadu,Residential,1909000,Unfurnished,2,2,Connected,0,0,1,0,1494.0,Andhra Pradesh,Plot Area
+Vijayawada,Gosala,Residential,7000000,Unfurnished,2,2,Connected,0,0,0,0,4500.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,4600000,Unfurnished,2,2,Connected,0,0,1,0,3150.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,8400000,Unfurnished,2,2,Connected,0,0,0,0,4500.0,Andhra Pradesh,Plot Area
+Vijayawada,Edupugallu,Residential,4375000,Unfurnished,2,2,Connected,0,0,1,0,2250.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,39500000,Unfurnished,2,2,Connected,0,0,1,0,16938.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,39400000,Unfurnished,2,2,Connected,0,0,0,0,1875.0,Andhra Pradesh,Plot Area
+Vijayawada,Nandigama,Residential,9411599,Unfurnished,2,2,Connected,0,0,0,0,2700.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,10200000,Unfurnished,2,2,Connected,0,0,1,0,5400.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,3000000,Unfurnished,2,2,Connected,0,0,1,0,1665.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,6000000,Unfurnished,2,2,Connected,0,0,1,1,1647.0,Andhra Pradesh,Built-up Area
+Vijayawada,Kankipadu,Residential,9411599,Unfurnished,2,2,Connected,0,0,0,0,16920.0,Andhra Pradesh,Plot Area
+Vijayawada,Edupugallu,Residential,6650000,Unfurnished,2,2,Connected,0,0,1,0,3420.0,Andhra Pradesh,Plot Area
+Vijayawada,Punadipadu,Residential,3885000,Unfurnished,2,2,Connected,0,0,1,0,1890.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,8500000,Unfurnished,2,2,Connected,0,0,0,0,4536.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,2900000,Unfurnished,2,2,Connected,0,0,1,0,1665.0,Andhra Pradesh,Plot Area
+Vijayawada,Gosala,Residential,8400000,Unfurnished,2,2,Connected,0,0,0,0,2160.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,9411599,Unfurnished,2,2,Connected,0,0,1,1,1647.0,Andhra Pradesh,Built-up Area
+Vijayawada,Kankipadu,Residential,8500000,Unfurnished,2,2,Connected,0,0,1,0,4527.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,11200000,Unfurnished,2,2,Connected,0,0,1,0,3150.0,Andhra Pradesh,Plot Area
+Vijayawada,Edupugallu,Residential,4900000,Unfurnished,2,2,Connected,0,0,0,0,2520.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,39400000,Unfurnished,2,2,Connected,0,0,1,0,16857.0,Andhra Pradesh,Plot Area
+Vijayawada,Mangalagiri,Residential,6007000,Unfurnished,2,2,Connected,0,0,1,0,1656.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,2450000,Unfurnished,2,2,Connected,0,0,0,0,1647.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,4900000,Unfurnished,2,2,Connected,0,0,1,1,1476.0,Andhra Pradesh,Built-up Area
+Vijayawada,Kankipadu,Residential,8600000,Unfurnished,2,2,Connected,0,0,0,0,4635.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,39500000,Unfurnished,2,2,Connected,0,0,0,0,16911.0,Andhra Pradesh,Plot Area
+Vijayawada,Vaddeswaram,Residential,4500000,Unfurnished,2,2,Connected,0,0,0,0,2700.0,Andhra Pradesh,Plot Area
+Vijayawada,Mangalagiri,Residential,7006000,Unfurnished,2,2,Connected,0,0,1,0,1800.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,9411599,Unfurnished,2,2,Connected,0,0,1,0,2295.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,8500000,Unfurnished,2,2,Connected,0,0,0,0,4455.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,39400000,Unfurnished,2,2,Connected,0,0,1,0,16893.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,6000000,Unfurnished,2,2,Connected,0,0,1,1,1683.0,Andhra Pradesh,Built-up Area
+Vijayawada,Kankipadu,Residential,2460000,Unfurnished,2,2,Connected,0,0,0,0,1476.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,5000000,Unfurnished,2,2,Connected,0,0,1,1,1467.0,Andhra Pradesh,Built-up Area
+Vijayawada,Nunna,Residential,1201000,Unfurnished,2,2,Connected,0,0,1,0,1350.0,Andhra Pradesh,Plot Area
+Vijayawada,Mangalagiri,Residential,7011000,Unfurnished,2,2,Connected,0,0,1,0,1800.0,Andhra Pradesh,Plot Area
+Vijayawada,Edupugallu,Residential,4725000,Unfurnished,2,2,Connected,0,0,1,0,2430.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,30900000,Unfurnished,2,2,Connected,0,0,1,0,16920.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,4160000,Unfurnished,2,2,Connected,0,0,0,0,3150.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,4160000,Unfurnished,2,2,Connected,0,0,0,0,3204.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,39500000,Unfurnished,2,2,Connected,0,0,0,0,16902.0,Andhra Pradesh,Plot Area
+Vijayawada,Ibrahimpatnam,Residential,5900000,Unfurnished,2,2,Connected,0,0,0,0,1575.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,39500000,Unfurnished,2,2,Connected,0,0,1,0,16965.0,Andhra Pradesh,Plot Area
+Vijayawada,Edupugallu,Residential,3500000,Unfurnished,2,2,Connected,0,0,1,0,1800.0,Andhra Pradesh,Plot Area
+Vijayawada,Punadipadu,Residential,5550000,Unfurnished,2,2,Connected,0,0,1,0,2700.0,Andhra Pradesh,Plot Area
+Vijayawada,Gosala,Residential,9860000,Unfurnished,2,2,Connected,0,0,0,0,2610.0,Andhra Pradesh,Plot Area
+Vijayawada,Nunna,Residential,1200000,Unfurnished,2,2,Connected,0,0,0,0,1350.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,2745000,Unfurnished,2,2,Connected,0,0,1,0,1647.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,8650000,Unfurnished,2,2,Connected,0,0,1,0,4500.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,5265000,Unfurnished,2,2,Connected,0,0,1,0,3159.0,Andhra Pradesh,Plot Area
+Vijayawada,Mangalagiri,Residential,9411599,Unfurnished,2,2,Connected,0,0,1,0,1665.0,Andhra Pradesh,Plot Area
+Vijayawada,Bandar Road,Residential,2745000,Unfurnished,2,2,Connected,0,0,0,0,1647.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,39400000,Unfurnished,2,2,Connected,0,0,0,0,1878.0,Andhra Pradesh,Plot Area
+Vijayawada,Punadipadu,Residential,6660000,Unfurnished,2,2,Connected,0,0,0,0,3240.0,Andhra Pradesh,Plot Area
+Vijayawada,Gosala,Residential,8575000,Unfurnished,2,2,Connected,0,0,0,0,2205.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,1920000,Unfurnished,2,2,Connected,0,0,1,0,1503.0,Andhra Pradesh,Plot Area
+Vijayawada,Guntur,Residential,2225000,Unfurnished,2,2,Connected,0,0,0,0,1359.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,5300000,Unfurnished,2,2,Connected,0,0,1,1,1665.0,Andhra Pradesh,Built-up Area
+Vijayawada,Mangalagiri,Residential,6475000,Unfurnished,2,2,Connected,0,0,1,0,1665.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,9411599,Unfurnished,2,2,Connected,0,0,0,0,1885.0,Andhra Pradesh,Plot Area
+Vijayawada,Gosala,Residential,2800000,Unfurnished,2,2,Connected,0,0,0,0,1800.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,1955000,Unfurnished,2,2,Connected,0,0,0,0,1530.0,Andhra Pradesh,Plot Area
+Vijayawada,Gosala,Residential,8840000,Unfurnished,2,2,Connected,0,0,0,0,2340.0,Andhra Pradesh,Plot Area
+Vijayawada,Vijayawada One Town,Residential,8320000,Unfurnished,2,2,Connected,0,0,1,0,2340.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,9411599,Unfurnished,2,2,Connected,0,0,1,1,1521.0,Andhra Pradesh,Built-up Area
+Vijayawada,Kankipadu,Residential,8505000,Unfurnished,2,2,Connected,0,0,1,0,4590.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,39400000,Unfurnished,2,2,Connected,0,0,0,0,1882.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,2175000,Unfurnished,2,2,Connected,0,0,0,0,1350.0,Andhra Pradesh,Plot Area
+Vijayawada,Gosala,Residential,4900000,Unfurnished,2,2,Connected,0,0,0,0,3150.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,9000000,Unfurnished,2,2,Connected,0,0,0,0,5400.0,Andhra Pradesh,Plot Area
+Vijayawada,Mangalagiri,Residential,7175000,Unfurnished,2,2,Connected,0,0,1,0,1845.0,Andhra Pradesh,Plot Area
+Vijayawada,Kunchanapalli,Residential,7840000,Unfurnished,2,2,Connected,0,0,0,0,2520.0,Andhra Pradesh,Plot Area
+Vijayawada,Mangalagiri,Residential,700000000,Unfurnished,2,2,Connected,0,0,1,0,1800.0,Andhra Pradesh,Plot Area
+Vijayawada,Edupugallu,Residential,4025000,Unfurnished,2,2,Connected,0,0,0,0,2070.0,Andhra Pradesh,Plot Area
+Vijayawada,Ibrahimpatnam,Residential,5800000,Unfurnished,2,2,Connected,0,0,0,0,1395.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,2600000,Unfurnished,2,2,Connected,0,0,0,0,1656.0,Andhra Pradesh,Plot Area
+Vijayawada,Gosala,Residential,2490000,Unfurnished,2,2,Connected,0,0,1,0,1494.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,39500000,Unfurnished,2,2,Connected,0,0,1,0,16920.0,Andhra Pradesh,Plot Area
+Vijayawada,Jayaprakash Nagar,Residential,9411599,Unfurnished,2,2,Connected,0,0,0,0,1854.0,Andhra Pradesh,Plot Area
+Vijayawada,Mangalagiri,Residential,6000000,Unfurnished,2,2,Connected,0,0,0,0,1665.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,6004000,Unfurnished,2,2,Connected,0,0,1,1,1665.0,Andhra Pradesh,Built-up Area
+Vijayawada,Kankipadu,Residential,9411599,Unfurnished,2,2,Connected,0,0,0,0,16920.0,Andhra Pradesh,undefined
+Vijayawada,Vijayawada One Town,Residential,10800000,Unfurnished,2,2,Connected,0,0,0,0,3060.0,Andhra Pradesh,Plot Area
+Vijayawada,Kunchanapalli,Residential,7560000,Unfurnished,2,2,Connected,0,0,0,0,2430.0,Andhra Pradesh,Plot Area
+Vijayawada,Gannavaram,Residential,9411599,Unfurnished,2,2,Connected,0,0,0,0,4356.0,Andhra Pradesh,Plot Area
+Vijayawada,Nunna,Residential,9411599,Unfurnished,2,2,Connected,0,0,0,0,900.0,Andhra Pradesh,Plot Area
+Vijayawada,Ibrahimpatnam,Residential,5900000,Unfurnished,2,2,Connected,0,0,0,0,1602.0,Andhra Pradesh,Plot Area
+Vijayawada,Bandar Road,Residential,2800000,Unfurnished,2,2,Connected,0,0,0,0,324.0,Andhra Pradesh,Plot Area
+Vijayawada,Mustabada,Residential,6000000,Semi-Furnished,2,2,Connected,0,0,0,3,1109.0,Andhra Pradesh,Built-up Area
+Vijayawada,Kunchanapalli,Residential,7011000,Unfurnished,2,2,Connected,0,0,0,0,2214.0,Andhra Pradesh,Plot Area
+Vijayawada,Bandar Road,Residential,2800000,Unfurnished,2,2,Connected,0,0,0,0,321.0,Andhra Pradesh,Plot Area
+Vijayawada,Venkateswara Nagar,Residential,9411599,Unfurnished,2,2,Connected,0,0,0,0,1890.0,Andhra Pradesh,Plot Area
+Vijayawada,Mustabada,Residential,12500000,Furnished,3,2,Individual,0,0,0,3,1389.0,Andhra Pradesh,Built-up Area
+Vijayawada,Punadipadu,Residential,6845000,Unfurnished,2,2,Connected,0,0,0,0,3330.0,Andhra Pradesh,Plot Area
+Vijayawada,Vijayawada One Town,Residential,11500000,Unfurnished,2,2,Connected,0,0,0,0,3240.0,Andhra Pradesh,Plot Area
+Vijayawada,Jayaprakash Nagar,Residential,9411599,Unfurnished,2,2,Connected,0,0,0,0,1800.0,Andhra Pradesh,Plot Area
+Vijayawada,Nandigama,Residential,9411599,Unfurnished,2,2,Connected,0,0,0,0,1800.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,5501000,Unfurnished,2,2,Connected,0,0,1,1,1494.0,Andhra Pradesh,Built-up Area
+Vijayawada,Ibrahimpatnam,Residential,5700000,Unfurnished,2,2,Connected,0,0,0,0,1368.0,Andhra Pradesh,Plot Area
+Vijayawada,Edupugallu,Residential,7000000,Unfurnished,2,2,Connected,0,0,0,0,3600.0,Andhra Pradesh,Plot Area
+Vijayawada,Gosala,Residential,3300000,Unfurnished,2,2,Connected,0,0,1,0,1980.0,Andhra Pradesh,Plot Area
+Vijayawada,Nunna,Residential,1600000,Unfurnished,2,2,Connected,0,0,1,0,1809.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,3300000,Unfurnished,2,2,Connected,0,0,1,0,2295.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,2500000,Unfurnished,2,2,Connected,0,0,1,0,1665.0,Andhra Pradesh,Plot Area
+Vijayawada,Vijayawada One Town,Residential,699000,Unfurnished,2,2,Connected,0,0,0,0,2034.0,Andhra Pradesh,Plot Area
+Vijayawada,Vijayawada One Town,Residential,8640000,Unfurnished,2,2,Connected,0,0,0,0,2430.0,Andhra Pradesh,Plot Area
+Vijayawada,Jupudi,Residential,3270000,Unfurnished,2,2,Connected,0,0,0,0,1962.0,Andhra Pradesh,Plot Area
+Vijayawada,Jayaprakash Nagar,Residential,9411599,Unfurnished,2,2,Connected,0,0,0,0,1863.0,Andhra Pradesh,Plot Area
+Vijayawada,Edupugallu,Residential,6650000,Unfurnished,2,2,Connected,0,0,0,0,3420.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,4900000,Unfurnished,2,2,Connected,0,0,1,1,1512.0,Andhra Pradesh,Built-up Area
+Vijayawada,Mutyalammapadu,Residential,1500000,Unfurnished,2,2,Connected,0,0,0,0,900.0,Andhra Pradesh,Plot Area
+Vijayawada,Vijayawada One Town,Residential,9411599,Unfurnished,2,2,Connected,0,0,0,0,900.0,Andhra Pradesh,Plot Area
+Vijayawada,Bandar Road,Residential,2800000,Unfurnished,2,2,Connected,0,0,0,0,323.0,Andhra Pradesh,Plot Area
+Vijayawada,Gosala,Residential,8840000,Unfurnished,2,2,Connected,0,0,1,0,2340.0,Andhra Pradesh,Plot Area
+Vijayawada,Gosala,Residential,8400000,Unfurnished,2,2,Connected,1,1,1,0,2160.0,Andhra Pradesh,Plot Area
+Vijayawada,Edupugallu,Residential,7000000,Unfurnished,2,2,Connected,0,0,1,0,3600.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,6000000,Unfurnished,2,2,Room-attached,0,0,1,1,1683.0,Andhra Pradesh,Built-up Area
+Vijayawada,Kankipadu,Residential,1992000,Unfurnished,2,2,Connected,0,0,1,0,1494.0,Andhra Pradesh,Plot Area
+Vijayawada,Surampalli,Residential,1750000,Unfurnished,2,2,Connected,0,0,0,0,1000.0,Andhra Pradesh,Plot Area
+Vijayawada,Edupugallu,Residential,5950000,Unfurnished,2,2,Connected,0,0,1,0,3060.0,Andhra Pradesh,Plot Area
+Vijayawada,Gosala,Residential,6615000,Unfurnished,2,2,Connected,0,0,0,0,2430.0,Andhra Pradesh,Plot Area
+Vijayawada,Vijayawada One Town,Residential,7360000,Unfurnished,2,2,Connected,0,0,1,0,2070.0,Andhra Pradesh,Plot Area
+Vijayawada,Kunchanapalli,Residential,7560000,Unfurnished,2,2,Connected,0,0,1,0,2430.0,Andhra Pradesh,Plot Area
+Vijayawada,Mangalagiri,Residential,9411599,Unfurnished,2,2,Connected,0,0,1,0,1800.0,Andhra Pradesh,Plot Area
+Vijayawada,Bhavanipuram,Residential,55800000,Unfurnished,2,2,Connected,0,0,1,0,5580.0,Andhra Pradesh,Plot Area
+Vijayawada,Governorpet,Residential,1700000,Unfurnished,2,2,Connected,0,0,0,0,963.0,Andhra Pradesh,Plot Area
+Vijayawada,Bhavanipuram,Residential,61200000,Unfurnished,2,2,Connected,0,0,1,0,6120.0,Andhra Pradesh,Plot Area
+Vijayawada,Mustabada,Residential,9500000,Semi-Furnished,3,2,Individual,0,0,0,3,1245.0,Andhra Pradesh,Built-up Area
+Vijayawada,Mylavaram,Residential,501000,Unfurnished,2,2,Connected,0,0,0,0,945.0,Andhra Pradesh,Plot Area
+Vijayawada,Mylavaram,Residential,600000,Unfurnished,2,2,Connected,0,0,0,0,900.0,Andhra Pradesh,Plot Area
+Vijayawada,Kunchanapalli,Residential,6748000,Unfurnished,2,2,Connected,0,0,0,0,2169.0,Andhra Pradesh,Plot Area
+Vijayawada,Venkateswara Nagar,Residential,9411599,Unfurnished,2,2,Connected,0,0,0,0,900.0,Andhra Pradesh,Plot Area
+Vijayawada,Nandigama,Residential,700000,Unfurnished,2,2,Connected,0,0,0,0,1845.0,Andhra Pradesh,Plot Area
+Vijayawada,Ibrahimpatnam,Residential,5900000,Unfurnished,2,2,Connected,0,0,0,0,1611.0,Andhra Pradesh,Plot Area
+Vijayawada,Ajit Singh Nagar,Residential,5000000,Unfurnished,2,2,Connected,0,1,0,0,1350.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,4800000,Unfurnished,2,2,Room-attached,0,0,1,1,1503.0,Andhra Pradesh,Built-up Area
+Vijayawada,Vijayawada One Town,Residential,9280000,Unfurnished,2,2,Connected,0,0,0,0,2610.0,Andhra Pradesh,Plot Area
+Vijayawada,Edupugallu,Residential,4900000,Unfurnished,2,2,Connected,0,0,1,0,2520.0,Andhra Pradesh,Plot Area
+Vijayawada,Nh 16,Residential,3600000,Unfurnished,2,2,Connected,0,0,1,0,1800.0,Andhra Pradesh,Plot Area
+Vijayawada,Nandigama,Residential,700000,Unfurnished,2,2,Connected,0,0,0,0,1827.0,Andhra Pradesh,Plot Area
+Vijayawada,Bandar Road,Residential,3500000,Unfurnished,2,2,Connected,0,0,0,0,225.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,4338000,Unfurnished,2,2,Connected,0,0,0,0,2169.0,Andhra Pradesh,Plot Area
+Vijayawada,Punadipadu,Residential,5920000,Unfurnished,2,2,Connected,0,0,1,0,2880.0,Andhra Pradesh,Plot Area
+Vijayawada,Gosala,Residential,7105000,Unfurnished,2,2,Connected,0,0,0,0,2610.0,Andhra Pradesh,Plot Area
+Vijayawada,Guntur,Commercial,0,Unfurnished,0,0,Connected,0,0,0,7,2070.0,Andhra Pradesh,Saleable Area
+Vijayawada,Mustabada,Residential,9500000,Semi-Furnished,3,2,Individual,0,0,0,3,1308.0,Andhra Pradesh,Built-up Area
+Vijayawada,Vijayawada One Town,Residential,5499000,Unfurnished,2,2,Connected,1,1,0,0,1800.0,Andhra Pradesh,Plot Area
+Vijayawada,Bhavanipuram,Residential,63000000,Unfurnished,2,2,Connected,0,0,0,0,6300.0,Andhra Pradesh,Plot Area
+Vijayawada,Governorpet,Residential,1700000,Unfurnished,2,2,Connected,0,0,0,0,1170.0,Andhra Pradesh,Plot Area
+Vijayawada,Ibrahimpatnam,Residential,5800000,Unfurnished,2,2,Connected,0,0,0,0,1530.0,Andhra Pradesh,Plot Area
+Vijayawada,Gudavalli,Residential,3392000,Unfurnished,2,2,Connected,0,1,1,0,1908.0,Andhra Pradesh,Plot Area
+Vijayawada,Nunna,Residential,3030000,Unfurnished,2,2,Connected,0,0,0,0,1242.0,Andhra Pradesh,Plot Area
+Vijayawada,Bhavanipuram,Residential,67500000,Unfurnished,2,2,Connected,0,0,1,0,6750.0,Andhra Pradesh,Plot Area
+Vijayawada,Vijayawada One Town,Residential,1897000,Unfurnished,2,2,Connected,0,0,1,0,1485.0,Andhra Pradesh,Plot Area
+Vijayawada,Ganguru,Residential,2520000,Unfurnished,2,2,Connected,0,0,0,0,1512.0,Andhra Pradesh,Plot Area
+Vijayawada,Durgapuram,Residential,9411599,Unfurnished,2,2,Connected,0,0,0,0,2691.0,Andhra Pradesh,Plot Area
+Vijayawada,Kunchanapalli,Residential,9800000,Unfurnished,2,2,Connected,0,0,1,0,3150.0,Andhra Pradesh,Plot Area
+Vijayawada,Ganguru,Residential,2520000,Unfurnished,2,2,Connected,0,0,1,0,1512.0,Andhra Pradesh,Plot Area
+Vijayawada,Penamaluru,Residential,9411599,Unfurnished,2,2,Connected,0,0,0,0,2016.0,Andhra Pradesh,Plot Area
+Vijayawada,V D Puram,Residential,8640000,Unfurnished,2,2,Connected,0,0,0,0,2430.0,Andhra Pradesh,Plot Area
+Vijayawada,Madhura Nagar,Residential,5800000,Unfurnished,2,2,Connected,0,0,0,0,1125.0,Andhra Pradesh,Plot Area
+Vijayawada,Ganguru,Residential,2535000,Unfurnished,2,2,Connected,0,0,0,0,1521.0,Andhra Pradesh,Plot Area
+Vijayawada,Gannavaram,Residential,3000000,Unfurnished,2,2,Connected,0,0,0,0,1800.0,Andhra Pradesh,Plot Area
+Vijayawada,Edupugallu,Residential,3300000,Unfurnished,2,2,Connected,0,0,0,0,1800.0,Andhra Pradesh,Plot Area
+Vijayawada,Bhavanipuram,Residential,59400000,Unfurnished,2,2,Connected,0,0,1,0,5940.0,Andhra Pradesh,Plot Area
+Vijayawada,Bandar Road,Residential,3000000,Unfurnished,2,2,Connected,0,0,0,0,1800.0,Andhra Pradesh,Plot Area
+Vijayawada,Mylavaram,Residential,599000,Unfurnished,2,2,Connected,0,0,0,0,945.0,Andhra Pradesh,Plot Area
+Vijayawada,Penamaluru,Residential,2100000,Unfurnished,2,2,Connected,0,0,0,0,900.0,Andhra Pradesh,Plot Area
+Vijayawada,New Rajarajeswari Peta,Residential,14900000,Unfurnished,2,2,Connected,0,0,0,0,3735.0,Andhra Pradesh,Plot Area
+Vijayawada,Vaddeswaram,Residential,88800000,Unfurnished,2,2,Connected,0,0,1,0,35550.0,Andhra Pradesh,Plot Area
+Vijayawada,Ayyappa Nagar,Residential,2880000,Unfurnished,2,2,Connected,0,0,0,0,1440.0,Andhra Pradesh,Plot Area
+Vijayawada,Mangalagiri,Residential,6405000,Unfurnished,2,2,Connected,0,0,0,0,1647.0,Andhra Pradesh,Plot Area
+Vijayawada,Kunchanapalli,Residential,17000000,Unfurnished,2,2,Connected,0,0,0,0,5580.0,Andhra Pradesh,Plot Area
+Vijayawada,Ibrahimpatnam,Residential,6099000,Unfurnished,2,2,Connected,0,0,0,0,1800.0,Andhra Pradesh,Plot Area
+Vijayawada,Mustabada,Residential,5400000,Semi-Furnished,2,2,Individual,0,0,0,1,1050.0,Andhra Pradesh,Built-up Area
+Vijayawada,Bhavanipuram,Residential,57600000,Unfurnished,2,2,Connected,0,0,0,0,5760.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,1450000,Unfurnished,2,2,Connected,1,0,1,0,1440.0,Andhra Pradesh,Plot Area
+Vijayawada,Vuyyuru,Residential,2600000,Unfurnished,2,2,Connected,0,0,0,0,1800.0,Andhra Pradesh,Plot Area
+Vijayawada,Ganguru,Residential,3660000,Unfurnished,2,2,Connected,1,0,1,0,1647.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,750000,Unfurnished,2,2,Connected,1,1,1,0,1350.0,Andhra Pradesh,Plot Area
+Vijayawada,Jayaprakash Nagar,Residential,700000,Unfurnished,2,2,Connected,0,0,0,0,1872.0,Andhra Pradesh,Plot Area
+Vijayawada,Kunchanapalli,Residential,10000000,Unfurnished,2,2,Connected,0,0,0,0,3240.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,3675000,Unfurnished,2,2,Connected,0,0,0,0,1890.0,Andhra Pradesh,Plot Area
+Vijayawada,Ramachandra Nagar,Residential,6475000,Unfurnished,2,2,Connected,0,0,0,0,1665.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,2250000,Unfurnished,2,2,Connected,1,1,1,0,1350.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,1349000,Unfurnished,2,2,Connected,0,0,0,0,1350.0,Andhra Pradesh,Plot Area
+Vijayawada,Gudavalli,Residential,3500000,Unfurnished,2,2,Connected,0,0,0,0,1908.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,6222000,Unfurnished,2,2,Connected,0,0,0,0,1647.0,Andhra Pradesh,Plot Area
+Vijayawada,Payakkapuram,Residential,7040000,Unfurnished,2,2,Connected,0,0,1,0,1980.0,Andhra Pradesh,Plot Area
+Vijayawada,Vijayawada One Town,Residential,5600000,Unfurnished,2,2,Connected,0,0,0,0,1503.0,Andhra Pradesh,Plot Area
+Vijayawada,Punadipadu,Residential,3100000,Unfurnished,2,2,Connected,0,0,0,0,1800.0,Andhra Pradesh,Plot Area
+Vijayawada,Kesarapalli,Residential,4350000,Unfurnished,2,2,Connected,0,0,0,0,1647.0,Andhra Pradesh,Plot Area
+Vijayawada,Punadipadu,Residential,5752000,Unfurnished,2,2,Connected,0,0,1,0,2655.0,Andhra Pradesh,Plot Area
+Vijayawada,Gollapudi,Residential,5280000,Unfurnished,2,2,Connected,0,0,0,0,1980.0,Andhra Pradesh,Plot Area
+Vijayawada,Agiripalli,Residential,2100000,Unfurnished,2,2,Connected,0,0,0,0,945.0,Andhra Pradesh,Plot Area
+Vijayawada,Gosala,Residential,9000000,Unfurnished,2,2,Individual,1,1,1,1,1420.0,Andhra Pradesh,Built-up Area
+Vijayawada,Jayaprakash Nagar,Residential,1200000,Unfurnished,2,2,Connected,0,0,0,0,3600.0,Andhra Pradesh,Plot Area
+Vijayawada,Gannavaram,Residential,3173000,Unfurnished,2,2,Connected,1,1,1,0,1503.0,Andhra Pradesh,Plot Area
+Vijayawada,Ajit Singh Nagar,Residential,4700000,Unfurnished,2,2,Connected,0,0,0,0,1197.0,Andhra Pradesh,Plot Area
+Vijayawada,Gosala,Residential,5500000,Unfurnished,2,2,Individual,0,0,1,1,1494.0,Andhra Pradesh,Built-up Area
+Vijayawada,Ibrahimpatnam,Residential,15000000,Unfurnished,2,2,Connected,0,0,0,0,4500.0,Andhra Pradesh,Plot Area
+Vijayawada,Ayyappa Nagar,Residential,9411599,Unfurnished,2,2,Connected,0,0,1,0,1800.0,Andhra Pradesh,Plot Area
+Vijayawada,Ayyappa Nagar,Residential,3200000,Unfurnished,2,2,Connected,0,0,0,0,1440.0,Andhra Pradesh,Plot Area
+Vijayawada,Vijayawada One Town,Residential,3660000,Unfurnished,2,2,Connected,0,1,1,0,1647.0,Andhra Pradesh,Plot Area
+Vijayawada,Surampalli,Residential,550000,Unfurnished,2,2,Connected,0,0,0,0,100.0,Andhra Pradesh,Plot Area
+Vijayawada,Damera Nagar,Residential,6500000,Unfurnished,4,4,Individual,0,1,0,1,1500.0,Andhra Pradesh,Built-up Area
+Vijayawada,Nunna,Residential,7620000,Unfurnished,2,2,Connected,1,1,1,0,2286.0,Andhra Pradesh,Plot Area
+Vijayawada,Ganguru,Residential,3660000,Unfurnished,2,2,Connected,1,1,1,0,1647.0,Andhra Pradesh,Plot Area
+Vijayawada,Ajit Singh Nagar,Residential,6450000,Unfurnished,2,2,Connected,0,0,0,0,1935.0,Andhra Pradesh,Plot Area
+Vijayawada,Kanchikacherla,Residential,8000000,Unfurnished,2,2,Connected,0,0,1,0,2250.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,1799000,Unfurnished,2,2,Connected,0,0,1,0,1350.0,Andhra Pradesh,Plot Area
+Vijayawada,Kanchikacherla,Residential,8960000,Unfurnished,2,2,Connected,0,0,1,0,2520.0,Andhra Pradesh,Plot Area
+Vijayawada,Ajit Singh Nagar,Residential,6039000,Unfurnished,2,2,Connected,1,1,1,0,1647.0,Andhra Pradesh,Plot Area
+Vijayawada,Gudavalli,Residential,4180000,Unfurnished,2,2,Connected,0,0,0,0,1980.0,Andhra Pradesh,Plot Area
+Vijayawada,Nh 16,Residential,3660000,Unfurnished,2,2,Connected,0,1,1,0,1647.0,Andhra Pradesh,Plot Area
+Vijayawada,Vijayawada One Town,Residential,6000000,Unfurnished,2,2,Connected,0,0,0,0,1800.0,Andhra Pradesh,Plot Area
+Vijayawada,Edupugallu,Residential,3465000,Unfurnished,2,2,Connected,0,0,1,0,1890.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,2925000,Unfurnished,2,2,Connected,0,0,0,0,1647.0,Andhra Pradesh,Plot Area
+Vijayawada,Poranki,Residential,6160000,Unfurnished,2,2,Connected,0,0,1,0,2520.0,Andhra Pradesh,Plot Area
+Vijayawada,Poranki,Residential,5940000,Unfurnished,2,2,Connected,0,0,0,0,2430.0,Andhra Pradesh,Plot Area
+Vijayawada,Poranki,Residential,5280000,Unfurnished,2,2,Connected,0,0,1,0,2160.0,Andhra Pradesh,Plot Area
+Vijayawada,Ganguru,Residential,3020000,Unfurnished,2,2,Connected,1,1,1,0,1359.0,Andhra Pradesh,Plot Area
+Vijayawada,Poranki,Residential,5720000,Unfurnished,2,2,Connected,0,0,1,0,2340.0,Andhra Pradesh,Plot Area
+Vijayawada,Edupugallu,Residential,4350000,Unfurnished,2,2,Connected,0,0,0,0,1647.0,Andhra Pradesh,Plot Area
+Vijayawada,Vaddeswaram,Residential,84000000,Unfurnished,2,2,Connected,0,0,1,0,36000.0,Andhra Pradesh,Plot Area
+Vijayawada,Tadepalli,Residential,9000000,Unfurnished,3,3,Connected,1,1,1,1,1680.0,Andhra Pradesh,Built-up Area
+Vijayawada,Gosala,Residential,9000000,Unfurnished,2,2,Room-attached,1,1,1,1,207.0,Andhra Pradesh,Built-up Area
+Vijayawada,Ganguru,Residential,7500000,Unfurnished,2,2,Connected,0,0,0,0,2700.0,Andhra Pradesh,Plot Area
+Vijayawada,Agiripalli,Residential,3200000,Unfurnished,2,2,Connected,0,0,0,0,200.0,Andhra Pradesh,Plot Area
+Vijayawada,Kunchanapalli,Residential,9520000,Unfurnished,2,2,Connected,0,0,1,0,3060.0,Andhra Pradesh,Plot Area
+Vijayawada,Mangalagiri,Residential,6200000,Unfurnished,2,2,Connected,0,0,0,0,2601.0,Andhra Pradesh,Plot Area
+Vijayawada,Gudavalli,Residential,3360000,Unfurnished,2,2,Connected,0,0,0,0,1512.0,Andhra Pradesh,Plot Area
+Vijayawada,Nunna,Residential,7840000,Unfurnished,2,2,Connected,1,1,1,0,2205.0,Andhra Pradesh,Plot Area
+Vijayawada,Kanchikacherla,Residential,10800000,Unfurnished,2,2,Connected,0,0,0,0,3060.0,Andhra Pradesh,Plot Area
+Vijayawada,Vijayawada One Town,Residential,2421000,Unfurnished,2,2,Connected,0,0,0,0,1503.0,Andhra Pradesh,Plot Area
+Vijayawada,Penamaluru,Residential,4200000,Unfurnished,2,2,Connected,1,1,1,0,1800.0,Andhra Pradesh,Plot Area
+Vijayawada,Bhavanipuram,Residential,68400000,Unfurnished,2,2,Connected,0,0,0,0,6480.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,798000,Unfurnished,2,2,Connected,0,0,0,0,1197.0,Andhra Pradesh,Plot Area
+Vijayawada,Kunchanapalli,Residential,5900000,Unfurnished,2,2,Connected,0,0,0,0,1800.0,Andhra Pradesh,Plot Area
+Vijayawada,Ajit Singh Nagar,Residential,7920000,Unfurnished,2,2,Connected,1,0,1,0,2160.0,Andhra Pradesh,Plot Area
+Vijayawada,Guntur,Commercial,0,Unfurnished,0,0,Connected,0,0,0,3,1000.0,Andhra Pradesh,Built-up Area
+Vijayawada,Ramachandra Nagar,Residential,5400000,Semi-Furnished,2,2,Individual,0,0,0,1,1050.0,Andhra Pradesh,Built-up Area
+Vijayawada,Kankipadu,Residential,1650000,Unfurnished,2,2,Connected,0,0,1,0,1350.0,Andhra Pradesh,Plot Area
+Vijayawada,Veterinary Colony,Residential,4500000,Unfurnished,2,2,Connected,0,0,0,0,5400.0,Andhra Pradesh,Plot Area
+Vijayawada,Gannavaram,Residential,2500000,Unfurnished,2,2,Connected,0,0,1,0,1800.0,Andhra Pradesh,Plot Area
+Vijayawada,Jayaprakash Nagar,Residential,1800000,Unfurnished,2,2,Connected,0,0,0,0,5400.0,Andhra Pradesh,Plot Area
+Vijayawada,Poranki,Residential,15600000,Unfurnished,3,3,Connected,1,0,1,1,2780.0,Andhra Pradesh,Built-up Area
+Vijayawada,Mustabada,Residential,7900000,Semi-Furnished,5,3,Connected,0,0,0,2,1440.0,Andhra Pradesh,Built-up Area
+Vijayawada,Gudavalli,Residential,3000000,Unfurnished,2,2,Connected,0,0,0,0,1800.0,Andhra Pradesh,Plot Area
+Vijayawada,Kanchikacherla,Residential,9920000,Unfurnished,2,2,Connected,0,0,1,0,2790.0,Andhra Pradesh,Plot Area
+Vijayawada,Ajit Singh Nagar,Residential,6000000,Unfurnished,2,2,Connected,1,1,1,0,1800.0,Andhra Pradesh,Plot Area
+Vijayawada,Tadigadapa,Residential,15000000,Unfurnished,4,4,Individual,0,0,0,2,2200.0,Andhra Pradesh,Built-up Area
+Vijayawada,Penamaluru,Residential,3800000,Unfurnished,2,2,Connected,0,0,1,0,1800.0,Andhra Pradesh,Plot Area
+Vijayawada,Mangalagiri,Commercial,0,Unfurnished,0,0,Room-attached,0,0,0,1,500.0,Andhra Pradesh,Built-up Area
+Vijayawada,Gosala,Residential,5700000,Semi-Furnished,3,3,"Individual,Room-attached",0,0,0,2,1600.0,Andhra Pradesh,Built-up Area
+Vijayawada,Kankipadu,Residential,1939000,Unfurnished,2,2,Connected,0,0,0,0,1800.0,Andhra Pradesh,Plot Area
+Vijayawada,Ajit Singh Nagar,Residential,6000000,Unfurnished,2,2,Connected,0,0,1,0,1800.0,Andhra Pradesh,Plot Area
+Vijayawada,Telaprolu,Residential,3800000,Unfurnished,2,2,Connected,1,1,1,0,2610.0,Andhra Pradesh,Plot Area
+Vijayawada,Kankipadu,Residential,4800000,Unfurnished,2,2,Room-attached,0,0,1,1,1530.0,Andhra Pradesh,Built-up Area
+Vijayawada,Tadigadapa,Residential,12900000,Unfurnished,4,4,Individual,0,0,0,2,2200.0,Andhra Pradesh,Built-up Area
+Vijayawada,Sri Ramachandra Nagar,Residential,21300000,Unfurnished,4,4,Connected,0,0,0,2,2475.0,Andhra Pradesh,Saleable Area
+Vijayawada,Bavajipet,Residential,57600000,Unfurnished,2,2,Connected,0,0,1,0,5760.0,Andhra Pradesh,Plot Area
+Vijayawada,Gunadala,Residential,8365000,Unfurnished,2,2,Connected,0,0,0,0,2151.0,Andhra Pradesh,Plot Area
+Vijayawada,Ajit Singh Nagar,Residential,6700000,Unfurnished,2,2,Connected,0,0,0,0,2007.0,Andhra Pradesh,Plot Area
+Vijayawada,Tadepalli,Residential,4500000,Unfurnished,2,2,Connected,0,0,0,0,1350.0,Andhra Pradesh,Plot Area
+Vijayawada,Kunchanapalli,Residential,4620000,Unfurnished,2,2,Connected,0,0,1,0,1512.0,Andhra Pradesh,Plot Area
+Vijayawada,Kunchanapalli,Residential,4537000,Unfurnished,2,2,Connected,0,0,0,0,1485.0,Andhra Pradesh,Plot Area
+Vijayawada,Gosala,Residential,14500000,Unfurnished,3,3,Room-attached,1,1,1,2,2169.0,Andhra Pradesh,Built-up Area
+Vijayawada,Kankipadu,Residential,4800000,Unfurnished,2,2,Room-attached,0,0,1,1,1494.0,Andhra Pradesh,Built-up Area
+Vijayawada,Nunna,Residential,13000000,Unfurnished,3,3,Connected,0,1,0,2,2600.0,Andhra Pradesh,Built-up Area
+Vijayawada,Bandar Road,Residential,3660000,Unfurnished,2,2,Connected,0,0,1,0,1647.0,Andhra Pradesh,Plot Area
+Vijayawada,Yenamalakuduru Lanka,Residential,7800000,Furnished,3,3,Individual,0,0,0,3,1700.0,Andhra Pradesh,Built-up Area
+Vijayawada,Agiripalli,Residential,798000,Unfurnished,2,2,Connected,0,0,0,0,1197.0,Andhra Pradesh,Plot Area
+Vijayawada,Kanchikacherla,Commercial,0,Unfurnished,0,0,No Balcony,0,0,0,0,9576.0,Andhra Pradesh,Plot Area
+Vijayawada,Kanchikacherla,Residential,6030000,Unfurnished,2,2,Connected,0,0,0,0,1809.0,Andhra Pradesh,Plot Area
+Vijayawada,Gollapudi,Residential,9500000,Unfurnished,2,2,Connected,0,0,0,0,1593.0,Andhra Pradesh,Plot Area
+Vijayawada,Ashok Nagar,Residential,4000000,Furnished,2,2,Connected,0,0,0,1,818.0,Andhra Pradesh,Built-up Area
+Vijayawada,Bhavanipuram,Residential,70500000,Unfurnished,2,2,Connected,0,0,1,0,6480.0,Andhra Pradesh,Plot Area
+Vijayawada,Moghalrajpuram,Residential,19000000,Unfurnished,6,5,Connected,0,0,0,1,1150.0,Andhra Pradesh,Built-up Area
+Vijayawada,Arundelpet,Residential,2500000,Unfurnished,1,2,Connected,0,0,0,0,950.0,Andhra Pradesh,Built-up Area
+Vijayawada,Patamata,Residential,14900000,Semi-Furnished,3,3,Connected,0,0,0,1,2403.0,Andhra Pradesh,Saleable Area
+Vijayawada,Mutyalammapadu,Residential,9411599,Semi-Furnished,3,3,Individual,0,0,0,1,1400.0,Andhra Pradesh,Built-up Area
+Vijayawada,Kesarapalli,Residential,7500000,Furnished,2,2,Connected,0,0,0,4,1250.0,Andhra Pradesh,Built-up Area
+Vijayawada,Kesarapalli,Residential,4499000,Unfurnished,2,2,Room-attached,1,1,1,2,1266.0,Andhra Pradesh,Saleable Area
+Vijayawada,Kanuru,Residential,5400000,Unfurnished,2,2,Connected,0,0,0,0,1800.0,Andhra Pradesh,Plot Area

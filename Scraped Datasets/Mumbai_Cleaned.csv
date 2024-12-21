@@ -1,0 +1,829 @@
+City,Locality,Property Type,Price,Furnishing Status,Number of Rooms,Number of Bathroom,Balcony,Clubhouse,Swimming Pool,"""Kids Play Areas""",Parking,Area (Sq.Ft.),State,Area Type
+Mumbai,Worli,Residential,90000000,Semi-Furnished,2,2,Connected,0,0,0,3,1471.0,Maharashtra,Carpet Area
+Mumbai,Mahim,Residential,33500000,Unfurnished,2,2,Connected,1,1,1,1,857.0,Maharashtra,Carpet Area
+Mumbai,Dahisar East,Residential,8500000,Unfurnished,2,2,Individual,1,1,1,2,517.0,Maharashtra,Carpet Area
+Mumbai,Khatau Estate,Residential,26500000,Semi-Furnished,3,3,Connected,0,0,0,1,1110.0,Maharashtra,Built-up Area
+Mumbai,Borivali East,Residential,16200000,Unfurnished,2,2,Individual,1,0,0,1,644.0,Maharashtra,Carpet Area
+Mumbai,Dahisar East,Residential,9400000,Unfurnished,1,2,Connected,0,0,1,0,400.0,Maharashtra,Carpet Area
+Mumbai,Bhayandar East,Residential,10500000,Unfurnished,2,2,Room-attached,0,0,1,1,900.0,Maharashtra,Carpet Area
+Mumbai,Khar West,Residential,66000000,Furnished,2,3,Connected,0,0,0,5,1100.0,Maharashtra,Built-up Area
+Mumbai,Dhakoji Sethpada,Residential,22500000,Semi-Furnished,2,3,Connected,0,0,0,3,800.0,Maharashtra,Built-up Area
+Mumbai,Goregaon West,Residential,27500000,Semi-Furnished,2,2,Connected,0,0,0,3,545.0,Maharashtra,Built-up Area
+Mumbai,Malad East,Commercial,0,Furnished,0,0,No Balcony,0,0,0,0,1600.0,Maharashtra,Carpet Area
+Mumbai,Linking Road,Residential,120000000,Unfurnished,4,4,Connected,0,0,1,2,2300.0,Maharashtra,Carpet Area
+Mumbai,Prabhadevi,Residential,55000000,Semi-Furnished,4,4,Room-attached,0,0,0,2,1100.0,Maharashtra,Built-up Area
+Mumbai,Mira Road,Residential,6000000,Unfurnished,1,1,Room-attached,0,0,0,1,360.0,Maharashtra,Carpet Area
+Mumbai,Borivali East,Residential,35000000,Unfurnished,2,3,Individual,1,1,1,1,1006.0,Maharashtra,Carpet Area
+Mumbai,Naigaon East,Residential,4975000,Unfurnished,2,1,Individual,0,1,1,2,585.0,Maharashtra,Carpet Area
+Mumbai,Borivali East,Residential,17800000,Unfurnished,2,2,Individual,0,0,0,2,636.0,Maharashtra,Carpet Area
+Mumbai,Pali Hill,Residential,450000000,Semi-Furnished,5,5,Connected,0,0,0,7,4000.0,Maharashtra,Built-up Area
+Mumbai,Prabhadevi,Residential,47500000,Furnished,2,3,Connected,0,0,0,1,1035.0,Maharashtra,Carpet Area
+Mumbai,Prabhadevi,Residential,50000000,Semi-Furnished,2,3,Connected,0,0,0,2,950.0,Maharashtra,Carpet Area
+Mumbai,Borivali West,Residential,45000000,Unfurnished,2,3,Individual,1,0,1,2,1064.0,Maharashtra,Carpet Area
+Mumbai,Hindu Colony,Residential,90000000,Semi-Furnished,4,5,Connected,0,0,0,2,1900.0,Maharashtra,Carpet Area
+Mumbai,Khar West,Residential,80000000,Unfurnished,3,4,Room-attached,0,0,0,2,16003.0,Maharashtra,Built-up Area
+Mumbai,Jogeshwari West,Residential,17500000,Unfurnished,2,2,Connected,0,0,1,1,687.0,Maharashtra,Carpet Area
+Mumbai,Borivali East,Residential,17500000,Semi-Furnished,2,2,Individual,0,0,0,2,650.0,Maharashtra,Carpet Area
+Mumbai,Mira Road,Residential,14500000,Unfurnished,2,2,Connected,1,1,1,1,605.0,Maharashtra,Carpet Area
+Mumbai,Powai,Residential,10000000,Unfurnished,1,1,Connected,0,1,1,0,450.0,Maharashtra,Built-up Area
+Mumbai,Malad East,Residential,9500000,Unfurnished,2,2,Individual,0,0,1,1,398.0,Maharashtra,Built-up Area
+Mumbai,Khar West,Residential,42500000,Furnished,2,2,Connected,0,0,0,1,900.0,Maharashtra,Carpet Area
+Mumbai,Byculla,Residential,12000000,Semi-Furnished,1,1,Connected,0,0,0,0,268.0,Maharashtra,Built-up Area
+Mumbai,Mira Road,Residential,11000000,Semi-Furnished,2,2,Connected,0,0,0,1,674.0,Maharashtra,Carpet Area
+Mumbai,Navin Nagar,Residential,65000000,Unfurnished,3,4,Connected,0,0,1,3,1060.0,Maharashtra,Built-up Area
+Mumbai,Pali Hill,Residential,70000000,Semi-Furnished,2,4,Connected,0,0,0,3,1100.0,Maharashtra,Built-up Area
+Mumbai,Malad East,Residential,12500000,Unfurnished,2,2,Connected,0,0,1,0,520.0,Maharashtra,Carpet Area
+Mumbai,Jogeshwari West,Residential,13000000,Semi-Furnished,2,2,Connected,0,0,0,2,920.0,Maharashtra,Built-up Area
+Mumbai,Jogeshwari West,Residential,17800000,Unfurnished,2,2,Connected,0,0,1,1,685.0,Maharashtra,Carpet Area
+Mumbai,Jogeshwari West,Residential,27000000,Semi-Furnished,3,2,Connected,0,0,0,2,1105.0,Maharashtra,Carpet Area
+Mumbai,Kandivali East,Residential,13800000,Unfurnished,2,2,Connected,0,1,1,0,594.0,Maharashtra,Carpet Area
+Mumbai,Malad East,Residential,37500000,Semi-Furnished,3,3,Connected,0,0,0,2,1375.0,Maharashtra,Saleable Area
+Mumbai,Goregaon West,Residential,27500000,Semi-Furnished,2,2,Connected,0,0,0,3,350.0,Maharashtra,Built-up Area
+Mumbai,Goregaon East,Residential,52500000,Semi-Furnished,2,3,Connected,0,0,0,1,950.0,Maharashtra,Built-up Area
+Mumbai,Kandivali East,Residential,6800000,Unfurnished,2,2,Connected,0,0,1,2,323.0,Maharashtra,Carpet Area
+Mumbai,Matunga East,Residential,53800000,Unfurnished,3,3,Connected,0,1,1,0,1287.0,Maharashtra,Built-up Area
+Mumbai,Midc,Residential,4000000,Unfurnished,1,1,Connected,0,0,0,1,275.0,Maharashtra,Carpet Area
+Mumbai,Mira Road East,Residential,7500000,Unfurnished,2,2,Individual,0,1,1,2,400.0,Maharashtra,Carpet Area
+Mumbai,Borivali East,Residential,11000000,Unfurnished,2,2,Individual,0,0,1,2,428.0,Maharashtra,Carpet Area
+Mumbai,Naigaon East,Residential,4500000,Semi-Furnished,1,2,Connected,0,0,0,0,316.0,Maharashtra,Carpet Area
+Mumbai,Malad East,Residential,16000000,Furnished,2,2,Connected,0,0,0,1,600.0,Maharashtra,Carpet Area
+Mumbai,Goregaon East,Residential,23000000,Semi-Furnished,2,2,Connected,0,0,0,1,537.0,Maharashtra,Carpet Area
+Mumbai,Malad East,Residential,34500000,Semi-Furnished,2,2,Connected,0,0,0,2,1251.0,Maharashtra,Carpet Area
+Mumbai,Bhandup West,Residential,19000000,Semi-Furnished,2,2,Connected,0,0,0,1,723.0,Maharashtra,Carpet Area
+Mumbai,Bhandup West,Residential,13600000,Unfurnished,2,2,Room-attached,1,1,1,1,602.0,Maharashtra,Carpet Area
+Mumbai,Powai,Residential,67500000,Furnished,3,3,"Individual,Room-attached",0,0,0,2,1790.0,Maharashtra,Built-up Area
+Mumbai,Malad West,Residential,16500000,Unfurnished,2,2,Connected,1,1,1,1,618.0,Maharashtra,Carpet Area
+Mumbai,Chandivali,Residential,24500000,Unfurnished,2,2,Connected,1,1,1,2,778.0,Maharashtra,Carpet Area
+Mumbai,Malad West,Residential,30000000,Furnished,3,3,Connected,0,0,0,1,1000.0,Maharashtra,Carpet Area
+Mumbai,Naigaon East,Residential,3900000,Unfurnished,1,2,Individual,0,1,1,2,411.0,Maharashtra,Carpet Area
+Mumbai,Mulund West,Residential,24000000,Semi-Furnished,2,2,Connected,0,0,0,1,796.0,Maharashtra,Carpet Area
+Mumbai,Dadar West,Residential,24000000,Semi-Furnished,1,2,Connected,0,0,1,1,470.0,Maharashtra,Carpet Area
+Mumbai,Worli,Residential,110000000,Unfurnished,3,3,Connected,1,1,1,3,1583.0,Maharashtra,Carpet Area
+Mumbai,Prabhadevi,Residential,39000000,Unfurnished,2,2,Connected,0,0,1,2,907.0,Maharashtra,Carpet Area
+Mumbai,Prabhadevi,Residential,45000000,Unfurnished,2,2,Connected,1,1,1,2,960.0,Maharashtra,Carpet Area
+Mumbai,Parel,Residential,60000000,Semi-Furnished,4,3,Connected,0,0,0,3,1600.0,Maharashtra,Carpet Area
+Mumbai,Virar West,Residential,16100000,Semi-Furnished,4,4,Connected,0,0,0,1,1438.0,Maharashtra,Carpet Area
+Mumbai,Virar West,Residential,4100000,Semi-Furnished,1,2,Connected,0,0,0,1,405.0,Maharashtra,Carpet Area
+Mumbai,Goregaon West,Residential,26700000,Unfurnished,2,3,Connected,1,1,1,1,902.0,Maharashtra,Carpet Area
+Mumbai,Parel,Residential,52000000,Semi-Furnished,3,2,Connected,0,0,0,2,1237.0,Maharashtra,Carpet Area
+Mumbai,Worli,Residential,40000000,Semi-Furnished,2,2,Individual,0,0,0,2,850.0,Maharashtra,Carpet Area
+Mumbai,Virar West,Residential,5300000,Semi-Furnished,2,2,Connected,0,0,0,2,523.0,Maharashtra,Carpet Area
+Mumbai,Altamount Road,Residential,490000000,Semi-Furnished,6,4,Connected,0,0,0,3,5500.0,Maharashtra,Carpet Area
+Mumbai,Sonapur,Residential,6600000,Furnished,1,1,Connected,0,0,0,0,349.0,Maharashtra,Carpet Area
+Mumbai,Nalasopara West,Residential,4000000,Semi-Furnished,1,2,Individual,0,0,0,2,393.0,Maharashtra,Carpet Area
+Mumbai,Andheri West,Residential,19000000,Semi-Furnished,2,2,Connected,0,0,0,1,585.0,Maharashtra,Carpet Area
+Mumbai,Nalasopara East,Residential,3730000,Semi-Furnished,1,1,Individual,0,0,0,2,388.0,Maharashtra,Carpet Area
+Mumbai,Shastri Nagar,Residential,57700000,Unfurnished,3,3,Individual,0,1,1,1,1282.0,Maharashtra,Carpet Area
+Mumbai,Worli,Residential,70800000,Unfurnished,2,2,Connected,0,1,0,2,944.0,Maharashtra,Carpet Area
+Mumbai,Virar West,Residential,4500000,Semi-Furnished,2,2,Connected,0,0,0,2,910.0,Maharashtra,Built-up Area
+Mumbai,Worli,Residential,160000000,Semi-Furnished,4,4,Connected,0,0,0,3,2000.0,Maharashtra,Carpet Area
+Mumbai,Worli,Residential,65000000,Unfurnished,2,2,Connected,0,1,1,2,849.0,Maharashtra,Carpet Area
+Mumbai,Mira Road,Residential,20000000,Furnished,2,2,Connected,0,0,0,1,850.0,Maharashtra,Carpet Area
+Mumbai,Naigaon East,Residential,3500000,Semi-Furnished,1,2,"Individual,Room-attached",0,0,0,2,485.0,Maharashtra,Carpet Area
+Mumbai,Sewri,Residential,39200000,Semi-Furnished,2,2,Connected,0,0,0,1,840.0,Maharashtra,Carpet Area
+Mumbai,Worli,Residential,82500000,Unfurnished,3,3,Connected,1,1,1,3,1300.0,Maharashtra,Carpet Area
+Mumbai,Subhash Nagar,Residential,25500000,Unfurnished,2,2,Connected,0,0,0,2,800.0,Maharashtra,Carpet Area
+Mumbai,Palghar,Residential,2550000,Unfurnished,2,2,Connected,0,0,1,2,620.0,Maharashtra,Built-up Area
+Mumbai,Boisar,Residential,2360000,Semi-Furnished,1,2,Connected,0,0,0,2,590.0,Maharashtra,Built-up Area
+Mumbai,Palghar,Residential,2533000,Furnished,2,2,Connected,0,0,0,2,700.0,Maharashtra,Built-up Area
+Mumbai,Palghar,Residential,3895000,Unfurnished,2,2,Connected,0,0,1,2,950.0,Maharashtra,Built-up Area
+Mumbai,Palghar,Residential,2291000,Unfurnished,1,2,Connected,0,0,1,2,705.0,Maharashtra,Built-up Area
+Mumbai,Goregaon West,Residential,18500000,Furnished,2,2,"Connected,Individual,Room-attached",0,0,0,1,627.0,Maharashtra,Carpet Area
+Mumbai,Dahisar East,Residential,9000000,Unfurnished,2,1,Connected,1,1,1,1,410.0,Maharashtra,Carpet Area
+Mumbai,Subhash Nagar,Residential,27500000,Unfurnished,2,2,Connected,0,0,0,2,835.0,Maharashtra,Carpet Area
+Mumbai,Kurla East,Residential,13500000,Unfurnished,2,1,"Connected,Individual,Room-attached",0,0,1,1,539.0,Maharashtra,Carpet Area
+Mumbai,Anand Nagar,Residential,52000000,Unfurnished,3,3,Individual,0,0,1,1,1360.0,Maharashtra,Carpet Area
+Mumbai,Prabhadevi,Residential,28000000,Furnished,1,2,Room-attached,0,0,0,1,600.0,Maharashtra,Built-up Area
+Mumbai,Virar East,Residential,3600000,Semi-Furnished,2,1,Room-attached,0,0,0,1,550.0,Maharashtra,Saleable Area
+Mumbai,Worli,Residential,85000000,Unfurnished,3,5,Connected,0,1,1,2,1373.0,Maharashtra,Carpet Area
+Mumbai,Goregaon West,Residential,48500000,Semi-Furnished,3,4,Individual,0,0,0,2,1450.0,Maharashtra,Carpet Area
+Mumbai,Mahalaxmi,Residential,84000000,Semi-Furnished,3,3,Connected,0,0,0,3,2000.0,Maharashtra,Carpet Area
+Mumbai,Mira Road,Residential,9900000,Semi-Furnished,2,2,Individual,0,0,0,1,658.0,Maharashtra,Carpet Area
+Mumbai,Parel,Residential,36500000,Semi-Furnished,2,2,Individual,0,0,0,1,699.0,Maharashtra,Carpet Area
+Mumbai,Lower Parel,Residential,69500000,Furnished,3,3,Connected,0,0,0,3,1900.0,Maharashtra,Carpet Area
+Mumbai,Chembur,Residential,17500000,Unfurnished,2,2,Individual,0,0,0,1,630.0,Maharashtra,Carpet Area
+Mumbai,Parel,Residential,40000000,Unfurnished,2,2,Connected,1,0,1,1,1080.0,Maharashtra,Carpet Area
+Mumbai,Parel,Residential,58000000,Semi-Furnished,3,3,Connected,0,0,0,2,1460.0,Maharashtra,Carpet Area
+Mumbai,Lower Parel,Residential,83000000,Unfurnished,3,3,Connected,1,1,1,3,1352.0,Maharashtra,Carpet Area
+Mumbai,Vasai East,Residential,6100000,Semi-Furnished,2,2,Connected,0,0,0,3,537.0,Maharashtra,Carpet Area
+Mumbai,Borivali West,Residential,11000000,Semi-Furnished,1,2,Connected,0,0,0,1,465.0,Maharashtra,Carpet Area
+Mumbai,Vasai West,Residential,3990000,Semi-Furnished,1,2,Individual,0,0,0,7,464.0,Maharashtra,Carpet Area
+Mumbai,Parel,Residential,120000000,Semi-Furnished,5,5,Connected,0,0,0,4,3700.0,Maharashtra,Carpet Area
+Mumbai,Parel,Residential,54000000,Semi-Furnished,3,3,Connected,0,0,0,3,1127.0,Maharashtra,Carpet Area
+Mumbai,Bhayandar East,Residential,5500000,Semi-Furnished,1,1,Room-attached,0,0,0,2,530.0,Maharashtra,Built-up Area
+Mumbai,Dahisar West,Residential,19000000,Semi-Furnished,2,2,Room-attached,0,0,0,1,1201.0,Maharashtra,Saleable Area
+Mumbai,Virar West,Residential,4400000,Semi-Furnished,2,2,Connected,0,0,0,2,963.0,Maharashtra,Built-up Area
+Mumbai,Mahalaxmi,Residential,89000000,Furnished,3,4,Connected,0,0,0,3,1306.0,Maharashtra,Carpet Area
+Mumbai,Worli,Residential,162000000,Semi-Furnished,4,4,Connected,0,0,0,3,2000.0,Maharashtra,Carpet Area
+Mumbai,Dadar West,Residential,27700000,Unfurnished,2,1,Connected,0,0,0,1,470.0,Maharashtra,Carpet Area
+Mumbai,Mahalaxmi,Residential,76000000,Furnished,3,3,Connected,0,0,0,3,1256.0,Maharashtra,Carpet Area
+Mumbai,Shastri Nagar,Residential,60000000,Unfurnished,3,3,Individual,0,1,1,1,1308.0,Maharashtra,Carpet Area
+Mumbai,Worli,Residential,83000000,Furnished,3,4,Connected,0,0,0,2,1118.0,Maharashtra,Carpet Area
+Mumbai,Chembur,Residential,15500000,Unfurnished,2,2,Individual,1,1,1,2,569.0,Maharashtra,Carpet Area
+Mumbai,Worli,Residential,78000000,Semi-Furnished,3,3,Connected,0,0,0,3,1315.0,Maharashtra,Carpet Area
+Mumbai,Ketkipada,Residential,7500000,Semi-Furnished,1,2,Connected,0,0,0,2,680.0,Maharashtra,Carpet Area
+Mumbai,Malad East,Residential,24800000,Semi-Furnished,2,2,Individual,0,0,0,1,850.0,Maharashtra,Saleable Area
+Mumbai,Shastri Nagar,Residential,30000000,Unfurnished,2,2,Individual,0,0,1,1,1000.0,Maharashtra,Carpet Area
+Mumbai,Tardeo,Residential,64000000,Semi-Furnished,3,3,Connected,0,0,0,3,1019.0,Maharashtra,Carpet Area
+Mumbai,Mahalaxmi,Residential,51000000,Unfurnished,2,2,Connected,0,1,1,2,800.0,Maharashtra,Carpet Area
+Mumbai,Kandivali West,Residential,17100000,Unfurnished,2,2,Room-attached,0,0,1,2,586.0,Maharashtra,Built-up Area
+Mumbai,Mira Road,Residential,6000000,Semi-Furnished,2,2,Connected,0,0,0,2,450.0,Maharashtra,Carpet Area
+Mumbai,Kanch Pada,Residential,21000000,Unfurnished,2,2,Individual,1,1,1,1,614.0,Maharashtra,Carpet Area
+Mumbai,Powai,Residential,18000000,Semi-Furnished,1,2,Individual,0,0,0,1,379.0,Maharashtra,Carpet Area
+Mumbai,Dahisar West,Residential,16500000,Semi-Furnished,2,2,Connected,0,0,0,1,850.0,Maharashtra,Carpet Area
+Mumbai,Nalasopara East,Residential,6000000,Semi-Furnished,2,2,Connected,0,0,0,3,880.0,Maharashtra,Built-up Area
+Mumbai,Palghar,Residential,1896000,Semi-Furnished,1,2,Connected,0,0,0,2,524.0,Maharashtra,Built-up Area
+Mumbai,Mahalaxmi,Residential,48000000,Unfurnished,2,2,Connected,1,1,1,2,762.0,Maharashtra,Carpet Area
+Mumbai,Powai,Residential,10000000,Semi-Furnished,1,1,Connected,0,0,0,0,390.0,Maharashtra,Carpet Area
+Mumbai,Parel,Residential,54000000,Furnished,3,3,Connected,0,0,0,3,1500.0,Maharashtra,Carpet Area
+Mumbai,Andheri West,Residential,18500000,Unfurnished,1,1,Individual,0,0,1,1,650.0,Maharashtra,Carpet Area
+Mumbai,Chembur,Residential,42500000,Furnished,3,2,Individual,0,0,0,2,1650.0,Maharashtra,Carpet Area
+Mumbai,Malabar Hill,Residential,78000000,Furnished,3,4,Connected,0,0,0,2,1306.0,Maharashtra,Carpet Area
+Mumbai,Chembur,Residential,14500000,Unfurnished,1,2,Individual,0,1,0,1,450.0,Maharashtra,Carpet Area
+Mumbai,Worli,Residential,127000000,Semi-Furnished,4,4,Connected,0,0,0,3,1690.0,Maharashtra,Carpet Area
+Mumbai,Chandivali,Residential,27000000,Unfurnished,2,2,Individual,1,1,1,1,1300.0,Maharashtra,Built-up Area
+Mumbai,Mira Road,Residential,6600000,Semi-Furnished,1,2,"Connected,Individual",0,0,0,1,500.0,Maharashtra,Carpet Area
+Mumbai,Andheri West,Residential,160000000,Furnished,5,5,"Individual,Room-attached",0,0,0,3,3800.0,Maharashtra,Carpet Area
+Mumbai,Naigaon East,Residential,3700000,Semi-Furnished,1,1,Connected,0,0,0,2,421.0,Maharashtra,Carpet Area
+Mumbai,Vikhroli West,Residential,25000000,Unfurnished,3,3,Connected,0,0,0,2,1050.0,Maharashtra,Carpet Area
+Mumbai,Borivali West,Residential,12500000,Semi-Furnished,2,2,Individual,0,0,0,1,445.0,Maharashtra,Carpet Area
+Mumbai,Cumbala Hill,Residential,120000000,Semi-Furnished,3,3,Connected,0,0,0,3,1930.0,Maharashtra,Carpet Area
+Mumbai,Bhandup West,Residential,7600000,Unfurnished,1,2,Individual,1,0,1,2,375.0,Maharashtra,Carpet Area
+Mumbai,Tardeo,Residential,208000000,Furnished,4,3,Connected,0,0,0,8,2168.0,Maharashtra,Carpet Area
+Mumbai,Malabar Hill,Residential,240000000,Furnished,5,2,Connected,0,0,0,4,5173.0,Maharashtra,Carpet Area
+Mumbai,Powai,Residential,28000000,Unfurnished,2,2,Connected,1,1,1,1,788.0,Maharashtra,Carpet Area
+Mumbai,Naigaon East,Residential,2600000,Unfurnished,1,1,Room-attached,1,0,1,2,540.0,Maharashtra,Saleable Area
+Mumbai,Chembur,Residential,21500000,Furnished,2,2,Connected,1,1,1,2,650.0,Maharashtra,Carpet Area
+Mumbai,Naigaon East,Residential,3000000,Semi-Furnished,1,1,Room-attached,0,0,0,2,610.0,Maharashtra,Saleable Area
+Mumbai,Navagaon,Residential,19000000,Unfurnished,2,2,Room-attached,0,0,1,1,740.0,Maharashtra,Carpet Area
+Mumbai,Santacruz East,Residential,9700000,Unfurnished,2,1,Connected,0,0,1,0,255.0,Maharashtra,Carpet Area
+Mumbai,Powai,Residential,49000000,Unfurnished,3,3,Individual,1,1,1,2,1750.0,Maharashtra,Built-up Area
+Mumbai,Worli,Residential,150000000,Semi-Furnished,3,3,Connected,0,0,0,3,2235.0,Maharashtra,Carpet Area
+Mumbai,Swami Samarth Cooperative Industrial Area,Residential,19000000,Semi-Furnished,2,2,Individual,0,0,0,1,1050.0,Maharashtra,Built-up Area
+Mumbai,Chembur,Residential,23500000,Unfurnished,2,2,Individual,0,1,0,1,715.0,Maharashtra,Carpet Area
+Mumbai,Goregaon West,Residential,27000000,Unfurnished,3,2,"Connected,Individual,Room-attached",0,1,1,1,896.0,Maharashtra,Built-up Area
+Mumbai,Naigaon East,Residential,3000000,Semi-Furnished,1,2,Room-attached,0,0,0,2,610.0,Maharashtra,Built-up Area
+Mumbai,Powai,Residential,67000000,Unfurnished,3,2,Individual,1,1,1,1,1790.0,Maharashtra,Built-up Area
+Mumbai,Prabhadevi,Residential,250000000,Unfurnished,5,5,Connected,0,0,1,4,3500.0,Maharashtra,Carpet Area
+Mumbai,Naigaon East,Residential,3100000,Unfurnished,1,2,Room-attached,1,1,1,2,560.0,Maharashtra,Built-up Area
+Mumbai,Chembur,Residential,9000000,Unfurnished,1,2,Individual,1,0,1,1,700.0,Maharashtra,Built-up Area
+Mumbai,Powai,Residential,53800000,Furnished,3,3,Connected,0,0,0,1,1150.0,Maharashtra,Carpet Area
+Mumbai,Parel,Residential,68500000,Semi-Furnished,3,4,Connected,0,0,0,3,1022.0,Maharashtra,Carpet Area
+Mumbai,Borivali West,Residential,9300000,Semi-Furnished,2,1,Connected,0,0,0,1,587.0,Maharashtra,Saleable Area
+Mumbai,Parel,Residential,48000000,Furnished,3,3,Connected,0,0,0,3,1226.0,Maharashtra,Carpet Area
+Mumbai,Cumbala Hill,Residential,220000000,Semi-Furnished,4,4,Connected,0,0,0,4,2750.0,Maharashtra,Carpet Area
+Mumbai,Mira Road,Residential,6000000,Furnished,1,2,Room-attached,0,0,0,1,670.0,Maharashtra,Built-up Area
+Mumbai,Malad East,Residential,7500000,Semi-Furnished,1,1,Connected,0,0,0,3,317.0,Maharashtra,Carpet Area
+Mumbai,Virar East,Residential,3600000,Semi-Furnished,1,2,Room-attached,0,0,0,2,665.0,Maharashtra,Built-up Area
+Mumbai,Vasai East,Residential,6000000,Semi-Furnished,2,2,Connected,0,0,0,2,815.0,Maharashtra,Carpet Area
+Mumbai,Bandra West,Residential,60000000,Unfurnished,3,2,Connected,0,0,0,0,1200.0,Maharashtra,Carpet Area
+Mumbai,Nalasopara West,Residential,2650000,Unfurnished,1,1,Connected,0,0,1,2,595.0,Maharashtra,Built-up Area
+Mumbai,Mira Road East,Residential,7900000,Semi-Furnished,2,2,Connected,0,0,0,1,680.0,Maharashtra,Carpet Area
+Mumbai,Vasai East,Residential,6500000,Semi-Furnished,2,2,Connected,0,0,0,3,1200.0,Maharashtra,Built-up Area
+Mumbai,Bandra East,Residential,40000000,Semi-Furnished,2,2,Individual,0,0,0,1,861.0,Maharashtra,Carpet Area
+Mumbai,Goregaon East,Residential,75000000,Semi-Furnished,4,4,Connected,0,0,0,2,2465.0,Maharashtra,Saleable Area
+Mumbai,Bandra East,Residential,65000000,Furnished,2,3,Connected,0,0,0,2,1120.0,Maharashtra,Carpet Area
+Mumbai,Chembur,Residential,29500000,Semi-Furnished,2,2,Connected,0,0,0,1,938.0,Maharashtra,Carpet Area
+Mumbai,Altamount Road,Residential,940000000,Furnished,4,4,Connected,0,0,0,3,7500.0,Maharashtra,Carpet Area
+Mumbai,Govind Nagar,Residential,26000000,Unfurnished,3,3,Room-attached,0,0,0,1,845.0,Maharashtra,Carpet Area
+Mumbai,Prabhadevi,Residential,87000000,Unfurnished,3,3,Connected,1,1,1,3,1464.0,Maharashtra,Carpet Area
+Mumbai,Vikhroli West,Residential,11500000,Semi-Furnished,2,2,Connected,0,0,0,1,600.0,Maharashtra,Saleable Area
+Mumbai,Virar West,Residential,3200000,Semi-Furnished,1,2,Room-attached,0,0,0,1,525.0,Maharashtra,Built-up Area
+Mumbai,Vasai East,Residential,6000000,Semi-Furnished,2,2,Connected,0,0,0,3,608.0,Maharashtra,Carpet Area
+Mumbai,Nalasopara West,Residential,4500000,Semi-Furnished,1,2,Individual,0,0,0,2,720.0,Maharashtra,Built-up Area
+Mumbai,Gokuldham Colony,Residential,74000000,Furnished,3,3,Individual,0,0,0,2,1366.0,Maharashtra,Carpet Area
+Mumbai,Mira Road East,Residential,5500000,Semi-Furnished,1,2,Room-attached,0,0,0,1,500.0,Maharashtra,Carpet Area
+Mumbai,Kurla,Residential,14500000,Unfurnished,2,2,Individual,0,0,0,1,580.0,Maharashtra,Carpet Area
+Mumbai,Chembur,Residential,13000000,Unfurnished,2,3,Connected,0,1,0,2,1011.0,Maharashtra,Carpet Area
+Mumbai,Kandivali West,Residential,12500000,Unfurnished,2,2,Connected,0,0,1,2,411.0,Maharashtra,Carpet Area
+Mumbai,Virar West,Residential,2600000,Semi-Furnished,1,1,Connected,0,0,0,0,525.0,Maharashtra,Built-up Area
+Mumbai,Chembur,Residential,31000000,Furnished,3,2,Connected,1,1,1,2,958.0,Maharashtra,Carpet Area
+Mumbai,Goregaon East,Residential,55000000,Furnished,3,3,Connected,0,0,0,1,1850.0,Maharashtra,Built-up Area
+Mumbai,Kanjurmarg East,Residential,33500000,Unfurnished,3,3,Individual,1,1,1,2,1790.0,Maharashtra,Built-up Area
+Mumbai,Malad East,Residential,34000000,Semi-Furnished,3,3,Connected,0,0,0,2,1750.0,Maharashtra,Saleable Area
+Mumbai,Nalasopara West,Residential,2950000,Unfurnished,1,1,Room-attached,0,0,0,1,420.0,Maharashtra,Built-up Area
+Mumbai,Virar West,Residential,2799000,Semi-Furnished,1,2,Individual,0,0,0,2,510.0,Maharashtra,Built-up Area
+Mumbai,Dighe Nagar,Residential,92500000,Semi-Furnished,3,3,Room-attached,0,0,0,2,1450.0,Maharashtra,Carpet Area
+Mumbai,Mazgaon,Residential,21000000,Semi-Furnished,2,2,Connected,0,0,0,1,678.0,Maharashtra,Carpet Area
+Mumbai,Santacruz East,Residential,14800000,Unfurnished,1,2,Connected,0,0,0,1,489.0,Maharashtra,Built-up Area
+Mumbai,Mira Road,Residential,6149000,Semi-Furnished,1,2,Connected,0,0,0,1,445.0,Maharashtra,Carpet Area
+Mumbai,Dahisar West,Residential,6800000,Unfurnished,1,1,Connected,0,0,1,1,450.0,Maharashtra,Built-up Area
+Mumbai,Naigaon East,Residential,2450000,Unfurnished,1,1,Room-attached,0,0,1,2,500.0,Maharashtra,Saleable Area
+Mumbai,Chembur,Residential,27000000,Semi-Furnished,2,2,Connected,0,0,0,2,750.0,Maharashtra,Carpet Area
+Mumbai,Dahisar West,Residential,9500000,Unfurnished,1,2,Room-attached,0,0,1,1,440.0,Maharashtra,Carpet Area
+Mumbai,Shivnari Chawl,Residential,23000000,Unfurnished,3,3,Room-attached,0,0,0,1,919.0,Maharashtra,Carpet Area
+Mumbai,Shivar Garden,Residential,12000000,Semi-Furnished,2,2,Room-attached,0,0,0,1,834.0,Maharashtra,Built-up Area
+Mumbai,Powai,Residential,24000000,Semi-Furnished,2,2,Individual,0,0,0,1,985.0,Maharashtra,Saleable Area
+Mumbai,Mira Road,Residential,29000000,Semi-Furnished,2,2,Individual,0,0,0,2,783.0,Maharashtra,Carpet Area
+Mumbai,Worli,Residential,145000000,Unfurnished,4,4,Connected,0,1,1,3,1895.0,Maharashtra,Carpet Area
+Mumbai,Parel,Residential,14500000,Unfurnished,2,2,Connected,1,0,1,3,700.0,Maharashtra,Built-up Area
+Mumbai,Bhandup East,Residential,23000000,Furnished,4,3,Individual,0,0,0,2,1200.0,Maharashtra,Carpet Area
+Mumbai,Naigaon East,Residential,1700000,Semi-Furnished,1,2,Individual,0,0,0,1,450.0,Maharashtra,Built-up Area
+Mumbai,Vasai East,Residential,3800000,Semi-Furnished,1,2,Connected,0,0,0,3,595.0,Maharashtra,Saleable Area
+Mumbai,Dahisar West,Residential,12500000,Unfurnished,2,2,Room-attached,0,0,1,1,520.0,Maharashtra,Carpet Area
+Mumbai,Virar West,Residential,4400000,Semi-Furnished,2,2,Connected,0,0,0,2,741.0,Maharashtra,Built-up Area
+Mumbai,Virar West,Residential,5800000,Semi-Furnished,2,2,Individual,0,0,0,2,970.0,Maharashtra,Built-up Area
+Mumbai,Vasai East,Residential,5800000,Semi-Furnished,2,2,Connected,0,0,0,1,581.0,Maharashtra,Carpet Area
+Mumbai,Tivri,Residential,2350000,Unfurnished,1,1,"Connected,Individual,Room-attached",1,0,1,2,309.0,Maharashtra,Carpet Area
+Mumbai,Sion,Residential,20000000,Unfurnished,2,2,Connected,0,0,1,1,715.0,Maharashtra,Carpet Area
+Mumbai,Prabhadevi,Residential,35000000,Unfurnished,2,2,Connected,0,1,1,1,900.0,Maharashtra,Built-up Area
+Mumbai,Nalasopara West,Residential,3500000,Semi-Furnished,1,2,Individual,0,0,0,1,420.0,Maharashtra,Carpet Area
+Mumbai,Tardeo,Residential,85000000,Unfurnished,3,3,Connected,0,1,1,3,1300.0,Maharashtra,Carpet Area
+Mumbai,Carmichael Road,Residential,41315005,Semi-Furnished,4,6,Room-attached,0,0,0,2,3070.0,Maharashtra,Carpet Area
+Mumbai,Vasai East,Residential,3900000,Semi-Furnished,2,2,Connected,0,0,0,3,545.0,Maharashtra,Saleable Area
+Mumbai,Malabar Hill,Residential,600000000,Semi-Furnished,5,6,Connected,0,0,0,4,5175.0,Maharashtra,Carpet Area
+Mumbai,Mahalaxmi,Residential,56400000,Unfurnished,3,3,Connected,1,1,1,3,877.0,Maharashtra,Carpet Area
+Mumbai,Lower Parel,Residential,87000000,Furnished,3,3,Connected,0,0,0,2,1345.0,Maharashtra,Carpet Area
+Mumbai,Byculla,Residential,31500000,Unfurnished,2,2,Connected,1,1,1,1,669.0,Maharashtra,Carpet Area
+Mumbai,Worli,Residential,7000000,Unfurnished,2,1,Individual,0,0,0,0,270.0,Maharashtra,Carpet Area
+Mumbai,Chembur,Residential,20000000,Unfurnished,2,2,Individual,1,1,1,2,737.0,Maharashtra,Carpet Area
+Mumbai,Vasai East,Residential,3200000,Semi-Furnished,1,2,Connected,0,0,0,1,620.0,Maharashtra,Built-up Area
+Mumbai,Mira Road East,Residential,13500000,Furnished,2,2,Connected,0,0,0,1,709.0,Maharashtra,Carpet Area
+Mumbai,Parel,Residential,14500000,Unfurnished,2,2,Connected,1,0,1,3,600.0,Maharashtra,Built-up Area
+Mumbai,Kurla East,Residential,14500000,Unfurnished,2,2,Individual,0,0,0,1,588.0,Maharashtra,Carpet Area
+Mumbai,Chandivali,Residential,28500000,Furnished,3,3,Individual,0,0,0,1,1470.0,Maharashtra,Built-up Area
+Mumbai,Malad East,Residential,18100000,Semi-Furnished,2,2,Individual,0,0,0,1,642.0,Maharashtra,Carpet Area
+Mumbai,Worli,Residential,22000000,Unfurnished,2,2,Connected,0,0,0,1,650.0,Maharashtra,Carpet Area
+Mumbai,Bandra East,Residential,33000000,Unfurnished,2,3,Connected,0,1,1,1,853.0,Maharashtra,Carpet Area
+Mumbai,Kurla,Residential,15000000,Unfurnished,2,2,Connected,0,0,1,1,560.0,Maharashtra,Carpet Area
+Mumbai,Vasai East,Residential,3500000,Semi-Furnished,2,1,Connected,0,0,0,2,432.0,Maharashtra,Carpet Area
+Mumbai,Mahalaxmi,Residential,49900000,Unfurnished,3,3,Connected,0,1,1,1,876.0,Maharashtra,Carpet Area
+Mumbai,Vasai East,Residential,3800000,Semi-Furnished,1,2,Connected,0,0,0,1,650.0,Maharashtra,Built-up Area
+Mumbai,Powai,Residential,25000000,Semi-Furnished,2,2,Individual,0,0,0,1,1150.0,Maharashtra,Saleable Area
+Mumbai,Kandivali East,Residential,14800000,Unfurnished,2,2,Connected,0,1,1,1,614.0,Maharashtra,Carpet Area
+Mumbai,Virar West,Residential,3500000,Semi-Furnished,2,2,Connected,0,0,0,0,615.0,Maharashtra,Built-up Area
+Mumbai,Vakola,Residential,15500000,Unfurnished,1,2,Connected,0,0,0,1,630.0,Maharashtra,Built-up Area
+Mumbai,Andheri West,Residential,26000000,Semi-Furnished,2,2,Connected,0,0,0,1,1100.0,Maharashtra,Carpet Area
+Mumbai,Khar West,Residential,45000000,Semi-Furnished,2,2,Connected,0,0,0,1,1100.0,Maharashtra,Saleable Area
+Mumbai,Andheri West,Residential,25000000,Unfurnished,2,2,"Connected,Individual",0,1,1,2,1000.0,Maharashtra,Carpet Area
+Mumbai,Goregaon West,Residential,32300000,Unfurnished,2,3,Connected,1,1,1,1,1036.0,Maharashtra,Carpet Area
+Mumbai,Vasai East,Residential,2900000,Semi-Furnished,1,2,Connected,0,0,0,1,620.0,Maharashtra,Built-up Area
+Mumbai,Powai,Residential,15500000,Semi-Furnished,2,2,Connected,0,0,0,0,600.0,Maharashtra,Saleable Area
+Mumbai,Nalasopara East,Residential,5900000,Semi-Furnished,2,2,Connected,0,0,0,2,880.0,Maharashtra,Built-up Area
+Mumbai,Malad East,Residential,8200000,Unfurnished,1,1,Connected,0,1,1,1,420.0,Maharashtra,Carpet Area
+Mumbai,Sion,Residential,26000000,Unfurnished,3,3,Connected,1,1,1,1,868.0,Maharashtra,Carpet Area
+Mumbai,Malad East,Residential,26000000,Unfurnished,2,3,Individual,1,1,1,1,864.0,Maharashtra,Built-up Area
+Mumbai,Jogeshwari West,Residential,21000000,Unfurnished,2,2,Individual,0,1,1,1,786.0,Maharashtra,Carpet Area
+Mumbai,Sewri,Residential,55000000,Semi-Furnished,3,3,Connected,0,0,0,1,1700.0,Maharashtra,Built-up Area
+Mumbai,Parel,Residential,14500000,Unfurnished,2,2,Connected,1,0,1,3,433.0,Maharashtra,Built-up Area
+Mumbai,Mahalaxmi,Residential,49900000,Unfurnished,3,3,"Connected,Individual",1,1,1,1,877.0,Maharashtra,Carpet Area
+Mumbai,Sion,Residential,26200000,Unfurnished,3,3,Connected,1,1,1,1,868.0,Maharashtra,Carpet Area
+Mumbai,Khar West,Residential,51000000,Unfurnished,3,3,Connected,0,0,1,2,954.0,Maharashtra,Carpet Area
+Mumbai,Khar East,Residential,46000000,Furnished,2,1,Connected,0,0,0,1,564.0,Maharashtra,Built-up Area
+Mumbai,Santacruz East,Residential,13600000,Unfurnished,2,1,Room-attached,0,0,1,1,460.0,Maharashtra,Carpet Area
+Mumbai,Virar West,Residential,3300000,Semi-Furnished,1,1,Individual,0,0,0,2,610.0,Maharashtra,Built-up Area
+Mumbai,Vasai East,Residential,6500000,Semi-Furnished,2,2,Connected,0,0,0,2,860.0,Maharashtra,Built-up Area
+Mumbai,Vasai West,Residential,13000000,Furnished,3,3,Connected,0,0,0,2,1240.0,Maharashtra,Built-up Area
+Mumbai,Virar West,Residential,3500000,Semi-Furnished,2,2,Individual,0,0,0,1,503.0,Maharashtra,Carpet Area
+Mumbai,Bandra East,Residential,30000000,Semi-Furnished,2,2,Connected,0,0,0,1,620.0,Maharashtra,Carpet Area
+Mumbai,Malad East,Residential,32100000,Unfurnished,2,3,Connected,1,1,1,1,1110.0,Maharashtra,Carpet Area
+Mumbai,Sion,Residential,27500000,Unfurnished,3,3,Connected,0,0,1,1,1000.0,Maharashtra,Carpet Area
+Mumbai,Naigaon East,Residential,3400000,Semi-Furnished,1,1,"Individual,Room-attached",0,0,1,2,424.0,Maharashtra,Carpet Area
+Mumbai,Naigaon East,Residential,4900000,Semi-Furnished,2,2,Individual,0,0,0,1,780.0,Maharashtra,Built-up Area
+Mumbai,Powai,Residential,14500000,Unfurnished,2,2,Individual,0,1,1,1,625.0,Maharashtra,Saleable Area
+Mumbai,Bhandup East,Residential,9000000,Unfurnished,2,2,Connected,0,0,1,1,560.0,Maharashtra,Built-up Area
+Mumbai,Lower Parel,Commercial,0,Semi-Furnished,0,0,No Balcony,0,0,0,5,800.0,Maharashtra,Carpet Area
+Mumbai,Borivali East,Residential,17300000,Semi-Furnished,2,2,Connected,0,0,0,1,656.0,Maharashtra,Carpet Area
+Mumbai,Goregaon West,Residential,38000000,Semi-Furnished,2,3,Individual,0,0,0,2,1084.0,Maharashtra,Carpet Area
+Mumbai,Palghar,Residential,2900000,Furnished,2,2,Connected,0,0,0,2,550.0,Maharashtra,Built-up Area
+Mumbai,Chunnabhatti,Residential,15000000,Semi-Furnished,1,2,Connected,0,0,0,1,580.0,Maharashtra,Carpet Area
+Mumbai,Chembur,Residential,32500000,Unfurnished,2,2,Individual,1,1,1,2,1165.0,Maharashtra,Carpet Area
+Mumbai,Worli,Residential,70000000,Semi-Furnished,3,3,Connected,0,0,0,2,1550.0,Maharashtra,Built-up Area
+Mumbai,Kandivali East,Residential,16000000,Unfurnished,2,2,Connected,1,1,1,1,673.0,Maharashtra,Carpet Area
+Mumbai,Byculla,Residential,84900000,Unfurnished,3,3,Connected,1,1,1,1,1563.0,Maharashtra,Built-up Area
+Mumbai,Worli,Residential,85000000,Unfurnished,3,5,Connected,1,1,1,2,1373.0,Maharashtra,Carpet Area
+Mumbai,Virar,Residential,3300000,Semi-Furnished,1,1,Room-attached,0,0,0,1,550.0,Maharashtra,Built-up Area
+Mumbai,Mira Road,Residential,9500000,Unfurnished,3,2,Connected,0,0,0,0,685.0,Maharashtra,Carpet Area
+Mumbai,Naigaon East,Residential,3400000,Unfurnished,1,2,Connected,0,0,1,6,571.0,Maharashtra,Built-up Area
+Mumbai,Virar West,Residential,2690000,Semi-Furnished,2,2,Connected,0,0,0,3,660.0,Maharashtra,Saleable Area
+Mumbai,Powai,Residential,92500000,Unfurnished,2,3,Connected,1,1,1,2,2060.0,Maharashtra,Saleable Area
+Mumbai,Chembur,Residential,17500000,Semi-Furnished,2,2,Connected,0,0,0,1,705.0,Maharashtra,Carpet Area
+Mumbai,Nalasopara East,Residential,3900000,Semi-Furnished,2,2,Connected,0,0,0,3,388.0,Maharashtra,Carpet Area
+Mumbai,Parel,Residential,77400000,Unfurnished,4,4,Connected,1,1,1,3,1788.0,Maharashtra,Carpet Area
+Mumbai,Worli,Residential,230000000,Semi-Furnished,6,3,Connected,0,0,0,5,4163.0,Maharashtra,Built-up Area
+Mumbai,Chembur,Residential,31000000,Unfurnished,3,3,Connected,1,1,1,2,958.0,Maharashtra,Built-up Area
+Mumbai,Chembur,Residential,19000000,Unfurnished,2,2,Connected,0,0,1,1,850.0,Maharashtra,Carpet Area
+Mumbai,Naigaon East,Residential,2650000,Semi-Furnished,1,2,Individual,0,0,0,2,610.0,Maharashtra,Saleable Area
+Mumbai,Chembur,Residential,17500000,Unfurnished,2,2,Individual,0,1,1,1,637.0,Maharashtra,Carpet Area
+Mumbai,Virar West,Residential,4200000,Semi-Furnished,1,2,Connected,0,0,0,0,342.0,Maharashtra,Carpet Area
+Mumbai,Malabar Hill,Residential,267000000,Semi-Furnished,4,4,Connected,0,0,0,3,2150.0,Maharashtra,Carpet Area
+Mumbai,Virar West,Residential,3400000,Semi-Furnished,1,2,Individual,0,0,0,2,675.0,Maharashtra,Built-up Area
+Mumbai,Chembur,Residential,18000000,Unfurnished,2,2,Connected,0,0,1,2,607.0,Maharashtra,Carpet Area
+Mumbai,Andheri West,Residential,70000000,Unfurnished,3,3,Connected,1,1,1,2,1336.0,Maharashtra,Carpet Area
+Mumbai,Andheri West,Residential,41315005,Semi-Furnished,3,2,Connected,0,0,0,3,1118.0,Maharashtra,Carpet Area
+Mumbai,Malad East,Residential,26500000,Furnished,2,2,Individual,0,0,0,1,850.0,Maharashtra,Carpet Area
+Mumbai,Andheri West,Residential,120000000,Furnished,5,5,"Connected,Individual",0,0,0,5,2321.0,Maharashtra,Built-up Area
+Mumbai,Mahalaxmi,Residential,58100000,Unfurnished,3,3,Connected,1,1,1,4,1162.0,Maharashtra,Carpet Area
+Mumbai,Chembur,Residential,42500000,Unfurnished,3,3,Connected,0,1,1,3,1650.0,Maharashtra,Carpet Area
+Mumbai,Naigaon East,Residential,2700000,Furnished,1,1,Connected,0,0,0,2,500.0,Maharashtra,Built-up Area
+Mumbai,Chembur,Residential,24000000,Unfurnished,3,3,Connected,1,1,1,1,848.0,Maharashtra,Carpet Area
+Mumbai,Sion,Residential,20000000,Unfurnished,2,2,Connected,1,1,1,1,677.0,Maharashtra,Carpet Area
+Mumbai,Malad East,Residential,26000000,Furnished,2,2,Individual,0,0,0,2,1180.0,Maharashtra,Saleable Area
+Mumbai,Mahalaxmi,Residential,128000000,Furnished,4,4,Connected,0,0,0,3,2400.0,Maharashtra,Carpet Area
+Mumbai,Prabhadevi,Residential,128000000,Semi-Furnished,4,4,Connected,0,0,0,3,1700.0,Maharashtra,Carpet Area
+Mumbai,Andheri West,Residential,150000000,Furnished,3,4,"Individual,Room-attached",0,0,0,3,3300.0,Maharashtra,Carpet Area
+Mumbai,Chembur,Residential,30500000,Unfurnished,3,2,Individual,0,0,1,2,1157.0,Maharashtra,Carpet Area
+Mumbai,Goregaon West,Residential,14800000,Unfurnished,2,2,Connected,0,0,1,1,613.0,Maharashtra,Built-up Area
+Mumbai,Andheri West,Residential,9900000,Semi-Furnished,2,3,Connected,0,0,0,1,414.0,Maharashtra,Carpet Area
+Mumbai,Virar West,Residential,4300000,Semi-Furnished,1,2,Connected,0,0,0,1,420.0,Maharashtra,Carpet Area
+Mumbai,Chembur,Residential,19500000,Unfurnished,2,2,Individual,1,1,1,2,737.0,Maharashtra,Carpet Area
+Mumbai,Dahisar West,Residential,26500000,Furnished,3,2,Room-attached,0,0,0,2,1350.0,Maharashtra,Built-up Area
+Mumbai,Andheri West,Residential,22000000,Semi-Furnished,2,2,Connected,0,0,0,1,1000.0,Maharashtra,Carpet Area
+Mumbai,Worli,Residential,41315005,Semi-Furnished,3,3,Connected,0,0,0,3,1425.0,Maharashtra,Carpet Area
+Mumbai,Dadar East,Residential,96000000,Semi-Furnished,2,4,Individual,0,0,0,2,1950.0,Maharashtra,Carpet Area
+Mumbai,Khar West,Residential,180000000,Unfurnished,4,4,Individual,0,0,0,2,2000.0,Maharashtra,Saleable Area
+Mumbai,Khar West,Residential,60000000,Unfurnished,3,3,Connected,0,0,1,1,1200.0,Maharashtra,Saleable Area
+Mumbai,Andheri West,Residential,32500000,Unfurnished,2,2,Connected,0,0,1,1,1000.0,Maharashtra,Built-up Area
+Mumbai,Kandivali West,Residential,14900000,Unfurnished,2,2,Connected,0,0,0,2,626.0,Maharashtra,Built-up Area
+Mumbai,Mulund West,Residential,25900000,Unfurnished,2,2,Connected,0,0,0,1,854.0,Maharashtra,Carpet Area
+Mumbai,Lower Parel,Commercial,0,Furnished,0,0,No Balcony,0,0,0,5,1150.0,Maharashtra,Carpet Area
+Mumbai,Mira Road East,Residential,11500000,Unfurnished,2,2,Room-attached,1,1,1,1,1020.0,Maharashtra,Built-up Area
+Mumbai,Andheri West,Residential,180000000,Semi-Furnished,4,4,Individual,0,0,0,2,4300.0,Maharashtra,Built-up Area
+Mumbai,Powai,Residential,23000000,Semi-Furnished,2,2,Connected,0,0,0,2,1025.0,Maharashtra,Saleable Area
+Mumbai,Shastri Nagar,Residential,40000000,Furnished,3,3,Connected,0,0,0,1,1200.0,Maharashtra,Carpet Area
+Mumbai,Boisar,Residential,2400000,Semi-Furnished,2,2,"Individual,Room-attached",0,0,0,0,775.0,Maharashtra,Saleable Area
+Mumbai,Sion,Residential,20000000,Unfurnished,2,2,Connected,1,1,1,1,684.0,Maharashtra,Carpet Area
+Mumbai,Chembur,Residential,18900000,Semi-Furnished,2,2,Individual,0,0,0,1,713.0,Maharashtra,Carpet Area
+Mumbai,Worli,Residential,41315005,Semi-Furnished,3,3,Connected,0,0,0,3,1330.0,Maharashtra,Carpet Area
+Mumbai,Ketkipada,Residential,13500000,Semi-Furnished,2,2,Connected,0,0,0,2,706.0,Maharashtra,Carpet Area
+Mumbai,Palghar,Residential,1050000,Semi-Furnished,1,1,Connected,0,0,0,2,160.0,Maharashtra,Built-up Area
+Mumbai,Chembur,Residential,19500000,Semi-Furnished,2,2,Individual,0,0,0,1,650.0,Maharashtra,Carpet Area
+Mumbai,Naigaon East,Residential,5300000,Semi-Furnished,2,2,Room-attached,0,0,0,2,627.0,Maharashtra,Carpet Area
+Mumbai,Worli,Residential,70000000,Unfurnished,3,3,Connected,0,1,1,2,1092.0,Maharashtra,Carpet Area
+Mumbai,Wadala,Residential,29900000,Furnished,2,2,Connected,0,0,0,2,725.0,Maharashtra,Built-up Area
+Mumbai,Prabhadevi,Residential,87500000,Semi-Furnished,3,3,Connected,0,0,0,2,1400.0,Maharashtra,Carpet Area
+Mumbai,Bandra East,Residential,41315005,Furnished,3,3,Room-attached,0,0,0,1,1175.0,Maharashtra,Carpet Area
+Mumbai,Virar West,Residential,25000000,Furnished,6,4,"Connected,Individual,Room-attached",0,0,0,3,1700.0,Maharashtra,Built-up Area
+Mumbai,Naigaon East,Residential,2100000,Semi-Furnished,2,2,Individual,0,0,0,1,555.0,Maharashtra,Saleable Area
+Mumbai,Bhayandar East,Residential,7725000,Unfurnished,1,2,Room-attached,0,0,1,1,515.0,Maharashtra,Built-up Area
+Mumbai,Kandivali East,Residential,10500000,Semi-Furnished,2,2,Connected,0,0,0,0,575.0,Maharashtra,Saleable Area
+Mumbai,Parel,Residential,52500000,Unfurnished,2,3,"Connected,Individual,Room-attached",1,1,1,2,1082.0,Maharashtra,Carpet Area
+Mumbai,Khar East,Residential,49000000,Furnished,2,1,Connected,0,0,0,1,439.0,Maharashtra,Built-up Area
+Mumbai,Dahisar East,Residential,20500000,Semi-Furnished,2,2,Room-attached,0,0,0,1,866.0,Maharashtra,Built-up Area
+Mumbai,Dadar East,Residential,50000000,Semi-Furnished,3,3,"Connected,Individual",0,0,0,1,1450.0,Maharashtra,Carpet Area
+Mumbai,Mira Road,Residential,11000000,Furnished,2,2,Connected,0,0,0,2,1150.0,Maharashtra,Saleable Area
+Mumbai,Powai,Residential,54800000,Unfurnished,2,3,Individual,0,1,1,2,1305.0,Maharashtra,Carpet Area
+Mumbai,Versova,Residential,35000000,Semi-Furnished,2,2,Connected,0,0,0,2,710.0,Maharashtra,Carpet Area
+Mumbai,Virar East,Residential,3500000,Semi-Furnished,2,1,Connected,0,0,0,0,700.0,Maharashtra,Built-up Area
+Mumbai,Malad East,Residential,7500000,Semi-Furnished,1,1,Connected,0,0,0,3,369.0,Maharashtra,Carpet Area
+Mumbai,Vasai East,Residential,6400000,Semi-Furnished,2,2,Connected,0,0,0,3,900.0,Maharashtra,Built-up Area
+Mumbai,Kandivali East,Residential,19200000,Semi-Furnished,2,2,Connected,0,0,0,2,1020.0,Maharashtra,Built-up Area
+Mumbai,Virar West,Residential,3200000,Semi-Furnished,1,2,"Connected,Room-attached",0,0,0,1,640.0,Maharashtra,Built-up Area
+Mumbai,Parel,Residential,21000000,Unfurnished,2,1,Connected,0,0,1,1,500.0,Maharashtra,Carpet Area
+Mumbai,Kurla,Residential,11000000,Semi-Furnished,1,2,Connected,0,0,0,1,400.0,Maharashtra,Carpet Area
+Mumbai,Worli,Residential,95000000,Unfurnished,3,5,Connected,0,1,1,2,1315.0,Maharashtra,Carpet Area
+Mumbai,Vasai West,Residential,7700000,Semi-Furnished,2,2,Individual,0,0,0,7,1100.0,Maharashtra,Carpet Area
+Mumbai,Mira Road,Residential,8000000,Unfurnished,1,2,"Connected,Room-attached",1,1,0,1,460.0,Maharashtra,Carpet Area
+Mumbai,Nalasopara East,Residential,6500000,Unfurnished,2,2,Connected,0,0,1,2,900.0,Maharashtra,Built-up Area
+Mumbai,Virar West,Residential,3799000,Semi-Furnished,2,2,Individual,0,0,0,2,610.0,Maharashtra,Built-up Area
+Mumbai,Vasai East,Residential,6500000,Unfurnished,2,2,Individual,0,0,1,1,1000.0,Maharashtra,Built-up Area
+Mumbai,Sion East,Residential,28500000,Furnished,2,2,Connected,0,0,0,1,1046.0,Maharashtra,Carpet Area
+Mumbai,Kandivali East,Residential,20500000,Unfurnished,2,2,Connected,0,0,1,1,1275.0,Maharashtra,Saleable Area
+Mumbai,Worli,Residential,140000000,Unfurnished,4,6,Connected,1,1,1,3,1940.0,Maharashtra,Carpet Area
+Mumbai,Nalasopara East,Residential,3600000,Semi-Furnished,2,2,Connected,0,0,0,1,535.0,Maharashtra,Saleable Area
+Mumbai,Mira Road East,Residential,6300000,Semi-Furnished,1,2,Individual,0,0,0,1,450.0,Maharashtra,Carpet Area
+Mumbai,Vasai East,Residential,8500000,Unfurnished,2,2,Individual,1,0,1,1,1200.0,Maharashtra,Saleable Area
+Mumbai,Mira Road,Residential,10500000,Unfurnished,2,2,Connected,1,1,1,1,692.0,Maharashtra,Saleable Area
+Mumbai,Borivali East,Residential,16000000,Semi-Furnished,2,2,Room-attached,0,0,0,1,650.0,Maharashtra,Built-up Area
+Mumbai,Gokuldham Colony,Residential,78000000,Furnished,3,3,Individual,0,0,0,2,1350.0,Maharashtra,Carpet Area
+Mumbai,Vasai East,Residential,3800000,Semi-Furnished,2,2,"Connected,Individual",0,0,0,2,379.0,Maharashtra,Carpet Area
+Mumbai,Bhandup West,Residential,14500000,Unfurnished,2,2,Connected,0,0,0,2,650.0,Maharashtra,Built-up Area
+Mumbai,Vasai East,Residential,3900000,Semi-Furnished,2,2,Connected,0,0,0,2,408.0,Maharashtra,Carpet Area
+Mumbai,Sonapur,Residential,6700000,Semi-Furnished,1,2,Connected,0,0,0,0,364.0,Maharashtra,Carpet Area
+Mumbai,Parel,Residential,60000000,Semi-Furnished,4,3,Connected,0,0,0,3,2100.0,Maharashtra,Carpet Area
+Mumbai,Tardeo,Residential,211700000,Unfurnished,5,5,Connected,0,1,1,4,3200.0,Maharashtra,Carpet Area
+Mumbai,Andheri West,Residential,80000000,Furnished,4,4,Connected,0,0,0,2,1650.0,Maharashtra,Carpet Area
+Mumbai,Virar West,Residential,4500000,Semi-Furnished,2,2,Individual,0,0,0,1,474.0,Maharashtra,Carpet Area
+Mumbai,Lower Parel,Residential,94000000,Furnished,4,4,Connected,0,0,0,3,2953.0,Maharashtra,Carpet Area
+Mumbai,Prabhadevi,Residential,68000000,Unfurnished,3,3,Connected,0,0,1,3,1607.0,Maharashtra,Carpet Area
+Mumbai,Tardeo,Residential,50000000,Unfurnished,2,2,Connected,0,1,1,2,572.0,Maharashtra,Carpet Area
+Mumbai,Worli,Residential,88300000,Unfurnished,3,3,Connected,0,1,1,3,1151.0,Maharashtra,Carpet Area
+Mumbai,Andheri West,Residential,33500000,Unfurnished,3,2,Connected,0,0,1,2,810.0,Maharashtra,Carpet Area
+Mumbai,Chembur,Residential,11500000,Unfurnished,1,1,Individual,0,0,0,1,400.0,Maharashtra,Carpet Area
+Mumbai,Dahisar West,Residential,12500000,Unfurnished,2,2,Individual,0,0,1,1,735.0,Maharashtra,Built-up Area
+Mumbai,Andheri West,Residential,19000000,Unfurnished,2,2,Connected,0,0,0,1,500.0,Maharashtra,Carpet Area
+Mumbai,Chembur,Residential,10500000,Unfurnished,2,2,Individual,1,1,1,1,405.0,Maharashtra,Carpet Area
+Mumbai,Deonar,Residential,17500000,Semi-Furnished,1,2,Connected,0,0,0,1,475.0,Maharashtra,Carpet Area
+Mumbai,Khar West,Residential,60000000,Semi-Furnished,3,3,Individual,0,0,0,1,1500.0,Maharashtra,Saleable Area
+Mumbai,Khar East,Residential,41000000,Furnished,2,1,Connected,0,0,0,1,473.0,Maharashtra,Built-up Area
+Mumbai,Breach Candy,Residential,76000000,Furnished,3,4,Connected,0,0,0,3,1490.0,Maharashtra,Carpet Area
+Mumbai,Powai,Residential,37500000,Unfurnished,2,3,Individual,0,0,1,1,1188.0,Maharashtra,Saleable Area
+Mumbai,Virar West,Residential,4100000,Semi-Furnished,2,2,Connected,0,0,0,2,674.0,Maharashtra,Built-up Area
+Mumbai,Virar East,Residential,4500000,Semi-Furnished,2,2,Connected,0,0,0,1,790.0,Maharashtra,Built-up Area
+Mumbai,Govandi,Residential,12800000,Unfurnished,1,2,Connected,0,1,1,2,620.0,Maharashtra,Carpet Area
+Mumbai,Powai,Residential,16500000,Unfurnished,1,2,Connected,1,1,1,1,850.0,Maharashtra,Carpet Area
+Mumbai,Worli,Residential,320000000,Unfurnished,5,5,Connected,1,1,1,5,2826.0,Maharashtra,Carpet Area
+Mumbai,Andheri West,Residential,23000000,Furnished,2,2,Connected,0,0,0,1,1000.0,Maharashtra,Saleable Area
+Mumbai,Worli,Residential,69500000,Semi-Furnished,3,3,Connected,0,0,0,2,1090.0,Maharashtra,Carpet Area
+Mumbai,Mahalaxmi,Residential,110000000,Furnished,4,4,Connected,0,0,0,3,2153.0,Maharashtra,Carpet Area
+Mumbai,Virar West,Residential,2900000,Semi-Furnished,2,2,Connected,0,0,0,1,650.0,Maharashtra,Built-up Area
+Mumbai,Andheri East,Residential,11800000,Furnished,1,2,Connected,0,0,0,3,585.0,Maharashtra,Built-up Area
+Mumbai,Wadala,Residential,42500000,Furnished,3,2,Connected,0,0,0,2,1025.0,Maharashtra,Built-up Area
+Mumbai,Kandivali East,Residential,7000000,Semi-Furnished,2,2,Connected,0,0,0,2,625.0,Maharashtra,Built-up Area
+Mumbai,Goregaon West,Residential,14800000,Unfurnished,2,2,Connected,0,0,0,1,613.0,Maharashtra,Built-up Area
+Mumbai,Vakola,Residential,23000000,Furnished,2,3,"Individual,Room-attached",0,0,0,1,750.0,Maharashtra,Built-up Area
+Mumbai,Naigaon East,Residential,3450000,Semi-Furnished,1,2,Connected,0,0,0,2,445.0,Maharashtra,Carpet Area
+Mumbai,Nalasopara East,Residential,3800000,Semi-Furnished,2,2,Connected,0,0,0,3,575.0,Maharashtra,Built-up Area
+Mumbai,Nalasopara West,Residential,3000000,Semi-Furnished,2,2,Individual,0,0,0,2,403.0,Maharashtra,Carpet Area
+Mumbai,Mahalaxmi,Residential,41315005,Semi-Furnished,3,3,Connected,0,0,0,3,1217.0,Maharashtra,Carpet Area
+Mumbai,Kandivali East,Residential,20500000,Semi-Furnished,2,2,Connected,0,0,0,1,1090.0,Maharashtra,Saleable Area
+Mumbai,Worli,Residential,41315005,Semi-Furnished,3,3,Connected,0,0,0,3,1092.0,Maharashtra,Carpet Area
+Mumbai,Dahisar East,Residential,20500000,Semi-Furnished,2,2,Room-attached,0,0,0,1,865.0,Maharashtra,Built-up Area
+Mumbai,Andheri West,Residential,35000000,Furnished,2,2,Connected,0,0,0,1,813.0,Maharashtra,Carpet Area
+Mumbai,Goregaon East,Residential,25000000,Semi-Furnished,2,2,Connected,0,0,0,1,850.0,Maharashtra,Built-up Area
+Mumbai,Prabhadevi,Residential,11000000,Furnished,1,1,Connected,0,0,0,0,280.0,Maharashtra,Built-up Area
+Mumbai,Dahisar West,Residential,11900000,Semi-Furnished,2,2,Connected,0,0,0,1,500.0,Maharashtra,Carpet Area
+Mumbai,Goregaon East,Residential,51500000,Semi-Furnished,3,3,"Connected,Individual,Room-attached",0,0,0,2,1413.0,Maharashtra,Carpet Area
+Mumbai,Wadala East,Residential,69500000,Semi-Furnished,3,4,Connected,0,0,0,1,2250.0,Maharashtra,Built-up Area
+Mumbai,Worli,Residential,120000000,Semi-Furnished,4,4,Connected,0,0,0,3,1467.0,Maharashtra,Built-up Area
+Mumbai,Malad West,Residential,18500000,Unfurnished,2,2,Connected,0,0,0,1,690.0,Maharashtra,Carpet Area
+Mumbai,Dadar East,Residential,65000000,Unfurnished,3,3,Connected,0,1,1,2,2250.0,Maharashtra,Built-up Area
+Mumbai,Andheri West,Residential,35000000,Unfurnished,3,2,Room-attached,0,0,1,2,805.0,Maharashtra,Carpet Area
+Mumbai,Goregaon East,Residential,160000000,Furnished,4,4,Individual,0,0,0,3,2053.0,Maharashtra,Carpet Area
+Mumbai,Cumbala Hill,Residential,41315005,Semi-Furnished,3,3,Connected,0,0,0,3,1465.0,Maharashtra,Carpet Area
+Mumbai,Andheri East,Residential,27000000,Unfurnished,2,2,Connected,0,1,0,2,910.0,Maharashtra,Carpet Area
+Mumbai,Parel,Residential,48000000,Semi-Furnished,3,3,Connected,0,0,0,2,1150.0,Maharashtra,Carpet Area
+Mumbai,Prabhadevi,Residential,41500000,Furnished,2,2,Connected,0,0,0,1,800.0,Maharashtra,Carpet Area
+Mumbai,Kasam Baug,Residential,32000000,Furnished,2,2,Individual,0,0,0,2,850.0,Maharashtra,Built-up Area
+Mumbai,Mira Road,Residential,6000000,Semi-Furnished,2,2,Individual,0,0,0,2,450.0,Maharashtra,Carpet Area
+Mumbai,Worli,Residential,140000000,Unfurnished,4,5,Connected,1,1,1,3,1940.0,Maharashtra,Carpet Area
+Mumbai,Bhayandar East,Residential,11200000,Unfurnished,2,3,Room-attached,0,0,1,1,751.0,Maharashtra,Built-up Area
+Mumbai,Penkarpada,Residential,11700000,Unfurnished,2,3,Connected,0,1,1,1,620.0,Maharashtra,Carpet Area
+Mumbai,Worli,Residential,42500000,Furnished,2,2,Connected,0,0,0,1,950.0,Maharashtra,Carpet Area
+Mumbai,Goregaon East,Residential,61500000,Unfurnished,2,3,Connected,1,1,1,1,1736.0,Maharashtra,Carpet Area
+Mumbai,Jankalyan Nagar,Residential,16000000,Unfurnished,2,2,Individual,1,1,1,1,650.0,Maharashtra,Carpet Area
+Mumbai,Goregaon West,Residential,19000000,Semi-Furnished,2,2,"Connected,Individual,Room-attached",0,0,0,1,672.0,Maharashtra,Carpet Area
+Mumbai,Chembur,Residential,6800000,Semi-Furnished,2,2,Connected,0,0,0,1,309.0,Maharashtra,Carpet Area
+Mumbai,Andheri East,Residential,36000000,Unfurnished,3,3,Connected,0,1,1,2,1120.0,Maharashtra,Carpet Area
+Mumbai,Sion,Residential,30000000,Unfurnished,3,3,Connected,0,0,1,1,1155.0,Maharashtra,Carpet Area
+Mumbai,Sion,Residential,29600000,Unfurnished,3,3,Connected,0,0,1,1,850.0,Maharashtra,Carpet Area
+Mumbai,Sion,Residential,20000000,Unfurnished,2,2,Connected,0,0,1,1,1215.0,Maharashtra,Built-up Area
+Mumbai,Chembur,Residential,10500000,Furnished,1,1,Individual,0,0,0,1,504.0,Maharashtra,Carpet Area
+Mumbai,Powai,Residential,68000000,Unfurnished,3,3,Individual,1,1,1,2,1447.0,Maharashtra,Carpet Area
+Mumbai,Sion,Residential,25500000,Furnished,2,2,Connected,0,0,0,1,770.0,Maharashtra,Carpet Area
+Mumbai,Sion,Residential,30000000,Unfurnished,3,3,Connected,0,0,1,1,1600.0,Maharashtra,Built-up Area
+Mumbai,Malad West,Residential,26700000,Semi-Furnished,2,3,Individual,0,0,0,1,799.0,Maharashtra,Carpet Area
+Mumbai,Powai,Residential,31000000,Furnished,3,3,Individual,0,0,0,1,1250.0,Maharashtra,Saleable Area
+Mumbai,Ketkipada,Residential,8500000,Semi-Furnished,2,2,Connected,0,0,0,2,875.0,Maharashtra,Carpet Area
+Mumbai,Malad West,Residential,12700000,Unfurnished,2,2,Connected,0,0,0,1,1000.0,Maharashtra,Carpet Area
+Mumbai,Prabhadevi,Residential,120000000,Unfurnished,4,4,Connected,1,1,1,3,1981.0,Maharashtra,Carpet Area
+Mumbai,Agar Bazar,Residential,250000000,Semi-Furnished,3,2,Room-attached,0,0,0,2,3140.0,Maharashtra,Carpet Area
+Mumbai,Andheri West,Residential,29000000,Semi-Furnished,2,2,Connected,0,0,0,2,793.0,Maharashtra,Carpet Area
+Mumbai,Lower Parel,Residential,75000000,Furnished,4,4,Connected,0,0,0,3,1470.0,Maharashtra,Carpet Area
+Mumbai,Oshiwara,Residential,25500000,Unfurnished,2,2,Connected,0,1,1,1,670.0,Maharashtra,Carpet Area
+Mumbai,Cotton Green,Residential,55000000,Semi-Furnished,3,2,Room-attached,0,0,0,2,1233.0,Maharashtra,Carpet Area
+Mumbai,Kasaravadi,Residential,105900000,Semi-Furnished,3,3,Room-attached,0,0,0,2,1900.0,Maharashtra,Carpet Area
+Mumbai,Gokhale Road,Residential,51000000,Furnished,3,3,Room-attached,0,0,0,2,1035.0,Maharashtra,Carpet Area
+Mumbai,Govind Nagar,Residential,26500000,Unfurnished,3,3,Room-attached,0,0,1,1,845.0,Maharashtra,Carpet Area
+Mumbai,Prabhadevi,Residential,41315005,Semi-Furnished,3,3,Connected,0,0,0,3,1300.0,Maharashtra,Carpet Area
+Mumbai,Andheri West,Residential,16000000,Semi-Furnished,1,2,Connected,0,0,0,1,390.0,Maharashtra,Carpet Area
+Mumbai,Malad West,Residential,26800000,Semi-Furnished,2,3,Individual,0,0,0,1,799.0,Maharashtra,Carpet Area
+Mumbai,Borivali East,Residential,16000000,Semi-Furnished,2,2,Room-attached,0,0,0,1,566.0,Maharashtra,Built-up Area
+Mumbai,Goregaon East,Residential,25000000,Furnished,2,2,Connected,0,0,0,2,785.0,Maharashtra,Carpet Area
+Mumbai,Parel,Residential,14500000,Unfurnished,2,2,Connected,1,0,1,3,666.0,Maharashtra,Built-up Area
+Mumbai,Goregaon West,Residential,14800000,Unfurnished,2,2,Connected,0,0,1,1,611.0,Maharashtra,Built-up Area
+Mumbai,Dadar East,Residential,70000000,Unfurnished,3,3,"Connected,Individual,Room-attached",0,1,1,2,2000.0,Maharashtra,Carpet Area
+Mumbai,Kanch Pada,Residential,12500000,Unfurnished,1,2,Individual,1,1,1,1,485.0,Maharashtra,Carpet Area
+Mumbai,Santacruz West,Residential,20000000,Furnished,2,3,Connected,0,0,0,2,700.0,Maharashtra,Built-up Area
+Mumbai,Lower Parel West,Residential,60000000,Semi-Furnished,3,3,Connected,0,0,0,3,2200.0,Maharashtra,Carpet Area
+Mumbai,Loyld's Estate,Residential,25000000,Semi-Furnished,2,2,Room-attached,0,0,0,1,684.0,Maharashtra,Carpet Area
+Mumbai,Malabar Hill,Residential,70000000,Semi-Furnished,3,3,Connected,0,0,0,3,1100.0,Maharashtra,Carpet Area
+Mumbai,Prabhadevi,Residential,63000000,Furnished,3,3,Connected,0,0,0,2,1530.0,Maharashtra,Carpet Area
+Mumbai,Tilak Nagar,Residential,17500000,Semi-Furnished,2,2,Connected,0,0,1,2,698.0,Maharashtra,Carpet Area
+Mumbai,Powai,Residential,17500000,Semi-Furnished,1,2,Individual,0,0,0,1,379.0,Maharashtra,Carpet Area
+Mumbai,Virar East,Residential,1300000,Unfurnished,1,1,Connected,0,0,1,0,330.0,Maharashtra,Built-up Area
+Mumbai,Worli,Residential,250000000,Semi-Furnished,4,2,Connected,0,0,0,3,3025.0,Maharashtra,Built-up Area
+Mumbai,Mira Road,Residential,9500000,Semi-Furnished,2,2,Individual,0,0,0,2,900.0,Maharashtra,Built-up Area
+Mumbai,Miragaon,Residential,7500000,Semi-Furnished,2,2,Room-attached,0,0,0,2,682.0,Maharashtra,Carpet Area
+Mumbai,Virar East,Residential,3300000,Semi-Furnished,1,1,Room-attached,0,0,0,0,570.0,Maharashtra,Built-up Area
+Mumbai,Andheri West,Residential,16000000,Unfurnished,1,1,Connected,0,0,1,1,370.0,Maharashtra,Carpet Area
+Mumbai,Santacruz East,Residential,9600000,Unfurnished,2,1,Connected,0,0,1,0,255.0,Maharashtra,Carpet Area
+Mumbai,Virar West,Residential,3000000,Semi-Furnished,2,2,Connected,0,0,0,0,615.0,Maharashtra,Saleable Area
+Mumbai,Yari Road,Residential,16000000,Semi-Furnished,1,2,Connected,0,0,0,1,410.0,Maharashtra,Carpet Area
+Mumbai,Lower Parel,Residential,65000000,Semi-Furnished,3,4,Connected,0,0,0,3,1092.0,Maharashtra,Carpet Area
+Mumbai,Virar West,Residential,4245000,Semi-Furnished,2,2,Connected,0,0,0,0,640.0,Maharashtra,Built-up Area
+Mumbai,Worli,Residential,94000000,Semi-Furnished,3,3,Connected,0,0,0,3,1457.0,Maharashtra,Carpet Area
+Mumbai,Parel,Residential,70000000,Semi-Furnished,3,3,Connected,0,0,0,3,2296.0,Maharashtra,Carpet Area
+Mumbai,Mahalaxmi,Residential,65000000,Semi-Furnished,3,3,Connected,0,0,0,3,1245.0,Maharashtra,Carpet Area
+Mumbai,Malad East,Residential,23000000,Furnished,2,2,Room-attached,0,0,0,1,1180.0,Maharashtra,Saleable Area
+Mumbai,Khar West,Residential,50000000,Unfurnished,2,2,Individual,0,0,1,1,1300.0,Maharashtra,Saleable Area
+Mumbai,Dahisar East,Residential,4700000,Semi-Furnished,2,2,Connected,0,0,0,2,585.0,Maharashtra,Saleable Area
+Mumbai,Andheri East,Residential,19500000,Unfurnished,2,2,Connected,0,0,0,2,605.0,Maharashtra,Carpet Area
+Mumbai,Nalasopara West,Residential,2600000,Unfurnished,1,1,Connected,0,0,1,2,535.0,Maharashtra,Built-up Area
+Mumbai,Prabhadevi,Residential,20000000,Unfurnished,1,1,Individual,0,0,0,1,450.0,Maharashtra,Carpet Area
+Mumbai,Virar West,Residential,4100000,Semi-Furnished,2,2,Connected,0,0,0,2,753.0,Maharashtra,Built-up Area
+Mumbai,Mira Road,Residential,9700000,Unfurnished,2,2,Connected,1,1,1,1,620.0,Maharashtra,Carpet Area
+Mumbai,Khar West,Residential,36600000,Unfurnished,2,2,Connected,0,0,0,1,693.0,Maharashtra,Carpet Area
+Mumbai,Worli,Residential,250000000,Semi-Furnished,4,2,Connected,0,0,0,3,3464.0,Maharashtra,Built-up Area
+Mumbai,Mira Road,Residential,11500000,Furnished,2,2,Room-attached,0,0,0,1,9495.0,Maharashtra,Saleable Area
+Mumbai,Goregaon East,Residential,27500000,Unfurnished,2,2,Connected,1,1,1,2,932.0,Maharashtra,Carpet Area
+Mumbai,Lower Parel West,Residential,70000000,Furnished,3,3,Connected,0,0,0,3,1100.0,Maharashtra,Carpet Area
+Mumbai,Kanch Pada,Residential,12100000,Unfurnished,1,2,Individual,1,1,1,1,485.0,Maharashtra,Carpet Area
+Mumbai,Vasai East,Residential,4000000,Unfurnished,1,2,Connected,0,0,0,0,375.0,Maharashtra,Carpet Area
+Mumbai,Chembur,Residential,10500000,Unfurnished,1,2,Connected,1,1,1,1,405.0,Maharashtra,Carpet Area
+Mumbai,Chandivali,Residential,28500000,Unfurnished,2,3,Individual,1,1,1,2,1340.0,Maharashtra,Saleable Area
+Mumbai,Mira Road,Residential,9500000,Unfurnished,2,2,Room-attached,0,0,1,1,1000.0,Maharashtra,Built-up Area
+Mumbai,Jogeshwari West,Residential,41315005,Semi-Furnished,3,2,Connected,0,0,0,2,1295.0,Maharashtra,Built-up Area
+Mumbai,Kanjurmarg East,Residential,1600000,Furnished,3,2,Connected,0,0,0,0,1445.0,Maharashtra,Built-up Area
+Mumbai,Worli,Residential,390000000,Furnished,2,4,"Connected,Individual",0,0,0,4,3702.0,Maharashtra,Carpet Area
+Mumbai,Andheri East,Residential,18000000,Unfurnished,2,2,Connected,0,0,0,2,570.0,Maharashtra,Carpet Area
+Mumbai,Nalasopara West,Residential,3500000,Unfurnished,1,2,Connected,0,0,0,2,660.0,Maharashtra,Built-up Area
+Mumbai,Sion,Residential,15500000,Unfurnished,1,2,Connected,1,1,1,1,538.0,Maharashtra,Built-up Area
+Mumbai,Geeta Nagar,Residential,4168000,Unfurnished,1,2,Connected,1,1,1,1,397.0,Maharashtra,Carpet Area
+Mumbai,Lower Parel West,Residential,55000000,Semi-Furnished,3,3,Connected,0,0,0,3,1000.0,Maharashtra,Carpet Area
+Mumbai,Mahalaxmi,Residential,80000000,Semi-Furnished,3,3,Connected,0,0,0,3,1650.0,Maharashtra,Carpet Area
+Mumbai,Prabhadevi,Residential,41315005,Semi-Furnished,3,3,Connected,0,0,0,3,1250.0,Maharashtra,Carpet Area
+Mumbai,Mira Road,Residential,6600000,Unfurnished,2,2,Connected,0,0,0,1,430.0,Maharashtra,Carpet Area
+Mumbai,Chembur,Residential,18000000,Unfurnished,2,2,Connected,0,0,0,1,725.0,Maharashtra,Carpet Area
+Mumbai,Kandivali West,Residential,45000000,Furnished,3,3,Room-attached,0,0,0,2,1100.0,Maharashtra,Carpet Area
+Mumbai,Malad East,Residential,12000000,Unfurnished,1,1,Connected,0,0,0,1,415.0,Maharashtra,Carpet Area
+Mumbai,Borivali West,Residential,9900000,Semi-Furnished,2,2,Connected,0,0,0,1,400.0,Maharashtra,Carpet Area
+Mumbai,Mira Road,Residential,6200000,Unfurnished,2,2,Connected,0,0,0,0,575.0,Maharashtra,Saleable Area
+Mumbai,Worli,Residential,65000000,Furnished,3,4,Connected,0,0,0,2,1400.0,Maharashtra,Carpet Area
+Mumbai,Lower Parel,Residential,110000000,Semi-Furnished,4,4,Connected,0,0,0,3,2167.0,Maharashtra,Carpet Area
+Mumbai,Worli,Residential,100000000,Semi-Furnished,3,3,Connected,0,0,0,3,1350.0,Maharashtra,Carpet Area
+Mumbai,Malad East,Residential,7500000,Semi-Furnished,1,1,Connected,0,0,0,3,346.0,Maharashtra,Carpet Area
+Mumbai,Kandivali West,Residential,9500000,Unfurnished,2,2,Room-attached,0,0,1,2,330.0,Maharashtra,Carpet Area
+Mumbai,Vasai East,Residential,3500000,Semi-Furnished,2,2,Connected,0,0,0,2,420.0,Maharashtra,Carpet Area
+Mumbai,Vasai West,Residential,8700000,Semi-Furnished,3,3,Individual,0,0,0,7,1250.0,Maharashtra,Built-up Area
+Mumbai,Bhayandar East,Residential,5500000,Semi-Furnished,2,1,Connected,0,0,0,1,500.0,Maharashtra,Carpet Area
+Mumbai,Sion,Residential,13500000,Unfurnished,1,2,Connected,0,0,0,1,485.0,Maharashtra,Carpet Area
+Mumbai,Mira Road,Residential,6600000,Unfurnished,2,2,"Connected,Room-attached",1,0,1,1,510.0,Maharashtra,Carpet Area
+Mumbai,Andheri East,Residential,31500000,Unfurnished,3,3,Connected,0,0,0,2,930.0,Maharashtra,Carpet Area
+Mumbai,Mira Road,Residential,5750000,Semi-Furnished,2,2,Individual,0,0,0,2,400.0,Maharashtra,Saleable Area
+Mumbai,Mira Road,Residential,10500000,Semi-Furnished,2,2,Room-attached,1,0,1,0,1125.0,Maharashtra,Saleable Area
+Mumbai,Vasai East,Residential,3600000,Semi-Furnished,2,2,Individual,0,0,0,1,416.0,Maharashtra,Carpet Area
+Mumbai,Andheri West,Residential,41315005,Unfurnished,3,3,Connected,0,0,0,1,1101.0,Maharashtra,Built-up Area
+Mumbai,Andheri West,Residential,15000000,Semi-Furnished,1,2,Connected,0,0,0,1,435.0,Maharashtra,Carpet Area
+Mumbai,Matunga East,Residential,35900000,Unfurnished,2,2,Connected,1,1,1,1,858.0,Maharashtra,Carpet Area
+Mumbai,Santacruz West,Residential,80000000,Unfurnished,2,3,Connected,0,0,1,2,1221.0,Maharashtra,Carpet Area
+Mumbai,Malad East,Residential,33000000,Semi-Furnished,3,3,Connected,0,0,0,2,1750.0,Maharashtra,Saleable Area
+Mumbai,Dahisar West,Residential,9900000,Unfurnished,2,2,Connected,0,0,1,1,404.0,Maharashtra,Carpet Area
+Mumbai,Virar West,Residential,4100000,Semi-Furnished,1,2,Individual,0,0,0,1,425.0,Maharashtra,Carpet Area
+Mumbai,Goregaon West,Residential,16500000,Unfurnished,2,2,Connected,0,0,1,1,714.0,Maharashtra,Built-up Area
+Mumbai,Mira Road East,Residential,7500000,Unfurnished,1,2,Room-attached,1,1,1,1,650.0,Maharashtra,Built-up Area
+Mumbai,Chembur,Residential,13500000,Semi-Furnished,1,2,Connected,0,1,1,1,447.0,Maharashtra,Carpet Area
+Mumbai,Sion,Residential,20500000,Unfurnished,2,2,Connected,0,0,1,1,653.0,Maharashtra,Carpet Area
+Mumbai,Khar East,Residential,44000000,Furnished,2,1,Connected,0,0,0,1,410.0,Maharashtra,Built-up Area
+Mumbai,Worli,Residential,70000000,Semi-Furnished,3,3,Connected,0,0,0,3,1783.0,Maharashtra,Carpet Area
+Mumbai,Goregaon East,Residential,3500000,Furnished,1,1,Connected,0,0,0,1,227.0,Maharashtra,Built-up Area
+Mumbai,Byculla,Residential,24500000,Unfurnished,2,2,Connected,1,1,1,1,635.0,Maharashtra,Carpet Area
+Mumbai,Hindu Colony,Residential,52500000,Semi-Furnished,3,2,Room-attached,0,0,0,1,975.0,Maharashtra,Carpet Area
+Mumbai,Bhandup West,Residential,4100000,Unfurnished,1,1,Individual,0,0,0,0,215.0,Maharashtra,Carpet Area
+Mumbai,Andheri West,Residential,55000000,Semi-Furnished,3,3,"Individual,Room-attached",0,0,0,2,1060.0,Maharashtra,Carpet Area
+Mumbai,Malad East,Residential,32500000,Unfurnished,3,3,Individual,1,0,0,1,1110.0,Maharashtra,Carpet Area
+Mumbai,Naigaon East,Residential,3775000,Semi-Furnished,1,2,Individual,0,0,0,1,411.0,Maharashtra,Carpet Area
+Mumbai,Mira Road,Residential,6975000,Semi-Furnished,2,2,Individual,0,0,0,2,850.0,Maharashtra,Saleable Area
+Mumbai,Mira Road,Residential,6300000,Semi-Furnished,2,2,Connected,0,0,0,2,386.0,Maharashtra,Carpet Area
+Mumbai,Worli,Residential,250000000,Semi-Furnished,4,2,Connected,0,0,0,3,3300.0,Maharashtra,Built-up Area
+Mumbai,Parel,Residential,53000000,Semi-Furnished,2,3,Connected,0,0,0,1,1082.0,Maharashtra,Carpet Area
+Mumbai,Chembur,Residential,33800000,Unfurnished,2,3,Connected,1,1,1,1,1065.0,Maharashtra,Carpet Area
+Mumbai,Borivali East,Residential,7500000,Semi-Furnished,1,1,Room-attached,0,0,0,1,380.0,Maharashtra,Built-up Area
+Mumbai,Shivar Garden,Residential,9483000,Unfurnished,2,2,Connected,1,1,1,1,654.0,Maharashtra,Carpet Area
+Mumbai,Dahisar East,Residential,6500000,Semi-Furnished,1,1,Room-attached,0,0,0,1,260.0,Maharashtra,Built-up Area
+Mumbai,Bandra East,Residential,62000000,Furnished,3,3,Connected,0,0,0,3,1230.0,Maharashtra,Carpet Area
+Mumbai,Malad West,Residential,11000000,Furnished,1,2,Room-attached,0,0,0,1,450.0,Maharashtra,Carpet Area
+Mumbai,Andheri West,Residential,31200000,Unfurnished,2,2,Connected,0,0,0,1,780.0,Maharashtra,Carpet Area
+Mumbai,Bhandup West,Residential,7000000,Unfurnished,1,2,Individual,0,0,1,2,360.0,Maharashtra,Carpet Area
+Mumbai,Chunnabhatti,Residential,15200000,Semi-Furnished,1,2,Connected,0,0,0,1,580.0,Maharashtra,Carpet Area
+Mumbai,Chunnabhatti,Residential,15500000,Semi-Furnished,1,2,Connected,0,0,0,1,580.0,Maharashtra,Carpet Area
+Mumbai,Chembur,Residential,12000000,Furnished,2,1,Individual,0,0,0,1,466.0,Maharashtra,Carpet Area
+Mumbai,Naigaon East,Residential,3600000,Semi-Furnished,1,2,Connected,0,0,0,2,407.0,Maharashtra,Carpet Area
+Mumbai,Chunnabhatti,Residential,8200000,Unfurnished,1,2,Connected,0,0,0,0,321.0,Maharashtra,Carpet Area
+Mumbai,Worli,Residential,250000000,Semi-Furnished,4,2,Connected,0,0,0,3,3121.0,Maharashtra,Built-up Area
+Mumbai,Andheri West,Residential,9800000,Furnished,1,1,Room-attached,0,0,0,1,309.0,Maharashtra,Built-up Area
+Mumbai,Sion,Residential,25900000,Furnished,2,2,Connected,0,0,0,1,770.0,Maharashtra,Carpet Area
+Mumbai,Sion,Residential,27900000,Unfurnished,3,3,Connected,0,0,1,1,1000.0,Maharashtra,Carpet Area
+Mumbai,Virar West,Residential,4400000,Semi-Furnished,1,2,Individual,0,0,0,1,435.0,Maharashtra,Carpet Area
+Mumbai,Andheri West,Residential,61000000,Semi-Furnished,3,3,Connected,0,0,0,2,1800.0,Maharashtra,Built-up Area
+Mumbai,Mira Road,Residential,7300000,Semi-Furnished,2,1,Connected,0,0,0,1,540.0,Maharashtra,Saleable Area
+Mumbai,Sion,Residential,25000000,Furnished,2,2,Connected,0,0,0,1,770.0,Maharashtra,Carpet Area
+Mumbai,Kandivali East,Residential,23500000,Unfurnished,2,2,Individual,1,0,1,1,700.0,Maharashtra,Carpet Area
+Mumbai,Mira Road,Residential,7000000,Unfurnished,1,1,Individual,1,1,0,1,457.0,Maharashtra,Carpet Area
+Mumbai,Naigaon East,Residential,2300000,Semi-Furnished,1,1,Connected,0,0,0,2,500.0,Maharashtra,Built-up Area
+Mumbai,Parel,Residential,45000000,Semi-Furnished,3,3,Connected,0,0,0,3,1400.0,Maharashtra,Carpet Area
+Mumbai,Worli,Residential,50000000,Furnished,3,3,Connected,0,0,0,3,1050.0,Maharashtra,Carpet Area
+Mumbai,Borivali West,Residential,11500000,Semi-Furnished,1,2,Individual,0,0,0,1,398.0,Maharashtra,Carpet Area
+Mumbai,Sion West,Residential,50000000,Unfurnished,3,3,Connected,0,1,1,2,1310.0,Maharashtra,Carpet Area
+Mumbai,Goregaon West,Residential,15500000,Unfurnished,2,2,Connected,0,0,1,1,649.0,Maharashtra,Built-up Area
+Mumbai,Nalasopara West,Residential,4400000,Semi-Furnished,2,2,"Individual,Room-attached",0,0,0,4,362.0,Maharashtra,Carpet Area
+Mumbai,Upper Parel,Residential,55000000,Semi-Furnished,3,2,Room-attached,0,0,0,1,1000.0,Maharashtra,Carpet Area
+Mumbai,Ic Colony,Residential,7500000,Unfurnished,1,1,Connected,0,0,0,0,285.0,Maharashtra,Carpet Area
+Mumbai,Andheri West,Residential,12500000,Furnished,1,1,Connected,0,0,0,0,286.0,Maharashtra,Carpet Area
+Mumbai,Mira Road,Residential,9855000,Unfurnished,2,2,Room-attached,0,0,1,1,1095.0,Maharashtra,Built-up Area
+Mumbai,Naigaon East,Residential,2300000,Semi-Furnished,1,1,Connected,0,0,0,2,550.0,Maharashtra,Built-up Area
+Mumbai,Mahalaxmi,Residential,125000000,Semi-Furnished,4,4,Connected,0,0,0,3,2305.0,Maharashtra,Carpet Area
+Mumbai,Sion,Residential,14000000,Unfurnished,1,2,Connected,0,0,0,1,485.0,Maharashtra,Carpet Area
+Mumbai,Virar East,Residential,2000000,Unfurnished,1,1,Connected,0,0,1,0,375.0,Maharashtra,Built-up Area
+Mumbai,Lower Parel,Residential,141200000,Furnished,5,5,Connected,0,0,0,4,5651.0,Maharashtra,Carpet Area
+Mumbai,Sion,Residential,25300000,Furnished,2,2,Connected,0,0,0,1,770.0,Maharashtra,Carpet Area
+Mumbai,Sion West,Residential,68000000,Unfurnished,3,3,Connected,0,1,1,2,1600.0,Maharashtra,Carpet Area
+Mumbai,Andheri West,Residential,36000000,Semi-Furnished,2,2,Individual,0,0,0,2,900.0,Maharashtra,Carpet Area
+Mumbai,Chunnabhatti,Residential,20000000,Unfurnished,3,3,Connected,0,0,1,1,738.0,Maharashtra,Carpet Area
+Mumbai,Goregaon West,Residential,41000000,Unfurnished,3,3,Individual,0,0,0,2,1243.0,Maharashtra,Carpet Area
+Mumbai,Wadala East,Residential,22000000,Semi-Furnished,2,2,Connected,0,0,0,1,967.0,Maharashtra,Carpet Area
+Mumbai,Mb Kowli Wadi,Residential,55000000,Semi-Furnished,3,2,Room-attached,0,0,0,2,1250.0,Maharashtra,Carpet Area
+Mumbai,Mira Road,Residential,9000000,Semi-Furnished,1,2,Room-attached,0,0,0,0,508.0,Maharashtra,Carpet Area
+Mumbai,Virar West,Residential,6000000,Semi-Furnished,2,1,Room-attached,0,0,0,0,1150.0,Maharashtra,Built-up Area
+Mumbai,Mira Road,Residential,7500000,Semi-Furnished,1,2,Room-attached,0,0,0,1,700.0,Maharashtra,Built-up Area
+Mumbai,Mira Road,Residential,9000000,Unfurnished,2,2,Room-attached,0,0,1,0,509.0,Maharashtra,Carpet Area
+Mumbai,Sewri,Residential,40000000,Semi-Furnished,2,2,Connected,0,0,0,1,840.0,Maharashtra,Carpet Area
+Mumbai,Prabhadevi,Residential,65000000,Unfurnished,2,3,Connected,1,0,1,2,1222.0,Maharashtra,Carpet Area
+Mumbai,Sion,Residential,20800000,Unfurnished,2,3,Connected,0,1,1,1,715.0,Maharashtra,Carpet Area
+Mumbai,Nalasopara West,Residential,2250000,Semi-Furnished,1,2,Connected,0,0,0,0,400.0,Maharashtra,Built-up Area
+Mumbai,Worli,Residential,140000000,Unfurnished,2,4,Connected,1,1,1,3,1930.0,Maharashtra,Carpet Area
+Mumbai,Virar East,Residential,3600000,Semi-Furnished,1,1,Room-attached,0,0,0,0,500.0,Maharashtra,Built-up Area
+Mumbai,Virar West,Residential,5500000,Semi-Furnished,2,2,Individual,0,0,0,2,671.0,Maharashtra,Carpet Area
+Mumbai,Malad East,Residential,7500000,Semi-Furnished,1,1,Connected,0,0,0,3,278.0,Maharashtra,Carpet Area
+Mumbai,Chembur,Residential,21000000,Unfurnished,2,2,Connected,0,0,1,2,950.0,Maharashtra,Built-up Area
+Mumbai,Jogeshwari West,Residential,41315005,Semi-Furnished,3,2,Connected,0,0,0,2,1286.0,Maharashtra,Built-up Area
+Mumbai,Powai,Residential,101500000,Semi-Furnished,4,4,"Connected,Individual,Room-attached",1,1,1,1,2062.0,Maharashtra,Saleable Area
+Mumbai,Vasai East,Residential,6000000,Semi-Furnished,2,1,Connected,0,0,0,3,860.0,Maharashtra,Built-up Area
+Mumbai,Mira Road,Residential,6099000,Semi-Furnished,1,1,Connected,0,0,0,0,650.0,Maharashtra,Built-up Area
+Mumbai,Vasai East,Residential,6500000,Semi-Furnished,2,2,Connected,0,0,0,2,542.0,Maharashtra,Carpet Area
+Mumbai,Lower Parel,Residential,42000000,Semi-Furnished,2,3,Connected,0,0,0,2,690.0,Maharashtra,Carpet Area
+Mumbai,Malabar Hill,Residential,41315005,Semi-Furnished,6,6,Connected,0,0,0,4,5000.0,Maharashtra,Carpet Area
+Mumbai,Bhayandar West,Residential,5500000,Unfurnished,1,1,Connected,0,0,1,1,550.0,Maharashtra,Built-up Area
+Mumbai,Goregaon West,Residential,14900000,Unfurnished,2,2,Connected,0,0,1,1,613.0,Maharashtra,Built-up Area
+Mumbai,Nariman Point,Residential,41315005,Semi-Furnished,3,3,Connected,0,0,0,2,992.0,Maharashtra,Carpet Area
+Mumbai,Kandivali East,Residential,12500000,Semi-Furnished,2,2,Individual,0,0,0,1,650.0,Maharashtra,Carpet Area
+Mumbai,Andheri West,Residential,14000000,Unfurnished,1,1,Connected,0,0,1,1,380.0,Maharashtra,Carpet Area
+Mumbai,Dahisar East,Residential,9500000,Unfurnished,1,1,Connected,0,0,1,1,420.0,Maharashtra,Carpet Area
+Mumbai,Worli,Residential,60000000,Furnished,3,3,Connected,0,0,0,1,1134.0,Maharashtra,Carpet Area
+Mumbai,Santacruz West,Residential,152500000,Furnished,2,4,Individual,0,0,0,2,2050.0,Maharashtra,Carpet Area
+Mumbai,Vasai East,Residential,5500000,Furnished,2,2,Connected,0,0,0,3,651.0,Maharashtra,Carpet Area
+Mumbai,Virar West,Residential,5500000,Semi-Furnished,2,2,Connected,0,0,0,1,660.0,Maharashtra,Carpet Area
+Mumbai,Lower Parel,Residential,15000000,Unfurnished,2,2,Individual,1,0,1,1,441.0,Maharashtra,Carpet Area
+Mumbai,Kandivali East,Residential,19400000,Unfurnished,2,2,Connected,0,1,1,1,1020.0,Maharashtra,Built-up Area
+Mumbai,Kandivali East,Residential,20300000,Unfurnished,2,2,Connected,1,1,1,1,1120.0,Maharashtra,Saleable Area
+Mumbai,Mira Road,Residential,6000000,Semi-Furnished,2,2,Connected,0,0,0,1,660.0,Maharashtra,Saleable Area
+Mumbai,Goregaon West,Residential,27500000,Semi-Furnished,2,2,Connected,0,0,1,1,1100.0,Maharashtra,Built-up Area
+Mumbai,Andheri West,Residential,85000000,Semi-Furnished,4,4,Connected,0,0,0,2,2150.0,Maharashtra,Carpet Area
+Mumbai,Mira Road East,Residential,9300000,Unfurnished,2,3,Connected,0,0,1,1,900.0,Maharashtra,Saleable Area
+Mumbai,Worli,Residential,250000000,Semi-Furnished,4,2,Connected,0,0,0,3,3319.0,Maharashtra,Built-up Area
+Mumbai,Kandivali West,Residential,11500000,Semi-Furnished,2,2,Connected,0,0,0,1,402.0,Maharashtra,Saleable Area
+Mumbai,Goregaon West,Residential,10000000,Unfurnished,1,2,Room-attached,1,0,1,1,428.0,Maharashtra,Carpet Area
+Mumbai,Dadar West,Residential,58000000,Semi-Furnished,3,3,Connected,0,0,0,3,1020.0,Maharashtra,Carpet Area
+Mumbai,Borivali East,Residential,25000000,Semi-Furnished,2,2,Individual,0,0,0,2,923.0,Maharashtra,Carpet Area
+Mumbai,Worli,Residential,63000000,Semi-Furnished,3,2,Connected,0,0,0,0,1000.0,Maharashtra,Carpet Area
+Mumbai,Powai,Commercial,0,Furnished,0,0,Connected,0,0,0,6,9998.0,Maharashtra,Built-up Area
+Mumbai,Chunnabhatti,Residential,8200000,Unfurnished,1,2,Connected,0,0,1,0,321.0,Maharashtra,Carpet Area
+Mumbai,Sion,Residential,20000000,Unfurnished,2,2,Connected,0,0,1,1,650.0,Maharashtra,Carpet Area
+Mumbai,Sion,Residential,20500000,Unfurnished,2,2,Connected,0,0,0,1,653.0,Maharashtra,Carpet Area
+Mumbai,Parel,Residential,17800000,Semi-Furnished,1,2,Connected,0,0,0,1,395.0,Maharashtra,Carpet Area
+Mumbai,Andheri West,Residential,34500000,Unfurnished,2,2,Connected,1,1,1,1,822.0,Maharashtra,Carpet Area
+Mumbai,Mira Road,Residential,9000000,Semi-Furnished,2,2,Room-attached,0,0,0,1,1000.0,Maharashtra,Saleable Area
+Mumbai,Virar East,Residential,3300000,Semi-Furnished,1,1,Room-attached,0,0,0,1,550.0,Maharashtra,Built-up Area
+Mumbai,Cumbala Hill,Residential,200000000,Semi-Furnished,4,3,Connected,0,0,0,2,2500.0,Maharashtra,Carpet Area
+Mumbai,Goregaon East,Residential,75000000,Semi-Furnished,4,5,Connected,0,0,0,2,2811.0,Maharashtra,Saleable Area
+Mumbai,Vasai East,Residential,4551000,Semi-Furnished,2,2,Connected,0,0,0,2,850.0,Maharashtra,Built-up Area
+Mumbai,Goregaon West,Residential,16500000,Unfurnished,2,2,Connected,0,0,1,1,713.0,Maharashtra,Built-up Area
+Mumbai,Dadar West,Residential,65000000,Semi-Furnished,3,3,Connected,0,0,0,3,1400.0,Maharashtra,Carpet Area
+Mumbai,Worli,Residential,250000000,Semi-Furnished,4,2,Connected,0,0,0,3,3385.0,Maharashtra,Built-up Area
+Mumbai,Malad West,Residential,15100000,Semi-Furnished,2,2,Individual,0,0,0,1,634.0,Maharashtra,Carpet Area
+Mumbai,Powai,Residential,26000000,Semi-Furnished,2,2,Connected,0,0,0,1,820.0,Maharashtra,Carpet Area
+Mumbai,Goregaon West,Residential,13000000,Unfurnished,2,2,Connected,0,0,0,1,420.0,Maharashtra,Carpet Area
+Mumbai,Sewri,Residential,37500000,Semi-Furnished,2,2,Connected,0,0,0,0,700.0,Maharashtra,Built-up Area
+Mumbai,Goregaon West,Residential,27500000,Semi-Furnished,2,2,Individual,0,0,0,1,710.0,Maharashtra,Saleable Area
+Mumbai,Prabhadevi,Residential,105000000,Furnished,3,3,Individual,0,0,0,2,1800.0,Maharashtra,Carpet Area
+Mumbai,Kadam Nagar,Residential,19000000,Semi-Furnished,2,2,Individual,0,0,0,1,635.0,Maharashtra,Carpet Area
+Mumbai,Mira Road,Residential,12000000,Unfurnished,2,2,Room-attached,1,1,1,1,1000.0,Maharashtra,Built-up Area
+Mumbai,Kandivali East,Residential,5600000,Unfurnished,1,1,Connected,0,0,0,0,250.0,Maharashtra,Carpet Area
+Mumbai,Vasai East,Residential,6100000,Semi-Furnished,2,2,Connected,0,0,0,3,860.0,Maharashtra,Built-up Area
+Mumbai,Andheri West,Residential,37500000,Semi-Furnished,2,3,Connected,0,0,0,1,1600.0,Maharashtra,Saleable Area
+Mumbai,Tardeo,Residential,140000000,Semi-Furnished,3,3,Connected,0,0,0,3,1679.0,Maharashtra,Carpet Area
+Mumbai,Bhandup West,Residential,9500000,Furnished,2,2,Connected,0,0,0,2,595.0,Maharashtra,Saleable Area
+Mumbai,Vasai East,Residential,6000000,Furnished,2,2,Connected,0,0,0,2,1011.0,Maharashtra,Built-up Area
+Mumbai,Jogeshwari East,Residential,10900000,Unfurnished,1,1,Connected,0,0,0,0,384.0,Maharashtra,Carpet Area
+Mumbai,Mahalaxmi,Residential,103000000,Semi-Furnished,3,4,Connected,0,0,0,3,1451.0,Maharashtra,Carpet Area
+Mumbai,Malad East,Residential,24500000,Furnished,2,2,"Connected,Individual,Room-attached",0,0,0,1,743.0,Maharashtra,Saleable Area
+Mumbai,Matunga West,Residential,25000000,Semi-Furnished,2,2,Connected,0,0,0,1,515.0,Maharashtra,Carpet Area
+Mumbai,Kurla,Residential,12000000,Unfurnished,2,2,Connected,0,0,1,2,560.0,Maharashtra,Carpet Area
+Mumbai,Chembur,Residential,16000000,Unfurnished,2,2,Connected,1,1,1,0,572.0,Maharashtra,Carpet Area
+Mumbai,Andheri East,Residential,14000000,Unfurnished,1,1,Connected,0,0,0,2,460.0,Maharashtra,Carpet Area
+Mumbai,Goregaon West,Residential,18500000,Unfurnished,2,2,Connected,0,0,0,1,720.0,Maharashtra,Carpet Area
+Mumbai,Vasai East,Residential,4999000,Semi-Furnished,2,2,Connected,0,0,0,3,555.0,Maharashtra,Carpet Area
+Mumbai,Versova,Residential,40000000,Furnished,2,2,Connected,0,0,0,1,720.0,Maharashtra,Carpet Area
+Mumbai,Khar West,Residential,42500000,Semi-Furnished,2,2,Connected,0,0,0,1,749.0,Maharashtra,Carpet Area
+Mumbai,Wadala,Residential,30200000,Unfurnished,2,2,Connected,0,0,0,2,725.0,Maharashtra,Built-up Area
+Mumbai,Ic Colony,Residential,26500000,Unfurnished,3,3,Room-attached,0,0,0,1,845.0,Maharashtra,Carpet Area
+Mumbai,Mira Road,Residential,11800000,Furnished,2,2,Room-attached,0,0,0,1,567.0,Maharashtra,Carpet Area
+Mumbai,Mira Road,Residential,7500000,Furnished,1,2,Room-attached,0,0,0,0,700.0,Maharashtra,Built-up Area
+Mumbai,Andheri West,Residential,75000000,Semi-Furnished,2,2,Connected,0,0,0,2,1658.0,Maharashtra,Carpet Area
+Mumbai,Virar West,Residential,3799000,Furnished,1,2,Connected,0,0,0,0,363.0,Maharashtra,Carpet Area
+Mumbai,Dalvi Nagar,Residential,14200000,Unfurnished,1,2,Connected,1,0,1,1,421.0,Maharashtra,Carpet Area
+Mumbai,Vasai East,Residential,6000000,Semi-Furnished,2,2,Connected,0,0,0,3,599.0,Maharashtra,Carpet Area
+Mumbai,Vasai East,Residential,6400000,Semi-Furnished,2,2,Connected,0,0,0,3,755.0,Maharashtra,Saleable Area
+Mumbai,Mira Road,Residential,6200000,Semi-Furnished,1,2,Individual,0,0,0,2,715.0,Maharashtra,Saleable Area
+Mumbai,Mira Road,Residential,7200000,Furnished,1,2,Room-attached,0,0,0,1,453.0,Maharashtra,Carpet Area
+Mumbai,Worli,Residential,250000000,Semi-Furnished,4,2,Connected,0,0,0,3,3200.0,Maharashtra,Built-up Area
+Mumbai,Goregaon East,Residential,14500000,Unfurnished,2,2,Connected,1,1,1,1,675.0,Maharashtra,Carpet Area
+Mumbai,Mira Road,Residential,18500000,Semi-Furnished,2,3,Room-attached,0,0,0,1,915.0,Maharashtra,Carpet Area
+Mumbai,Mira Road,Residential,8500000,Furnished,2,2,Room-attached,0,0,0,0,900.0,Maharashtra,Saleable Area
+Mumbai,Lower Parel,Residential,35000000,Semi-Furnished,2,2,Connected,0,0,0,2,680.0,Maharashtra,Carpet Area
+Mumbai,Virar West,Residential,7200000,Semi-Furnished,2,2,Connected,0,0,0,1,1010.0,Maharashtra,Saleable Area
+Mumbai,Dadar West,Residential,150000000,Semi-Furnished,5,6,Connected,0,0,0,4,3000.0,Maharashtra,Carpet Area
+Mumbai,Lower Parel,Residential,16000000,Semi-Furnished,1,2,Connected,0,0,0,0,460.0,Maharashtra,Carpet Area
+Mumbai,Mulund West,Residential,14000000,Semi-Furnished,2,2,Connected,0,0,0,2,700.0,Maharashtra,Built-up Area
+Mumbai,Malad West,Residential,26900000,Semi-Furnished,2,3,Individual,0,0,0,1,799.0,Maharashtra,Carpet Area
+Mumbai,Worli,Residential,290000000,Unfurnished,5,5,Connected,1,1,1,4,2826.0,Maharashtra,Carpet Area
+Mumbai,Malad West,Residential,27600000,Semi-Furnished,2,2,Individual,0,0,0,1,805.0,Maharashtra,Carpet Area
+Mumbai,Mira Road,Residential,17500000,Furnished,3,2,Room-attached,0,0,0,0,1450.0,Maharashtra,Built-up Area
+Mumbai,Parel,Residential,50000000,Semi-Furnished,2,2,Individual,0,0,0,1,1010.0,Maharashtra,Built-up Area
+Mumbai,Chembur,Residential,17000000,Semi-Furnished,2,2,Connected,0,0,0,1,670.0,Maharashtra,Carpet Area
+Mumbai,Worli,Residential,41315005,Semi-Furnished,3,3,Connected,0,0,0,3,1334.0,Maharashtra,Carpet Area
+Mumbai,Chandivali,Residential,17500000,Semi-Furnished,2,2,Individual,0,0,0,5,900.0,Maharashtra,Saleable Area
+Mumbai,Mira Road,Residential,14000000,Semi-Furnished,2,3,Connected,0,0,0,2,824.0,Maharashtra,Carpet Area
+Mumbai,Goregaon East,Residential,43000000,Semi-Furnished,2,3,Connected,0,0,0,2,950.0,Maharashtra,Built-up Area
+Mumbai,Malad West,Residential,40000000,Unfurnished,2,3,Room-attached,1,1,1,2,867.0,Maharashtra,Carpet Area
+Mumbai,Goregaon West,Residential,15000000,Unfurnished,2,2,Connected,0,0,1,1,613.0,Maharashtra,Built-up Area
+Mumbai,Andheri East,Residential,17500000,Unfurnished,2,2,Connected,1,1,1,1,620.0,Maharashtra,Carpet Area
+Mumbai,Worli,Residential,32500000,Furnished,2,2,"Connected,Individual,Room-attached",0,0,0,2,1000.0,Maharashtra,Built-up Area
+Mumbai,Worli,Residential,250000000,Semi-Furnished,4,2,Connected,0,0,0,3,3000.0,Maharashtra,Built-up Area
+Mumbai,Prabhadevi,Residential,160000000,Unfurnished,4,4,Connected,1,1,1,3,2080.0,Maharashtra,Carpet Area
+Mumbai,Goregaon West,Residential,58500000,Semi-Furnished,3,3,Connected,0,0,0,2,1455.0,Maharashtra,Carpet Area
+Mumbai,Mira Road,Residential,10600000,Semi-Furnished,2,2,Connected,0,0,0,1,1025.0,Maharashtra,Saleable Area
+Mumbai,Sion,Residential,34500000,Unfurnished,3,3,Connected,1,1,1,1,972.0,Maharashtra,Carpet Area
+Mumbai,Lower Parel,Residential,71600000,Unfurnished,3,3,Connected,0,0,1,3,1197.0,Maharashtra,Carpet Area
+Mumbai,Parel,Residential,55000000,Unfurnished,3,3,Connected,1,0,1,1,1000.0,Maharashtra,Built-up Area
+Mumbai,Kandivali East,Residential,19500000,Unfurnished,2,2,Individual,1,1,1,1,650.0,Maharashtra,Carpet Area
+Mumbai,Virar West,Residential,6500000,Semi-Furnished,2,2,Individual,0,0,0,3,530.0,Maharashtra,Carpet Area
+Mumbai,Wadala,Residential,23500000,Semi-Furnished,2,2,Connected,0,0,0,1,684.0,Maharashtra,Carpet Area
+Mumbai,Naigaon East,Residential,3400000,Semi-Furnished,1,1,Connected,0,0,0,2,590.0,Maharashtra,Built-up Area
+Mumbai,Dadar East,Residential,97500000,Semi-Furnished,2,4,Individual,0,0,0,2,1841.0,Maharashtra,Carpet Area
+Mumbai,Mira Road,Residential,7500000,Furnished,1,2,Room-attached,0,0,0,0,680.0,Maharashtra,Built-up Area
+Mumbai,Goregaon East,Residential,42900000,Semi-Furnished,3,3,Connected,0,0,0,2,1025.0,Maharashtra,Carpet Area
+Mumbai,Malad East,Residential,7500000,Semi-Furnished,1,1,Connected,0,0,0,3,359.0,Maharashtra,Carpet Area
+Mumbai,Goregaon West,Residential,15500000,Unfurnished,2,2,Connected,0,0,1,1,559.0,Maharashtra,Carpet Area
+Mumbai,Prabhadevi,Residential,145000000,Unfurnished,4,6,Connected,1,1,1,3,2132.0,Maharashtra,Carpet Area
+Mumbai,Dadar East,Residential,60000000,Furnished,3,4,Connected,0,0,0,3,1200.0,Maharashtra,Carpet Area
+Mumbai,Geeta Nagar,Residential,4168000,Semi-Furnished,1,2,Connected,0,0,0,1,397.0,Maharashtra,Saleable Area
+Mumbai,Andheri West,Residential,65000000,Semi-Furnished,3,3,Connected,0,0,0,2,1418.0,Maharashtra,Carpet Area
+Mumbai,Juhu,Residential,82000000,Semi-Furnished,3,3,Connected,0,0,0,2,1150.0,Maharashtra,Carpet Area
+Mumbai,Sion,Residential,15500000,Unfurnished,1,2,Connected,1,1,1,1,538.0,Maharashtra,Carpet Area
+Mumbai,Malad East,Residential,12500000,Semi-Furnished,1,2,Connected,0,0,0,1,395.0,Maharashtra,Carpet Area
+Mumbai,Worli,Residential,215000000,Furnished,4,4,Connected,0,0,0,3,2900.0,Maharashtra,Carpet Area
+Mumbai,Andheri West,Residential,110000000,Unfurnished,5,4,Connected,0,0,0,2,2500.0,Maharashtra,Carpet Area
+Mumbai,Santacruz West,Residential,71100000,Semi-Furnished,3,3,Connected,0,0,0,2,1266.0,Maharashtra,Carpet Area
+Mumbai,Andheri West,Residential,60000000,Semi-Furnished,2,3,Connected,0,0,0,2,1116.0,Maharashtra,Carpet Area
+Mumbai,Andheri West,Residential,32100000,Semi-Furnished,2,2,Connected,0,0,0,1,780.0,Maharashtra,Carpet Area
+Mumbai,Santacruz West,Residential,110000000,Semi-Furnished,3,3,Connected,0,0,0,2,2210.0,Maharashtra,Carpet Area
+Mumbai,Khar West,Residential,80000000,Semi-Furnished,3,3,Connected,0,0,0,2,1090.0,Maharashtra,Carpet Area
+Mumbai,Mahalaxmi,Residential,85000000,Semi-Furnished,3,4,Connected,0,0,0,3,1850.0,Maharashtra,Carpet Area
+Mumbai,Goregaon West,Residential,23000000,Unfurnished,2,2,Individual,0,1,1,1,700.0,Maharashtra,Carpet Area
+Mumbai,Santacruz West,Residential,155000000,Unfurnished,2,5,Connected,0,1,1,3,2500.0,Maharashtra,Carpet Area
+Mumbai,Kandivali West,Residential,35000000,Unfurnished,3,2,Connected,1,0,0,1,1000.0,Maharashtra,Built-up Area
+Mumbai,Chunnabhatti,Residential,7300000,Unfurnished,1,2,Connected,0,0,1,0,288.0,Maharashtra,Carpet Area
+Mumbai,Worli,Residential,97500000,Unfurnished,3,4,Connected,0,1,1,2,1315.0,Maharashtra,Carpet Area
+Mumbai,Powai,Residential,41315005,Unfurnished,1,2,Connected,0,0,0,0,379.0,Maharashtra,Carpet Area
+Mumbai,Wadala,Residential,43000000,Unfurnished,3,2,Connected,1,1,1,2,1025.0,Maharashtra,Built-up Area
+Mumbai,Prabhadevi,Residential,34000000,Semi-Furnished,2,3,Connected,0,0,0,2,800.0,Maharashtra,Carpet Area
+Mumbai,Malad West,Residential,27500000,Semi-Furnished,2,2,Individual,0,0,0,1,805.0,Maharashtra,Carpet Area
+Mumbai,Worli,Residential,45000000,Unfurnished,2,2,Connected,0,1,1,1,985.0,Maharashtra,Built-up Area
+Mumbai,Sion,Residential,20000000,Unfurnished,2,2,Connected,0,0,1,1,653.0,Maharashtra,Carpet Area
+Mumbai,Sion West,Residential,85000000,Unfurnished,4,4,Connected,0,1,1,1,2230.0,Maharashtra,Carpet Area
+Mumbai,Nalasopara East,Residential,3900000,Semi-Furnished,2,2,Connected,0,0,0,1,690.0,Maharashtra,Carpet Area
+Mumbai,Mulund West,Residential,8500000,Semi-Furnished,1,2,Connected,0,0,0,2,525.0,Maharashtra,Built-up Area
+Mumbai,Worli,Residential,120000000,Unfurnished,2,4,Connected,0,1,1,3,1600.0,Maharashtra,Carpet Area
+Mumbai,Worli,Residential,61500000,Unfurnished,3,3,Connected,0,0,0,2,975.0,Maharashtra,Carpet Area
+Mumbai,Kandivali East,Residential,24000000,Semi-Furnished,2,2,Individual,0,0,0,1,700.0,Maharashtra,Carpet Area
+Mumbai,Chunnabhatti,Residential,7229000,Unfurnished,1,2,Connected,0,0,1,0,288.0,Maharashtra,Carpet Area
+Mumbai,Goregaon West,Residential,47500000,Unfurnished,2,2,Connected,0,0,0,2,1317.0,Maharashtra,Carpet Area
+Mumbai,Lower Parel,Residential,92500000,Semi-Furnished,2,2,Individual,0,0,0,2,1450.0,Maharashtra,Carpet Area
+Mumbai,Kanch Pada,Residential,16900000,Unfurnished,2,2,Individual,0,0,0,1,695.0,Maharashtra,Carpet Area
+Mumbai,Andheri West,Residential,14500000,Unfurnished,1,1,Connected,0,0,1,0,380.0,Maharashtra,Carpet Area
+Mumbai,Malad East,Residential,30000000,Furnished,2,2,Connected,0,0,0,1,1180.0,Maharashtra,Saleable Area
+Mumbai,Mohan Nagar,Residential,21500000,Semi-Furnished,2,2,Connected,0,0,0,1,615.0,Maharashtra,Carpet Area
+Mumbai,Goregaon West,Residential,26000000,Unfurnished,2,2,Connected,0,0,1,1,800.0,Maharashtra,Carpet Area
+Mumbai,Vile Parle West,Residential,80000000,Unfurnished,4,4,Connected,0,0,0,2,1750.0,Maharashtra,Carpet Area
+Mumbai,Andheri West,Residential,80000000,Semi-Furnished,3,3,Connected,0,0,0,4,1289.0,Maharashtra,Carpet Area
+Mumbai,Vasai West,Residential,3990000,Semi-Furnished,1,2,Individual,0,0,0,8,464.0,Maharashtra,Carpet Area
+Mumbai,Andheri West,Residential,55000000,Unfurnished,2,2,Connected,0,0,0,1,1250.0,Maharashtra,Carpet Area
+Mumbai,Mahalaxmi,Residential,99700000,Semi-Furnished,2,4,"Connected,Individual",0,0,0,1,1797.0,Maharashtra,Carpet Area
+Mumbai,Suman Nagar,Residential,18000000,Unfurnished,2,2,Individual,0,0,1,1,611.0,Maharashtra,Carpet Area
+Mumbai,Kandivali West,Residential,15000000,Unfurnished,2,2,Connected,0,1,1,1,520.0,Maharashtra,Carpet Area
+Mumbai,Kanjurmarg West,Residential,16500000,Unfurnished,2,2,Connected,0,0,0,1,1035.0,Maharashtra,Saleable Area
+Mumbai,Kandivali East,Residential,13800000,Unfurnished,2,2,Connected,1,1,1,1,594.0,Maharashtra,Carpet Area
+Mumbai,Goregaon East,Residential,28000000,Furnished,2,2,Connected,0,0,0,1,744.0,Maharashtra,Carpet Area
+Mumbai,Andheri West,Residential,22000000,Unfurnished,2,3,Connected,1,1,1,1,727.0,Maharashtra,Carpet Area
+Mumbai,Mahalaxmi,Residential,70000000,Semi-Furnished,2,3,Connected,0,0,0,2,1256.0,Maharashtra,Carpet Area
+Mumbai,Virar West,Residential,4100000,Semi-Furnished,2,2,Connected,0,0,0,2,839.0,Maharashtra,Built-up Area
+Mumbai,Vasai East,Residential,3900000,Semi-Furnished,2,2,Connected,0,0,0,3,381.0,Maharashtra,Carpet Area
+Mumbai,Wadala,Residential,49900000,Furnished,3,2,Connected,0,0,0,2,1200.0,Maharashtra,Built-up Area
+Mumbai,Worli,Residential,85000000,Unfurnished,3,3,Connected,0,1,0,3,1138.0,Maharashtra,Carpet Area
+Mumbai,Worli,Residential,202000000,Semi-Furnished,4,4,Connected,0,0,0,1,2699.0,Maharashtra,Carpet Area
+Mumbai,Goregaon East,Residential,23000000,Unfurnished,2,2,"Connected,Individual,Room-attached",0,0,0,1,728.0,Maharashtra,Carpet Area
+Mumbai,Vasai East,Residential,3800000,Semi-Furnished,2,2,Connected,0,0,0,2,600.0,Maharashtra,Saleable Area
+Mumbai,Worli,Residential,165000000,Unfurnished,5,2,Connected,0,1,1,5,2255.0,Maharashtra,Carpet Area
+Mumbai,Malad West,Residential,26700000,Semi-Furnished,2,3,Individual,0,0,0,2,799.0,Maharashtra,Carpet Area
+Mumbai,Worli,Residential,99900000,Semi-Furnished,3,3,"Connected,Individual",0,0,0,1,1332.0,Maharashtra,Carpet Area
+Mumbai,Jay Prakash Nagar,Residential,1751000,Unfurnished,1,2,Connected,0,0,1,2,565.0,Maharashtra,Built-up Area
+Mumbai,Bandra West,Residential,110000000,Semi-Furnished,3,3,Connected,0,0,0,1,1990.0,Maharashtra,Carpet Area
+Mumbai,Powai,Residential,21000000,Unfurnished,3,3,Individual,0,1,1,1,1395.0,Maharashtra,Built-up Area
+Mumbai,Irani Wadi,Residential,20000000,Unfurnished,2,2,Connected,0,0,0,1,630.0,Maharashtra,Carpet Area
+Mumbai,Nalasopara East,Residential,3800000,Semi-Furnished,2,2,Connected,0,0,0,3,535.0,Maharashtra,Saleable Area
+Mumbai,Andheri West,Residential,59000000,Semi-Furnished,4,4,Connected,0,0,0,2,1900.0,Maharashtra,Built-up Area
+Mumbai,Andheri West,Residential,142500000,Semi-Furnished,4,4,"Individual,Room-attached",0,0,0,2,4300.0,Maharashtra,Carpet Area
+Mumbai,Mahalaxmi,Residential,90100000,Semi-Furnished,2,4,"Connected,Individual",0,0,0,1,1641.0,Maharashtra,Carpet Area
+Mumbai,Chunnabhatti,Residential,22500000,Semi-Furnished,3,2,Connected,0,0,0,1,780.0,Maharashtra,Carpet Area
+Mumbai,Khar West,Residential,120000000,Semi-Furnished,4,4,Connected,0,0,0,2,2200.0,Maharashtra,Carpet Area
