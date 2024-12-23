@@ -76,9 +76,10 @@ For questions or contributions, feel free to reach out to the team:
 - Shivam Mahajan  
 
 ### **Emails**:  
-- [Ashish's Email](                   )  
-- [Krishna's Email](krishnaintoit@gmail.com)  
-- [Shivam's Email](mailto:shivam@example.com)  
+- [Ashish's Email](mailto:ashish@example.com)  
+- [Krishna's Email](mailto:krishnaintoit@gmail.com)  
+- [Shivam's Email](mailto:shivam@example.com)
+ 
 
 ### **GitHub Profiles**:  
 - [Ashish's GitHub](https://github.com/ashish-github)  
