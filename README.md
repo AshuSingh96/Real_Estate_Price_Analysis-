@@ -66,7 +66,7 @@ To explore the data interactively, open the Power BI dashboard file (.pbix).
 ---
 
 ## **Team Logo**
-<img src="group_logo.jpg" alt="Project Logo" width="150"/>
+<img src = "https://github.com/AshuSingh96/Real_Estate_Price_Analysis/blob/main/project_logo.jpg" alt="Team Logo"  width="150"/>)
 
 ## 📧 **Contact**  
 For questions or contributions, feel free to reach out to the team:  
