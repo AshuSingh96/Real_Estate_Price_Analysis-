@@ -1,7 +1,18 @@
-# 🏠 **Real Estate Price Prediction Analysis**
+ <p align="center">
+  <img src = "https://github.com/AshuSingh96/Real_Estate_Price_Analysis/blob/main/project_logo.jpg" alt="Team Logo" alt="Image Description" width="150" />
+</p>
+<h1 align="center">
+  <strong>🏠 Real Estate Price Prediction Analysis</strong>
+</h1>
 
-## 🏡 **Project Overview**  
-This project focuses on analyzing historical real estate pricing data to forecast future trends. By leveraging factors like location, square footage, and market conditions, the goal is to provide valuable insights that can guide investment decisions and market understanding. Techniques include data scraping, cleaning, and visualization.
+<h3>
+  <strong>🏡 Project Overview</strong>
+</h3>
+
+<p align="center">
+  <strong>This project analyzes historical real estate pricing data to forecast future trends. By leveraging factors like location, square footage, and market conditions, the goal is to provide valuable insights that can guide investment decisions and market understanding. Techniques include data scraping, cleaning, and visualization.</strong>
+</p>
+
 ---
 ## 📑 **Table of Contents**  
 1. [🏘️ Introduction](#introduction)  
@@ -38,7 +49,7 @@ Data was collected via web scraping from platforms such as:
 - Removing outliers using IQR or z-scores.  
 - Normalizing numerical features for consistency.
 ### 3️⃣ **Data Visualization**  
-- **Python**: Visualized data with `Matplotlib` and `Seaborn` (scatter plots, bar charts).  
+- **Python**: Visualized data with `Matplotlib` and `Seaborn` to detect outliers.  
 - **Power BI**: Developed an interactive dashboard to explore:  
   - Price trends by region and property type  
   - Impact of amenities on property prices  
@@ -55,18 +66,15 @@ Data was collected via web scraping from platforms such as:
 To explore the data interactively, open the Power BI dashboard file (.pbix).
 ### **Dashboard Previews**  
 **Page 1**  
-![Dashboard Preview](https://github.com/AshuSingh96/Real_Estate_Price_Analysis/blob/main/Screenshot%202024-12-23%20093817.png)
+![Dashboard Preview](https://drive.google.com/uc?export=download&id=1d3WfI2FJqWIvMsd48cbz4NrHiPCAAtxz)
 
 **Page 2**  
-![Dashboard Preview](https://github.com/AshuSingh96/Real_Estate_Price_Analysis/blob/main/Screenshot%202024-12-23%20093652.png)
+![Dashboard Preview](https://drive.google.com/uc?export=download&id=1329CK7y4pVvHzCtWhO6GExsNabVbVlZ0)
 
 **Page 3**  
-![Dashboard Preview](https://github.com/AshuSingh96/Real_Estate_Price_Analysis/blob/main/Screenshot%202024-12-23%20093730.png)
+![Dashboard Preview](https://drive.google.com/uc?export=download&id=1k95D2SyacnhBWGvwDJrxYnAwtAlJ3c8c)
 
 ---
-
-## **Team Logo**
-<img src = "https://github.com/AshuSingh96/Real_Estate_Price_Analysis/blob/main/project_logo.jpg" alt="Team Logo"  width="150"/>)
 
 ## 📧 Contact  
 For questions or contributions, feel free to reach out to the team:  
@@ -76,17 +84,17 @@ For questions or contributions, feel free to reach out to the team:
 - Shivam Mahajan  
 
 ### **Emails**:  
-- [Ashish's Email](mailto:ashish@example.com)  
+- [Ashish's Email](mailto:ashusinghdabas@gmail.com)  
 - [Krishna's Email](mailto:krishnaintoit@gmail.com)  
 - [Shivam's Email](mailto:shivam@example.com)
  
 
 ### **GitHub Profiles**:  
-- [Ashish's GitHub](https://github.com/ashish-github)  
+- [Ashish's GitHub](https://github.com/AshuSingh96)  
 - [Krishna's GitHub](https://github.com/krish-na-1010)  
 - [Shivam's GitHub](https://github.com/shivam-github)  
 
 ### **LinkedIn Profiles**:  
-- [Ashish's LinkedIn](https://www.linkedin.com/in/ashish-linkedin)  
+- [Ashish's LinkedIn](https://www.linkedin.com/in/)  
 - [Krishna's LinkedIn](https://www.linkedin.com/in/krushna-chandra-nayak-b18a55176/)  
 - [Shivam's LinkedIn](https://www.linkedin.com/in/shivam-linkedin)
