@@ -55,10 +55,19 @@ Data was collected via web scraping from platforms such as:
 To explore the data interactively, open the Power BI dashboard file (.pbix).
 ### **Dashboard Previews**  
 **Page 1**  
+![Dashboard Preview](https://github.com/AshuSingh96/Real_Estate_Price_Analysis/blob/main/Screenshot%202024-12-23%20093817.png)
 
 **Page 2**  
+![Dashboard Preview](https://github.com/AshuSingh96/Real_Estate_Price_Analysis/blob/main/Screenshot%202024-12-23%20093652.png)
+
+**Page 3**  
+![Dashboard Preview](https://github.com/AshuSingh96/Real_Estate_Price_Analysis/blob/main/Screenshot%202024-12-23%20093730.png)
 
 ---
+
+## **Team Logo**
+<img src="group_logo.jpg" alt="Project Logo" width="150"/>
+
 ## 📧 **Contact**  
 For questions or contributions, feel free to reach out to the team:  
 **Team Members**:  
