@@ -68,21 +68,24 @@ To explore the data interactively, open the Power BI dashboard file (.pbix).
 ## **Team Logo**
 <img src = "https://github.com/AshuSingh96/Real_Estate_Price_Analysis/blob/main/project_logo.jpg" alt="Team Logo"  width="150"/>)
 
-## 📧 **Contact**  
+## 📧 Contact  
 For questions or contributions, feel free to reach out to the team:  
-**Team Members**:  
+### **Team Members**:  
 - Ashish  
 - Krishna  
 - Shivam Mahajan  
-**Emails**:  
-- [ ]  
-- [ ]  
-- [ ]  
-**GitHub Profiles**:  
-- [ ]  
-- [ ]  
-- [ ]  
-**LinkedIn Profiles**:  
-- [ ]  
-- [ ]  
-- [ ] 
+
+### **Emails**:  
+- [Ashish's Email](                   )  
+- [Krishna's Email](krishnaintoit@gmail.com)  
+- [Shivam's Email](mailto:shivam@example.com)  
+
+### **GitHub Profiles**:  
+- [Ashish's GitHub](https://github.com/ashish-github)  
+- [Krishna's GitHub](https://github.com/krish-na-1010)  
+- [Shivam's GitHub](https://github.com/shivam-github)  
+
+### **LinkedIn Profiles**:  
+- [Ashish's LinkedIn](https://www.linkedin.com/in/ashish-linkedin)  
+- [Krishna's LinkedIn](https://www.linkedin.com/in/krushna-chandra-nayak-b18a55176/)  
+- [Shivam's LinkedIn](https://www.linkedin.com/in/shivam-linkedin)
